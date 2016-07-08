@@ -1,0 +1,78 @@
+Score: 0.0 Sentence: Eligible cases consisted of all the newly diagnosed patients with resectable lung cancer who received treatment at the Massachusetts General Hospital Thoracic Surgery Service from November 1992 to December 1996 ( Nelson et al , 1999 )
+Score: 0.0 Sentence: Patients with recurrent disease or nonoperable tumours were excluded
+Score: 0.0 Sentence: Asbestos exposure was defined as having any occupational asbestos exposure (yes/no), assessed as previously described ( Nelson et al , 1999 )
+Score: 0.0 Sentence: Total RNA was isolated using Qiagen RNeasy kit
+Score: 0.0 Sentence: cDNA was synthesised from the RNA using the SuperScript III kit from Invitrogen
+Score: 0.0 Sentence: B-actin cDNA was amplified using primers supplied with the SuperScript III kit
+Score: 0.0 Sentence: Approximately 50?ng of DNA was used as template
+Score: 0.0 Sentence: cDNA was amplified using an annealing temperature of 60?C over 35 cycles
+Score: 0.0 Sentence: PCR product was visualised on an ethidium bromide-stained agarose gel
+Score: 0.0 Sentence: Approximately 50?ng of sodium bisuphfite-modified DNA was used as template
+Score: 0.0 Sentence: Product was amplified using an annealing temperature of 60?C over 38 cycles
+Score: 0.0 Sentence: SAS software was used for statistical analysis
+Score: 0.0 Sentence: There are multiple BMPs with overlapping substrate specificity ( Stott et al , 1998 )
+Score: 0.0 Sentence: Some evidence suggests that Ras inactivates SMAD signalling while other evidence suggests that Ras activates SMAD signalling ( Kretzschmar et al , 1997 ; Yue et al , 1999 )
+Score: 0.0 Sentence: Hence, asbestos may be selecting for pathway inactivation via large-scale genetic changes
+Score: 0.3425271823788684 Sentence: The BMPs transduce their signals directly through the SMAD family of proteins but they also have been reported to interact with the MAPK and Erk pathways
+Score: 0.3425271823788684 Sentence: The primers used are as follows: (M) 5?-GGT TTG TTG GGT AGT CGG G-3? (sense) and GCC CCT CCC CAA ATC G-3? (antisense) and (U) 5?-TTG GGT AGT TGG GTG ATT GTT-3? (sense) and 5?-ACA CCC CTC CCC AAA TCA-3? (antisense)
+Score: 0.3425271823788684 Sentence: Nontreated and Sss I methylase-treated lymphocytes were used as controls
+Score: 0.3425271823788684 Sentence: PCR products were separated by electrophoresis and visualised by ethidium bromide staining
+Score: 0.3425271823788684 Sentence: The balance between antigrowth and progrowth signalling that is imperative for normal cell development and homeostasis is reliant upon multiple feedback signalling pathways
+Score: 0.49827533629737114 Sentence: All patients involved provided written informed consent in accordance with the appropriate institutional review boards
+Score: 0.49827533629737114 Sentence: In addition, pulmonary interstitial fibrosis (a condition associated with asbestos exposure) is associated with activation of the BMP/SMAD signalling pathway ( Matsuse et al , 1996 ; Rosendahl et al , 2002 )
+Score: 0.49827533629737114 Sentence: The BMPs are well recognised to play multiple crucial roles in the development of diverse tissues
+Score: 0.49827533629737114 Sentence: Asbestos exposure has been associated with cytogenetic damage in humans ( Dusinska et al , 2004 )
+Score: 0.8408025186762396 Sentence: Tumours were snap-frozen in liquid nitrogen and stored at ?80?C until genomic preparation
+Score: 0.8408025186762396 Sentence: Lymphoblastic WTK1 and HT cells, small-cell carcinoma Shp77 cells, and non-small-cell carcinoma H322M and A549 cells were maintained in RPMI-1640 medium supplemented with 10% fetal calf serum
+Score: 0.8408025186762396 Sentence: Prostate carcinoma DU145 cells and lung fibroblast IMR90 cells were maintained in minimum essential media (Eagle's) supplemented with 10% fetal calf serum
+Score: 0.8408025186762396 Sentence: WTK1 cells (2 ? 105) in 10?ml media were treated with 1? ? l 5-aza-deoxycytadine in PBS or PBS alone for 3 days and then harvested
+Score: 0.8408025186762396 Sentence: Wilcoxon rank sum test and Fisher's exact test (or ? 2 test) were used for continuous and categorical variables in univariate analysis, respectively
+Score: 0.8408025186762396 Sentence: Although the exact relationship between BMPs and Ras in signalling are unclear, our data are consistent with the mounting evidence that the relationship is important in solid tumours
+Score: 0.8408025186762396 Sentence: This will more precisely define the aetiologic effects of carcinogens (such as asbestos), delineate the interlocking pathways that are dysregulated in solid tumours, and potentially open avenues for prevention and treatment of these often-fatal cancers.
+Score: 1.7554273546334964 Sentence: Reverse transcription PCR (RT?PCR) amplification of the BMP6 cDNA was performed using primers designed with Primer3
+Score: 2.097954537012365 Sentence: The BMP6 primers used are as follows: 5?-ACA GCA TAA CAT GGG GCT TC-3? (sense) and 5?-CTC GGG GTT CAT AAG GTG AA-3?
+Score: 2.2537026909308677 Sentence: BMP6 mRNA was absent in WTK1 normal human lymphoblastoid cells
+Score: 2.892486264168967 Sentence: Demographic and epidemiologic data, including all of the data on tobacco use and occupational asbestos exposure, were obtained from a self-administered questionnaire completed by patients and subsequently reviewed by a single reviewer during the hospitalisation for thoracic surgery
+Score: 2.892486264168967 Sentence: Increasing evidence shows that there is a crosstalk between TGF ? /BMP antigrowth signalling and Ras/MAP-K progrowth signalling, and it is likely that the interaction of these pathways is cell type and tissue specific
+Score: 3.04823441808747 Sentence: They are also believed to play a role in the genesis of many tumour types, with their inactivation allowing for dysregulated cellular proliferation
+Score: 3.3367785439540656 Sentence: However, we identified an inverse relationship between asbestos exposure and BMP methylation
+Score: 3.3907616004663383 Sentence: Bone morphogenetic proteins (BMPs) are an integral component of the TGF ? superfamily, responsible for regulation of cell proliferation, differentiation, migration and programmed cell death in a variety of cell types
+Score: 3.3907616004663383 Sentence: Direct experimental investigation of this interaction in human cells and a description of the effects of different carcinogens in different tissues upon the disruption of this signalling are clearly indicated
+Score: 3.4925266978725684 Sentence: Inactivation of the BMP pathway genes has been implicated as important in several cancers
+Score: 3.4925266978725684 Sentence: If asbestos were associated with induction of SMAD4 inactivation in lung cancer, one would expect the inverse association with BMP silencing that we have observed
+Score: 4.3053864364235945 Sentence: Following treatment with 5-aza-deoxycytadine, a DNA methyltransferase inhibitor, transcription was reactivated, demonstrating that the loss of transcription of BMP6 is due to epigenetic inactivation ( Figure 1B )
+Score: 5.092205898587562 Sentence: There were 155 cases with fresh tumour DNA available to be tested for BMP3b and BMP6 methylation
+Score: 5.247954052506065 Sentence: In an effort to determine whether transcription of the BMP6 gene is inhibited by promoter methylation, we first examined the transcriptional status of BMP6 in cell lines using RT?PCR ( Figure 1A )
+Score: 5.590481234884933 Sentence: Recent work has shown that BMP3b is epigenetically inactivated in cancer and suggests that BMP6 can be epigenetically inactivated
+Score: 5.590481234884933 Sentence: We investigated whether BMP6 is epigenetically inactivated in cell lines and whether BMP3b and BMP6 are epigenetically inactivated in non-small-cell lung cancer (NSCLC)
+Score: 6.097020699914577 Sentence: We next investigated the relationship between BMP epigenetic inactivation and k-ras mutation
+Score: 6.311737700555403 Sentence: We previously have reported the k-ras mutation status of these cases ( Nelson et al , 1999 )
+Score: 6.385012962041535 Sentence: The current work suggests that the Ras and BMP pathways are part of a complex network of inter-related and interacting signalling proteins where multiple factors, including carcinogen exposure, determine the precise character of somatic genes inactivated in this particular tumour, NSCLC
+Score: 6.486778059447765 Sentence: In the case of BMP inactivation, there was no apparent association of methylation silencing with tobacco exposure
+Score: 6.810013036852775 Sentence: k-ras mutation has previously been associated with asbestos exposure in these patients ( Nelson et al , 1999 )
+Score: 6.810013036852775 Sentence: Further, inhibitory SMADs have been shown to be upregulated in coordination with k-ras mutation in epithelial cancer ( Liu et al , 2003 )
+Score: 7.74393007778389 Sentence: We found that 52% (46/88) of the cases with BMP3b methylation were also positive for BMP6 methylation; 31% (21/67) of cases without BMP3b methylation were positive for BMP6 methylation
+Score: 8.140440316675031 Sentence: Since both BMP3b and BMP6 signal in the same pathways, we tested whether there was a relationship between inactivation of the two genes
+Score: 9.091272061489773 Sentence: We also studied the relationship between BMP methylation and k-ras mutation
+Score: 9.359972118642872 Sentence: k-ras mutation has been described as a relatively early event in cancer ( Nelson et al , 1999 ) that constitutively activates the protein leading to active growth signalling
+Score: 9.692711819172587 Sentence: The finding that asbestos exposure is associated with a significantly different pattern of signalling dysregulation in NSCLC supports the notion that clonal selection has important nodal points that are influenced by the pattern of carcinogen exposure
+Score: 10.14679158080684 Sentence: Multivariate logistic regression was conducted to estimate the relationship between methylation of BMPs, k-ras mutation and covariates that were statistically significant in univariate analysis and that were important biologically
+Score: 10.479531281336554 Sentence: Hence, these data suggest that concurrent inactivation of the BMP and activation of the Ras signalling pathways are important in lung carcinogenesis
+Score: 10.99715928994894 Sentence: Two sets of primers specific to the BMP6 promoter region were designed using Primer3 to amplify bisulphite-modified DNA; one specific for DNA methylated (M) at the promoter region and the other specific for unmethylated (U) DNA
+Score: 10.99715928994894 Sentence: Using primers designed specifically to differentiate between methylated and nonmethylated DNA at the BMP6 gene promoter, we demonstrated that the WTK1 cells are methylated at the BMP6 gene promoter ( Figure 1C )
+Score: 11.040892467790615 Sentence: The PCR mixture contained 10 ? PCR buffer, dNTPs (200? ? M of each), primers (1? ? M of each) and 0.25? ? l TaqGold
+Score: 11.040892467790615 Sentence: The PCR mixture contained 10 ? PCR buffer, dNTPs (200? ? M of each), primers (1? ? M of each) and 0.25? ? l TaqGold
+Score: 11.061416416764096 Sentence: Those with BMP6 methylation were more likely to have k-ras mutation, but this was not statistically significant
+Score: 12.975507306614379 Sentence: There was no statistically significant relationship between BMP methylation and tobacco exposure ( Table 2 )
+Score: 13.298742284019388 Sentence: Therefore, we examined the relationship between tobacco use, asbestos exposure and k-ras mutation, and epigenetic silencing of the BMPs ( Table 2 )
+Score: 14.533419165663183 Sentence: For example, SMAD4, the effector protein in the BMP pathway, has been identified as mutated and deleted in lung cancer ( Nagatake et al , 1996 ; An et al , 2002 )
+Score: 14.784917717760148 Sentence: Our data, showing that epigenetic inactivation of BMP3b (at a frequency similar to that previously reported ( Dai et al , 2004 )) and BMP6 tend to occur together in lung cancer, suggests that in NSCLC multiple BMPs may need to be silenced in order to abrogate their antigrowth signalling
+Score: 15.229209997545247 Sentence: We evaluated BMP3b and BMP6 gene promoter methylation status in 155 NSCLC cases
+Score: 15.447205336708297 Sentence: Our data show that the BMP pathway, which is antiproliferative, is selected for inactivation preferentially in k-ras mutant tumours in NSCLC, likely as a direct means of potentiating progrowth signalling
+Score: 17.039645069611606 Sentence: In a consecutive case series, we found that 57% (88 out of 155) and 43% (67 out of 155) of NSCLCs were methylated at the BMP3b and BMP6 gene promoters, respectively
+Score: 18.879436037055168 Sentence: Here, we demonstrate that the BMP3b and BMP6 genes are common targets of epigenetic inactivation in NSCLC, and that they are significantly more likely to be concurrently inactivated ( P =0.009)
+Score: 21.873687398630366 Sentence: This statistically significant association between concurrent methylation of BMP3b and BMP6 ( P =0.009) indicates that the epigenetic silencing of these genes does not occur independently in lung cancer
+Score: 25.487430128469803 Sentence: A logistic regression analysis, controlling for histology and gender showed that tumours with k-ras mutation are six-fold more likely to have concurrent BMP3/6 silencing (OR=6.0, 95% confidence interval (CI) =2.0?17.9) and asbestos exposure significantly decreased the likelihood of concurrent BMP3/6 methylation (OR=0.2, CI 0.1?0.9; Table 2 )
+Score: 44.42800082796281 Sentence: Furthermore, this coinactivation of BMP3b and BMP6 is significantly associated with mutation of k-ras codon 12 in lung cancer ( P =0.003); those with a k-ras mutation were six times more likely to have concurrent methylation of these BMP loci
+Score: 45.02999244938526 Sentence: However, concurrent methylation of both BMP3b and BMP6 was strongly associated with k-ras mutation ( Table 1 , P <0.003)
+Score: 61.5193449623627 Sentence: In the subset of cases with both k-ras and BMP data, 16% (24/147) were mutated at codon 12 of the k-ras gene and BMP3b methylation was significantly associated with k-ras mutation ( Table 1 , P <0.03)

@@ -1,0 +1,184 @@
+Score: 0.0 Sentence: The mechanisms underlying primary and secondary response and resistance are unknown
+Score: 0.0 Sentence: Subcellular compartmentalizations were assessed as plasmalemmal, cytoplasmic, and/or nuclear
+Score: 0.0 Sentence: Liposomal doxorubicin (Doxil) was initiated, but stopped after tumor progression
+Score: 0.0 Sentence: Therapy continued for another 15 months, followed by progressed disease in the patient's lungs
+Score: 0.0 Sentence: Right panel: Nine months after IGF1R antibody+ mTOR inhibitor (IMCA12+ Temsirolimus) therapy showing continued response
+Score: 0.0 Sentence: His pain improved after one treatment and he had an excellent response
+Score: 0.0 Sentence: Eight months later he developed recurrent pulmonary nodules
+Score: 0.0 Sentence: He received topotecan and cyclophosphamide, and although his tumors responded initially, they eventually progressed
+Score: 0.0 Sentence: Original magnifications x400
+Score: 0.0 Sentence: Original magnifications x400
+Score: 0.0 Sentence: Several Phase I/II clinical trials are currently investigating this potential synergy in advanced malignancies
+Score: 0.0 Sentence: (Clinicaltrials.gov identifiers: NCT00678769; NCT00880282 and NCT01016015)
+Score: 0.0 Sentence: The TSC1/2 complex is also phosphorylated in this fashion
+Score: 0.0 Sentence: Now mTORC1 complex (mTOR + mLST8+Raptor) is activated by GTP-bound Rheb and phosphorylates proteins like S6K
+Score: 0.0 Sentence: EWS-FLI1 suppresses nestin
+Score: 0.0 Sentence: After IGFR treatment alone, response was followed by resistance
+Score: 0.35448093073295833 Sentence: The scope of the studies, current status and clinical trial registration identifiers are as follows: 1
+Score: 0.35448093073295833 Sentence: Sections of original and recurrent tumor were available for analysis
+Score: 0.35448093073295833 Sentence: After six months of follow-up, lung metastases were discovered
+Score: 0.35448093073295833 Sentence: Right panel: Six weeks after IGF1R antibody (R1507) therapy shows regression of tumor
+Score: 0.35448093073295833 Sentence: He had near complete response (18 of 19 nodules improving or disappeared) following 7 cycles
+Score: 0.35448093073295833 Sentence: Middle panel shows FDG PET/CT response after 8 weeks of treatment
+Score: 0.35448093073295833 Sentence: Right panel shows re-emergence of resistance 16 weeks after IGF1R antibody+ mTOR (IMCA12+ Temsirolimus) therapy
+Score: 0.35448093073295833 Sentence: By the mechanism inactivation of TSC2's GAP activity for the small G protein Rheb is initiated
+Score: 1.2679013640790688 Sentence: Attempts to improve clinical outcome through collaborative trials beginning in the early 1970s sought to optimize care through ever more mechanistically-diverse chemotherapies
+Score: 1.2679013640790688 Sentence: Tumor response was determined using Response Evaluation Criteria in Solid Tumors (RECIST) version 3.1 by positron emission tomography/computed tomography (PET/CT) scans or CT scans obtained about every six to eight weeks
+Score: 1.2679013640790688 Sentence: She was then referred to the Phase I clinic at MD Anderson Cancer Center
+Score: 1.2679013640790688 Sentence: However, after four months, one nodule began to grow, and he was removed from study ( Figure 3 )
+Score: 1.2679013640790688 Sentence: Neural differentiation markers to CD56 and synaptophysin were expressed in recurrent tumor in the plasmalemmal and cytoplasmic compartments (not shown)
+Score: 1.5496140476812945 Sentence: Sections of tumor before IGF1R antibody therapy and after IGF1R antibody combined with mTOR inhibitor therapy were available for analysis ( Figure 5 )
+Score: 1.5496140476812945 Sentence: Similarly, an initial response was followed by re-emergence of resistance following treatment with the IGFR-mTOR inhibitor combination
+Score: 1.5496140476812945 Sentence: Study of an IGF1R inhibitor combined with mTOR inhibitor is currently underway
+Score: 1.6223822948120272 Sentence: He then received 55.8 Gy radiation in 31 fractions to the pelvis for local control of the unresectable disease, as well as whole lung radiation therapy for his pulmonary nodules at the end of chemotherapy
+Score: 1.6223822948120272 Sentence: PDK1 and Akt are recruited to the plasma membrane by products of PI3K, PIP2, PIP3 (phosphatidylinositol 3,4,5 trisphosphate and phosphatidylinositol 3,4 bisphosphate)
+Score: 1.660310056607834 Sentence: She tolerated this combination without any major side effects except a decrease in platelet counts
+Score: 1.660310056607834 Sentence: An MRI revealed a large left iliac mass extending into the sacroiliac joint
+Score: 1.660310056607834 Sentence: A PET/CT scan showed activity only in lungs
+Score: 1.660310056607834 Sentence: A thoracoscopic biopsy was done and confirmed Ewing's sarcoma
+Score: 1.660310056607834 Sentence: Although these pathways have often been depicted as linear, clearly there is a complex interplay among signaling elements ( Figure 7 )
+Score: 2.0147909873407923 Sentence: While response rates in Phase II studies have not yet been reported, it is clear that while some responses have been dramatic, they occurred in only a minority of patients
+Score: 2.0147909873407923 Sentence: A CT scan showed enlargement of numerous pulmonary metastatic lesions, the largest measuring 5.9 cm?5.1 cm
+Score: 2.0147909873407923 Sentence: After 20 months of continued treatment a small focus of growing residual disease was found followed by surgical resection
+Score: 2.0147909873407923 Sentence: Three out of four nodules showed a near complete response and one nodule remained stable
+Score: 2.0147909873407923 Sentence: A limited number of sections of metastatic tumor from the following time points were available 1) before IGF1R antibody therapy; and 2) from the resistant recurrence that emerged during IGF1R antibody therapy ( Figure 4 )
+Score: 2.85544317355617 Sentence: At each visit, a history was taken and physical examination performed along with comprehensive metabolic and hematologic panels
+Score: 2.9282114206869028 Sentence: However, after 4 months, a solitary left lung nodule began to grow, and he was taken off study for progressive disease by RECIST
+Score: 2.9282114206869028 Sentence: The expression appeared generalized and uniform in recurrent tumor and, to a lesser degree, in the original (primary) tumor
+Score: 2.9282114206869028 Sentence: This needs to be analyzed retrospectively and validated prospectively in a larger dataset to allow more robust conclusions
+Score: 3.2099241042891284 Sentence: A twenty-four year old Caucasian woman presented with a three-year history of back pain and left lower extremity pain
+Score: 3.282692351419861 Sentence: The methods have been published previously [7] , [9] , [16] , [17] and were performed in a laboratory that is certified under the Clinical Laboratory Improvement Amendments of 1988 (?CLIA?) as qualified to perform high-complexity clinical testing
+Score: 3.282692351419861 Sentence: This leads to a chain of activation of numerous targets by Akt
+Score: 3.4338313454098097 Sentence: Immunohistochemistry Patient 1
+Score: 3.4338313454098097 Sentence: Immunohistochemistry Patient 2
+Score: 3.4338313454098097 Sentence: Unfortunately, the second patient acquired resistance
+Score: 3.5651153879703843 Sentence: Ewing's sarcoma is the second most common malignant bone tumor in children, adolescents and young adults
+Score: 3.5651153879703843 Sentence: The non-responding tumor was biopsied, and Ewing's sarcoma was confirmed
+Score: 3.788312276142768 Sentence: The patient then underwent thoracotomy for removal of tumor, followed by erlotinib, followed by another lung resection
+Score: 3.9195963187033427 Sentence: Left panel shows pre-treatment CT scan of the thorax showing metastatic Ewing's sarcoma in the lung
+Score: 3.9195963187033427 Sentence: Left panel shows pre-treatment CT scan of the thorax showing metastatic Ewing's sarcoma in the lung
+Score: 3.9195963187033427 Sentence: Left panel shows pre-treatment FDG PET/CT scan of the thorax showing metastatic Ewing's sarcoma in the lung
+Score: 4.005922191241119 Sentence: These signals might account for tumor resistance [26] 
+Score: 4.123344537635239 Sentence: A twenty-one year old Caucasian man presented with back pain radiating to the left leg in December 2006
+Score: 4.360403121974077 Sentence: Strategies included increasing duration of treatment or dosage per cycle, decreasing treatment interval (i.e., interval dose compression), or using high-dose myeloablative chemotherapy followed by peripheral blood stem cell transplant [3] 
+Score: 4.360403121974077 Sentence: Similar findings have been reported in the Ewing's family of tumors [16] 
+Score: 4.360403121974077 Sentence: Similarly, combined inhibition of IGF1R and mTOR may circumvent counterproductive rapamycin-induced upregulation of Akt that can occur within 6 hours of treatment [3] , [22] 
+Score: 4.360403121974077 Sentence: Although short-term inhibition of TORC1 drives TORC2 formation and results in Akt activation, long-term TORC1 inhibition abrogates Akt expression through activation of S6K by PKD1 and also blocks TORC2 assembly [23] , [24] 
+Score: 4.983445393091104 Sentence: The patient received postoperative radiation therapy, followed by six cycles of adjuvant chemotherapy with irinotecan
+Score: 5.201055308189455 Sentence: However, survival remains poor for patients with metastatic disease
+Score: 5.201055308189455 Sentence: We have demonstrated resistance/response mechanisms by morphoproteomics in two patients with advanced Ewing's sarcoma
+Score: 5.273823555320188 Sentence: The initial remarkable radiographic responses to IGF1R-antibody therapy was followed by resistance and then response to combined IGF1R plus mTOR inhibitor therapy in both patients, and then resistance to the combination regimen in one patient
+Score: 5.273823555320188 Sentence: Both patients responded after treatment to combined IGF1R and mTOR inhibition
+Score: 5.5555362389224126 Sentence: In some cases, drugs that fail early in the disease trajectory can produce renewed tumor regression later, particularly with rational addition of another drug [8] 
+Score: 5.5555362389224126 Sentence: Patients were assessed for the onset of new symptoms and compliance with the investigational therapy
+Score: 5.5555362389224126 Sentence: Inhibition of IGF1R and/or IGF1R and mTOR has resulted in significant clinical activity in patients with Ewing's sarcoma
+Score: 5.628304486053146 Sentence: Two challenges at the outset are 1) deciding which agents to combine given the heterogeneity of tumors and their various underlying resistance pathways and feedback loops, and 2) how to translate findings from the bench to the bedside or directly from the bedside [6] 
+Score: 5.628304486053146 Sentence: Morphoproteomics (morphology+proteomics) involves immunohistochemical assessment of the activation of signaling pathways in cancer cells, and predicting susceptibility to small-molecule inhibitors, specific chemotherapeutic agents, and possibly, differentiating agents [7] 
+Score: 5.628304486053146 Sentence: The patients in this manuscript have given written informed consent (as outlined in the PLoS consent form) to publication of their clinical details
+Score: 5.628304486053146 Sentence: After initiation of an investigational therapy, patients were evaluated clinically at 3- to 4-week intervals
+Score: 5.991563789738597 Sentence: She was started on etoposide and after five months, her tumors progressed
+Score: 6.346044720471555 Sentence: He was enrolled on the Children's Oncology Group Study AEWS0031 (NCT00006734) and received standard q 3 week regimen consisting of vincristine (2 mg/m2 IV push, on day 1
+Score: 6.420558561526555 Sentence: Biopsy showed Ewing's sarcoma with a t(11;22) translocation
+Score: 6.493326808657287 Sentence: Magnetic resonance imaging (MRI) revealed a sacral mass, which was determined to be Ewing's sarcoma following pathological assessment at MD Anderson
+Score: 6.609260002604575 Sentence: Preclinical studies have shown that mTOR is a bypass pathway for IGF1R targeting
+Score: 6.609260002604575 Sentence: These observations suggest the possibility that the TORC2 pathway has a role in primary and recurrent tumor [17] ( Figures 5 , 6 , and 7 )
+Score: 6.663101922679888 Sentence: Pre-IGF1R treatment (Specimen A) and Post ?IGF1R treatment (Specimen B) p-mTOR,p-AKT,p-STAT3 and nestin probes
+Score: 6.663101922679888 Sentence: Pre-IGF1R treatment (Specimen C) and Post ?IGF1R+ mTOR (Specimen D) p-mTOR,p-AKT,p-STAT3, nestin probes and p-ERK1/2
+Score: 6.663101922679888 Sentence: The neural and endothelial precursor marker, nestin, was weakly expressed in the original (primary) tumor (0?1+)
+Score: 7.2158462955302465 Sentence: A Multiple Ascending Dose Study of R1507 in Patients with Advanced Solid Tumors (now closed and not actively recruiting patients) NCT00400361 (Phase I), 2
+Score: 7.259465153817667 Sentence: Subsequently, he was started on etoposide, but disease continued to progress
+Score: 7.28861454266098 Sentence: Both patients subsequently responded to a combination of an IGF1R inhibitor and a mammalian target of rapamycin (mTOR) inhibitor
+Score: 7.877161366683644 Sentence: Temsirolimus is a ?rapalog? and rapamycin has been shown to downregulate the EWS-FLI1 fusion protein [26] possibly also lessening IR/IGF1R signaling, and therefore providing an additional pathway by which this molecule might be operative in this patient
+Score: 8.042940856338582 Sentence: A Study to Determine the Activity of SCH 717454 in Subjects with Relapsed Osteosarcoma or Ewing's Sarcoma (Study P04720AM3) (now closed and not actively recruiting patients) NCT00617890 (Phase II), 3
+Score: 8.231642297416602 Sentence: This starts a negative feedback loop to modulate auto-activity, through S6K-mediated pathway decrease in the activation of PI3K
+Score: 8.246316625209404 Sentence: IGF1R antibody inhibits IGF1R signaling and rapalogs (Temsirolimus in this case) inhibit mTORC1 short term, and eventually inhibit mTORC 2 with chronic exposure, and also suppresses EWS-FLI1 which drives tumorigenesis in Ewing's sarcoma
+Score: 8.285484217491915 Sentence: The biologic activity of the mTOR inhibitor temsirolimus is further confirmed by the upregulation of nestin seen in the patient's IGFR/mTOR resistant tumor, since temsirolimus down-modulates EWS-FLI1, which would be expected to upregulate nestin [26] , [27] ( Figure 7 )
+Score: 8.319084872340138 Sentence: In addition, p-Akt and S6K are not downregulated by combined IGF1R and mTOR inhibition, perhaps due to Ras/Raf/ERK activation
+Score: 8.323411979287723 Sentence: In both biopsies, only endothelial cells were immunopositive for nestin, a neural precursor/differentiation marker, whereas the tumor cells were immunonegative
+Score: 8.553892398256558 Sentence: Within six weeks, she had a dramatic response, with near complete tumor regression ( Figure 1 , previously described in [12] )
+Score: 8.600797555942364 Sentence: She underwent six cycles of intravenous chemotherapy through central line with vincristine (2 mg intravenous [IV]on day 1), adriamycin (37.5 mg/m2/day IV for 2 days), and ifosfamide (2500 mg/m2 IV for 4 days) with MESNA uroprotection, followed by resection of the tumor, confirmed as being Ewing's sarcoma
+Score: 8.76617069615984 Sentence: Treatment options for patients with refractory or recurrent Ewing's sarcoma are limited
+Score: 8.80907920149896 Sentence: He then presented to the MD Anderson Phase I clinic and was enrolled on the protocol of IMC-A12, IGF1R antibody in combination with Temsirolimus, mTOR inhibitor (NCT00678769)
+Score: 8.847006963294767 Sentence: She was started on another study using a different anti-IGF1R antibody (IMC-A12; Imclone, San Diego CA) [18] in combination with the mTOR inhibitor temsirolimus (NCT00678769)
+Score: 9.120651626892798 Sentence: For metastatic Ewing's sarcoma at diagnosis, the risk of refractory or recurrent disease approaches 80% after initial therapy and the outcome of recurrent disease is poor with event-free survival less than 20% [3] 
+Score: 9.132280570110197 Sentence: The time interval between the first and the second IGF1R based therapy was 1 month for patient 1 and 4 months for patient 2
+Score: 9.13932254107474 Sentence: No toxicity was noted
+Score: 9.13932254107474 Sentence: The patient's last imaging scans showed no disease
+Score: 9.486761500843155 Sentence: Schematic history of patient 1 depicting time line of first biopsy(Biopsy A) and second biopsy (Biopsy B)
+Score: 9.672154439090072 Sentence: The patients in the manuscript were derived from two different Phase I studies and a Phase II study using different IGF1R inhibitors and all the studies have been registered in www.clinicaltrials.gov 
+Score: 9.94579427409975 Sentence: Of interest, in addition to nestin the patient's recurrent tumor showed a propensity toward differentiation along neural lines, as demonstrated by increased expression of other neural markers such as CD56 or neural cell adhesion molecule and synaptophysin
+Score: 10.034072060238909 Sentence: IMC-A12 in Combination with Temsirolimus (CCI-779) in Patients With Advanced Cancers (Study is closed to Ewing's Sarcoma cohort) NCT00678769 (Phase I)
+Score: 10.219823466389602 Sentence: After this event there is phosphorylation and activation of Akt by mTORC2 complex (mTOR + mLST8+ Rictor)
+Score: 10.388552990971867 Sentence: Next generaration whole exome sequencing of patients with Ewing's sarcoma responding to IGF1R based treatment and reverse phase protein array analysis in patients acquiring resistance is underway and will help to decipher unidentified mechanisms and perhaps unravel novel mutations and genetic aberrations in the response and resistance pathways
+Score: 10.688936588756034 Sentence: He completed therapy with no evidence of disease
+Score: 10.839495784403837 Sentence: Schematic history of patient 2 depicting time line of first biopsy (Biopsy C) and second biopsy (Biopsy D)
+Score: 11.440186122489198 Sentence: In December 2006, the patient was started on a Phase I study of R1507 (Roche, Nutley NJ), a fully human IgG1 type monoclonal antibody against IGF1R
+Score: 11.75527297134975 Sentence: Concurrently run positive and negative IHC controls reacted appropriately
+Score: 12.107397148482907 Sentence: In patient 2, constitutive activation of Akt and mTOR is similar to that in patient 1's recurrent tumor, and is seen in baseline pre-treatment tumor and in tumor that was resistant to IGF1R and mTOR combination treatment
+Score: 12.27160853290709 Sentence: Therefore, treatment with an IGF1R inhibitor may counteract EWS-FLI1-mediated upregulation of the insulin receptor (IR) /IGF1R machinery
+Score: 12.573153886484551 Sentence: Patient consent and MD Anderson IRB approval were obtained for morphoproteomic analysis as outlined above
+Score: 12.635319239437536 Sentence: One patient had a continued response and has remained on IGF1R-based therapy for more than 50 months, the last 14 months of which has been an IGF1R inhibitor combined with an mTOR inhibitor
+Score: 12.915233515173206 Sentence: Constitutive mTOR pathway activation was noted in the pre-anti-IGF1R specimen ( Figure 4 ) and reflected p-mTOR (Ser2448) expression in both cytoplasmic plasmalemmal and nuclear compartments
+Score: 13.02317433542882 Sentence: Early phase clinical trials frequently combine targeted agents to optimize benefit
+Score: 13.431317326389525 Sentence: The patient then received temozolomide and irinotecan, without response, followed by enrollment on an IGF1R inhibitor study using SCH 717454 (Schering, Kenilworth NJ), an IGF1R antibody (19D12) [4] , [19] 
+Score: 14.004686836645657 Sentence: Notably, p-STAT3(Tyr705) was detected in a very minor component of the tumoral nuclei in the initial biopsy and was variably expressed in the post-anti- IGF1R treatment biopsy, ranging up to approximately one-half of the tumor cells in one microanatomical region
+Score: 14.372015027773484 Sentence: (9,000 mg/m2 max total dose) and etoposide (100 mg/m2/day IV infusion over 1 to 2 hours, days 1?5 of each cycle (500 mg/m2 total dose)
+Score: 14.61071614490592 Sentence: Fluorescent in situ hybridrization showed a positive result for a clone with an EWSR1 gene rearrangement
+Score: 14.786883874741749 Sentence: Even so, phase I studies with different IGF1R antibodies demonstrated remarkable responses in a subset of Ewing's sarcoma patients [11] , [12] , [13] 
+Score: 15.082397607199873 Sentence: Currently available IGF1R antibodies recognize different epitopes of the receptor and, therefore, may exert different biological/clinical responses [14] , [15] 
+Score: 15.514911369840945 Sentence: CT of the thorax in patient 1 with Ewing's sarcoma response to IGF1R antibody (IMCA12)+ mTOR (Temsirolimus) combination
+Score: 15.955718173111679 Sentence: The mechanism of response to the IGFR and mTOR combination may be similar to that in patient 1, that is, through Akt and mTOR suppression that occurs with chronic temsirolimus exposure [23] , [24] 
+Score: 16.00068790587203 Sentence: Despite using a multimodal approach combining surgery, chemotherapy, and radiation, a therapeutic plateau has been attained with no change in overall survival [1] , [2] , [3] , [4] , [5] 
+Score: 16.09602150344773 Sentence: A greater number of sections were available than for patient 1, permitting more extensive pathway evaluation ( Figure 5 )
+Score: 16.115676093323827 Sentence: Morphoproteomics can potentially identify targeted combinations of drugs appropriate for prospective testing [9] 
+Score: 16.384237433707895 Sentence: Patient outcomes with chemotherapy and targeted therapy are summarized below
+Score: 16.420443709926182 Sentence: Insulin Receptor substrate 1 (IRS1) and Phosphatidylinositol 3-kinases (PI3K) are activated by Insulin and/or IGF1 signaling at the insulin receptor level
+Score: 16.68050037849463 Sentence: Treatment and consent on investigational trials, and data collection and morphoproteomic analysis were performed in accordance with the guidelines of the University of Texas MD Anderson Cancer Center Institutional Review Board (IRB)
+Score: 16.852562753115922 Sentence: The morphoproteomic analysis reported in this manuscript was not a part of the original Phase 1 trial protocols, and were carried out as a separate subsequent analysis
+Score: 16.867645653401627 Sentence: FDG PET /CT in patient 2 with Ewing's sarcoma response to IMCA12+Temsirolimus combination and then emergence of resistance
+Score: 17.056347094479648 Sentence: In patient 2, upregulation of mTOR was seen in the primary tumor, perhaps explaining the initial response to the IGF1R and mTOR inhibitor combination, while the resistant tumor that emerged showed activation of the ERK pathway as well
+Score: 17.145677318154128 Sentence: On presentation he had a large left iliac primary lesion and bilateral pulmonary nodules and no evidence of bone marrow disease
+Score: 17.220558478903833 Sentence: The signal transducer and activator of transcription (STAT)3 pathway was constitutively activated in both the primary and recurrent tumor, as evidenced by expression with nuclear translocation of p-STAT3 (Tyr 705) in the vast majority of tumor cells
+Score: 17.31080921027216 Sentence: Our observations suggest that rational combinations of targeted therapy, which modulate multiple relevant pathways, may be useful in overcoming resistance in patients with Ewing's sarcoma
+Score: 17.652138797786964 Sentence: Subsequently, the patient was treated with high-dose ifosfamide and also received proton radiation therapy to the lung nodule
+Score: 18.04454749031573 Sentence: The patient was, however, treated successfully with termsirolimus, a TORC1 inhibitor
+Score: 18.1379037710805 Sentence: Herein, we report our experience with two index cases of Ewing's sarcoma, with an initial positive response to an IGF1R inhibitor followed by resistance
+Score: 18.343249893299102 Sentence: Post-IGF1R+ mTOR inhibitor therapy specimen from patient 2 in higher magnification (600X) showing brown chromogenic signal in nestin with predominantly cytoplasmic staining in the top panel and mTOR (Ser 2448) with predominant nulclear staining in the bottom panel
+Score: 18.631513231816484 Sentence: Two patients with Ewing's sarcoma who responded, but then progressed after IGF1R inhibitor therapy alone showed consistently high mTORC2 expression in their tumors
+Score: 18.941969878036684 Sentence: She was treated on three sequential Phase I trials, with continued disease progression
+Score: 19.17339460131365 Sentence: There is no effective therapy for advanced Ewing's sarcoma and patients with advanced metastatic disease succumb to their disease
+Score: 19.520833561082064 Sentence: CT of the thorax in patient 1 with Ewing's sarcoma response to IGF1R antibody (R1507) alone [12] 
+Score: 20.290810570381346 Sentence: maximum dose 2 mg.), doxorubicin(75 mg/m2/course continuous IV infusion over 48 hours, beginning day 1), cyclophosphamide (1200 mg/m2 IV infusion over 1 hour with MESNA uroprotection, on day 1), alternating with ifosfamide (1800 mg/m2/day IV infusion over 1 hour, Days 1?5 of each cycle
+Score: 20.4263659011673 Sentence: Activated S6K can down-modulate Akt by acting against insulin receptor substrate 1 proteins and P13K [23] 
+Score: 20.875924598242552 Sentence: We reviewed the medical records of two patients with Ewing's sarcoma who were seen in the Phase I Clinical Trials Program at The University of Texas MD Anderson Cancer Center and initially treated with an IGF1R inhibitor alone, then subsequently with an IGF1R and mTOR inhibitor combination
+Score: 20.93608022646173 Sentence: Our pilot results suggests that morphoproteomic assessment of signaling pathway activation in Ewing's sarcoma merits further investigation as a guide to understanding response and resistance signatures
+Score: 20.93608022646173 Sentence: Our pilot results suggests that morphoproteomic assessment of signaling pathway activation in Ewing's sarcoma merits further investigation as a guide to understanding response and resistance signatures.
+Score: 22.14382596232162 Sentence: This pilot study assessed two patients with advanced Ewing's sarcoma treated with IGF1R antibody alone followed by combined IGF1R inhibitor plus mammalian target of rapamycin (mTOR) inhibitor treatment once resistance to single-agent IGF1R inhibitor developed
+Score: 22.536550769807363 Sentence: After 14 months of treatment, both PET/CT and chest CT scans show no disease (complete response) ( Figure 2 ) and she continues on treatment
+Score: 22.689070043013846 Sentence: There was also cytoplasmic plasmalemmal expression of p-Akt (Ser473), but with almost no nuclear expression, which was more consistent with P13K/Akt/mTORC1 signaling pathway activity
+Score: 22.92912389121554 Sentence: In this context, our finding of upregulated p-Akt (Ser473) and p-mTOR (Ser2448) in patient 1's resistant tumor that emerged following IGF1R antibody therapy is consistent with a resistance mechanism that could be related to upregulation of TORC2
+Score: 25.274253997431305 Sentence: However, in the recurrent tumor, nestin was expressed in approximately 25% to 50% of tumor cells (up to 3+ cytoplasmic plasmalemmal expression) ( Figures 5 and 6 )
+Score: 25.772129942359758 Sentence: In patient 1, upregulation of p-Akt and p-mTOR in the tumor that relapsed after initial response to IGF1R antibody might explain the resistance that developed, and the subsequent response to combined IGF1R plus mTOR inhibitor therapy
+Score: 26.857468699960823 Sentence: Chromogenic signals were evaluated by brightfield microscopy and semi-quantified with regard to percentage of cells stained (0?100%) and the staining intensity (0: non-staining, 1+: weak staining, 2 +: moderate staining, and 3 +: strong staining)
+Score: 27.3959936850932 Sentence: We performed morphoproteomic profiling to elucidate the functional signaling pathways in both patients
+Score: 27.5561758927202 Sentence: Morphoproteomic analysis revealed that the mTOR pathway was activated in these two patients with advanced Ewing's sarcoma who showed response to combined IGF1R and mTOR inhibition, and the ERK pathway in the patient in whom resistance to this combination emerged
+Score: 28.115610337368675 Sentence: The tumor cells were positive for CD99 and negative for chromogranin A, keratin and desmin
+Score: 31.31559000379654 Sentence: We performed morphoproteomic profiling to better understand response/resistance mechanisms of Ewing's sarcoma to IGF1R inhibitor-based therapy
+Score: 33.67046484942228 Sentence: Immunohistochemical probes were applied to detect p-mTOR (Ser2448), p-Akt (Ser473), p-ERK1/2 (Thr202/Tyr204), nestin, and p-STAT3 (Tyr 705) in the original and recurrent tumor
+Score: 35.387295798013334 Sentence: In contrast, there was apparent upregulation of these analytes in the specimen from the IGF1R-resistant tumor that emerged during IGF1R antibody therapy, with predominant nuclear expression of both p-mTOR (Ser2448) and p-Akt (Ser473), consistent with mTORC2 pathway activation [17] , [20] , [21] 
+Score: 37.32557312876664 Sentence: EWS-FLI1 fusion protein, the hallmark of Ewing's sarcoma, downregulates insulin-like growth factor binding protein 3, IGFBP3, and upregulates IGF-1 expression resulting in enhanced IGF1R [25] 
+Score: 40.68500438061433 Sentence: The pre-treatment similarities and differences between patient 1 and 2 are shown in Table 1 
+Score: 40.84593061441235 Sentence: There was constitutive activation of mTOR in the patient's original and recurrent tumor, evidenced by phosphorylation (p) of mTOR in a putative site of activation, Ser2448, with a predominantly nuclear distribution most likely indicating an mTORC2 complex (rictor + p-mTOR), [20] and correlative activation of Akt on Ser473 consistent with the presence of both mTORC2 and dominant expression of p-Akt (Ser473) in tumoral nuclei [17] , [20] , [21] 
+Score: 41.69146102755522 Sentence: In addition, IHC probes in specimens from the two patients were applied to detect the expressions of CD99 (DakoCytomation, Carpinteria, CA) and nestin (abcam, Cambridge, MA)
+Score: 43.327366498310454 Sentence: **Percentage of positive tumoral nuclei
+Score: 44.22792140564623 Sentence: Pre-treatment digital images (left hand frames, Specimen A) reveal: primarily cytoplasmic and plasmalemmal expression of p-mTOR (Ser 2448) and p-Akt (Ser 473) consistent with preponderance of mTORC1 pathway; occasional p-STAT3 (Tyr 705) in tumoral nuclei (up to ?20%) and absence of cytoplasmic nestin
+Score: 51.69225527549128 Sentence: Constitutive activation of the Ras/Raf /ERK pathway is noted in both specimens by p-ERK 1/2 (Thr202/Tyr204) expression, showing nuclear translocation
+Score: 54.53951455390694 Sentence: Pre-treatment digital images (left hand frames, Specimen C) reveal: primarily cytoplasmic but with some nuclear expression of both p-mTOR (Ser 2448) and p-Akt (Ser 473) indicative of both mTORC1 and mTORC2 pathways; nuclear p-STAT3 (Tyr 705) in the majority of tumoral nuclei and faint but detectable constitutive nestin expression
+Score: 55.69817746673239 Sentence: Constitutive activation of the Ras/Raf /ERK pathway is noted in both specimens by p-ERK 1/2 (Thr202/Tyr204) expression, showing nuclear translocation [9] 
+Score: 59.488464499903685 Sentence: Post-treatment digital images (right hand frames, Specimen D) reveal: preponderance of nuclear p-mTOR (Ser 2448) and p-Akt (Ser 473) consistent with upregulation of the mTORC2 pathway; persistence of p-STAT3 (Tyr 705)expression in tumoral nuclei and an increase in cytoplasmic nestin expression, the latter consistent with temsirolimus therapy
+Score: 59.828068068911975 Sentence: However, other pathways are operative in this patient's tumor, including Ras/Raf /ERK and STAT3 ( Figure 5 ).The relative overexpression of CD99 in this patient is consistent with activation of this pathway (not shown)
+Score: 60.60738220349011 Sentence: Insulin-like growth factor 1 receptor (IGF1R)-targeted therapies have shown early promise [10] , with responses in a small number of patients with Ewing's sarcoma [4] , [11] , [12] , [13] 
+Score: 64.79161759562837 Sentence: Insulin-like growth factor 1 receptor (IGF1R) targeted therapies have resulted in responses in a small number of patients with advanced metastatic Ewing's sarcoma
+Score: 67.02314115869635 Sentence: Post-treatment digital images (right hand frames, Specimen B) reveal: primarily nuclear p-mTOR (Ser 2448) and p-Akt (Ser 473) consistent with mTORC2 pathway preponderance; moderate increase in number of tumor cells with nuclear p-STAT3 (Tyr 705) (from 0 up to ?50% in some regions) and absence of cytoplasmic nestin (endothelial cells serve as internal control)
+Score: 78.1267037052554 Sentence: Immunohistochemical (IHC) probes were used to detect the following phosphorylated (p) antigens as published previously [16] : p-mTOR (Ser 2448); p-Akt (Ser 473);and p-extracellular signal-regulated kinase (ERK) 1/2 (Thr 202/Tyr204) [Cell Signaling Technology, Beverly, MA]; and p-signal transducer and activator of transcription (STAT)3 (Tyr 705) [Santa Cruz Biotechnology, Santa Cruz, CA]
+Score: 203.70989225799022 Sentence: *Maximum scoring intensity graded on a scale of 0 (no signal) to 3+ (high intensity)

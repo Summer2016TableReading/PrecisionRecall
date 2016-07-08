@@ -1,0 +1,4413 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:inherit;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-right:0in;
+	margin-left:0in;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-right:0in;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-right:0in;
+	margin-left:0in;
+	font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ui-button, li.ui-button, div.ui-button
+	{mso-style-name:ui-button;
+	margin-right:1.2pt;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-spinner, li.ui-spinner, div.ui-spinner
+	{mso-style-name:ui-spinner;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-spinner-input, li.ui-spinner-input, div.ui-spinner-input
+	{mso-style-name:ui-spinner-input;
+	margin-top:2.4pt;
+	margin-right:16.5pt;
+	margin-bottom:2.4pt;
+	margin-left:4.8pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-helper-hidden-accessible, li.ui-helper-hidden-accessible, div.ui-helper-hidden-accessible
+	{mso-style-name:ui-helper-hidden-accessible;
+	margin-top:0in;
+	margin-right:-.75pt;
+	margin-bottom:0in;
+	margin-left:-.75pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-buttonset, li.ui-buttonset, div.ui-buttonset
+	{mso-style-name:ui-buttonset;
+	margin-right:5.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker, li.ui-datepicker, div.ui-datepicker
+	{mso-style-name:ui-datepicker;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-datepicker-row-break, li.ui-datepicker-row-break, div.ui-datepicker-row-break
+	{mso-style-name:ui-datepicker-row-break;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-rtl, li.ui-datepicker-rtl, div.ui-datepicker-rtl
+	{mso-style-name:ui-datepicker-rtl;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	direction:rtl;
+	unicode-bidi:embed;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-menu, li.ui-menu, div.ui-menu
+	{mso-style-name:ui-menu;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar, li.ui-progressbar, div.ui-progressbar
+	{mso-style-name:ui-progressbar;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-handle, li.ui-resizable-handle, div.ui-resizable-handle
+	{mso-style-name:ui-resizable-handle;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-n, li.ui-resizable-n, div.ui-resizable-n
+	{mso-style-name:ui-resizable-n;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-s, li.ui-resizable-s, div.ui-resizable-s
+	{mso-style-name:ui-resizable-s;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-e, li.ui-resizable-e, div.ui-resizable-e
+	{mso-style-name:ui-resizable-e;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-w, li.ui-resizable-w, div.ui-resizable-w
+	{mso-style-name:ui-resizable-w;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-se, li.ui-resizable-se, div.ui-resizable-se
+	{mso-style-name:ui-resizable-se;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-sw, li.ui-resizable-sw, div.ui-resizable-sw
+	{mso-style-name:ui-resizable-sw;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-nw, li.ui-resizable-nw, div.ui-resizable-nw
+	{mso-style-name:ui-resizable-nw;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-ne, li.ui-resizable-ne, div.ui-resizable-ne
+	{mso-style-name:ui-resizable-ne;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-selectable-helper, li.ui-selectable-helper, div.ui-selectable-helper
+	{mso-style-name:ui-selectable-helper;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-selectmenu-menu, li.ui-selectmenu-menu, div.ui-selectmenu-menu
+	{mso-style-name:ui-selectmenu-menu;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-selectmenu-open, li.ui-selectmenu-open, div.ui-selectmenu-open
+	{mso-style-name:ui-selectmenu-open;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-selectmenu-button, li.ui-selectmenu-button, div.ui-selectmenu-button
+	{mso-style-name:ui-selectmenu-button;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider, li.ui-slider, div.ui-slider
+	{mso-style-name:ui-slider;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-horizontal, li.ui-slider-horizontal, div.ui-slider-horizontal
+	{mso-style-name:ui-slider-horizontal;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-vertical, li.ui-slider-vertical, div.ui-slider-vertical
+	{mso-style-name:ui-slider-vertical;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-spinner-button, li.ui-spinner-button, div.ui-spinner-button
+	{mso-style-name:ui-spinner-button;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:6.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tooltip, li.ui-tooltip, div.ui-tooltip
+	{mso-style-name:ui-tooltip;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-default, li.ui-state-default, div.ui-state-default
+	{mso-style-name:ui-state-default;
+	margin-right:0in;
+	margin-left:0in;
+	background:#E6E6E6;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#555555;}
+p.ui-state-focus, li.ui-state-focus, div.ui-state-focus
+	{mso-style-name:ui-state-focus;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-hover, li.ui-state-hover, div.ui-state-hover
+	{mso-style-name:ui-state-hover;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-active, li.ui-state-active, div.ui-state-active
+	{mso-style-name:ui-state-active;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-highlight, li.ui-state-highlight, div.ui-state-highlight
+	{mso-style-name:ui-state-highlight;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FBF9EE;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#363636;}
+p.ui-state-error, li.ui-state-error, div.ui-state-error
+	{mso-style-name:ui-state-error;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FEF1EC;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-state-error-text, li.ui-state-error-text, div.ui-state-error-text
+	{mso-style-name:ui-state-error-text;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-priority-primary, li.ui-priority-primary, div.ui-priority-primary
+	{mso-style-name:ui-priority-primary;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ui-priority-secondary, li.ui-priority-secondary, div.ui-priority-secondary
+	{mso-style-name:ui-priority-secondary;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-disabled, li.ui-state-disabled, div.ui-state-disabled
+	{mso-style-name:ui-state-disabled;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-helper-hidden, li.ui-helper-hidden, div.ui-helper-hidden
+	{mso-style-name:ui-helper-hidden;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-helper-reset, li.ui-helper-reset, div.ui-helper-reset
+	{mso-style-name:ui-helper-reset;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-helper-zfix, li.ui-helper-zfix, div.ui-helper-zfix
+	{mso-style-name:ui-helper-zfix;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-widget-overlay, li.ui-widget-overlay, div.ui-widget-overlay
+	{mso-style-name:ui-widget-overlay;
+	margin-right:0in;
+	margin-left:0in;
+	background:#AAAAAA;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-helper-clearfix, li.ui-helper-clearfix, div.ui-helper-clearfix
+	{mso-style-name:ui-helper-clearfix;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon, li.ui-icon, div.ui-icon
+	{mso-style-name:ui-icon;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-widget-content, li.ui-widget-content, div.ui-widget-content
+	{mso-style-name:ui-widget-content;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#222222;}
+p.ui-widget-header, li.ui-widget-header, div.ui-widget-header
+	{mso-style-name:ui-widget-header;
+	margin-right:0in;
+	margin-left:0in;
+	background:#CCCCCC;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#222222;
+	font-weight:bold;}
+p.ui-widget-shadow, li.ui-widget-shadow, div.ui-widget-shadow
+	{mso-style-name:ui-widget-shadow;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:-6.0pt;
+	margin-bottom:.0001pt;
+	background:#AAAAAA;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-widget, li.ui-widget, div.ui-widget
+	{mso-style-name:ui-widget;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.ui-tabs, li.ui-tabs, div.ui-tabs
+	{mso-style-name:ui-tabs;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog, li.ui-dialog, div.ui-dialog
+	{mso-style-name:ui-dialog;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-titlebar, li.ui-dialog-titlebar, div.ui-dialog-titlebar
+	{mso-style-name:ui-dialog-titlebar;
+	margin-right:0in;
+	margin-left:0in;
+	background:#3E72A6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.ui-ncbiautocomplete-actions, li.ui-ncbiautocomplete-actions, div.ui-ncbiautocomplete-actions
+	{mso-style-name:ui-ncbiautocomplete-actions;
+	margin-top:.75pt;
+	margin-right:-.75pt;
+	margin-bottom:0in;
+	margin-left:-.75pt;
+	margin-bottom:.0001pt;
+	background:#CECECE;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiautocomplete-link-pref, li.ui-ncbiautocomplete-link-pref, div.ui-ncbiautocomplete-link-pref
+	{mso-style-name:ui-ncbiautocomplete-link-pref;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:-945.65pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibutton, li.ui-ncbibutton, div.ui-ncbibutton
+	{mso-style-name:ui-ncbibutton;
+	margin-right:1.2pt;
+	margin-left:0in;
+	text-align:center;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"inherit","serif";}
+p.ui-button-icon-only, li.ui-button-icon-only, div.ui-button-icon-only
+	{mso-style-name:ui-button-icon-only;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icons-only, li.ui-button-icons-only, div.ui-button-icons-only
+	{mso-style-name:ui-button-icons-only;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-outer-div, li.ui-ncbigrid-outer-div, div.ui-ncbigrid-outer-div
+	{mso-style-name:ui-ncbigrid-outer-div;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:33.6pt;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-inner-div, li.ui-ncbigrid-inner-div, div.ui-ncbigrid-inner-div
+	{mso-style-name:ui-ncbigrid-inner-div;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-filter-toolbar, li.ui-ncbigrid-filter-toolbar, div.ui-ncbigrid-filter-toolbar
+	{mso-style-name:ui-ncbigrid-filter-toolbar;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	line-height:20.25pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-paged-toolbar, li.ui-ncbigrid-paged-toolbar, div.ui-ncbigrid-paged-toolbar
+	{mso-style-name:ui-ncbigrid-paged-toolbar;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:19.4pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-checkbox-toolbar, li.ui-ncbigrid-checkbox-toolbar, div.ui-ncbigrid-checkbox-toolbar
+	{mso-style-name:ui-ncbigrid-checkbox-toolbar;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:21.0pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-paged-countitems, li.ui-ncbigrid-paged-countitems, div.ui-ncbigrid-paged-countitems
+	{mso-style-name:ui-ncbigrid-paged-countitems;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-paged-pagecontrol, li.ui-ncbigrid-paged-pagecontrol, div.ui-ncbigrid-paged-pagecontrol
+	{mso-style-name:ui-ncbigrid-paged-pagecontrol;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-paged-toolbar-bottom, li.ui-ncbigrid-paged-toolbar-bottom, div.ui-ncbigrid-paged-toolbar-bottom
+	{mso-style-name:ui-ncbigrid-paged-toolbar-bottom;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-select-question, li.ui-ncbigrid-select-question, div.ui-ncbigrid-select-question
+	{mso-style-name:ui-ncbigrid-select-question;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	border:none;
+	padding:0in;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-ncbigrid-select-question-footer, li.ui-ncbigrid-select-question-footer, div.ui-ncbigrid-select-question-footer
+	{mso-style-name:ui-ncbigrid-select-question-footer;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibasicmenu, li.ui-ncbibasicmenu, div.ui-ncbibasicmenu
+	{mso-style-name:ui-ncbibasicmenu;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibasicmenuli, li.ui-ncbibasicmenuli, div.ui-ncbibasicmenuli
+	{mso-style-name:ui-ncbibasicmenu>li;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.orientationhortli, li.orientationhortli, div.orientationhortli
+	{mso-style-name:orientation_hort>li;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbimenu, li.jig-ncbimenu, div.jig-ncbimenu
+	{mso-style-name:jig-ncbimenu;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbimenuli, li.jig-ncbimenuli, div.jig-ncbimenuli
+	{mso-style-name:jig-ncbimenu>li;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbipopper-wrapper, li.ui-ncbipopper-wrapper, div.ui-ncbipopper-wrapper
+	{mso-style-name:ui-ncbipopper-wrapper;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-ncbipopper-basic, li.ui-ncbipopper-basic, div.ui-ncbipopper-basic
+	{mso-style-name:ui-ncbipopper-basic;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#303030;}
+p.brieflinkpopdesc, li.brieflinkpopdesc, div.brieflinkpopdesc
+	{mso-style-name:brieflinkpopdesc;
+	margin-top:4.8pt;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbitoggler-slave, li.ui-ncbitoggler-slave, div.ui-ncbitoggler-slave
+	{mso-style-name:ui-ncbitoggler-slave;
+	margin-top:2.4pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:12.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-ncbitoggler-slave-open, li.ui-ncbitoggler-slave-open, div.ui-ncbitoggler-slave-open
+	{mso-style-name:ui-ncbitoggler-slave-open;
+	margin-top:2.4pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:12.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbilinksmenu, li.ui-ncbilinksmenu, div.ui-ncbilinksmenu
+	{mso-style-name:ui-ncbilinksmenu;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FCFCFC;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#999999;
+	font-weight:bold;}
+p.ui-ncbilinksmenu-loadingmessage, li.ui-ncbilinksmenu-loadingmessage, div.ui-ncbilinksmenu-loadingmessage
+	{mso-style-name:ui-ncbilinksmenu-loadingmessage;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiclearbutton-wrap, li.ui-ncbiclearbutton-wrap, div.ui-ncbiclearbutton-wrap
+	{mso-style-name:ui-ncbiclearbutton-wrap;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiexpander, li.ui-ncbiexpander, div.ui-ncbiexpander
+	{mso-style-name:ui-ncbiexpander;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiexpander-simple, li.ui-ncbiexpander-simple, div.ui-ncbiexpander-simple
+	{mso-style-name:ui-ncbiexpander-simple;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-expander-arrow-bar, li.ui-expander-arrow-bar, div.ui-expander-arrow-bar
+	{mso-style-name:ui-expander-arrow-bar;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-expander-controllink, li.ui-expander-controllink, div.ui-expander-controllink
+	{mso-style-name:ui-expander-controllink;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbiinpagenav-goto-container, li.jig-ncbiinpagenav-goto-container, div.jig-ncbiinpagenav-goto-container
+	{mso-style-name:jig-ncbiinpagenav-goto-container;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbisetswitch, li.ui-ncbisetswitch, div.ui-ncbisetswitch
+	{mso-style-name:ui-ncbisetswitch;
+	margin-right:0in;
+	margin-left:0in;
+	background:#F6F6F6;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#444444;}
+p.ui-ncbisetswitch-hasstar, li.ui-ncbisetswitch-hasstar, div.ui-ncbisetswitch-hasstar
+	{mso-style-name:ui-ncbisetswitch-hasstar;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.fg-button-icon-left, li.fg-button-icon-left, div.fg-button-icon-left
+	{mso-style-name:fg-button-icon-left;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbihistogram, li.jig-ncbihistogram, div.jig-ncbihistogram
+	{mso-style-name:jig-ncbihistogram;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram, li.ui-ncbihistogram, div.ui-ncbihistogram
+	{mso-style-name:ui-ncbihistogram;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-display-area, li.ui-ncbihistogram-display-area, div.ui-ncbihistogram-display-area
+	{mso-style-name:ui-ncbihistogram-display-area;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-display-areaollih3, li.ui-ncbihistogram-display-areaollih3, div.ui-ncbihistogram-display-areaollih3
+	{mso-style-name:ui-ncbihistogram-display-area>ol>li>h3;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:366.4pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-controls, li.ui-ncbihistogram-controls, div.ui-ncbihistogram-controls
+	{mso-style-name:ui-ncbihistogram-controls;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-left, li.ui-ncbihistogram-left, div.ui-ncbihistogram-left
+	{mso-style-name:ui-ncbihistogram-left;
+	margin-right:0in;
+	margin-left:2.25pt;
+	text-align:center;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-right, li.ui-ncbihistogram-right, div.ui-ncbihistogram-right
+	{mso-style-name:ui-ncbihistogram-right;
+	margin-right:2.25pt;
+	margin-left:0in;
+	text-align:center;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-left-disabled, li.ui-ncbihistogram-left-disabled, div.ui-ncbihistogram-left-disabled
+	{mso-style-name:ui-ncbihistogram-left-disabled;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#DDDDDD;}
+p.ui-ncbihistogram-right-disabled, li.ui-ncbihistogram-right-disabled, div.ui-ncbihistogram-right-disabled
+	{mso-style-name:ui-ncbihistogram-right-disabled;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#DDDDDD;}
+p.ui-ncbihistogram-text, li.ui-ncbihistogram-text, div.ui-ncbihistogram-text
+	{mso-style-name:ui-ncbihistogram-text;
+	margin-top:0in;
+	margin-right:12.75pt;
+	margin-bottom:0in;
+	margin-left:12.75pt;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:21.8pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbihistogram-tooltip, li.ui-ncbihistogram-tooltip, div.ui-ncbihistogram-tooltip
+	{mso-style-name:ui-ncbihistogram-tooltip;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	display:none;}
+p.ncbiactivevalidationmsg, li.ncbiactivevalidationmsg, div.ncbiactivevalidationmsg
+	{mso-style-name:ncbiactivevalidation_msg;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ncbiactivevalidationmsgchecking, li.ncbiactivevalidationmsgchecking, div.ncbiactivevalidationmsgchecking
+	{mso-style-name:ncbiactivevalidation_msg_checking;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#FF9900;}
+p.ncbiactivevalidationmsgvalid, li.ncbiactivevalidationmsgvalid, div.ncbiactivevalidationmsgvalid
+	{mso-style-name:ncbiactivevalidation_msg_valid;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:green;}
+p.ncbiactivevalidationmsgerror, li.ncbiactivevalidationmsgerror, div.ncbiactivevalidationmsgerror
+	{mso-style-name:ncbiactivevalidation_msg_error;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;}
+p.ncbiactivevalidationmsginfo, li.ncbiactivevalidationmsginfo, div.ncbiactivevalidationmsginfo
+	{mso-style-name:ncbiactivevalidation_msg_info;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:blue;}
+p.ncbiactivevalidationelerror, li.ncbiactivevalidationelerror, div.ncbiactivevalidationelerror
+	{mso-style-name:ncbiactivevalidation_el_error;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.social-buttons, li.social-buttons, div.social-buttons
+	{mso-style-name:social-buttons;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.inlinelist, li.inlinelist, div.inlinelist
+	{mso-style-name:inline_list;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.inline, li.inline, div.inline
+	{mso-style-name:inline;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.fig, li.fig, div.fig
+	{mso-style-name:fig;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.table, li.table, div.table
+	{mso-style-name:table;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.pmc-wm, li.pmc-wm, div.pmc-wm
+	{mso-style-name:pmc-wm;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.attic, li.attic, div.attic
+	{mso-style-name:attic;
+	margin-right:0in;
+	margin-left:0in;
+	background:#336699;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.basement, li.basement, div.basement
+	{mso-style-name:basement;
+	margin-right:0in;
+	margin-left:0in;
+	background:#336699;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.page-breadcrumbs, li.page-breadcrumbs, div.page-breadcrumbs
+	{mso-style-name:page-breadcrumbs;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.first-line-outdent, li.first-line-outdent, div.first-line-outdent
+	{mso-style-name:first-line-outdent;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.vatop, li.vatop, div.vatop
+	{mso-style-name:va_top;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.vamiddle, li.vamiddle, div.vamiddle
+	{mso-style-name:va_middle;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.qtrhythm, li.qtrhythm, div.qtrhythm
+	{mso-style-name:qt_rhythm;
+	margin-top:4.15pt;
+	margin-right:0in;
+	margin-bottom:4.15pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.notopmargin, li.notopmargin, div.notopmargin
+	{mso-style-name:no_top_margin;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.nobottommargin, li.nobottommargin, div.nobottommargin
+	{mso-style-name:no_bottom_margin;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.tscanvas, li.tscanvas, div.tscanvas
+	{mso-style-name:ts_canvas;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.tsbar, li.tsbar, div.tsbar
+	{mso-style-name:ts_bar;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#DCF0F4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.fm-reuse, li.fm-reuse, div.fm-reuse
+	{mso-style-name:fm-reuse;
+	margin-right:0in;
+	margin-left:.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.fm-subtitle, li.fm-subtitle, div.fm-subtitle
+	{mso-style-name:fm-subtitle;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:15.0pt;
+	font-family:"Times New Roman","serif";}
+p.fm-copyright-license, li.fm-copyright-license, div.fm-copyright-license
+	{mso-style-name:fm-copyright-license;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.fm-citation-from, li.fm-citation-from, div.fm-citation-from
+	{mso-style-name:fm-citation-from;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ft-thumb-box, li.ft-thumb-box, div.ft-thumb-box
+	{mso-style-name:ft-thumb-box;
+	margin:8.3pt;
+	text-align:center;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ft-thumb-current, li.ft-thumb-current, div.ft-thumb-current
+	{mso-style-name:ft-thumb-current;
+	margin-right:0in;
+	margin-left:0in;
+	background:#D0DCE8;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.tab, li.tab, div.tab
+	{mso-style-name:tab;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.arrowtab, li.arrowtab, div.arrowtab
+	{mso-style-name:arrowtab;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.blanktab, li.blanktab, div.blanktab
+	{mso-style-name:blanktab;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.thistab, li.thistab, div.thistab
+	{mso-style-name:thistab;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.doi, li.doi, div.doi
+	{mso-style-name:doi;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msg-error, li.msg-error, div.msg-error
+	{mso-style-name:msg-error;
+	margin-right:0in;
+	margin-left:0in;
+	background:yellow;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;}
+p.msg-warning, li.msg-warning, div.msg-warning
+	{mso-style-name:msg-warning;
+	margin-right:0in;
+	margin-left:0in;
+	background:yellow;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:brown;}
+p.nihms-highlight, li.nihms-highlight, div.nihms-highlight
+	{mso-style-name:nihms-highlight;
+	margin-top:0in;
+	margin-right:2.4pt;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	background:yellow;
+	font-size:10.5pt;
+	font-family:"Times New Roman","serif";
+	color:#990000;}
+p.head, li.head, div.head
+	{mso-style-name:head;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sub-head, li.sub-head, div.sub-head
+	{mso-style-name:sub-head;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.headless, li.headless, div.headless
+	{mso-style-name:headless;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sub-navigation, li.sub-navigation, div.sub-navigation
+	{mso-style-name:sub-navigation;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.sec, li.sec, div.sec
+	{mso-style-name:sec;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.content-branding, li.content-branding, div.content-branding
+	{mso-style-name:content-branding;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.banner-generic-logo-background, li.banner-generic-logo-background, div.banner-generic-logo-background
+	{mso-style-name:banner-generic-logo-background;
+	margin-right:0in;
+	margin-left:0in;
+	background:silver;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.banner-journal-name, li.banner-journal-name, div.banner-journal-name
+	{mso-style-name:banner-journal-name;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:20.5pt;
+	font-family:"Calibri","sans-serif";
+	font-variant:small-caps;
+	letter-spacing:.3pt;}
+p.banner-journal-publisher-over-image, li.banner-journal-publisher-over-image, div.banner-journal-publisher-over-image
+	{mso-style-name:banner-journal-publisher-over-image;
+	margin-right:7.5pt;
+	margin-left:63.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.banner-publisher-name, li.banner-publisher-name, div.banner-publisher-name
+	{mso-style-name:banner-publisher-name;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:9.5pt;
+	font-family:"Calibri","sans-serif";
+	color:#AA1111;
+	font-weight:bold;}
+p.bl-w-jtitle-over, li.bl-w-jtitle-over, div.bl-w-jtitle-over
+	{mso-style-name:bl-w-jtitle-over;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-variant:small-caps;}
+p.bl-w-jtitle-over-ph, li.bl-w-jtitle-over-ph, div.bl-w-jtitle-over-ph
+	{mso-style-name:bl-w-jtitle-over-ph;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.bl-w-jtitle-over-ph-content, li.bl-w-jtitle-over-ph-content, div.bl-w-jtitle-over-ph-content
+	{mso-style-name:bl-w-jtitle-over-ph-content;
+	margin-top:3.0pt;
+	margin-right:6.0pt;
+	margin-bottom:3.0pt;
+	margin-left:78.75pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.banner-journal-publisher-over-image-elsevierwt, li.banner-journal-publisher-over-image-elsevierwt, div.banner-journal-publisher-over-image-elsevierwt
+	{mso-style-name:banner-journal-publisher-over-image-elsevierwt;
+	margin-top:0in;
+	margin-right:120.0pt;
+	margin-bottom:0in;
+	margin-left:15.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.elsevierwt-sponsored-label, li.elsevierwt-sponsored-label, div.elsevierwt-sponsored-label
+	{mso-style-name:elsevierwt-sponsored-label;
+	margin-right:0in;
+	margin-left:-9.0pt;
+	line-height:13.5pt;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	font-variant:small-caps;
+	letter-spacing:.9pt;
+	font-style:italic;}
+p.bl-jtitle-sageopen, li.bl-jtitle-sageopen, div.bl-jtitle-sageopen
+	{mso-style-name:bl-jtitle-sageopen;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#0055A5;}
+p.bl-jtitle-iospressopenlib, li.bl-jtitle-iospressopenlib, div.bl-jtitle-iospressopenlib
+	{mso-style-name:bl-jtitle-iospressopenlib;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-apasd, li.bl-jtitle-apasd, div.bl-jtitle-apasd
+	{mso-style-name:bl-jtitle-apasd;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#1E73B3;}
+p.bl-jtitle-springeropen, li.bl-jtitle-springeropen, div.bl-jtitle-springeropen
+	{mso-style-name:bl-jtitle-springeropen;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#F0F0F0;}
+p.bl-jtitle-sfesd, li.bl-jtitle-sfesd, div.bl-jtitle-sfesd
+	{mso-style-name:bl-jtitle-sfesd;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-acssd, li.bl-jtitle-acssd, div.bl-jtitle-acssd
+	{mso-style-name:bl-jtitle-acssd;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#1E73B3;}
+p.bl-jtitle-esesd, li.bl-jtitle-esesd, div.bl-jtitle-esesd
+	{mso-style-name:bl-jtitle-esesd;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:33.75pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.bl-jtitle-srfsd, li.bl-jtitle-srfsd, div.bl-jtitle-srfsd
+	{mso-style-name:bl-jtitle-srfsd;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:33.75pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.bl-jtitle-tea, li.bl-jtitle-tea, div.bl-jtitle-tea
+	{mso-style-name:bl-jtitle-tea;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#861316;}
+p.bl-jtitle-rcpsychsd, li.bl-jtitle-rcpsychsd, div.bl-jtitle-rcpsychsd
+	{mso-style-name:bl-jtitle-rcpsychsd;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#44448A;}
+p.bl-jtitle-npgopen, li.bl-jtitle-npgopen, div.bl-jtitle-npgopen
+	{mso-style-name:bl-jtitle-npgopen;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-maneyopen, li.bl-jtitle-maneyopen, div.bl-jtitle-maneyopen
+	{mso-style-name:bl-jtitle-maneyopen;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-bmjgroup, li.bl-jtitle-bmjgroup, div.bl-jtitle-bmjgroup
+	{mso-style-name:bl-jtitle-bmjgroup;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#003366;}
+p.bl-jtitle-clpt, li.bl-jtitle-clpt, div.bl-jtitle-clpt
+	{mso-style-name:bl-jtitle-clpt;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-nihpa-wiley, li.bl-jtitle-nihpa-wiley, div.bl-jtitle-nihpa-wiley
+	{mso-style-name:bl-jtitle-nihpa-wiley;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-rsmsd, li.bl-jtitle-rsmsd, div.bl-jtitle-rsmsd
+	{mso-style-name:bl-jtitle-rsmsd;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.bl-jtitle-hogrefesd, li.bl-jtitle-hogrefesd, div.bl-jtitle-hogrefesd
+	{mso-style-name:bl-jtitle-hogrefesd;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#025490;}
+p.mp-outer, li.mp-outer, div.mp-outer
+	{mso-style-name:mp-outer;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mp-outerdiv, li.mp-outerdiv, div.mp-outerdiv
+	{mso-style-name:mp-outer>div;
+	margin:1.5pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.toc-highlight1, li.toc-highlight1, div.toc-highlight1
+	{mso-style-name:toc-highlight1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FFFFD0;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.toc-highlight2, li.toc-highlight2, div.toc-highlight2
+	{mso-style-name:toc-highlight2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#ACE4FF;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.toc-hl-inaugural, li.toc-hl-inaugural, div.toc-hl-inaugural
+	{mso-style-name:toc-hl-inaugural;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#E64A00;}
+p.courtesy-note, li.courtesy-note, div.courtesy-note
+	{mso-style-name:courtesy-note;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.footer, li.footer, div.footer
+	{mso-style-name:footer;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.suppmat, li.suppmat, div.suppmat
+	{mso-style-name:suppmat;
+	margin-top:8.3pt;
+	margin-right:0in;
+	margin-bottom:8.3pt;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.aligncenter, li.aligncenter, div.aligncenter
+	{mso-style-name:align_center;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mul-switcher, li.mul-switcher, div.mul-switcher
+	{mso-style-name:mul-switcher;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.strong, li.strong, div.strong
+	{mso-style-name:strong;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.red, li.red, div.red
+	{mso-style-name:red;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:red;}
+p.navigator, li.navigator, div.navigator
+	{mso-style-name:navigator;
+	margin-top:15.0pt;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F6F6F6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.summary, li.summary, div.summary
+	{mso-style-name:summary;
+	margin-top:15.0pt;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.head1a, li.head1a, div.head1a
+	{mso-style-name:head1a;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.navigator-header, li.navigator-header, div.navigator-header
+	{mso-style-name:navigator-header;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.navigator-footer, li.navigator-footer, div.navigator-footer
+	{mso-style-name:navigator-footer;
+	margin-top:7.5pt;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.navigator-bar, li.navigator-bar, div.navigator-bar
+	{mso-style-name:navigator-bar;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.navigator-page, li.navigator-page, div.navigator-page
+	{mso-style-name:navigator-page;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.navigator-bar-table, li.navigator-bar-table, div.navigator-bar-table
+	{mso-style-name:navigator-bar-table;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.section-with-images-on-the-same-page, li.section-with-images-on-the-same-page, div.section-with-images-on-the-same-page
+	{mso-style-name:section-with-images-on-the-same-page;
+	margin-top:15.0pt;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.main-archive-list-of-volumes, li.main-archive-list-of-volumes, div.main-archive-list-of-volumes
+	{mso-style-name:main-archive-list-of-volumes;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.archive-header, li.archive-header, div.archive-header
+	{mso-style-name:archive-header;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.journal-block-title, li.journal-block-title, div.journal-block-title
+	{mso-style-name:journal-block-title;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#CCD8E4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.vol-year-cell, li.vol-year-cell, div.vol-year-cell
+	{mso-style-name:vol-year-cell;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#CCD8E4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;
+	font-weight:bold;}
+p.issue-block, li.issue-block, div.issue-block
+	{mso-style-name:issue-block;
+	margin-right:0in;
+	margin-left:0in;
+	background:#8CACCC;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.iss-dark-row, li.iss-dark-row, div.iss-dark-row
+	{mso-style-name:iss-dark-row;
+	margin-right:0in;
+	margin-left:0in;
+	background:#EFF1F3;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.iss-light-row, li.iss-light-row, div.iss-light-row
+	{mso-style-name:iss-light-row;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.iss-cell, li.iss-cell, div.iss-cell
+	{mso-style-name:iss-cell;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.vol-cell, li.vol-cell, div.vol-cell
+	{mso-style-name:vol-cell;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.arc-issue, li.arc-issue, div.arc-issue
+	{mso-style-name:arc-issue;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#0055AA;}
+p.large-thumb-canvas, li.large-thumb-canvas, div.large-thumb-canvas
+	{mso-style-name:large-thumb-canvas;
+	margin:8.5pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#444444;
+	display:none;}
+p.co, li.co, div.co
+	{mso-style-name:co;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.co-default, li.co-default, div.co-default
+	{mso-style-name:co-default;
+	margin:8.5pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#444444;}
+p.large-thumb-canvas-1, li.large-thumb-canvas-1, div.large-thumb-canvas-1
+	{mso-style-name:large-thumb-canvas-1;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.co-inner, li.co-inner, div.co-inner
+	{mso-style-name:co-inner;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.in-progress, li.in-progress, div.in-progress
+	{mso-style-name:in-progress;
+	margin:1.5pt;
+	background:#444444;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.large-thumb, li.large-thumb, div.large-thumb
+	{mso-style-name:large-thumb;
+	margin:1.5pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.small-thumb-canvas, li.small-thumb-canvas, div.small-thumb-canvas
+	{mso-style-name:small-thumb-canvas;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.small-thumb, li.small-thumb, div.small-thumb
+	{mso-style-name:small-thumb;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.figpopup-sensitive-area, li.figpopup-sensitive-area, div.figpopup-sensitive-area
+	{mso-style-name:figpopup-sensitive-area;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.print-view, li.print-view, div.print-view
+	{mso-style-name:print-view;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.citationexporter-header, li.citationexporter-header, div.citationexporter-header
+	{mso-style-name:citationexporter-header;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.citationexporter-footer, li.citationexporter-footer, div.citationexporter-footer
+	{mso-style-name:citationexporter-footer;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxpreview, li.mathjaxpreview, div.mathjaxpreview
+	{mso-style-name:mathjax_preview;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#888888;}
+p.mathjaxerror, li.mathjaxerror, div.mathjaxerror
+	{mso-style-name:mathjax_error;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CC0000;
+	font-style:italic;}
+p.mathjaxmenu, li.mathjaxmenu, div.mathjaxmenu
+	{mso-style-name:mathjax_menu;
+	margin:0in;
+	margin-bottom:.0001pt;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.mathjaxmenuitem, li.mathjaxmenuitem, div.mathjaxmenuitem
+	{mso-style-name:mathjax_menuitem;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxmenuarrow, li.mathjaxmenuarrow, div.mathjaxmenuarrow
+	{mso-style-name:mathjax_menuarrow;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS","sans-serif";
+	color:#666666;}
+p.mathjaxmenucheck, li.mathjaxmenucheck, div.mathjaxmenucheck
+	{mso-style-name:mathjax_menucheck;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS","sans-serif";}
+p.mathjaxmenulabel, li.mathjaxmenulabel, div.mathjaxmenulabel
+	{mso-style-name:mathjax_menulabel;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.mathjaxmenurule, li.mathjaxmenurule, div.mathjaxmenurule
+	{mso-style-name:mathjax_menurule;
+	margin-top:3.0pt;
+	margin-right:.75pt;
+	margin-bottom:0in;
+	margin-left:.75pt;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxmenuclose, li.mathjaxmenuclose, div.mathjaxmenuclose
+	{mso-style-name:mathjax_menuclose;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:18.0pt;
+	font-family:"Courier New";
+	color:#F0F0F0;}
+p.print-log, li.print-log, div.print-log
+	{mso-style-name:print-log;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-header, li.ui-accordion-header, div.ui-accordion-header
+	{mso-style-name:ui-accordion-header;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-icons, li.ui-accordion-icons, div.ui-accordion-icons
+	{mso-style-name:ui-accordion-icons;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-content, li.ui-accordion-content, div.ui-accordion-content
+	{mso-style-name:ui-accordion-content;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text, li.ui-button-text, div.ui-button-text
+	{mso-style-name:ui-button-text;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header, li.ui-datepicker-header, div.ui-datepicker-header
+	{mso-style-name:ui-datepicker-header;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-next, li.ui-datepicker-next, div.ui-datepicker-next
+	{mso-style-name:ui-datepicker-next;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-prev, li.ui-datepicker-prev, div.ui-datepicker-prev
+	{mso-style-name:ui-datepicker-prev;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-title, li.ui-datepicker-title, div.ui-datepicker-title
+	{mso-style-name:ui-datepicker-title;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-buttonpane, li.ui-datepicker-buttonpane, div.ui-datepicker-buttonpane
+	{mso-style-name:ui-datepicker-buttonpane;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-group, li.ui-datepicker-group, div.ui-datepicker-group
+	{mso-style-name:ui-datepicker-group;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-title, li.ui-dialog-title, div.ui-dialog-title
+	{mso-style-name:ui-dialog-title;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-buttonpane, li.ui-dialog-buttonpane, div.ui-dialog-buttonpane
+	{mso-style-name:ui-dialog-buttonpane;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-menu-item, li.ui-menu-item, div.ui-menu-item
+	{mso-style-name:ui-menu-item;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-menu-divider, li.ui-menu-divider, div.ui-menu-divider
+	{mso-style-name:ui-menu-divider;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar-value, li.ui-progressbar-value, div.ui-progressbar-value
+	{mso-style-name:ui-progressbar-value;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar-overlay, li.ui-progressbar-overlay, div.ui-progressbar-overlay
+	{mso-style-name:ui-progressbar-overlay;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-handle, li.ui-slider-handle, div.ui-slider-handle
+	{mso-style-name:ui-slider-handle;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-range, li.ui-slider-range, div.ui-slider-range
+	{mso-style-name:ui-slider-range;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-nav, li.ui-tabs-nav, div.ui-tabs-nav
+	{mso-style-name:ui-tabs-nav;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-panel, li.ui-tabs-panel, div.ui-tabs-panel
+	{mso-style-name:ui-tabs-panel;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-hide, li.ui-tabs-hide, div.ui-tabs-hide
+	{mso-style-name:ui-tabs-hide;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-titlebar-close, li.ui-dialog-titlebar-close, div.ui-dialog-titlebar-close
+	{mso-style-name:ui-dialog-titlebar-close;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-content, li.ui-dialog-content, div.ui-dialog-content
+	{mso-style-name:ui-dialog-content;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiautocomplete-link-pref-right, li.ui-ncbiautocomplete-link-pref-right, div.ui-ncbiautocomplete-link-pref-right
+	{mso-style-name:ui-ncbiautocomplete-link-pref-right;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-primary, li.ui-button-icon-primary, div.ui-button-icon-primary
+	{mso-style-name:ui-button-icon-primary;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-secondary, li.ui-button-icon-secondary, div.ui-button-icon-secondary
+	{mso-style-name:ui-button-icon-secondary;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.prev, li.prev, div.prev
+	{mso-style-name:prev;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.next, li.next, div.next
+	{mso-style-name:next;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-select-row-count, li.ui-ncbigrid-select-row-count, div.ui-ncbigrid-select-row-count
+	{mso-style-name:ui-ncbigrid-select-row-count;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibasicmenulia, li.ui-ncbibasicmenulia, div.ui-ncbibasicmenulia
+	{mso-style-name:ui-ncbibasicmenu>li>a;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbimenu-item-leaf, li.ui-ncbimenu-item-leaf, div.ui-ncbimenu-item-leaf
+	{mso-style-name:ui-ncbimenu-item-leaf;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.brieflinkpop, li.brieflinkpop, div.brieflinkpop
+	{mso-style-name:brieflinkpop;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.star, li.star, div.star
+	{mso-style-name:star;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbisetswitch, li.jig-ncbisetswitch, div.jig-ncbisetswitch
+	{mso-style-name:jig-ncbisetswitch;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbisetswitch-button, li.ui-ncbisetswitch-button, div.ui-ncbisetswitch-button
+	{mso-style-name:ui-ncbisetswitch-button;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbisetswitch-options, li.ui-ncbisetswitch-options, div.ui-ncbisetswitch-options
+	{mso-style-name:ui-ncbisetswitch-options;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.boxed-text-box, li.boxed-text-box, div.boxed-text-box
+	{mso-style-name:boxed-text-box;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.cell-from, li.cell-from, div.cell-from
+	{mso-style-name:cell-from;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.cell-citation, li.cell-citation, div.cell-citation
+	{mso-style-name:cell-citation;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.figpopup, li.figpopup, div.figpopup
+	{mso-style-name:figpopup;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.button, li.button, div.button
+	{mso-style-name:button;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.retraction, li.retraction, div.retraction
+	{mso-style-name:retraction;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxhoverarrow, li.mathjaxhoverarrow, div.mathjaxhoverarrow
+	{mso-style-name:mathjax_hover_arrow;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.pbody, li.pbody, div.pbody
+	{mso-style-name:pbody;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.page-box, li.page-box, div.page-box
+	{mso-style-name:page-box;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.page-box-wide, li.page-box-wide, div.page-box-wide
+	{mso-style-name:page-box-wide;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.nomaxwidth, li.nomaxwidth, div.nomaxwidth
+	{mso-style-name:no_max_width;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.f, li.f, div.f
+	{mso-style-name:f;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.l, li.l, div.l
+	{mso-style-name:l;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-header-icon, li.ui-accordion-header-icon, div.ui-accordion-header-icon
+	{mso-style-name:ui-accordion-header-icon;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-selectmenu-optgroup, li.ui-selectmenu-optgroup, div.ui-selectmenu-optgroup
+	{mso-style-name:ui-selectmenu-optgroup;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-anchor, li.ui-tabs-anchor, div.ui-tabs-anchor
+	{mso-style-name:ui-tabs-anchor;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibutton-submit, li.ui-ncbibutton-submit, div.ui-ncbibutton-submit
+	{mso-style-name:ui-ncbibutton-submit;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibutton-cancel, li.ui-ncbibutton-cancel, div.ui-ncbibutton-cancel
+	{mso-style-name:ui-ncbibutton-cancel;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ltd-hover, li.ltd-hover, div.ltd-hover
+	{mso-style-name:ltd-hover;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.warn, li.warn, div.warn
+	{mso-style-name:warn;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.notice, li.notice, div.notice
+	{mso-style-name:notice;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.content, li.content, div.content
+	{mso-style-name:content;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.onelinesource, li.onelinesource, div.onelinesource
+	{mso-style-name:one_line_source;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.tertiary, li.tertiary, div.tertiary
+	{mso-style-name:tertiary;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxhoverframe, li.mathjaxhoverframe, div.mathjaxhoverframe
+	{mso-style-name:mathjax_hover_frame;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.other-issues
+	{mso-style-name:other-issues;}
+span.underline
+	{mso-style-name:underline;}
+span.double-underline
+	{mso-style-name:double-underline;}
+span.bold-double-underline
+	{mso-style-name:bold-double-underline;}
+span.ui-icon1
+	{mso-style-name:ui-icon1;}
+span.ui-selectmenu-text
+	{mso-style-name:ui-selectmenu-text;}
+span.pagelink
+	{mso-style-name:page_link;}
+span.ui-icon-plus-minus-big
+	{mso-style-name:ui-icon-plus-minus-big;}
+span.ui-icon-plus-minus-big-open
+	{mso-style-name:ui-icon-plus-minus-big-open;}
+span.collapsabletbodyicon
+	{mso-style-name:collapsabletbodyicon;}
+p.ui-accordion-header1, li.ui-accordion-header1, div.ui-accordion-header1
+	{mso-style-name:ui-accordion-header1;
+	margin-top:1.5pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-icons1, li.ui-accordion-icons1, div.ui-accordion-icons1
+	{mso-style-name:ui-accordion-icons1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-icons2, li.ui-accordion-icons2, div.ui-accordion-icons2
+	{mso-style-name:ui-accordion-icons2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-header-icon1, li.ui-accordion-header-icon1, div.ui-accordion-header-icon1
+	{mso-style-name:ui-accordion-header-icon1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-accordion-content1, li.ui-accordion-content1, div.ui-accordion-content1
+	{mso-style-name:ui-accordion-content1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text1, li.ui-button-text1, div.ui-button-text1
+	{mso-style-name:ui-button-text1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text2, li.ui-button-text2, div.ui-button-text2
+	{mso-style-name:ui-button-text2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text3, li.ui-button-text3, div.ui-button-text3
+	{mso-style-name:ui-button-text3;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon2, li.ui-icon2, div.ui-icon2
+	{mso-style-name:ui-icon2;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:-6.0pt;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button1, li.ui-button1, div.ui-button1
+	{mso-style-name:ui-button1;
+	margin-right:-.05in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header1, li.ui-datepicker-header1, div.ui-datepicker-header1
+	{mso-style-name:ui-datepicker-header1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-next1, li.ui-datepicker-next1, div.ui-datepicker-next1
+	{mso-style-name:ui-datepicker-next1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-prev1, li.ui-datepicker-prev1, div.ui-datepicker-prev1
+	{mso-style-name:ui-datepicker-prev1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-title1, li.ui-datepicker-title1, div.ui-datepicker-title1
+	{mso-style-name:ui-datepicker-title1;
+	margin-top:0in;
+	margin-right:27.6pt;
+	margin-bottom:0in;
+	margin-left:27.6pt;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:21.6pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-buttonpane1, li.ui-datepicker-buttonpane1, div.ui-datepicker-buttonpane1
+	{mso-style-name:ui-datepicker-buttonpane1;
+	margin-top:8.4pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-group1, li.ui-datepicker-group1, div.ui-datepicker-group1
+	{mso-style-name:ui-datepicker-group1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-group2, li.ui-datepicker-group2, div.ui-datepicker-group2
+	{mso-style-name:ui-datepicker-group2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-group3, li.ui-datepicker-group3, div.ui-datepicker-group3
+	{mso-style-name:ui-datepicker-group3;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header2, li.ui-datepicker-header2, div.ui-datepicker-header2
+	{mso-style-name:ui-datepicker-header2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header3, li.ui-datepicker-header3, div.ui-datepicker-header3
+	{mso-style-name:ui-datepicker-header3;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-buttonpane2, li.ui-datepicker-buttonpane2, div.ui-datepicker-buttonpane2
+	{mso-style-name:ui-datepicker-buttonpane2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-buttonpane3, li.ui-datepicker-buttonpane3, div.ui-datepicker-buttonpane3
+	{mso-style-name:ui-datepicker-buttonpane3;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header4, li.ui-datepicker-header4, div.ui-datepicker-header4
+	{mso-style-name:ui-datepicker-header4;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-datepicker-header5, li.ui-datepicker-header5, div.ui-datepicker-header5
+	{mso-style-name:ui-datepicker-header5;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-title1, li.ui-dialog-title1, div.ui-dialog-title1
+	{mso-style-name:ui-dialog-title1;
+	margin-top:1.2pt;
+	margin-right:12.0pt;
+	margin-bottom:2.4pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-buttonpane1, li.ui-dialog-buttonpane1, div.ui-dialog-buttonpane1
+	{mso-style-name:ui-dialog-buttonpane1;
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-left:0in;
+	background:whitesmoke;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-menu-item1, li.ui-menu-item1, div.ui-menu-item1
+	{mso-style-name:ui-menu-item1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-menu-divider1, li.ui-menu-divider1, div.ui-menu-divider1
+	{mso-style-name:ui-menu-divider1;
+	margin-top:3.75pt;
+	margin-right:0in;
+	margin-bottom:3.75pt;
+	margin-left:0in;
+	line-height:0%;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-active1, li.ui-state-active1, div.ui-state-active1
+	{mso-style-name:ui-state-active1;
+	margin-top:0in;
+	margin-right:-.75pt;
+	margin-bottom:0in;
+	margin-left:-.75pt;
+	margin-bottom:.0001pt;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-focus1, li.ui-state-focus1, div.ui-state-focus1
+	{mso-style-name:ui-state-focus1;
+	margin-top:0in;
+	margin-right:-.75pt;
+	margin-bottom:0in;
+	margin-left:-.75pt;
+	margin-bottom:.0001pt;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-menu-item2, li.ui-menu-item2, div.ui-menu-item2
+	{mso-style-name:ui-menu-item2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon3, li.ui-icon3, div.ui-icon3
+	{mso-style-name:ui-icon3;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar-value1, li.ui-progressbar-value1, div.ui-progressbar-value1
+	{mso-style-name:ui-progressbar-value1;
+	margin-top:0in;
+	margin-right:-.75pt;
+	margin-bottom:0in;
+	margin-left:-.75pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar-overlay1, li.ui-progressbar-overlay1, div.ui-progressbar-overlay1
+	{mso-style-name:ui-progressbar-overlay1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-progressbar-value2, li.ui-progressbar-value2, div.ui-progressbar-value2
+	{mso-style-name:ui-progressbar-value2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-handle1, li.ui-resizable-handle1, div.ui-resizable-handle1
+	{mso-style-name:ui-resizable-handle1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-resizable-handle2, li.ui-resizable-handle2, div.ui-resizable-handle2
+	{mso-style-name:ui-resizable-handle2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:1.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-menu1, li.ui-menu1, div.ui-menu1
+	{mso-style-name:ui-menu1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-selectmenu-optgroup1, li.ui-selectmenu-optgroup1, div.ui-selectmenu-optgroup1
+	{mso-style-name:ui-selectmenu-optgroup1;
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.ui-icon4
+	{mso-style-name:ui-icon4;}
+span.ui-selectmenu-text1
+	{mso-style-name:ui-selectmenu-text1;}
+p.ui-slider-handle1, li.ui-slider-handle1, div.ui-slider-handle1
+	{mso-style-name:ui-slider-handle1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-range1, li.ui-slider-range1, div.ui-slider-range1
+	{mso-style-name:ui-slider-range1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:8.5pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-handle2, li.ui-slider-handle2, div.ui-slider-handle2
+	{mso-style-name:ui-slider-handle2;
+	margin-right:0in;
+	margin-left:-.1in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-handle3, li.ui-slider-handle3, div.ui-slider-handle3
+	{mso-style-name:ui-slider-handle3;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-slider-range2, li.ui-slider-range2, div.ui-slider-range2
+	{mso-style-name:ui-slider-range2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon5, li.ui-icon5, div.ui-icon5
+	{mso-style-name:ui-icon5;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-anchor1, li.ui-tabs-anchor1, div.ui-tabs-anchor1
+	{mso-style-name:ui-tabs-anchor1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tooltip1, li.ui-tooltip1, div.ui-tooltip1
+	{mso-style-name:ui-tooltip1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-widget1, li.ui-widget1, div.ui-widget1
+	{mso-style-name:ui-widget1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.ui-state-default1, li.ui-state-default1, div.ui-state-default1
+	{mso-style-name:ui-state-default1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#E6E6E6;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#555555;}
+p.ui-state-default2, li.ui-state-default2, div.ui-state-default2
+	{mso-style-name:ui-state-default2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#E6E6E6;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#555555;}
+p.ui-state-focus2, li.ui-state-focus2, div.ui-state-focus2
+	{mso-style-name:ui-state-focus2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-hover1, li.ui-state-hover1, div.ui-state-hover1
+	{mso-style-name:ui-state-hover1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-focus3, li.ui-state-focus3, div.ui-state-focus3
+	{mso-style-name:ui-state-focus3;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-hover2, li.ui-state-hover2, div.ui-state-hover2
+	{mso-style-name:ui-state-hover2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-active2, li.ui-state-active2, div.ui-state-active2
+	{mso-style-name:ui-state-active2;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-active3, li.ui-state-active3, div.ui-state-active3
+	{mso-style-name:ui-state-active3;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-state-highlight1, li.ui-state-highlight1, div.ui-state-highlight1
+	{mso-style-name:ui-state-highlight1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FBF9EE;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#363636;}
+p.ui-state-highlight2, li.ui-state-highlight2, div.ui-state-highlight2
+	{mso-style-name:ui-state-highlight2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FBF9EE;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#363636;}
+p.ui-state-error1, li.ui-state-error1, div.ui-state-error1
+	{mso-style-name:ui-state-error1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FEF1EC;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-state-error2, li.ui-state-error2, div.ui-state-error2
+	{mso-style-name:ui-state-error2;
+	margin-right:0in;
+	margin-left:0in;
+	background:#FEF1EC;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-state-error-text1, li.ui-state-error-text1, div.ui-state-error-text1
+	{mso-style-name:ui-state-error-text1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-state-error-text2, li.ui-state-error-text2, div.ui-state-error-text2
+	{mso-style-name:ui-state-error-text2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#CD0A0A;}
+p.ui-priority-primary1, li.ui-priority-primary1, div.ui-priority-primary1
+	{mso-style-name:ui-priority-primary1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ui-priority-primary2, li.ui-priority-primary2, div.ui-priority-primary2
+	{mso-style-name:ui-priority-primary2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ui-priority-secondary1, li.ui-priority-secondary1, div.ui-priority-secondary1
+	{mso-style-name:ui-priority-secondary1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-priority-secondary2, li.ui-priority-secondary2, div.ui-priority-secondary2
+	{mso-style-name:ui-priority-secondary2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-disabled1, li.ui-state-disabled1, div.ui-state-disabled1
+	{mso-style-name:ui-state-disabled1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-disabled2, li.ui-state-disabled2, div.ui-state-disabled2
+	{mso-style-name:ui-state-disabled2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon6, li.ui-icon6, div.ui-icon6
+	{mso-style-name:ui-icon6;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon7, li.ui-icon7, div.ui-icon7
+	{mso-style-name:ui-icon7;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon8, li.ui-icon8, div.ui-icon8
+	{mso-style-name:ui-icon8;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon9, li.ui-icon9, div.ui-icon9
+	{mso-style-name:ui-icon9;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon10, li.ui-icon10, div.ui-icon10
+	{mso-style-name:ui-icon10;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon11, li.ui-icon11, div.ui-icon11
+	{mso-style-name:ui-icon11;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon12, li.ui-icon12, div.ui-icon12
+	{mso-style-name:ui-icon12;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon13, li.ui-icon13, div.ui-icon13
+	{mso-style-name:ui-icon13;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon14, li.ui-icon14, div.ui-icon14
+	{mso-style-name:ui-icon14;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-nav1, li.ui-tabs-nav1, div.ui-tabs-nav1
+	{mso-style-name:ui-tabs-nav1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.tertiary1, li.tertiary1, div.tertiary1
+	{mso-style-name:tertiary1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#666666;}
+p.tertiary2, li.tertiary2, div.tertiary2
+	{mso-style-name:tertiary2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#985735;}
+p.ui-tabs-panel1, li.ui-tabs-panel1, div.ui-tabs-panel1
+	{mso-style-name:ui-tabs-panel1;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-tabs-hide1, li.ui-tabs-hide1, div.ui-tabs-hide1
+	{mso-style-name:ui-tabs-hide1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.ui-dialog-titlebar1, li.ui-dialog-titlebar1, div.ui-dialog-titlebar1
+	{mso-style-name:ui-dialog-titlebar1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#3E72A6;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:white;}
+p.ui-dialog-titlebar-close1, li.ui-dialog-titlebar-close1, div.ui-dialog-titlebar-close1
+	{mso-style-name:ui-dialog-titlebar-close1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-dialog-content1, li.ui-dialog-content1, div.ui-dialog-content1
+	{mso-style-name:ui-dialog-content1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-resizable-se1, li.ui-resizable-se1, div.ui-resizable-se1
+	{mso-style-name:ui-resizable-se1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon15, li.ui-icon15, div.ui-icon15
+	{mso-style-name:ui-icon15;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-state-hover3, li.ui-state-hover3, div.ui-state-hover3
+	{mso-style-name:ui-state-hover3;
+	margin-right:0in;
+	margin-left:0in;
+	background:#DADADA;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#212121;}
+p.ui-ncbibutton-submit1, li.ui-ncbibutton-submit1, div.ui-ncbibutton-submit1
+	{mso-style-name:ui-ncbibutton-submit1;
+	margin-right:6.55pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbibutton-cancel1, li.ui-ncbibutton-cancel1, div.ui-ncbibutton-cancel1
+	{mso-style-name:ui-ncbibutton-cancel1;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:22.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#2F4A8B;}
+p.ui-button-text4, li.ui-button-text4, div.ui-button-text4
+	{mso-style-name:ui-button-text4;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbiautocomplete-link-pref-right1, li.ui-ncbiautocomplete-link-pref-right1, div.ui-ncbiautocomplete-link-pref-right1
+	{mso-style-name:ui-ncbiautocomplete-link-pref-right1;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text5, li.ui-button-text5, div.ui-button-text5
+	{mso-style-name:ui-button-text5;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text6, li.ui-button-text6, div.ui-button-text6
+	{mso-style-name:ui-button-text6;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text7, li.ui-button-text7, div.ui-button-text7
+	{mso-style-name:ui-button-text7;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:595.95pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text8, li.ui-button-text8, div.ui-button-text8
+	{mso-style-name:ui-button-text8;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:595.95pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text9, li.ui-button-text9, div.ui-button-text9
+	{mso-style-name:ui-button-text9;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-text10, li.ui-button-text10, div.ui-button-text10
+	{mso-style-name:ui-button-text10;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon16, li.ui-icon16, div.ui-icon16
+	{mso-style-name:ui-icon16;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon17, li.ui-icon17, div.ui-icon17
+	{mso-style-name:ui-icon17;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon18, li.ui-icon18, div.ui-icon18
+	{mso-style-name:ui-icon18;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon19, li.ui-icon19, div.ui-icon19
+	{mso-style-name:ui-icon19;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon20, li.ui-icon20, div.ui-icon20
+	{mso-style-name:ui-icon20;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon21, li.ui-icon21, div.ui-icon21
+	{mso-style-name:ui-icon21;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-primary1, li.ui-button-icon-primary1, div.ui-button-icon-primary1
+	{mso-style-name:ui-button-icon-primary1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-primary2, li.ui-button-icon-primary2, div.ui-button-icon-primary2
+	{mso-style-name:ui-button-icon-primary2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-primary3, li.ui-button-icon-primary3, div.ui-button-icon-primary3
+	{mso-style-name:ui-button-icon-primary3;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-secondary1, li.ui-button-icon-secondary1, div.ui-button-icon-secondary1
+	{mso-style-name:ui-button-icon-secondary1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-button-icon-secondary2, li.ui-button-icon-secondary2, div.ui-button-icon-secondary2
+	{mso-style-name:ui-button-icon-secondary2;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-paged-pagecontrol1, li.ui-ncbigrid-paged-pagecontrol1, div.ui-ncbigrid-paged-pagecontrol1
+	{mso-style-name:ui-ncbigrid-paged-pagecontrol1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:right;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+p.prev1, li.prev1, div.prev1
+	{mso-style-name:prev1;
+	margin-right:.1in;
+	margin-left:2.4pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.next1, li.next1, div.next1
+	{mso-style-name:next1;
+	margin-right:2.4pt;
+	margin-left:.1in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbigrid-select-row-count1, li.ui-ncbigrid-select-row-count1, div.ui-ncbigrid-select-row-count1
+	{mso-style-name:ui-ncbigrid-select-row-count1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.pagelink1
+	{mso-style-name:page_link1;
+	color:#CCCCCC;}
+span.collapsabletbodyicon1
+	{mso-style-name:collapsabletbodyicon1;}
+span.ui-icon-plus-minus-big1
+	{mso-style-name:ui-icon-plus-minus-big1;}
+span.ui-icon-plus-minus-big-open1
+	{mso-style-name:ui-icon-plus-minus-big-open1;}
+p.ui-ncbigrid-outer-div1, li.ui-ncbigrid-outer-div1, div.ui-ncbigrid-outer-div1
+	{mso-style-name:ui-ncbigrid-outer-div1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbimenu-item-leaf1, li.ui-ncbimenu-item-leaf1, div.ui-ncbimenu-item-leaf1
+	{mso-style-name:ui-ncbimenu-item-leaf1;
+	margin-top:0in;
+	margin-right:9.0pt;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.brieflinkpop1, li.brieflinkpop1, div.brieflinkpop1
+	{mso-style-name:brieflinkpop1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.ui-icon-plus-minus-big2
+	{mso-style-name:ui-icon-plus-minus-big2;}
+span.ui-icon-plus-minus-big-open2
+	{mso-style-name:ui-icon-plus-minus-big-open2;}
+span.ui-icon22
+	{mso-style-name:ui-icon22;}
+span.ui-icon23
+	{mso-style-name:ui-icon23;}
+p.star1, li.star1, div.star1
+	{mso-style-name:star1;
+	margin-right:7.4pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.jig-ncbisetswitch1, li.jig-ncbisetswitch1, div.jig-ncbisetswitch1
+	{mso-style-name:jig-ncbisetswitch1;
+	margin-right:0in;
+	margin-left:0in;
+	line-height:14.75pt;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#333333;}
+p.ui-ncbisetswitch-button1, li.ui-ncbisetswitch-button1, div.ui-ncbisetswitch-button1
+	{mso-style-name:ui-ncbisetswitch-button1;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon24, li.ui-icon24, div.ui-icon24
+	{mso-style-name:ui-icon24;
+	margin:5.55pt;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ltd-hover1, li.ltd-hover1, div.ltd-hover1
+	{mso-style-name:ltd-hover1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#E8E8E8;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-icon25, li.ui-icon25, div.ui-icon25
+	{mso-style-name:ui-icon25;
+	margin-right:0in;
+	margin-left:0in;
+	text-indent:367.15pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ui-ncbisetswitch-options1, li.ui-ncbisetswitch-options1, div.ui-ncbisetswitch-options1
+	{mso-style-name:ui-ncbisetswitch-options1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.pbody1, li.pbody1, div.pbody1
+	{mso-style-name:pbody1;
+	margin-top:0in;
+	margin-right:16.6pt;
+	margin-bottom:0in;
+	margin-left:16.6pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.page-box1, li.page-box1, div.page-box1
+	{mso-style-name:page-box1;
+	margin-top:16.6pt;
+	margin-right:0in;
+	margin-bottom:16.6pt;
+	margin-left:0in;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.page-box-wide1, li.page-box-wide1, div.page-box-wide1
+	{mso-style-name:page-box-wide1;
+	margin-top:16.6pt;
+	margin-right:0in;
+	margin-bottom:16.6pt;
+	margin-left:0in;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.nomaxwidth1, li.nomaxwidth1, div.nomaxwidth1
+	{mso-style-name:no_max_width1;
+	margin-right:0in;
+	margin-left:0in;
+	background:white;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.content1, li.content1, div.content1
+	{mso-style-name:content1;
+	margin:16.6pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.boxed-text-box1, li.boxed-text-box1, div.boxed-text-box1
+	{mso-style-name:boxed-text-box1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.f1, li.f1, div.f1
+	{mso-style-name:f1;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.l1, li.l1, div.l1
+	{mso-style-name:l1;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.cell-from1, li.cell-from1, div.cell-from1
+	{mso-style-name:cell-from1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.cell-citation1, li.cell-citation1, div.cell-citation1
+	{mso-style-name:cell-citation1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.figpopup1, li.figpopup1, div.figpopup1
+	{mso-style-name:figpopup1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.button1, li.button1, div.button1
+	{mso-style-name:button1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	background:white;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#336699;}
+p.retraction1, li.retraction1, div.retraction1
+	{mso-style-name:retraction1;
+	margin-right:0in;
+	margin-left:0in;
+	background:red;
+	font-size:12.0pt;
+	font-family:"Helvetica","sans-serif";
+	color:#F0F0F0;}
+p.warn1, li.warn1, div.warn1
+	{mso-style-name:warn1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.notice1, li.notice1, div.notice1
+	{mso-style-name:notice1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:16.5pt;
+	font-family:"Times New Roman","serif";}
+p.arrowtab1, li.arrowtab1, div.arrowtab1
+	{mso-style-name:arrowtab1;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F8F8F8;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.thistab1, li.thistab1, div.thistab1
+	{mso-style-name:thistab1;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:center;
+	background:#F6F6F6;
+	border:none;
+	padding:0in;
+	font-size:9.5pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.onelinesource1, li.onelinesource1, div.onelinesource1
+	{mso-style-name:one_line_source1;
+	margin-right:0in;
+	margin-left:0in;
+	background:#E0E0E0;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.mathjaxhoverarrow1, li.mathjaxhoverarrow1, div.mathjaxhoverarrow1
+	{mso-style-name:mathjax_hover_arrow1;
+	margin-right:0in;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:7.0pt;
+	font-family:"Courier New";
+	color:#F0F0F0;}
+p.mathjaxmenuarrow1, li.mathjaxmenuarrow1, div.mathjaxmenuarrow1
+	{mso-style-name:mathjax_menuarrow1;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:9.0pt;
+	font-family:"Arial Unicode MS","sans-serif";
+	color:white;}
+span.cit
+	{mso-style-name:cit;}
+span.fm-vol-iss-date
+	{mso-style-name:fm-vol-iss-date;}
+span.doi1
+	{mso-style-name:doi1;}
+span.fm-citation-ids-label
+	{mso-style-name:fm-citation-ids-label;}
+span.fm-role
+	{mso-style-name:fm-role;}
+p.p, li.p, div.p
+	{mso-style-name:p;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.figpopup-sensitive-area1
+	{mso-style-name:figpopup-sensitive-area1;
+	text-decoration:none none;}
+p.fn, li.fn, div.fn
+	{mso-style-name:fn;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.element-citation
+	{mso-style-name:element-citation;}
+span.ref-journal
+	{mso-style-name:ref-journal;}
+span.ref-vol
+	{mso-style-name:ref-vol;}
+span.nowrap
+	{mso-style-name:nowrap;}
+span.acknowledgment-journal-title
+	{mso-style-name:acknowledgment-journal-title;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>PLoS
+One. 2011; 6(4): e18424. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Published
+online 2011 Apr 6. doi:&nbsp; <a
+href="http://dx.doi.org/10.1371%2Fjournal.pone.0018424" target="pmc_ext">10.1371/journal.pone.0018424</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>PMCID:
+PMC3071831</span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:24.0pt;font-family:"Times New Roman","serif"'>Targeted
+Morphoproteomic Profiling of Ewing's Sarcoma Treated with Insulin-Like Growth
+Factor 1 Receptor (IGF1R) Inhibitors: Response/Resistance Signatures</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Subbiah%20V%5Bauth%5D">Vivek
+Subbiah</a>,<sup>1,2,*</sup> <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Naing%20A%5Bauth%5D">Aung Naing</a>,<sup>2</sup>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Brown%20RE%5Bauth%5D">Robert
+E. Brown</a>,<sup>3</sup> <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Chen%20H%5Bauth%5D">Helen Chen</a>,<sup>4</sup>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Doyle%20L%5Bauth%5D">Laurence
+Doyle</a>,<sup>4</sup> <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=LoRusso%20P%5Bauth%5D">Patricia
+LoRusso</a>,<sup>5</sup> <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Benjamin%20R%5Bauth%5D">Robert
+Benjamin</a>,<sup>6</sup> <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson%20P%5Bauth%5D">Pete
+Anderson</a>,<sup>1</sup> and <a
+href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Kurzrock%20R%5Bauth%5D">Razelle
+Kurzrock</a><sup>2</sup></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Benjamin
+Edward Rich, Editor</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>1</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Department of Pediatrics, The
+University of Texas MD Anderson Cancer Center, Houston, Texas</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>2</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Department of Investigational Cancer
+Therapeutics (Phase I Clinical Trials Program), The University of Texas MD
+Anderson Cancer Center, Houston, Texas</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>3</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Department of Pathology and Laboratory
+Medicine, UT Health, University of Texas�Houston Medical School, Houston, Texas</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>4</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Cancer Therapy Evaluation Program,
+National Cancer Institute, Bethesda, Maryland</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>5</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Wayne State University�Barbara Ann
+Karmanos Cancer Institute, Detroit, Michigan</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><sup><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>6</span></sup><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif";display:none'>Division of Cancer Medicine, Department
+of Sarcoma Medical Oncology, University of Texas MD Anderson Cancer Center,
+Houston, Texas</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>Dana-Farber Cancer Institute, United States of America</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>* E-mail: <a href="mailto:dev@null">gro.nosrednadm@haibbusv</a></span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";display:none'>Conceived and
+designed the experiments: VS AN REB RK. Performed the experiments: VS AN REB
+RK. Analyzed the data: VS AN REB HC PA RK. Contributed
+reagents/materials/analysis tools: VS AN REB HC LD PL RB PA RK. Wrote the
+paper: VS REB RK.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/">Author information
+&#9658;</a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/">Article
+notes &#9658;</a> <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/">Copyright
+and License information &#9658;</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'>Received 2010 Nov 4; Accepted 2011 Mar 5.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif";
+display:none'><a href="http://www.ncbi.nlm.nih.gov/pmc/about/copyright.html">Copyright</a>
+This is an open-access article, free of all copyright, and may be freely
+reproduced, distributed, transmitted, modified, built upon, or otherwise used
+by anyone for any lawful purpose. The work is made available under the Creative
+Commons CC0 public domain dedication.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>This
+article has been <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/citedby/">cited by</a>
+other articles in PMC.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Abstract</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Background</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:lime'>Insulin-like
+growth factor 1 receptor (IGF1R) targeted therapies have resulted in responses
+in a small number of patients with advanced metastatic Ewing's sarcoma.</span><span
+lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'> <span
+style='background:yellow'>We performed morphoproteomic profiling to better
+understand response/resistance mechanisms of Ewing's sarcoma to IGF1R
+inhibitor-based therapy.</span></span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Methodology/Principal
+Findings</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>This pilot
+study assessed two patients with advanced Ewing's sarcoma treated with IGF1R
+antibody alone followed by combined IGF1R inhibitor plus mammalian target of
+rapamycin (mTOR) inhibitor treatment once resistance to single-agent IGF1R
+inhibitor developed.</span><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif"'> <span style='background:yellow'>Immunohistochemical
+probes were applied to detect p-mTOR (Ser2448), p-Akt (Ser473), p-ERK1/2
+(Thr202/Tyr204), nestin, and p-STAT3 (Tyr 705) in the original and recurrent
+tumor.</span> <span style='background:yellow'>The initial remarkable
+radiographic responses to IGF1R-antibody therapy was followed by resistance and
+then response to combined IGF1R plus mTOR inhibitor therapy in both patients,
+and then resistance to the combination regimen in one patient.</span> <span
+style='background:yellow'>In patient 1, upregulation of p-Akt and p-mTOR in the
+tumor that relapsed after initial response to IGF1R antibody might explain the
+resistance that developed, and the subsequent response to combined IGF1R plus
+mTOR inhibitor therapy.</span> <span style='background:yellow'>In patient 2,
+upregulation of mTOR was seen in the primary tumor, perhaps explaining the
+initial response to the IGF1R and mTOR inhibitor combination, while the
+resistant tumor that emerged showed activation of the ERK pathway as well.</span></span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Conclusion/Significance</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>Morphoproteomic
+analysis revealed that the mTOR pathway was activated in these two patients
+with advanced Ewing's sarcoma who showed response to combined IGF1R and mTOR
+inhibition, and the ERK pathway in the patient in whom resistance to this
+combination emerged.</span><span lang=EN style='font-size:12.0pt;font-family:
+"Times New Roman","serif"'> Our pilot results suggests that morphoproteomic
+assessment of signaling pathway activation in Ewing's sarcoma merits further
+investigation as a guide to understanding response and resistance signatures.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Introduction</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Ewing's sarcoma is the second
+most common malignant bone tumor in children, adolescents and young adults.
+Despite using a multimodal approach combining surgery, chemotherapy, and
+radiation, a therapeutic plateau has been attained with no change in overall
+survival <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Balamuth1">[1]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Smith1">[2]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah1">[3]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah2">[4]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Ludwig1">[5]</a>.
+Attempts to improve clinical outcome through collaborative trials beginning in
+the early 1970s sought to optimize care through ever more
+mechanistically-diverse chemotherapies. Strategies included increasing duration
+of treatment or dosage per cycle, decreasing treatment interval (i.e., interval
+dose compression), or using high-dose myeloablative chemotherapy followed by
+peripheral blood stem cell transplant <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah1">[3]</a>.
+However, survival remains poor for patients with metastatic disease. For
+metastatic Ewing's sarcoma at diagnosis, the risk of refractory or recurrent
+disease approaches 80% after initial therapy and the outcome of recurrent
+disease is poor with event-free survival less than 20% <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah1">[3]</a>.
+Treatment options for patients with refractory or recurrent Ewing's sarcoma are
+limited.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Early phase clinical trials
+frequently combine targeted agents to optimize benefit. Two challenges at the
+outset are 1) deciding which agents to combine given the heterogeneity of
+tumors and their various underlying resistance pathways and feedback loops, and
+2) how to translate findings from the bench to the bedside or directly from the
+bedside <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rodon1">[6]</a>.
+Morphoproteomics (morphology+proteomics) involves immunohistochemical
+assessment of the activation of signaling pathways in cancer cells, and
+predicting susceptibility to small-molecule inhibitors, specific
+chemotherapeutic agents, and possibly, differentiating agents <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Brown1">[7]</a>.
+In some cases, drugs that fail early in the disease trajectory can produce
+renewed tumor regression later, particularly with rational addition of another
+drug <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Naing1">[8]</a>.
+Morphoproteomics can potentially identify targeted combinations of drugs
+appropriate for prospective testing <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Brown2">[9]</a>.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Insulin-like growth factor 1
+receptor (IGF1R)-targeted therapies have shown early promise <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rodon2">[10]</a>,
+with responses in a small number of patients with Ewing's sarcoma <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah2">[4]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Tolcher1">[11]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Kurzrock1">[12]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Olmos1">[13]</a>.
+Currently available IGF1R antibodies recognize different epitopes of the
+receptor and, therefore, may exert different biological/clinical responses <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Maki1">[14]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Olmos2">[15]</a>.
+Even so, phase I studies with different IGF1R antibodies demonstrated
+remarkable responses in a subset of Ewing's sarcoma patients <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Tolcher1">[11]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Kurzrock1">[12]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Olmos1">[13]</a>.
+While response rates in Phase II studies have not yet been reported, it is
+clear that while some responses have been dramatic, they occurred in only a
+minority of patients. The mechanisms underlying primary and secondary response
+and resistance are unknown.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Herein, we report our experience
+with two index cases of Ewing's sarcoma, with an initial positive response to
+an IGF1R inhibitor followed by resistance. <span style='background:yellow'>Both
+patients subsequently responded to a combination of an IGF1R inhibitor and a
+mammalian target of rapamycin (mTOR) inhibitor.</span> We performed
+morphoproteomic profiling to elucidate the functional signaling pathways in
+both patients.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Methods</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Patient
+Selection, Treatment and Clinical Assessments</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>We reviewed the medical records
+of two patients with Ewing's sarcoma who were seen in the Phase I Clinical
+Trials Program at The University of Texas MD Anderson Cancer Center and
+initially treated with an IGF1R inhibitor alone, then subsequently with an
+IGF1R and mTOR inhibitor combination. The patients in this manuscript have
+given written informed consent (as outlined in the PLoS consent form) to
+publication of their clinical details. Treatment and consent on investigational
+trials, and data collection and morphoproteomic analysis were performed in
+accordance with the guidelines of the University of Texas MD Anderson Cancer
+Center Institutional Review Board (IRB).</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>The patients in the manuscript
+were derived from two different Phase I studies and a Phase II study using
+different IGF1R inhibitors and all the studies have been registered in <a
+href="http://www.clinicaltrials.gov/" target="pmc_ext">www.clinicaltrials.gov</a>.
+The scope of the studies, current status and clinical trial registration
+identifiers are as follows:</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>1. A Multiple Ascending Dose
+Study of R1507 in Patients with Advanced Solid Tumors (now closed and not
+actively recruiting patients) NCT00400361 (Phase I),</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>2. A Study to Determine the
+Activity of SCH 717454 in Subjects with Relapsed Osteosarcoma or Ewing's
+Sarcoma (Study P04720AM3) (now closed and not actively recruiting patients)
+NCT00617890 (Phase II),</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>3. IMC-A12 in Combination with
+Temsirolimus (CCI-779) in Patients With Advanced Cancers (Study is closed to
+Ewing's Sarcoma cohort) NCT00678769 (Phase I).</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>After initiation of an
+investigational therapy, patients were evaluated clinically at 3- to 4-week
+intervals. At each visit, a history was taken and physical examination
+performed along with comprehensive metabolic and hematologic panels. Patients
+were assessed for the onset of new symptoms and compliance with the
+investigational therapy. Tumor response was determined using Response
+Evaluation Criteria in Solid Tumors (RECIST) version 3.1 by positron emission
+tomography/computed tomography (PET/CT) scans or CT scans obtained about every
+six to eight weeks. Sections of original and recurrent tumor were available for
+analysis. The morphoproteomic analysis reported in this manuscript was not a
+part of the original Phase 1 trial protocols, and were carried out as a
+separate subsequent analysis. Patient consent and MD Anderson IRB approval were
+obtained for morphoproteomic analysis as outlined above.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Immunohistochemical
+and Morphoproteomic Analysis</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Immunohistochemical (IHC) probes
+were used to detect the following phosphorylated (p) antigens as published
+previously<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Zenali1">[16]</a>:
+p-mTOR (Ser 2448); p-Akt (Ser 473);and p-extracellular signal-regulated kinase
+(ERK) 1/2 (Thr 202/Tyr204) [Cell Signaling Technology, Beverly, MA]; and
+p-signal transducer and activator of transcription (STAT)3 (Tyr 705) [Santa
+Cruz Biotechnology, Santa Cruz, CA]. In addition, IHC probes in specimens from
+the two patients were applied to detect the expressions of CD99
+(DakoCytomation, Carpinteria, CA) and nestin (abcam, Cambridge, MA). <span
+style='background:yellow'>Chromogenic signals were evaluated by brightfield
+microscopy and semi-quantified with regard to percentage of cells stained
+(0�100%) and the staining intensity (0: non-staining, 1+: weak staining, 2 +:
+moderate staining, and 3 +: strong staining).</span> Subcellular
+compartmentalizations were assessed as plasmalemmal, cytoplasmic, and/or
+nuclear. Concurrently run positive and negative IHC controls reacted
+appropriately. The methods have been published previously <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Brown1">[7]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Brown2">[9]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Zenali1">[16]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shen1">[17]</a>
+and were performed in a laboratory that is certified under the Clinical
+Laboratory Improvement Amendments of 1988 (�CLIA�) as qualified to perform
+high-complexity clinical testing.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Results</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Patient outcomes with
+chemotherapy and targeted therapy are summarized below.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Patient 1 </span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>A twenty-four year old Caucasian
+woman presented with a three-year history of back pain and left lower extremity
+pain. Magnetic resonance imaging (MRI) revealed a sacral mass, which was
+determined to be Ewing's sarcoma following pathological assessment at MD
+Anderson. The tumor cells were positive for CD99 and negative for chromogranin
+A, keratin and desmin. She underwent six cycles of intravenous chemotherapy
+through central line with vincristine (2 mg intravenous [IV]on day 1),
+adriamycin (37.5 mg/m2/day IV for 2 days), and ifosfamide (2500 mg/m2 IV for 4
+days) with MESNA uroprotection, followed by resection of the tumor, confirmed
+as being Ewing's sarcoma. Fluorescent in situ hybridrization showed a positive
+result for a clone with an <i>EWSR1</i> gene rearrangement. The patient
+received postoperative radiation therapy, followed by six cycles of adjuvant
+chemotherapy with irinotecan. After six months of follow-up, lung metastases
+were discovered. She was started on etoposide and after five months, her tumors
+progressed. Liposomal doxorubicin (Doxil) was initiated, but stopped after
+tumor progression. The patient then underwent thoracotomy for removal of tumor,
+followed by erlotinib, followed by another lung resection.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>She was then referred to the
+Phase I clinic at MD Anderson Cancer Center. A CT scan showed enlargement of
+numerous pulmonary metastatic lesions, the largest measuring 5.9 cm�5.1 cm. She
+was treated on three sequential Phase I trials, with continued disease
+progression. In December 2006, the patient was started on a Phase I study of
+R1507 (Roche, Nutley NJ), a fully human IgG1 type monoclonal antibody against
+IGF1R. Within six weeks, she had a dramatic response, with near complete tumor
+regression (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g001/"
+target=figure>Figure 1</a>, previously described in <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Kurzrock1">[12]</a>).
+No toxicity was noted. After 20 months of continued treatment a small focus of
+growing residual disease was found followed by surgical resection. Therapy
+continued for another 15 months, followed by progressed disease in the
+patient's lungs. She was started on another study using a different anti-IGF1R
+antibody (IMC-A12; Imclone, San Diego CA) <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rowinsky1">[18]</a>
+in combination with the mTOR inhibitor temsirolimus (NCT00678769). She
+tolerated this combination without any major side effects except a decrease in
+platelet counts. After 14 months of treatment, both PET/CT and chest CT scans
+show no disease (complete response) (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g002/"
+target=figure>Figure 2</a>) and she continues on treatment.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g001/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=41 id="Picture 8"
+src="PMC3071831%20table%201_files/image001.gif" alt="Figure 1"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g001/"
+target=figure>Figure 1</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Imaging
+Responses in Ewing's sarcoma patient 1.</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g002/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=35 id="Picture 7"
+src="PMC3071831%20table%201_files/image002.gif" alt="Figure 2"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g002/"
+target=figure>Figure 2</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Imaging
+Responses in Ewing's sarcoma patient 1.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Patient 2 </span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>A twenty-one year old Caucasian
+man presented with back pain radiating to the left leg in December 2006. An MRI
+revealed a large left iliac mass extending into the sacroiliac joint. Biopsy
+showed Ewing's sarcoma with a t(11;22) translocation. On presentation he had a
+large left iliac primary lesion and bilateral pulmonary nodules and no evidence
+of bone marrow disease. He was enrolled on the Children's Oncology Group Study
+AEWS0031 (NCT00006734) and received standard q 3 week regimen consisting of vincristine
+(2 mg/m2 IV push, on day 1. maximum dose 2 mg.), doxorubicin(75 mg/m2/course
+continuous IV infusion over 48 hours, beginning day 1), cyclophosphamide (1200
+mg/m2 IV infusion over 1 hour with MESNA uroprotection, on day 1), alternating
+with ifosfamide (1800 mg/m2/day IV infusion over 1 hour, Days 1�5 of each
+cycle. (9,000 mg/m2 max total dose) and etoposide (100 mg/m2/day IV infusion
+over 1 to 2 hours, days 1�5 of each cycle (500 mg/m2 total dose). His pain
+improved after one treatment and he had an excellent response. He then received
+55.8 Gy radiation in 31 fractions to the pelvis for local control of the
+unresectable disease, as well as whole lung radiation therapy for his pulmonary
+nodules at the end of chemotherapy. He completed therapy with no evidence of
+disease. Eight months later he developed recurrent pulmonary nodules. A PET/CT
+scan showed activity only in lungs. He received topotecan and cyclophosphamide,
+and although his tumors responded initially, they eventually progressed. The
+patient then received temozolomide and irinotecan, without response, followed
+by enrollment on an IGF1R inhibitor study using SCH 717454 (Schering,
+Kenilworth NJ), an IGF1R antibody (19D12) <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah2">[4]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Wang1">[19]</a>.
+He had near complete response (18 of 19 nodules improving or disappeared)
+following 7 cycles. However, after 4 months, a solitary left lung nodule began
+to grow, and he was taken off study for progressive disease by RECIST. A
+thoracoscopic biopsy was done and confirmed Ewing's sarcoma. Subsequently, he
+was started on etoposide, but disease continued to progress. He then presented
+to the MD Anderson Phase I clinic and was enrolled on the protocol of IMC-A12,
+IGF1R antibody in combination with Temsirolimus, mTOR inhibitor (NCT00678769).
+Three out of four nodules showed a near complete response and one nodule
+remained stable. However, after four months, one nodule began to grow, and he
+was removed from study (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g003/"
+target=figure>Figure 3</a>). The non-responding tumor was biopsied, and Ewing's
+sarcoma was confirmed. Subsequently, the patient was treated with high-dose
+ifosfamide and also received proton radiation therapy to the lung nodule.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g003/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=24 id="Picture 6"
+src="PMC3071831%20table%201_files/image003.gif" alt="Figure 3"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g003/"
+target=figure>Figure 3</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Imaging
+Responses in Ewing's sarcoma patient 2.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:13.5pt;font-family:"Times New Roman","serif"'>Morphoproteomics
+/Correlative Studies</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>The
+pre-treatment similarities and differences between patient 1 and 2 are shown in
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/table/pone-0018424-t001/"
+target=true>Table 1</a>.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/table/pone-0018424-t001/"
+target=table><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=204 height=128 id="Picture 5"
+src="PMC3071831%20table%201_files/image004.png" alt="Table 1"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/table/pone-0018424-t001/"
+target=table>Table 1</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Targeted
+Morphoproteomic Profiling of Ewing Sarcoma Patients Treated with Insulin-like
+Growth Factor-1 Receptor (IGF-1R) Inhibitor: Pretreatment Specimens.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Patient 1 </span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>A limited number of sections of
+metastatic tumor from the following time points were available 1) before IGF1R
+antibody therapy; and 2) from the resistant recurrence that emerged during
+IGF1R antibody therapy (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g004/"
+target=figure>Figure 4</a>). <span style='background:yellow'>Constitutive mTOR
+pathway activation was noted in the pre-anti-IGF1R specimen (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g004/"
+target=figure>Figure 4</a>) and reflected p-mTOR (Ser2448) expression in both
+cytoplasmic plasmalemmal and nuclear compartments.</span> Similar findings have
+been reported in the Ewing's family of tumors <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Zenali1">[16]</a>.
+<span style='background:yellow'>There was also cytoplasmic plasmalemmal
+expression of p-Akt (Ser473), but with almost no nuclear expression, which was
+more consistent with P13K/Akt/mTORC1 signaling pathway activity.</span> <span
+style='background:yellow'>In contrast, there was apparent upregulation of these
+analytes in the specimen from the IGF1R-resistant tumor that emerged during
+IGF1R antibody therapy, with predominant nuclear expression of both p-mTOR
+(Ser2448) and p-Akt (Ser473), consistent with mTORC2 pathway activation <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shen1">[17]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rosner1">[20]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Sarbassov1">[21]</a>.</span>
+<span style='background:yellow'>In both biopsies, only endothelial cells were
+immunopositive for nestin, a neural precursor/differentiation marker, whereas
+the tumor cells were immunonegative.</span> <span style='background:yellow'>Notably,
+p-STAT3(Tyr705) was detected in a very minor component of the tumoral nuclei in
+the initial biopsy and was variably expressed in the post-anti- IGF1R treatment
+biopsy, ranging up to approximately one-half of the tumor cells in one
+microanatomical region.</span></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g004/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=133 id="Picture 4"
+src="PMC3071831%20table%201_files/image005.gif" alt="Figure 4"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g004/"
+target=figure>Figure 4</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Schematic
+clinical history and immunohistochemistry of patient 1.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Patient 2 </span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Sections of tumor before IGF1R
+antibody therapy and after IGF1R antibody combined with mTOR inhibitor therapy
+were available for analysis (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figure 5</a>). A greater number of sections were available than
+for patient 1, permitting more extensive pathway evaluation (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figure 5</a>).</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=147 id="Picture 3"
+src="PMC3071831%20table%201_files/image006.gif" alt="Figure 5"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figure 5</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Schematic
+clinical history and immunohistochemistry of patient 2.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>There was constitutive activation
+of mTOR in the patient's original and recurrent tumor, evidenced by
+phosphorylation (p) of mTOR in a putative site of activation, Ser2448, with a
+predominantly nuclear distribution most likely indicating an mTORC2 complex
+(rictor + p-mTOR), <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rosner1">[20]</a>
+and correlative activation of Akt on Ser473 consistent with the presence of
+both mTORC2 and dominant expression of p-Akt (Ser473) in tumoral nuclei <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shen1">[17]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Rosner1">[20]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Sarbassov1">[21]</a>. <span style='background:yellow'>
+Constitutive activation of the Ras/Raf /ERK pathway is noted in both specimens
+by p-ERK 1/2 (Thr202/Tyr204) expression, showing nuclear translocation <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Brown2">[9]</a>.</span>
+The expression appeared generalized and uniform in recurrent tumor and, to a
+lesser degree, in the original (primary) tumor. <span style='background:yellow'>The
+signal transducer and activator of transcription (STAT)3 pathway was
+constitutively activated in both the primary and recurrent tumor, as evidenced
+by expression with nuclear translocation of p-STAT3 (Tyr 705) in the vast
+majority of tumor cells.</span> <span style='background:yellow'>The neural and
+endothelial precursor marker, nestin, was weakly expressed in the original
+(primary) tumor (0�1+).</span> <span style='background:yellow'>However, in the
+recurrent tumor, nestin was expressed in approximately 25% to 50% of tumor
+cells (up to 3+ cytoplasmic plasmalemmal expression) (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figures 5</a> and <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g006/"
+target=figure>&#8203;6</a>).</span>
+Neural differentiation markers to CD56 and synaptophysin were expressed in
+recurrent tumor in the plasmalemmal and cytoplasmic compartments (not shown).</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g006/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=172 id="Picture 2"
+src="PMC3071831%20table%201_files/image007.gif" alt="Figure 6"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g006/"
+target=figure>Figure 6</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>High
+magnification immunohistochemistry showing nuclear versus cytoplasmic staining.</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Discussion</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>There is no effective therapy for
+advanced Ewing's sarcoma and patients with advanced metastatic disease succumb
+to their disease. Two patients with Ewing's sarcoma who responded, but then
+progressed after IGF1R inhibitor therapy alone showed consistently high mTORC2
+expression in their tumors. Both patients responded after treatment to combined
+IGF1R and mTOR inhibition. The time interval between the first and the second
+IGF1R based therapy was 1 month for patient 1 and 4 months for patient 2. One
+patient had a continued response and has remained on IGF1R-based therapy for
+more than 50 months, the last 14 months of which has been an IGF1R inhibitor
+combined with an mTOR inhibitor. The patient's last imaging scans showed no
+disease. Unfortunately, the second patient acquired resistance.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Preclinical studies have shown
+that mTOR is a bypass pathway for IGF1R targeting. Similarly, combined
+inhibition of IGF1R and mTOR may circumvent counterproductive rapamycin-induced
+upregulation of Akt that can occur within 6 hours of treatment <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Subbiah1">[3]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Bertrand1">[22]</a>.
+Several Phase I/II clinical trials are currently investigating this potential
+synergy in advanced malignancies. (Clinicaltrials.gov identifiers: NCT00678769;
+NCT00880282 and NCT01016015).</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>In this
+context, our finding of upregulated p-Akt (Ser473) and p-mTOR (Ser2448) in
+patient 1's resistant tumor that emerged following IGF1R antibody therapy is
+consistent with a resistance mechanism that could be related to upregulation of
+TORC2.</span><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>
+The patient was, however, treated successfully with termsirolimus, a TORC1
+inhibitor. Although short-term inhibition of TORC1 drives TORC2 formation and
+results in Akt activation, long-term TORC1 inhibition abrogates Akt expression
+through activation of S6K by PKD1 and also blocks TORC2 assembly <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shah1">[23]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Sarbassov2">[24]</a>.
+Activated S6K can down-modulate Akt by acting against insulin receptor
+substrate 1 proteins and P13K <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shah1">[23]</a>.
+Although these pathways have often been depicted as linear, clearly there is a
+complex interplay among signaling elements (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g007/"
+target=figure>Figure 7</a>). EWS-FLI1 fusion protein, the hallmark of Ewing's
+sarcoma, downregulates insulin-like growth factor binding protein 3, IGFBP3,
+and upregulates IGF-1 expression resulting in enhanced IGF1R <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Prieur1">[25]</a>.
+Therefore, treatment with an IGF1R inhibitor may counteract EWS-FLI1-mediated
+upregulation of the insulin receptor (IR) /IGF1R machinery. Temsirolimus is a
+�rapalog� and rapamycin has been shown to downregulate the EWS-FLI1 fusion
+protein <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-MateoLozano1">[26]</a>
+possibly also lessening IR/IGF1R signaling, and therefore providing an
+additional pathway by which this molecule might be operative in this patient.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g007/"
+target=figure><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+text-decoration:none'><img border=0 width=100 height=75 id="Picture 1"
+src="PMC3071831%20table%201_files/image008.gif" alt="Figure 7"></span></a></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g007/"
+target=figure>Figure 7</a></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Simplified
+Insulin-like growth factor 1 receptor (IGF1R) and mTORC1 and mTORC2 signaling
+in relation with EWS-FLI1.</span></b></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>In patient 2,
+constitutive activation of Akt and mTOR is similar to that in patient 1's
+recurrent tumor, and is seen in baseline pre-treatment tumor and in tumor that
+was resistant to IGF1R and mTOR combination treatment.</span><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'> These
+observations suggest the possibility that the TORC2 pathway has a role in
+primary and recurrent tumor <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shen1">[17]</a>
+(<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figures 5</a>, <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g006/"
+target=figure>&#8203;<span style='text-decoration:none'>,6,</span>6</a>, and <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g007/"
+target=figure>&#8203;<span style='text-decoration:none'>and7).</span>7</a>).
+After IGFR treatment alone, response was followed by resistance. Similarly, an
+initial response was followed by re-emergence of resistance following treatment
+with the IGFR-mTOR inhibitor combination. The mechanism of response to the IGFR
+and mTOR combination may be similar to that in patient 1, that is, through Akt
+and mTOR suppression that occurs with chronic temsirolimus exposure <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Shah1">[23]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Sarbassov2">[24]</a>.
+The biologic activity of the mTOR inhibitor temsirolimus is further confirmed
+by the upregulation of nestin seen in the patient's IGFR/mTOR resistant tumor,
+since temsirolimus down-modulates EWS-FLI1, which would be expected to
+upregulate nestin <a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-MateoLozano1">[26]</a>,
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-Galli1">[27]</a>
+(<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g007/"
+target=figure>Figure 7</a>). However, other pathways are operative in this
+patient's tumor, including Ras/Raf /ERK and STAT3 (<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/figure/pone-0018424-g005/"
+target=figure>Figure 5</a>).The relative overexpression of CD99 in this patient
+is consistent with activation of this pathway (not shown). In addition, p-Akt
+and S6K are not downregulated by combined IGF1R and mTOR inhibition, perhaps
+due to Ras/Raf/ERK activation. These signals might account for tumor resistance
+<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#pone.0018424-MateoLozano1">[26]</a>.
+Of interest, in addition to nestin the patient's recurrent tumor showed a
+propensity toward differentiation along neural lines, as demonstrated by
+increased expression of other neural markers such as CD56 or neural cell
+adhesion molecule and synaptophysin.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif";background:yellow'>We have
+demonstrated resistance/response mechanisms by morphoproteomics in two patients
+with advanced Ewing's sarcoma.</span><span lang=EN style='font-size:12.0pt;
+font-family:"Times New Roman","serif"'> This needs to be analyzed retrospectively
+and validated prospectively in a larger dataset to allow more robust
+conclusions. Next generaration whole exome sequencing of patients with Ewing's
+sarcoma responding to IGF1R based treatment and reverse phase protein array
+analysis in patients acquiring resistance is underway and will help to decipher
+unidentified mechanisms and perhaps unravel novel mutations and genetic
+aberrations in the response and resistance pathways.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><span lang=EN style='font-size:
+12.0pt;font-family:"Times New Roman","serif"'>Our observations suggest that
+rational combinations of targeted therapy, which modulate multiple relevant
+pathways, may be useful in overcoming resistance in patients with Ewing's
+sarcoma. Inhibition of IGF1R and/or IGF1R and mTOR has resulted in significant
+clinical activity in patients with Ewing's sarcoma. Study of an IGF1R inhibitor
+combined with mTOR inhibitor is currently underway. Our pilot results suggests
+that morphoproteomic assessment of signaling pathway activation in Ewing's
+sarcoma merits further investigation as a guide to understanding response and
+resistance signatures.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>Footnotes</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Competing
+Interests: </span></b><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>The
+authors have declared that no competing interests exist.</span></p>
+
+<p class=MsoNormal style='line-height:normal'><b><span lang=EN
+style='font-size:12.0pt;font-family:"Times New Roman","serif"'>Funding: </span></b><span
+lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>This
+study was funded by in part by U01 CA062461-17 (RK) and NCI-CTEP
+R21-CA13763301A1 (AN). This work was also supported by Grant RR024148 from the
+National Center for Research Resources (NCRR), National Institutes of Health
+(NIH), and NIH Roadmap for Medical Research. Its contents are solely the
+responsibility of the authors and do not necessarily represent the official
+view of NCRR or NIH. Information on NCRR is available at <a
+href="http://www.ncrr.nih.gov/" target="pmc_ext">http://www.ncrr.nih.gov/</a>.
+Information on Reengineering the Clinical Research Enterprise can be obtained
+from <a
+href="http://nihroadmap.nih.gov/clinicalresearch/overview-translational.asp"
+target="pmc_ext">http://nihroadmap.nih.gov/clinicalresearch/overview-translational.asp</a>.
+The University of Texas MD Anderson Cancer Center is supported in part by the
+NIH through Cancer Center Support Grant no. CA 016672. Presented in part as a
+platform presentation at the 16th Annual Meeting of the Connective Tissue
+Oncologic Society, November 11-13, 2010, Paris, France. The funders had no role
+in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'><a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/"
+title="Go to other sections in this page">Go to:</a></span></p>
+
+<div style='border:none;border-bottom:solid #97B0C8 1.0pt;padding:0in 0in 0in 0in'>
+
+<p class=MsoNormal style='line-height:normal;border:none;padding:0in'><b><span
+lang=EN style='font-size:18.0pt;font-family:"Times New Roman","serif"'>References</span></b></p>
+
+</div>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>1.
+Balamuth NJ, Womer RB. Ewing's sarcoma. Lancet Oncol. 2010;11:184�192. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/20152770" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>2.
+Smith MA, Seibel NL, Altekruse SF, Ries LA, Melbert DL, et al. Outcomes for
+children and adolescents with cancer: challenges for the twenty-first century.
+J Clin Oncol. 2010;28:2625�2634. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881732/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/20404250" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>3.
+Subbiah V, Anderson P, Lazar AJ, Burdett E, Raymond K, et al. Ewing's sarcoma:
+standard and experimental treatment options. Curr Treat Options Oncol.
+2009;10:126�140. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19533369"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>4.
+Subbiah V, Anderson PM. Targeted Therapy of Ewing's Sarcoma. Sarcoma.
+2010;Volume 2011 (2011) Article ID 686985, doi:10.1155/2011/686985.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>5.
+Ludwig JA. Ewing sarcoma: historical perspectives, current state-of-the-art,
+and opportunities for targeted therapy in the future. Curr Opin Oncol.
+2008;20:412�418. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/18525337"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>6.
+Rodon J, Perez J, Kurzrock R. Combining targeted therapies: practical issues to
+consider at the bench and bedside. Oncologist. 2010;15:37�50. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227881/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/20080862" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>7.
+Brown RE. Morphogenomics and morphoproteomics: a role for anatomic pathology in
+personalized medicine. Arch Pathol Lab Med. 2009;133:568�579. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/19391654" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>8.
+Naing A, Kurzrock R. Chemotherapy resistance and retreatment: a dogma
+revisited. Clin Colorectal Cancer. 2010;9:E1�4. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/20378496" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>9.
+Brown RE. Morphoproteomics: exposing protein circuitries in tumors to identify
+potential therapeutic targets in cancer patients. Expert Rev Proteomics.
+2005;2:337�348. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/16000081"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>10.
+Rodon J, DeSantos V, Ferry RJ, Jr, Kurzrock R. Early drug development of
+inhibitors of the insulin-like growth factor-I receptor pathway: lessons from
+the first clinical trials. Mol Cancer Ther. 2008;7:2575�2588. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3101870/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/18790742" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>11.
+Tolcher AW, Sarantopoulos J, Patnaik A, Papadopoulos K, Lin CC, et al. Phase I,
+pharmacokinetic, and pharmacodynamic study of AMG 479, a fully human monoclonal
+antibody to insulin-like growth factor receptor 1. J Clin Oncol.
+2009;27:5800�5807. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/19786654"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>12.
+Kurzrock R, Patnaik A, Aisner J, Warren T, Leong S, et al. A phase I study of
+weekly R1507, a human monoclonal antibody insulin-like growth factor-I receptor
+antagonist, in patients with advanced solid tumors. Clin Cancer Res.
+2010;16:2458�2465. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20371689"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>13.
+Olmos D, Postel-Vinay S, Molife LR, Okuno SH, Schuetze SM, et al. Safety,
+pharmacokinetics, and preliminary activity of the anti-IGF-1R antibody
+figitumumab (CP-751,871) in patients with sarcoma and Ewing's sarcoma: a phase
+1 expansion cohort study. Lancet Oncol. 2010;11:129�135. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2941877/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/20036194" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>14.
+Maki RG. Small is beautiful: insulin-like growth factors and their role in
+growth, development, and cancer. J Clin Oncol. 2010;28:4985�4995. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3039924/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/20975071" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>15.
+Olmos D, Tan DS, Jones RL, Judson IR. Biological rationale and current clinical
+experience with anti-insulin-like growth factor 1 receptor monoclonal
+antibodies in treating sarcoma: twenty years from the bench to the bedside.
+Cancer J. 2010;16:183�194. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/20526094" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>16.
+Zenali MJ, Zhang PL, Bendel AE, Brown RE. Morphoproteomic Confirmation of
+Constitutively Activated mTOR, ERK, and NF-kappaB Pathways in Ewing Family of
+Tumors. Ann Clin Lab Sci. 2009;39:160�166. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/19429803" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>17.
+Shen Q, Stanton ML, Feng W, Rodriguez ME, Ramondetta L, et al. Morphoproteomic
+analysis reveals an overexpressed and constitutively activated phospholipase
+D1-mTORC2 pathway in endometrial carcinoma. Int J Clin Exp Pathol.
+2010;4:13�21. [<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016100/">PMC
+free article</a>] [<a href="http://www.ncbi.nlm.nih.gov/pubmed/21228924"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>18.
+Rowinsky EK, Youssoufian H, Tonra JR, Solomon P, Burtrum D, et al. IMC-A12, a
+Human IgG1 Monoclonal Antibody to the Insulin-Like Growth Factor I Receptor.
+Clinical Cancer Research. 2007;13:5549s�5555s. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/17875788" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>19.
+Wang Y, Lipari P, Wang X, Hailey J, Liang L, et al. A fully human insulin-like
+growth factor-I receptor antibody SCH 717454 (Robatumumab) has antitumor
+activity as a single agent and in combination with cytotoxics in pediatric
+tumor xenografts. Mol Cancer Ther. 2010;9:410�418. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/20124453" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>20.
+Rosner M, Hengstschlager M. Cytoplasmic and nuclear distribution of the protein
+complexes mTORC1 and mTORC2: rapamycin triggers dephosphorylation and
+delocalization of the mTORC2 components rictor and sin1. Hum Mol Genet.
+2008;17:2934�2948. [<a href="http://www.ncbi.nlm.nih.gov/pubmed/18614546"
+target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>21.
+Sarbassov DD, Guertin DA, Ali SM, Sabatini DM. Phosphorylation and regulation
+of Akt/PKB by the rictor-mTOR complex. Science. 2005;307:1098�1101. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/15718470" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>22.
+Bertrand FE, Steelman LS, Chappell WH, Abrams SL, Shelton JG, et al. Synergy
+between an IGF-1R antibody and Raf//MEK//ERK and PI3K//Akt//mTOR pathway
+inhibitors in suppressing IGF-1R-mediated growth in hematopoietic cells.
+Leukemia. 2006;20:1254�1260. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/16642049" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>23.
+Shah OJ, Wang Z, Hunter T. Inappropriate activation of the TSC/Rheb/mTOR/S6K
+cassette induces IRS1/2 depletion, insulin resistance, and cell survival
+deficiencies. Curr Biol. 2004;14:1650�1656. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/15380067" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>24.
+Sarbassov DD, Ali SM, Sengupta S, Sheen JH, Hsu PP, et al. Prolonged rapamycin
+treatment inhibits mTORC2 assembly and Akt/PKB. Mol Cell. 2006;22:159�168. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/16603397" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>25.
+Prieur A, Tirode F, Cohen P, Delattre O. EWS/FLI-1 silencing and gene profiling
+of Ewing cells reveal downstream oncogenic pathways and a crucial role for
+repression of insulin-like growth factor binding protein 3. Mol Cell Biol.
+2004;24:7275�7283. [<a
+href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC479730/">PMC free article</a>]
+[<a href="http://www.ncbi.nlm.nih.gov/pubmed/15282325" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>26.
+Mateo-Lozano S, Tirado OM, Notario V. Rapamycin induces the fusion-type
+independent downregulation of the EWS/FLI-1 proteins and inhibits Ewing's
+sarcoma cell proliferation. Oncogene. 2003;22:9282�9287. [<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/14681687" target="pmc_ext">PubMed</a>]</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal'><span lang=EN style='font-size:12.0pt;font-family:"Times New Roman","serif"'>27.
+Galli S, Li G, Tsokos M. Pediatrics. Modern Pathology. 2010;23:393A�395A.</span></p>
+
+<ul type=disc>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#__abstractid1066283title">Abstract</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#s1title">Introduction</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#s2title">Methods</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#s3title">Results</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#s4title">Discussion</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#__fn-groupid438816title">Footnotes</a></span></li>
+ <li class=MsoNormal style='line-height:normal;display:none'><span lang=EN
+     style='font-size:12.0pt;font-family:"Times New Roman","serif";display:
+     none'><a
+     href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071831/#__ref-listid751326title">References</a></span></li>
+</ul>
+
+<div class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span lang=EN style='font-size:12.0pt;
+font-family:"Times New Roman","serif"'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span lang=EN style='font-size:12.0pt;
+font-family:"Arial","sans-serif"'>Articles from PLoS ONE are provided here
+courtesy of <b>Public Library of Science</b></span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
