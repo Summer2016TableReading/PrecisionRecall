@@ -1,0 +1,164 @@
+Score: 0.0 Sentence: IOSE27, a normal OSE cell line, was obtained from the American Tissue Culture Center
+Score: 0.0 Sentence: The diagnoses were confirmed by a surgical pathologist before the tumour samples were harvested for experiments
+Score: 0.0 Sentence: Primary tumour cultures were established from freshly isolated tumour samples by immunosorting or trypsinisation
+Score: 0.0 Sentence: After filtration through sieve membranes (with 100? ? m pores), tumour cells were immunosorted using an epithelial specific antigen (Ep-CAM) antibody bound to Dynal? beads (Dynal, Oslo, Norway) following the vendor's instructions ( Nakayama et al , 2006 )
+Score: 0.0 Sentence: PCR was then carried out followed by nucleotide sequencing using the iCycler (Bio-Rad, Hercules, CA, USA)
+Score: 0.0 Sentence: The sequences were analysed using the Lasergene programme, DNASTAR (Madison, WI, USA)
+Score: 0.0 Sentence: The membranes were probed with an active ERK1/2 antibody (pTEpY, 1?:?5000) (Cell Signaling Technology) followed by a peroxidase-conjugated anti-mouse or anti-rabbit immunoglobulin (1?:?20?000)
+Score: 0.0 Sentence: The same membrane was probed with an antibody that reacted with total ERK1/2 (1?:?5000) (Cell Signaling Technology) for loading controls
+Score: 0.0 Sentence: Western blots were developed by chemiluminescence (Pierce, Rockford, IL, USA)
+Score: 0.0 Sentence: An methyl thiazoyl tetrazorium (MTT) cell-growth assay was performed ( Nakayama et al , 2001 ) 96?h after treating the cells with CI-1040 (provided by Pfizer, Inc., New York, NY, USA) at 5? ? M or with dimethyl sulphoxide (DMSO) (control)
+Score: 0.0 Sentence: Apoptotic cells were detected with 4',6-diamidino-2-phenylindole (DAPI) staining
+Score: 0.0 Sentence: The data were expressed as the mean ?1 s.d
+Score: 0.0 Sentence: from triplicates
+Score: 0.0 Sentence: The data were expressed as the mean ?1 s.d
+Score: 0.0 Sentence: Four weeks BALB/c nu/nu mice were purchased from Charles River Japan Inc
+Score: 0.0 Sentence: (Kanagawa, Japan)
+Score: 0.0 Sentence: Four mice were used for each experimental group
+Score: 0.0 Sentence: We anaesthetised the mice before they were rendered moribund by the experiment
+Score: 0.0 Sentence: The total tumour weight at that time was around 500?mg
+Score: 0.0 Sentence: Necropsy was carried out on all mice to assess i.p
+Score: 0.0 Sentence: Data were censored when patients were lost to follow-up
+Score: 0.0 Sentence: This is consistent with an earlier report ( Mizumoto et al , 2007 )
+Score: 0.0 Sentence: It is likely that KRAS/BRAF mutation is not the only determinant for activating ERK1/2
+Score: 0.34123928013922106 Sentence: All the cases received 6?12 courses of this regimen
+Score: 0.34123928013922106 Sentence: The acquisition of tumour tissues was approved by the Shimane University Institutional Review Board
+Score: 0.34123928013922106 Sentence: The paraffin tissue blocks were organised into tissue microarrays, which were made by removing 3?mm diameter cores of tumour from each block
+Score: 0.34123928013922106 Sentence: The areas for coring were selected by surgical pathologists (MF) on the basis of a review of the H&E slides
+Score: 0.34123928013922106 Sentence: The acquisition of anonymous tissue specimens was approved by the Shimane University Institutional Review Board
+Score: 0.34123928013922106 Sentence: Immunohistochemistry was carried out on tissue microarrays at a dilution of 1?:?1000 followed by detection with the En Vision+ System using the peroxidase method (DAKO, Carpinteria, CA, USA)
+Score: 0.34123928013922106 Sentence: The percentage of positive cells was estimated by randomly counting ?500 tumour cells from three different high-power fields (? 40) within one specimen
+Score: 0.34123928013922106 Sentence: The data were expressed as a percentage of the DMSO control
+Score: 0.34123928013922106 Sentence: To confirm the presence of apoptotic cells, DAPI-stained cells were also stained with Annexin V dye
+Score: 0.34123928013922106 Sentence: of triplicates
+Score: 0.34123928013922106 Sentence: When the model for the mouse study was first designed, the end point was set to be the day when the mice began to produce ascites, or acute gain of weight due to tumour growth, for reasons of ethical origin
+Score: 0.34123928013922106 Sentence: Tumours that start causing ascites have a chance of developing other malignant characteristics, which can become harmful progressively
+Score: 0.34123928013922106 Sentence: During the study, the mice were killed when it was discovered that the abdomen of one of the mice had begun to distend because of ascites
+Score: 0.34123928013922106 Sentence: The total dose of CI-1040 for each mouse was 63?mg
+Score: 0.34123928013922106 Sentence: Four weeks after the cell injection (three weeks after CI-1040 injection), the abdomens of the control group mice had begun to distend
+Score: 0.34123928013922106 Sentence: Overall survival was calculated from the date of diagnosis to the date of death or last follow-up
+Score: 0.34123928013922106 Sentence: Both of these codons are mutation hot spots
+Score: 0.34123928013922106 Sentence: This may reflect a more indolent course of tumours with KRAS/BRAF mutations
+Score: 0.4557987278845807 Sentence: The antibody used in this study was a rabbit polyclonal antibody that reacted with phosphorylated but not unphosphorylated ERK1/2 (Cell Signaling Technology)
+Score: 0.4557987278845807 Sentence: Cell lysates were prepared by dissolving cell pellets in Laemmli sample buffer (BioRad, Hercules, CA, USA) supplemented with 5% ? -mercaptoethanol (Sigma, St Louis, MO, USA)
+Score: 0.4557987278845807 Sentence: For the cell-growth assay, cells were plated at the same density (3 ? 103 cells per well) in 96-well plates
+Score: 0.4557987278845807 Sentence: In this study, we focussed on CI-1040 because it inhibited the common downstream target in the RAS signalling pathway
+Score: 0.6009538521027571 Sentence: All the patients were primarily treated with cytoreductive surgery and adjuvant platinum and taxane chemotherapy (CBDCA AUC5, Paclitaxel 175?mg?m?2 or Docetaxel 70?mg?m?2)
+Score: 0.6009538521027571 Sentence: OSE7 and OSE10 normal OSE cell lines were a kind gift from Dr Hidetaka Katabuchi (Kumamoto University, Kumamoto, Japan)
+Score: 0.6009538521027571 Sentence: For immunosorting, fresh tumour tissues were minced and incubated with collagenase A (2?mg?ml?1) at 37??C for 40?min
+Score: 0.6009538521027571 Sentence: Genomic DNA was purified from all the cell lines and formalin-fixed, paraffin-embedded tissues using a Qiaquick polymerase chain reaction (PCR) purification kit (Qiagen, Valencia, CA, USA)
+Score: 0.6009538521027571 Sentence: The mean and standard deviation (s.d.) were obtained from three experiments
+Score: 0.6009538521027571 Sentence: Bromodeoxyuridine (BrdUrd) uptake and staining were measured using a cell proliferation kit (Amersham, Buckinghamshire, England, UK) and apoptotic cells were detected using an Annexin V staining kit (Bio Vision, Mountain View, CA, USA)
+Score: 0.6009538521027571 Sentence: tumour growth, and the tumours were excised and weighed
+Score: 0.6009538521027571 Sentence: The data were plotted as Kaplan?Meier curves, and the statistical significance was determined by the log-rank test
+Score: 0.7970380080238018 Sentence: A positive reaction was defined as a discrete localisation of the brown chromagen in the nucleus or cytoplasm
+Score: 0.7970380080238018 Sentence: Cases in which more than 5% of the tumour cells showed detectable immunoreactivity were scored as positive
+Score: 0.7970380080238018 Sentence: The Student's t -test was used to examine the statistical significance in the difference of growth-assay data
+Score: 0.7970380080238018 Sentence: This discrepancy may be because of differences in organ-specific oncogenic pathways
+Score: 0.9421931322419781 Sentence: These samples were obtained from the Department of Obstetrics and Gynecology at the Shimane University Hospital
+Score: 0.9421931322419781 Sentence: Diagnosis was based on conventional morphological examination of sections stained with haematoxylin and eosin (H&E) staining, and tumours were classified according to the WHO (World Health Organization) classification
+Score: 0.9421931322419781 Sentence: Tumour staging was carried out according to the International Federation of Gynecology and Obstetrics (FIGO) classification
+Score: 0.9421931322419781 Sentence: Similar amounts of total protein from each lysate were loaded and separated on 10% Tris-Glycine-SDS polyacrylamide gels (Novex, San Diego, CA, USA) and electroblotted to Millipore Immobilon-P polyvinylidene difluoride membranes
+Score: 0.9421931322419781 Sentence: Only four of these cell lines, MDAH2774, ES2, MPSC1, and POC1, strongly expressed p-ERK1/2
+Score: 0.9421931322419781 Sentence: To assess the mechanisms underlying growth inhibition by CI-1040, we measured the percentages of BrdUrd-labelled cells and Annexin V-labelled cells to estimate proliferation and apoptosis, respectively
+Score: 1.0567525799873378 Sentence: Freshly isolated tumour cells were allowed to grow in culture and were used for experiments within two passages
+Score: 1.0567525799873378 Sentence: The primers for PCR and sequencing were manufactured by GeneLink (Hawthorne, NY, USA), and their sequences were described in an earlier report ( Nakayama et al , 2006 )
+Score: 1.3979918601265588 Sentence: The percentages of BrdUrd-positive and Annexin V-positive cells were determined by counting approximately 400 cells from each well in 96-well plates
+Score: 1.3979918601265588 Sentence: CI-1040 was prepared in a vehicle of 10% Cremophore EL (Sigma, St Louis, MO, USA), 10% ethanol, and 80% water
+Score: 1.3979918601265588 Sentence: The time for termination of the experiment was dictated by the aforementioned ethical reasons (tumour ascites in controls), and this endpoint was observed at that time
+Score: 1.3979918601265588 Sentence: An oral formulation of CI-1040 had already been shown to be an effective MEK inhibitor and was generally well tolerated in a multicentre phase II study ( Rinehart et al , 2004 )
+Score: 1.3979918601265588 Sentence: The above observations lend strong support to the view of ?kinase addiction' by which the activating mutations in the kinase pathway confer susceptibility of the tumours to an inhibitor ( Sebolt-Leopold et al , 1999 ; Arteaga and Baselga, 2004 )
+Score: 2.008076104433962 Sentence: Cells carrying BRAF mutations have also been shown to be more sensitive to MEK inhibitors than cells with RAS mutations ( Solit et al , 2006 )
+Score: 2.0328270236828234 Sentence: The RAS?RAF?MEK?ERK pathway may play an important role in ovarian carcinogenesis but not in endometrial carcinogenesis
+Score: 2.177982147901 Sentence: Western blot analysis was performed on ovarian cancer/OSE cell lines/cultures, including OVCAR3, SKOV3, A2780, MDAH2774, ES2, MPSC1, KF28, OVK#18, OMC3, JHOC5, PC1, PC2, PC3, IOSE29, OSE7, and OSE10
+Score: 2.3740663038220444 Sentence: In addition, human papillomavirus E6/E7-immortalised primary cultures of normal ovarian surface epithelium (OSE) were also included in this study
+Score: 2.3740663038220444 Sentence: Indeed, PI3K signalling by either PIK3CA or PTEN mutations occurs in 40% of endometrial cancers but in <5% of ovarian cancers ( Tashiro et al , 1997 ; Oda et al , 2005 ; Kolasa et al , 2006 ; Nakayama et al , 2006 )
+Score: 2.3740663038220444 Sentence: The findings in this study provide new insight into the biological roles of the RAS?RAF?MEK?ERK signalling pathway in ovarian carcinomas
+Score: 2.4973183556613328 Sentence: All mice injected with CI-1040 developed significantly smaller intra-abdominal xenograft tumours than the mice carrying diluent control cells of the KRAS mutant cell line MADH2774 ( Figure 7A )
+Score: 2.519221428040221 Sentence: A set of primary cultures was established from ovarian cancers, including POC-1, POC-2, and POC-3
+Score: 2.6118778034066925 Sentence: In contrast, this effect was not seen in the KRAS mutant lines ( Preto et al , 2008 )
+Score: 2.6337808757855807 Sentence: In addition, this observation further supports the theory that ovarian carcinoma arises from multiple pathways ( Shih Ie and Kurman, 2004 , 2005 )
+Score: 3.0648286844212995 Sentence: BRAF inhibition by small interfering RNA resulted in significantly decreased proliferation and increased apoptosis in the BRAF mutant lines
+Score: 4.471298269816855 Sentence: Thus far, the MEK inhibitor CI-1040 has fared poorly in clinical trials for breast, colon, and lung cancer ( Rinehart et al , 2004 )
+Score: 4.505394460095294 Sentence: Therefore, it is not known whether the activation of KRAS or BRAF mutations alters the effects of these pathways on tumour progression
+Score: 4.619953907840655 Sentence: In this study, KRAS / BRAF mutations tended to have a favourable but not statistically significant effect on overall survival
+Score: 4.812537549956076 Sentence: Animal experiments were carried out in accordance with the regulations of the Institutional Ethical Commission (Shimane University) and of the United Kingdom Co-ordinating Committee on Cancer Research guidelines (Workman, 1998 )
+Score: 4.99157398562776 Sentence: The human ovarian carcinoma cell line KF28 (serous carcinoma) was a kind gift from Dr Yoshihiro Kikuchi (Ohki Memorial Kikuchi Cancer Clinic for Women, Saitama, Japan) ( Yamamoto et al , 2000 )
+Score: 4.99157398562776 Sentence: OVK#18 (serous carcinoma) human ovarian cancer cell line was obtained from Tohoku University (Sendai, Japan)
+Score: 5.220907759943412 Sentence: Our findings contrast with a recent report showing a positive correlation between a KRAS or BRAF mutation and clinical aggressiveness in colorectal, non-small-cell lung, and thyroid cancers ( Lievre et al , 2006 ; Lee et al , 2007 ; Massarelli et al , 2007 )
+Score: 5.44737271351234 Sentence: Similarly, alternative pathways for ERK activation, such as crosstalk with the PI3K pathway, exist in endometrial cancer but are rare in ovarian cancer
+Score: 5.562147040082633 Sentence: Tumour xenografts from both MDAH2774 ( KRAS mutant) and SKOV3 (wild type of KRAS and BRAF ) cell lines were established in a nu / nu mouse model
+Score: 5.5925278377305165 Sentence: OVCAR3, SKOV3, A2780, MDAH2774 (serous carcinoma), and ES2 (clear cell carcinoma) human ovarian cancer cell lines were obtained from the American Tissue Culture Center (Rockville, MD, USA)
+Score: 5.5925278377305165 Sentence: OMC3 (mucinous carcinoma) and JHOC5 (clear cell carcinoma) human ovarian cancer cell lines were also obtained from Riken Bioresource Center (Ibaragi, Japan)
+Score: 5.788611993651561 Sentence: In this study, we carried out a genotype?phenotype correlation of ovarian cancer cells using a MEK inhibitor, CI-1040
+Score: 6.048326565615097 Sentence: However, mutations at E585K and G463E have also been reported in ovarian cancer samples and cell lines ( Davies et al , 2002 )
+Score: 6.389565845754319 Sentence: This difference in prognostic significance between ovarian cancer and the latter types is intriguing, and it probably reflects organ-specific roles of the KRAS/BRAF pathway
+Score: 6.538221483778118 Sentence: Therefore, CI-1040 has the potential to be developed into a drug for the treatment of ovarian carcinomas in patients with either KRAS or BRAF mutations
+Score: 6.538221483778118 Sentence: Thus, inactivation of ERK1/2 results in marked growth inhibition in ovarian carcinomas with mutations in KRAS or BRAF in comparison with only a modest effect on wild-type tumours
+Score: 6.797936055741654 Sentence: Ovarian carcinomas with mutations in either KRAS or BRAF were more sensitive to growth inhibition and apoptosis induction by the MEK inhibitor, CI-1040
+Score: 6.797936055741654 Sentence: However, its favourable therapeutic index and high selectivity may outweigh its shortcomings in KRAS and BRAF mutant ovarian cancer
+Score: 7.139175335880875 Sentence: This observation suggests that ovarian carcinomas with mutations in either KRAS or BRAF are more highly dependent on the activation of the RAS?RAF?MEK?ERK pathway for cell proliferation and survival than those without such mutations
+Score: 7.139175335880875 Sentence: Therefore, detection of KRAS and BRAF mutations in ovarian cancers may identify patients who will benefit from CI-1040 therapy.
+Score: 8.179654721888348 Sentence: This raises the possibility that KRAS and BRAF mutant cancer cells might be differentially dependent on signalling mechanisms that involve MEK
+Score: 8.375738877809393 Sentence: In microsatellite-unstable colorectal cancer cell lines, the effect of BRAF inhibition depended on whether the cell harboured a BRAF or a KRAS mutation
+Score: 8.39764195018828 Sentence: Therefore, further studies are needed to clarify the effects of other BRAF mutations in ovarian cancer, and to completely describe the mutation profile of KRAS-BRAF signalling in established ovarian cancer cell lines
+Score: 8.45978327733919 Sentence: The MPSC1 cell line was established from a low-grade serous carcinoma and was a kind gift from Dr le-Ming Shih (Johns Hopkins Medical Institutions, Baltimore, MD, USA)
+Score: 8.655867433260234 Sentence: The significantly higher frequency of KRAS/BRAF mutations in non-serous type carcinomas compared with conventional high-grade serous carcinomas in this study is a finding of great interest
+Score: 8.801022557478412 Sentence: Expression of the active phosphorylated ERK1/2 (p-ERK1/2) was assessed by immunohistochemistry and western blot analysis
+Score: 8.801022557478412 Sentence: It suggests that conventional high-grade serous and non-serous tumours may be distinguished on the basis of characteristic genetic alterations
+Score: 8.915582005223769 Sentence: However, we did not find a significant correlation between p-ERK expression and overall survival in our study
+Score: 9.25682128536299 Sentence: On the basis of the above findings, we investigated whether CI-1040 had a growth-inhibitory effect on tumour formation and development in vivo 
+Score: 9.40285038635216 Sentence: Next, we examined the prognostic effect of KRAS/BRAF mutations and p-ERK1/2 expression
+Score: 9.611527893468413 Sentence: In addition, our observations have an important therapeutic implication in ovarian cancer patients with KRAS or BRAF mutations
+Score: 9.85864911423674 Sentence: Histological examination of the tumours after CI-1040 treatment showed inactivation of p-ERK1/2 in tumour cells based on immunohistochemistry ( Figure 7C and D )
+Score: 10.09792229782581 Sentence: A panel of ovarian cancer cell lines and primary cultures of ovarian cancer were first analysed for KRAS and BRAF gene mutation status
+Score: 10.553721025710392 Sentence: This difference in sensitivity to the RAS?RAF?MEK?ERK pathway between ovarian cancer and the latter types is intriguing, and it probably reflects organ-specific roles of the KRAS and BRAF oncogenes
+Score: 10.553721025710392 Sentence: In light of our in vivo and in vitro findings, we propose that ovarian cancer patients with KRAS or BRAF mutations be considered for MEK inhibitor (CI-1040) therapy if they recur after conventional platinum and taxane chemotherapy
+Score: 11.32506815370646 Sentence: CI-1040 had no significant effect on the growth of normal cells, including the OSE cells
+Score: 11.584782725669996 Sentence: There was no significant correlation between KRAS/BRAF mutations and the patient's age
+Score: 12.022984605192505 Sentence: Patients with either KRAS or BRAF mutations had similar performance status distributions
+Score: 12.040581453554577 Sentence: There were no differences in intra-abdominal xenograft tumour weights between the CI-1040-treated group and control groups transplanted with the wild-type KRAS/BRA F cell line SKOV3 ( Figure 7B )
+Score: 12.820022613216306 Sentence: Our present results showing low frequencies of either KRAS or BRAF mutations in conventional high-grade serous carcinoma are consistent with our earlier reports ( Nakayama et al , 2006 )
+Score: 12.82002261321631 Sentence: The frequency of either KRAS or BRAF mutations in conventional serous high-grade carcinomas (4.0%?:?1/25) was significantly lower than in the other histological type (32.2%?:?10/31)
+Score: 12.902096449504704 Sentence: Univariate analysis showed that only FIGO stage III, IV affected the overall survival of patients with ovarian carcinoma significantly( P =0.014)
+Score: 13.306202138748771 Sentence: In an earlier report, advanced ovarian cancer patients (stage III, IV) with p-ERK expression had a longer overall survival than patients with low p-ERK values ( Hsu et al , 2004 )
+Score: 13.941252181129972 Sentence: Ovarian carcinomas with KRAS or BRAF mutation are clinically low-grade carcinomas of serous or other histological subtypes that are often refractory to conventional cytotoxic chemotherapy ( Bristow et al , 2002a , 2002b ; Winter et al , 2007 )
+Score: 14.055811628875329 Sentence: We reported earlier that KRAS or BRAF mutations were quite common in low-grade serous ovarian carcinomas but rare in conventional high-grade serous carcinomas ( Nakayama et al , 2006 )
+Score: 14.24839527099075 Sentence: SKOV3 and A2780 showed weak expression of ERK1/2.These results suggest that activation of ERK1/2 may depend on KRAS/BRAF mutation in ovarian cancer cells
+Score: 14.249269247761744 Sentence: Therefore, we recommend that in further clinical trials of MEK inhibitors for ovarian cancer, patients are stratified on the basis of KRAS/BRAF mutational status
+Score: 14.632842408834428 Sentence: To confirm the findings of a CI-1040 effect in vitro , we injected 3 ? 106 MDAH2774 or SKOV3 cells into the intraperitoneal tissue of nu/nu mice (4 weeks of age)
+Score: 14.892556980797963 Sentence: One week after tumour-cell injection, either CI-1040 (CI-1040, 150?mg?kg?1, resuspended in 10% Cremophore EL (Sigma), 10% ethanol, and 80% water) or a vehicle only (10% Cremophore EL (Sigma), 10% ethanol, and 80% water) were injected intraperitoneally (i.p.) once daily for 3 weeks
+Score: 15.195412571420558 Sentence: Although the biological roles of the RAS?RAF?MEK?ERK pathways in human cancer have been thoroughly investigated, there have been no recent studies
+Score: 16.7744114304602 Sentence: In this model, conventional high-grade serous and non-serous carcinomas develop independently from one another and are characterised by different molecular genetic changes and gene expression profiles ( Schwartz et al , 2002 ; Marquez et al , 2005 )
+Score: 16.83552215514858 Sentence: This is in contrast with a recent report showing that this pathway is frequently activated independent of the status of KRAS and BRAF in endometrioid-type endometrial cancer ( Mizumoto et al , 2007 )
+Score: 17.261679811588593 Sentence: Mutational status was correlated with growth inhibition and apoptosis induction by the MEK inhibitor CI-1040 that prevented activation of the downstream target, ERK1/2
+Score: 18.412550450946824 Sentence: A panel of ovarian cancer cell lines and primary cultures was first analysed for tumour mutation status in the KRAS and BRAF genes
+Score: 20.595356767035653 Sentence: As shown in Figure 1 , three ovarian cancer cell lines harboured either KRAS or BRAF mutations
+Score: 20.823828289524254 Sentence: Most KRAS mutations were located at codon 12 and all BRAF mutations at codon 600
+Score: 20.974979736691502 Sentence: Interestingly, simultaneous mutations of KRAS and BRAF did not occur in the tested ovarian carcinomas with the exception of one mucinous case
+Score: 21.425834991544665 Sentence: Our results provide compelling evidence that the biological effects of the ERK signalling pathway depend on the mutational status of its upstream regulators, (i.e.), the KRAS and BRAF genes
+Score: 22.49167183407086 Sentence: Kaplan?Meier estimates of overall survival are plotted in Figure 3 
+Score: 23.694453515047364 Sentence: The immunoreactivity of active p-ERK1/2 was detected in both the nucleus and the cytoplasm of the tumour cells ( Figure 2 )
+Score: 24.162866935219782 Sentence: Out of the 58 samples that we examined, 45 were available for prognostic analysis
+Score: 24.519555384722267 Sentence: The patients were stratified into two groups depending on the mutational status of KRAS/BRAF 
+Score: 27.52919144775908 Sentence: V600E is the most common BRAF mutation in ovarian cancer ( Singer et al , 2003 ; Sieben et al , 2004 ; Shih Ie and Kurman, 2005 ; Nakayama et al , 2006 )
+Score: 28.203770063336563 Sentence: In contrast, somatic mutations of BRAF were identified in 5 (8.6%) out of 58 ovarian carcinomas
+Score: 28.72961006307301 Sentence: Western blot analysis showed a dose-dependent effect on the expression of active ERK1/2 in ES2 cells, and active ERK1/2 was not detectable 6?h after treating the cells with CI-1040 at a concentration of 5? ? M ( Figure 4 )
+Score: 30.574687891079517 Sentence: Somatic mutations of KRAS were identified in 8 (13.7%) out of 58 ovarian carcinomas
+Score: 31.31749144046392 Sentence: In summary, we have shown that the phenotypic change in ovarian carcinomas in response to ERK1/2 inactivation depends on the mutational status of KRAS and BRAF 
+Score: 31.513370231264595 Sentence: In addition, there were significant correlations between KRAS/BRA F mutations and pathological grade ( P =0.004), and histological subtype ( P =0.014)
+Score: 31.865261434219743 Sentence: The clinicopathological characteristics of the patients included in this study are summarised in Table 1 
+Score: 32.582763995513474 Sentence: Somatic mutations of either KRAS or BRAF were identified in 12 (20.6%) out of 58 ovarian carcinomas
+Score: 35.677525411220664 Sentence: We found that CI-1040 significantly reduced cellular proliferation and induced apoptosis in cell lines with either KRAS or BRAF mutations in comparison with cell lines with wild-type sequences ( Figure 6 , Supplementary Figure 1 )
+Score: 36.32854604319924 Sentence: In this study, 8 out of 9 KRAS/BRAF mutations were identified in early stage (stage I, II) tumours
+Score: 36.87926606966758 Sentence: Positive active p-ERK1/2 was identified in 27 (46.6%) out of 58 ovarian carcinomas
+Score: 38.81115851341747 Sentence: Therefore, we analysed p-ERK1/2 expression in each of the cell lines listed in Figure 5 
+Score: 40.60955369734089 Sentence: Exon 1 of KRAS and exon 15 of BRAF were both sequenced, as these mutational hot spots together harbour nearly all published mutations ( Davies et al , 2002 ; Singer et al , 2002 , 2003 ; Sieben et al , 2004 )
+Score: 40.92092530226667 Sentence: There was no significant relationship between KRAS/BRAF mutations or p-ERK1/2 expression and overall survival in patients with ovarian carcinoma ( P =0.2460, P =0.9339, respectively)
+Score: 46.56260823586766 Sentence: The results in Table 2 show that KRAS/BRAF mutation is correlated significantly with FIGO stage I, II ( P <0.001), and p-ERK1/2 ( P <0.001)
+Score: 49.854569092170514 Sentence: As shown in Figure 5 , four of the tumours harbouring either KRAS or BRAF mutations showed a marked reduction (<50% of DMSO control) in the cell number in the CI-1040-treated group as compared with the other 14 tumours containing wild-type KRAS and BRAF ( P <0.001)
+Score: 51.29643821277328 Sentence: The relationships between KRAS/BRAF mutations and clinicopathological factors, including p-ERK1/2 expression are shown in Table 2 
+Score: 52.34233259191086 Sentence: This difference may be because of a higher percentage of early-stage ovarian cancers and endometrioid and mucinous histology tumours being included in this study as compared with the earlier study
+Score: 61.21201509873996 Sentence: In this study, we also showed that the ERK?MAPK pathway was activated in 15 (33.3%) out of 45 ovarian carcinomas and activation depended on the mutational status of KRAS and BRAF 
+Score: 68.36268984223406 Sentence: The mutational status of KRAS and BRAF in all 45 ovarian carcinomas is summarised in Table 1 
+Score: 105.71849330659269 Sentence: Formalin-fixed, paraffin-embedded tissue samples of 58 ovarian cancers, including 27 serous carcinomas, 20 mucinous carcinomas, and 11 endometrioid carcinomas were used in this study

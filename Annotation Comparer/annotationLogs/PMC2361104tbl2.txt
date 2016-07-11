@@ -1,0 +1,134 @@
+Score: 0.0 Sentence: Dysplastic mucosal lesions were classified as adenomas
+Score: 0.0 Sentence: Tumours showing novel peak patterns were evaluated as MSI positive
+Score: 0.0 Sentence: The working dilution was 1?:?300
+Score: 0.0 Sentence: However, these differences were not statistically significant
+Score: 0.0 Sentence: This size-related difference was statistically significant ( P= 0.0265 by Fisher's exact test)
+Score: 0.24855761766436504 Sentence: CI-1040 (PD184352) is highly selective inhibitor of the MAPK signalling cascade specifically targeting the inhibition of MEK ( Delaney et al , 2002 )
+Score: 0.24855761766436504 Sentence: Selection of tumour samples may explain this difference
+Score: 0.5341965501438904 Sentence: High-frequency microsatellite instability was significantly more frequently seen in FDNs than in PNs
+Score: 0.6310728125852556 Sentence: PCR was performed to amplify DNA samples from the tumours and the adjacent normal tissues using an established PCR protocol ( Konishi et al , 2004 )
+Score: 0.6310728125852556 Sentence: Flat-depressed and protruding adenomas may be the precursors to cancers arising de novo and to polypoid cancers, respectively
+Score: 0.7827541678082555 Sentence: These primers included the region of mutation ?hot spots' previously identified in this gene
+Score: 0.7827541678082555 Sentence: We found MSI-H in seven of 44 FDNs (16%) but in only one of 52 PNs (2%)
+Score: 0.8796304302496206 Sentence: Specimen collection procedures and genetic analysis were approved by the ethical committee of Showa University School of Medicine
+Score: 0.8796304302496206 Sentence: This specifically recognises the dually phosphorylated, active form of MAPK (p44/ERK1 and p42/ERK2)
+Score: 1.1652693627291462 Sentence: Five microsatellite loci analysed in this study were BAT25, BAT26, D2S123, D5S346, and D17S250 ( Boland et al , 1998 )
+Score: 1.8223021411327485 Sentence: All HE-stained sections were reviewed by a single pathologist (YH), who was blinded to the colonoscopic findings
+Score: 1.8223021411327485 Sentence: When tumour cells had spread through the muscularis mucosa into the submucosa, the lesion was defined as a carcinoma
+Score: 1.9014045193942224 Sentence: Sections were incubated overnight with polyclonal anti-phospho-p44/42 MAPK antibody (Anti-ACTIVE MAPK pAb; Promega, Madison, WI, USA) at 4?C
+Score: 1.9014045193942224 Sentence: Sections were lightly counterstained with haematoxylin
+Score: 2.1499621370585875 Sentence: Antitumour activity was found to correlate with CI-1040-mediated inhibition of phosphorylated ERK levels
+Score: 2.5324773319794778 Sentence: The PCR products were separated by electrophoresis on 2% agarose gels and eluted with GenElute? Minus EtBr Spin Columns (Sigma, Saint Louis, MO, USA)
+Score: 2.6841586872024776 Sentence: The frequency of MSI-H in that series did not differ with regard to the histological type
+Score: 2.7810349496438427 Sentence: One section was stained with HE, and the percentage of tumour cells was estimated microscopically
+Score: 3.124486944124125 Sentence: Although we need more extensive analysis, V599E mutations might contribute to tumorigenesis in DNs
+Score: 3.2213632065654902 Sentence: All mutations were reconfirmed by independent PCR reactions and sequencing
+Score: 3.37304456178849 Sentence: Therefore, further investigation is required to clarify what leads to the tumour-specific expression of p-MAPK in FDNs
+Score: 3.469920824229855 Sentence: P-MAPK forms (phosphorylated ERK1 and ERK2) translocate to the nucleus to modulate gene expression through the activation of transcriptional factors ( Peyssonnaux and Eychene, 2001 )
+Score: 3.7109568911407402 Sentence: To extract genomic DNA, five adjacent sections (5- ? m thick) were obtained from an archival block of formalin-fixed, paraffin-embedded tumour tissue for each macroscopic type
+Score: 3.7109568911407402 Sentence: Continuous activation of the MAPK signalling pathway is of critical importance for the development of CRCs
+Score: 3.755559756709381 Sentence: The remaining findings were novel mutations, P452T (exon 11) in two tumours and T588I (exon 15) in one tumour
+Score: 3.755559756709381 Sentence: The other non-V559 mutations detected here were the novel mutations, P452T (exon 11) and T588I (exon 15), in CRCs
+Score: 3.763196052020918 Sentence: The dysplastic or normal mucosa glands were divided into three equal areas (upper, middle, and lower)
+Score: 4.004117374373746 Sentence: However, the status of the BRAF gene in the precursor lesions of CRCs has not been thoroughly explored, and there is morphological heterogeneity in the oncogenesis ( Shimoda et al , 1989 )
+Score: 4.545950219829174 Sentence: In our series, 41% of FDNs showed depressed type morphology and about two-thirds of FDNs were 10?mm or more in diameter
+Score: 4.603337090776591 Sentence: Of the seven FDNs with MSI-H, four were adenomas and three were Duke's type A carcinomas, whereas one PN with MSI-H were adenomas
+Score: 4.603337090776591 Sentence: However, the Raf-MEK-ERK pathway is regulated via the interaction with and modulation of the function of a wide range of signalling proteins ( English et al , 1999 ; Zimmermann and Moelling, 1999 ; Kolch, 2000 )
+Score: 4.603337090776591 Sentence: Of the seven FDNs with MSI-H, four were adenomas and three were Duke's A carcinomas
+Score: 4.661150152777348 Sentence: However, about 80% of the adjacent normal mucosa showed type A p-MAPK expression
+Score: 4.72450746195624 Sentence: Therefore, the mutational type of KRAS might activate the MAPK pathway more strongly than the wild-type KRAS ( Vojtek and Der, 1998 )
+Score: 4.876226253869887 Sentence: For the MSI analysis, MSI-H was shown in seven out of 44 FDNs (16%) and in one out of 52 PNs (2%)
+Score: 5.195346702921238 Sentence: In the FDNs, type B/C expression of p-MAPK was observed significantly more frequently in Duke's A carcinomas than in the adenomas ( P= 0.0338 by Fisher's exact test)
+Score: 5.195346702921238 Sentence: BRAF status has been examined in a variety of human malignancies
+Score: 5.202982998232776 Sentence: A series of 57 endoscopically or surgically resected PNs were used as controls
+Score: 5.258704012100131 Sentence: Thus, derangement of the MAPK signalling pathway may be an early, size-dependent event in the tumorigenesis of PNs, and correlates to the status of KRAS mutation
+Score: 5.3638037928705975 Sentence: Endogenous peroxidase activity was inhibited by incubation with 3% hydrogen peroxide for 5?min
+Score: 5.585498193153667 Sentence: A single observer (HN) performed the MSI analysis, and positive or equivocal samples were re-evaluated by a second observer (KN)
+Score: 5.71477733810436 Sentence: One tumour had BRAF mutations in both exons
+Score: 5.71477733810436 Sentence: Previous studies ( Rajagopalan et al , 2002 ; Wang et al , 2003 ; Domingo et al , 2004 ; Koinuma et al , 2004 ) have reported that BRAF mutations occur more frequently in microsatellite-unstable than in microsatellite-stable CRCs
+Score: 5.963334955768724 Sentence: BRAF mutations have been reported in approximately 10% of CRCs ( Davies et al , 2002 ; Rajagopalan et al , 2002 ; Fransen et al , 2004 )
+Score: 6.256610183559788 Sentence: Moreover, no significant mutations in ARAF or RAF-1 have been found in CRCs ( Fransen et al , 2004 )
+Score: 6.280478101244733 Sentence: No KRAS mutation was observed in any PN with MSI-H
+Score: 6.44997077733827 Sentence: Deparaffinised and rehydrated sections were heated in a microwave oven in sodium citrate buffer (pH 6.0) for 30?min to retrieve antigens
+Score: 6.594407768353981 Sentence: BRAF mutations were detected in four out of 46 of FDNs (9%) and none of the 57 PNs
+Score: 6.594522512912038 Sentence: DNA samples from normal colonic mucosa (frozen or formalin-fixed tissue) or peripheral blood were used as normal controls for molecular analysis
+Score: 7.333535891689721 Sentence: This difference was statistically significant ( P =0.0369 by Fisher's exact test)
+Score: 7.616181857498582 Sentence: We identified four FDNs (9%) with mutations in BRAF , but no PNs with the mutations
+Score: 7.623818152810119 Sentence: Therefore, it is possible that some FDNs with BRAF mutation or MSI-H progress to de novo type cancers (ie, flat or depressed cancers without accompanying adenoma)
+Score: 7.735460330212254 Sentence: Briefly, FDNs were defined as slightly mucosal elevations with a flat or slightly rounded surface and a height of less than half of the diameter of the lesions, usually consisting of dysplastic mucosal thickness less than twice that of the adjacent nondysplastic mucosa by histology
+Score: 7.793273392213011 Sentence: Therefore, inhibition of either p-MAPK or related molecule might be a new therapeutic strategy to treat these CRCs
+Score: 7.848994406080366 Sentence: KRAS mutations were observed in none of 46 FDNs and 14 out of 57 of PNs (25%)
+Score: 7.848994406080367 Sentence: By contrast, KRAS mutations were observed in none of FDNs and in 25% of PNs
+Score: 7.8647394751629465 Sentence: Of the four FDNs with BRAF mutations, no BRAF mutation was detected in the adjacent normal mucosa
+Score: 8.213166321939342 Sentence: This incidence of MSI-H differed significantly between FDNs and PNs ( P =0.022 by Fisher's exact test)
+Score: 8.495812287748201 Sentence: BRAF mutations were found in one out of seven FDNs with MSI-H (14%) and in three out of 37 FDNs without MSI-H (8%)
+Score: 8.495812287748201 Sentence: However, we observed no significant difference in the incidence of BRAF mutations between FDNs with and without MSI-H
+Score: 8.508786087139091 Sentence: Type B/C immunostaining of p-MAPK was observed more frequently in the large PNs than in small PNs
+Score: 8.508786087139091 Sentence: As more than 70% of FDNs show positive immunostaining of p-MAPK, this signalling pathway may play an important role in the tumorigenesis of FDNs
+Score: 8.747362872083231 Sentence: MSI-L was shown in 16 out of 44 FDNs (36%) and in six out of 52 PNs (12%: P =0.0066 by Fisher's exact test)
+Score: 9.139858899724347 Sentence: We analysed the immunostaining of p-MAPK separately in tumour and adjacent normal tissue
+Score: 9.296455084294408 Sentence: A total of 46 FDNs from 44 patients who underwent endoscopic ( N =33) or surgical resection ( N =13) at Showa University Hospital between April 1998 and January 2004 were used for this study
+Score: 9.404395650486835 Sentence: A value of P <0.05 was considered significant
+Score: 9.815848282786881 Sentence: Mutational activation of BRAF or KRAS gene signals act through the classical MAPK cascade to promote proliferation ( Davies et al , 2002 )
+Score: 9.906116838154247 Sentence: Many have reported CRCs arising from FDNs or nonpolypoid neoplasias ( Shimoda et al , 1989 ; Bedenne et al , 1992 ; Iishi et al , 1992 ; Kudo, 1993 ; Minamoto et al , 1994b ; Konishi et al , 1999 ; Rembacken et al , 2000 ; Kaneko et al , 2004 )
+Score: 9.942535198351738 Sentence: The extraction of genomic DNA was described previously ( Yamamoto et al , 2003 )
+Score: 10.33108822827184 Sentence: Type B/C immunostaining of p-MAPK was more common in Duke's A carcinomas than in adenomas of FDNs
+Score: 10.350044832930774 Sentence: Derangement of the MAPK pathway in FDNs might occur via the genetic alteration other than BRAF or KRAS mutation.
+Score: 10.828698768440983 Sentence: This V599E mutation is a ?hot spot' mutation of colorectal cancers, as well as other human cancers ( Davies et al , 2002 ; Rajagopalan et al , 2002 ; Wang et al , 2003 ; Yuen et al , 2003 ; Domingo et al , 2004 ; Fransen et al , 2004 ; Koinuma et al , 2004 )
+Score: 10.941628254022083 Sentence: We found that type B/C expression of p-MAPK was more frequently observed in PNs with a KRAS mutation
+Score: 11.709616506869569 Sentence: However, this accumulation was significantly correlated with the incidence of KRAS mutations in PNs, but not to that of BRAF mutations in FDNs
+Score: 11.7226277429511 Sentence: In contrast, type B/C immunostaining for p-MAPK was detected more frequently in large (?10?mm) than small (<10?mm) PNs
+Score: 11.728418979286996 Sentence: Flat-depressed neoplasias were subclassified into flat or depressed neoplasias, depending on whether a depressed component was present
+Score: 11.80752135754847 Sentence: Protruding neoplasias were defined as protruding lesions with or without stalks (sessile, semipedunclated, or pedunculated lesions)
+Score: 12.383223177471358 Sentence: The purified sample was sequenced using an automated sequencer
+Score: 12.602258173200722 Sentence: Unfortunately, two paired PNs and adjacent normal mucosa, and five samples of adjacent normal mucosa were not informative for p-MAPK immunostaining, because of the small amounts of tissue in the blocks
+Score: 13.067022142475862 Sentence: Abnormal accumulation of p-MAPK protein seems to be more frequently implicated in the tumorigenesis of FDNs than that of PNs
+Score: 13.417684241214342 Sentence: Colour was developed by staining with a diaminobenzidine solution
+Score: 13.548492540200504 Sentence: All PCR reactions were repeated on the same sample and only consistent changes in the duplicate reactions were scored as abnormalities
+Score: 13.631553813098805 Sentence: We observed no significant difference in the incidence of type B/C immunostaining of p-MAPK between FDNs with and without BRAF mutations
+Score: 13.631553813098805 Sentence: On the other hands, there was no significant difference in the incidence of type B/C immunostaining of p-MAPK between FDNs with and without BRAF mutations
+Score: 13.787449666749003 Sentence: Serial sections (3? ? m) were cut from paraffin blocks, and prepared for hematoxylin?eosin (HE) staining and immunostaining
+Score: 13.787449666749003 Sentence: Mann?Whitney U- test, ? 2 test, and Fisher's exact test were used for statistical analysis
+Score: 14.332461471543095 Sentence: The mutational spots of BRAF gene cluster within the activation segment (exon 15) and the G-loop (exon 11) of the kinase domain, which are highly conserved among serine/threonine kinases throughout evolution
+Score: 14.42243958105901 Sentence: We excluded patients who had familial adenomatous polyposis, hereditary nonpolyposis colorectal cancers, or hyperplastic polyposis, and patients with sporadic SAs
+Score: 14.434230111726194 Sentence: Thus, abnormal accumulation of p-MAPK protein is more likely to be associated with the tumorigenesis of FDNs than of PNs
+Score: 14.640766665944245 Sentence: The p-MAPK protein was detected immunohistochemically in all samples to a variable extent
+Score: 14.648402961255783 Sentence: Macroscopically, each neoplastic lesion was classified as an FDN or a PN, according to the modified criteria described previously ( Konishi et al , 2003 )
+Score: 15.182530297770088 Sentence: There was significant difference in the incidence of KRAS mutations between FDNs and PNs ( P =0.0002 by Fisher's exact test)
+Score: 15.78039022602682 Sentence: Olschwang et al (1998) reported that eight out of 36 flat colorectal neoplasias showed MSI-H (22%)
+Score: 15.858309425546118 Sentence: Each immunostained section was examined under a light microscope and evaluated for the nuclear staining ( Figure 1A ) twice by a senior pathologist (MT) who did not have any knowledge of the clinical and molecular analysis of those samples
+Score: 16.28850009359941 Sentence: If representative tumour samples contained less than 80% tumour cells, separate samples were obtained from the histological slide for tumourous or adjacent normal tissue using laser-capture microdissection, as described previously ( Yamamoto et al , 2003 )
+Score: 16.5773179854176 Sentence: However, BRAF mutations are infrequent in FDNs
+Score: 16.845358032220165 Sentence: Type B/C immunostaining of p-MAPK was demonstrated more frequently in PNs with KRAS mutations than without KRAS mutations ( P= 0.0272 by Fisher's exact test)
+Score: 16.96472078111482 Sentence: BRAF and KRAS mutations were mutually exclusive in the morphologically distinct nonserrated neoplasias (FDNs and PNs, respectively)
+Score: 17.027513472377095 Sentence: This difference was statistically significant ( P =0.0022 by ? 2 test)
+Score: 17.479614677588845 Sentence: This implies that abnormal accumulation of p-MAPK protein may be a critical event in the tumour progression of FDNs, independently of BRAF mutations
+Score: 18.21727898828939 Sentence: A tumour sample was considered to contain high-frequency MSI (MSI-H) if two or more of the five informative markers demonstrated instability, and was considered to have low-frequency MSI (MSI-L) when only one marker was unstable ( Boland et al , 1998 )
+Score: 19.155845881203078 Sentence: However, Yashiro et al (2001) observed no significant difference in the incidence of MSI-H between flat-type and polypoid-type cancers (four out of 25 and zero out of 25, respectively)
+Score: 21.009578807820315 Sentence: Two exon 15 mutations observed in depressed neoplasias were the conversion of valine to glutamic acid at codon 599
+Score: 21.502549290360694 Sentence: Of the 14 PNs with KRAS mutations in this series, 11 (79%) were adenomas
+Score: 21.65727605149346 Sentence: Primers for exons 11 and 15 were used to evaluate BRAF mutations ( Davies et al , 2002 ; Chan et al , 2003 )
+Score: 22.084048604535564 Sentence: Other histopathological features were determined according to the general rules of the Japanese Research Society for Cancer of the Colon and Rectum ( Japanese Research Society for Cancer of the Colon and Rectum, 1997 )
+Score: 22.375526665236638 Sentence: P-MAPK-positive cells were classified into three types ( Figure 1 ): type A, localised within the upper area only; type B, localised in the upper and middle; type C, localised in the upper through lower
+Score: 22.708273570743984 Sentence: According to the criteria described previously ( Konishi et al , 1999 ), tumour location was classified into three groups: rectum, left-colon (left-c), and right-colon (right-c)
+Score: 23.105822693680167 Sentence: Sections were then incubated with horseradish peroxidase-binding amino-acid polymer for 30?min (Histofine Simplestain MAX-PO kit, Nichirei, Tokyo, Japan)
+Score: 24.514106748903714 Sentence: To our knowledge, this is the first study of the mutational status of BRAF in terms of the morphological characteristics of colorectal nonserrated neoplasias
+Score: 25.056816756746045 Sentence: Mutational screening of the BRAF and KRAS genes was performed by direct sequencing methods, as previously reported ( Makino et al , 2000 )
+Score: 25.072953566693673 Sentence: Protruding neoplasias have a significantly higher frequency of KRAS mutation than flat neoplasias, despite the similarity of the tumour size ( Fujimori et al , 1994 ; Minamoto et al , 1994a ; Yamagata et al , 1994 ; Yashiro et al , 2001 )
+Score: 25.520135768965737 Sentence: The KRAS gene mutation frequency in colorectal polyps increases in proportion to their size ( Vogelstein et al , 1988 )
+Score: 26.58158264613157 Sentence: This T588I mutation may be associated with increased MAPK activity because the tumour with this mutation showed a type B and C expression of p-MAPK protein
+Score: 28.52781406109909 Sentence: The incidence of type B and C immunostaining of p-MAPK was significantly higher in the FDNs than in the PNs
+Score: 30.96558136887257 Sentence: Our immunohistochemical data suggest that alterations of the MAPK pathway are important for the development of FDNs, but may also highlight new therapeutic strategies for dealing with CRCs that arise from FDNs
+Score: 31.580346987175822 Sentence: In summary, BRAF and KRAS mutations were mutually exclusive in the morphological characteristics of colorectal nonserrated neoplasias
+Score: 39.285591556161584 Sentence: Three BRAF mutations were found in exon 15 and two were in exon 11 ( Table 2 )
+Score: 39.68027062664335 Sentence: However, they also suggested that some flat neoplasias may progress to de novo cancers with LOH at chromosome 3p, the location of hMLH1 , and this could explain the onset of MSI-H as an alternative mechanism to hypermethylation of the promoter of hMLH1 
+Score: 40.59595188869316 Sentence: There was no significant difference in the incidence of type A p-MAPK expression in the adjacent normal mucosa between FDNs and PNs (34 out of 46 and 42 out of 50, respectively; P =0.2241 by ? 2 test)
+Score: 41.34188810261011 Sentence: In our series, all of the mutations in exon 15 of BRAF observed in depressed neoplasias (DNs) involved conversion of valine to glutamic acid at codon 599 (V599E)
+Score: 46.423342662996205 Sentence: There were no significant differences in gender, age, family history of CRC, location, size, or histology between the two macroscopic types
+Score: 48.42991325230009 Sentence: All but one KRAS mutation was detected in codon 12 of the KRAS gene ( Table 2 )
+Score: 51.63363675477925 Sentence: Type B and C immunostaining for p-MAPK was observed in 34 out of 46 FDNs (72%), compared with 24 out of 55 PNs (44%)
+Score: 52.63340371472912 Sentence: PCR amplification of exon of a KRAS-containing codon 12 or 13 was performed using previously described primers ( Brose et al , 2002 )
+Score: 56.33259387651862 Sentence: Nuclear staining was observed here as a positive reaction for p-MAPK protein, and type B and C immunostaining of p-MAPK was frequently observed in the FDNs or PNs
+Score: 60.664208248423904 Sentence: At the present, there are no validated criteria for evaluating immunohistochemical staining for p-MAPK; therefore, we used a grading system for evaluating p-MAPK staining based on staining distribution
+Score: 66.0481270498345 Sentence: The incidence of accompanying adenoma in the Duke's type A carcinomas was lower in the FDNs than in the PNs (four out of 17 and 12 out of 13, respectively; P =0.0002 by Fisher's exact test) ( Table 1 )
+Score: 71.05917063651117 Sentence: We compared the clinicopathological and molecular characteristics between neoplasia with type A and with type B/C immunostaining of p-MAPK ( Table 3 )

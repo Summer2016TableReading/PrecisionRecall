@@ -1,0 +1,203 @@
+Score: 0.0 Sentence: 3B, 3D ) indicating also evidence of Clara cell differentiation
+Score: 0.0 Sentence: Human cancers are similarly known to express evidence of type II pneumocyte and/or Clara cell differentiation
+Score: 0.0 Sentence: The same tumor was also stained with antibody against the Clara cell 10 protein (CC10), commonly used as a marker for Clara cell (B)
+Score: 0.0 Sentence: The arrows pointed the CC-10 positive cells
+Score: 0.0 Sentence: One of the most important functions of wild type p53 is its anti-proliferation property
+Score: 0.0 Sentence: 4A, 4B, 4E )
+Score: 0.0 Sentence: 4C?4E )
+Score: 0.0 Sentence: The number of BrdU positive cell on a slide was counted directly under a compound microscope
+Score: 0.0 Sentence: The bars show mean data ?S.D
+Score: 0.0 Sentence: The arrows pointed the BrdU positive cells
+Score: 0.0 Sentence: 0/10, Fisher's exact test p?=?0.18)
+Score: 0.0 Sentence: 0/10)
+Score: 0.0 Sentence: 5B )
+Score: 0.0 Sentence: 5C )
+Score: 0.0 Sentence: 5D )
+Score: 0.0 Sentence: 5E )
+Score: 0.0 Sentence: The most important function of wild type p53 is the sequence specific transactivation of target genes
+Score: 0.0 Sentence: The general assumption is that tumor cells with intact p53 will stop proliferating after irradiation, whereas tumor cells with deficient p53 will proliferate continually post irradiation
+Score: 0.0 Sentence: Several potential mechanisms for p53 mutant induced tumorigenesis have been proposed
+Score: 0.0 Sentence: This would also suggests that the p53(273H) has a weak dominant-negative effect
+Score: 0.0 Sentence: 16?24 months: Fisher's exact p?=?0.936)
+Score: 0.0 Sentence: 17% respectively)
+Score: 0.0 Sentence: Relevance to treatment efficacy with conventional chemotherapy or molecularly targeted treatment may be demonstrated by such studies
+Score: 0.0 Sentence: The number of Brdu positive cell on a slide was counted directly under a compound microscope (400 magnification)
+Score: 0.0 Sentence: One microgram of genomic DNA was denatured by NaOH (final concentration, 0.275 M) for 10 min at 37?C
+Score: 0.0 Sentence: The denatured DNA was then treated with 10 ?l of 10 mM hydroquinone, 520 ?l of 3 M sodium bisulfite at 50?C overnight
+Score: 0.0 Sentence: The bisulfite-treated DNA was purified with Qiaquick gel extraction kit (Qiagen, Germany) according to the manufacturer's instruction
+Score: 0.0 Sentence: Primers used to amplify exon 2 were 5?- AGGCCTGCTGAAAATGACTGA (forward), 5?- TTCTTGCACCTATGGTTCCCTA (reverse)
+Score: 0.0 Sentence: Primers used to amplify exon 3 were 5?-GGCCAGGAGTGCATTAAGAC (forward), 5?- TGCAGGCATAACA ATTAGCAA (reverse)
+Score: 0.0 Sentence: The primers were also used for sequencing analysis
+Score: 0.0 Sentence: Slides were then placed on a Dako Autostainer immunostaining system for IHC
+Score: 0.0 Sentence: The detection system used was a labeled Streptavidin-Biotin Complex
+Score: 0.0 Sentence: The antibodies used were: anti-human p53 specific monoclonal antibody (BD PharMingen, San Diego, CA); anti-?-Actin monoclonal (Sigma, St
+Score: 0.0 Sentence: Multiple measurements for the % of cells BrdU positive were averaged for each mouse
+Score: 0.0 Sentence: Summary statistics were computed on the average of measurements
+Score: 0.0 Sentence: Briefly the Holm procedure is a modified Bonferroni type procedure which maintains the experiment-wise error rate
+Score: 0.0 Sentence: All analyses were performed using STATA statistical software, version 10.0 [67] .
+Score: 0.5681719300577368 Sentence: It is the number one cancer killer in the United States ( SEER www.seer.cancer.gov ; [2] )
+Score: 0.5681719300577368 Sentence: To maximize the evaluation, in vivo Brdu labeling was performed
+Score: 0.5681719300577368 Sentence: All slides were quenched for 5 minutes in a 3% hydrogen peroxide solution in methanol to block endogenous peroxidase
+Score: 0.5681719300577368 Sentence: Antigen retrieval was performed by placing the tissue sections in a citric acid solution (Dako's Target Retrieval Solution, pH 6.1) for 30 minutes at 94?C using a vegetable steamer
+Score: 0.8531678191362959 Sentence: Paraffin embedded tissue was cut and incubated with monoclonal anti-Brdu antibody (DAKO Corporation, Carpinteria, CA) for Immunohistochemical analysis
+Score: 0.8531678191362959 Sentence: All protocols on animal subjects were approved by The Ohio State University Institutional Laboratory Animal Care and Use Committee
+Score: 0.8531678191362959 Sentence: Paraffin embedded tissue was cut and incubated with monoclonal anti-Brdu antibody (DAKO Corporation, Carpinteria, CA) for Immunohistochemical analysis
+Score: 0.8531678191362959 Sentence: The DNA was then precipitated with sodium acetate (final concentration, 0.45 M) and isopropanol
+Score: 0.8531678191362959 Sentence: DNA was eluted with dH2O and used for PCR
+Score: 0.8531678191362959 Sentence: Paraffin embedded tissue was cut at 4 microns, placed on slides and stained with hematoxylin and eosin (HE)
+Score: 0.8531678191362959 Sentence: Louis, Missouri); anti-SP-C polyclonal (Santa Cruz, Santa Cruz, CA); anti-CC10 polyclonal (Santa Cruz, Santa Cruz, CA) and anti-Brdu monoclonal (DAKO Corporation, Carpinteria, CA)
+Score: 0.8531678191362959 Sentence: The overall comparison of tumor rates and mouse type were compared by Fisher's exact test
+Score: 0.8531678191362959 Sentence: Adjusted p-values were considered significant at the 0.10 level given the exploratory nature of these studies and all tests were two sided
+Score: 1.1440971096522103 Sentence: It is of particular interest to generate lung cancer models which reflect, as closely as possible, human lung cancer development
+Score: 1.1440971096522103 Sentence: Light photomicrographs of lung tumor at 100? magnifications with HE staining (B)
+Score: 1.1440971096522103 Sentence: Lung tumor cells exhibit pleomorphic nuclei at 400? magnification (D)
+Score: 1.1440971096522103 Sentence: However, a small percentage of the lung tumor cells also expressed CC-10 protein ( Fig
+Score: 1.1440971096522103 Sentence: A lung tumor section was stained with antibody against surfactant protein C (SP-C), commonly used as a marker for the alveolar type II cell (A)
+Score: 1.1440971096522103 Sentence: A small percentage of the lung tumor cells were CC-10 positive indicating of Clara cell lineage (D)
+Score: 1.1440971096522103 Sentence: All lung samples were carefully examined with the use of a dissecting microscope
+Score: 1.4213397491940327 Sentence: However, no significant differences in the rate of tumor development were observed at the extreme age ranges (4?12 and 22?24 months)
+Score: 1.4213397491940327 Sentence: Ionizing irradiation induces elevation of wild type p53 protein and results in inhibition of cell proliferation, whereas knocking-out the p53 gene abolishes irradiation-induced cell cycle arrest
+Score: 1.4213397491940327 Sentence: The reduction in the level of murine wildtype p53 protein may be associated with overexpression of p53 ubiquitin?protein ligase Pirh2 and the ?dominant-negative? effect of the mutant p53
+Score: 1.4213397491940327 Sentence: Slides were then counterstained in hematoxylin, dehydrated through graded ethanol solutions and cover slipped
+Score: 1.7122690397099471 Sentence: In the normal lung tissues, Brdu positive cell rate was 0.43% without irradiation, whereas there were almost no Brdu positive cells (0.009%) observed in the normal lung tissues post irradiation ( Fig
+Score: 1.9972649287885063 Sentence: Lung cancer is one of the most deadly cancers worldwide [1] ? [3] , and with more than 160,000 deaths per year
+Score: 1.9972649287885063 Sentence: Some lung tumor cells retain murine wild type p53, while others lost the functional murine p53 and continue to proliferate even after irradiation
+Score: 2.3529423491025705 Sentence: Histopathology suggested a more aggressive nature for the transgenic tumors
+Score: 2.565436858846243 Sentence: Our study supports the multi-step genetic hits process documented in other malignancies for which familial cancer clusters are available, and suggests the need to evaluate age related differences in the pattern of genetic and epigenetic aberrations linked to lung cancer in patient with this disease
+Score: 2.574574050488977 Sentence: Thus, compared to the non-irradiated tumors, the tumor cell proliferation rate was reduced 2.8 fold after ?-irradiation treatment ( Fig
+Score: 2.574574050488977 Sentence: All tumors observed were processed for histological analysis
+Score: 2.8241939676147765 Sentence: The mice were injected with Brdu at dose of 100 mg/kg 22 hr post-irradiation
+Score: 2.8241939676147765 Sentence: Mice were treated with ionizing radiation (5 Gy/mouse)
+Score: 2.9211142791603075 Sentence: One copy of the wild type p53 is sufficient to cause cell cycle arrest post irradiation [54] , which may explain the delay in tumor development in our transgenic animals with the two murine wildtype p53 alleles in addition to the human mutant
+Score: 3.210401995568401 Sentence: Either cell cycle arrest or apoptotic cell death to remove the damaged cell permanently follows [48] 
+Score: 3.210401995568401 Sentence: Alternatively, certain p53 mutants may possess intrinsic oncogenic potential, as their introduction into cells lacking endogenous p53 has been shown to enhance the tumorigenicity of these cells [12] , [50] 
+Score: 3.210401995568401 Sentence: P-values were adjusted for multiple comparisons by the Holm procedure [65] , [66] 
+Score: 3.392365897672513 Sentence: 22 hours post-irradiation, mice were injected (IP) with Bromodeoxyuridine (BrdU) at a dose of 100 mg/kg in 0.9% NaCl
+Score: 3.392365897672513 Sentence: Mice were injected (intraperitoneally) with Bromodeoxyuridine (BrdU) 100 mg/kg in 0.9% NaCl
+Score: 3.7186711601411875 Sentence: These variant histological patterns are evidence of dedifferentiation, a phenomenon which human lung tumors readily exhibit
+Score: 3.774282098296603 Sentence: Other histological patterns evidencing dedifferentiation included secretory (G), oncocytic (H) and high nuclear grade (I) and were observed only in the transgenic tumors
+Score: 3.778573925626138 Sentence: However, preservation of a wild type allele has also been reported in human neoplastic tissue [29] ? [32] 
+Score: 3.778573925626138 Sentence: However, DNA damage (e.g., radiation) induces a prominent increase in p53 protein levels [45] , [46] 
+Score: 3.778573925626138 Sentence: The increase in wild type p53 protein in response to DNA damage is believed to regulate p21 to prevent cells with genetic lesions to proliferate [47] 
+Score: 3.778573925626138 Sentence: Restoration of p53 function leads to tumor regression in vivo [51] 
+Score: 3.778573925626138 Sentence: Previous in vitro studies support this notion [14] , [17] 
+Score: 4.063569814704697 Sentence: The human mutant p53(273H), which has the most common substitution (arginine to histidine), has been shown to have both dominant-negative and gain-of-function properties [9] ? [13] 
+Score: 4.063569814704697 Sentence: Unlike most tumor-derived mutant p53 proteins, p53(273H) retains partial sequence-specific DNA-binding and transcriptional activation functions [14] ? [17] 
+Score: 4.063569814704697 Sentence: Thus p53(273H) could conceivably lead to increased cell proliferation, aberrant DNA recombination, increased genomic instability and reduced chemotherapy efficacy [20] , [21] 
+Score: 4.063569814704697 Sentence: DNA damage up-regulates wildtype p53 and leads to cell cycle arrest which provides sufficient time for repair [25] 
+Score: 4.065211388812518 Sentence: To investigate the role of mutant p 5 3 in lung tumorigenesis, a lung specific p53(273H) transgenic mouse model was developed
+Score: 4.065211388812518 Sentence: Our results demonstrated that some tumor cells in the transgenic animals failed to initiate cell cycle arrest post irradiation, so that 0.93% lung tumor cells were Brdu positive
+Score: 4.286843090198924 Sentence: The rate of the BrdU positive cells was 2.61% in the non-irradiated tumors on average, whereas the proliferating rate was 0.93% in the irradiated lung tumor samples
+Score: 4.286843090198924 Sentence: Cell proliferation in lung tumors without irradiation (A), post irradiation (B), normal lung without irradiation (C) as well as normal lung tissue post irradiation (D), were analyzed
+Score: 4.286843090198924 Sentence: In addition, 30% of lung samples with no visible surface tumors were subjected to random histological analysis
+Score: 4.631741744762434 Sentence: In addition, p53(273H) has also been reported to interact with and activate topoisomerase I to induce genomic instability [13] , [18] and to promote the reassociation of single-stranded RNA or DNA to a double-stranded form [19] 
+Score: 4.631741744762434 Sentence: In normal cells, the steady state level of p53 protein is low and the half-life of p53 is very short due to the presence of negative regulators, such as Mdm2, JNK and Pirh2 [38] ? [44] 
+Score: 4.631741744762434 Sentence: One possibility is that mutant p53 inhibits the sequence-specific DNA-binding and transactivation functions of wild-type p53 in a ?dominant-negative? manner by forming hetero-oligomeric complexes with it [10] , [11] 
+Score: 4.631741744762434 Sentence: Our model may recapitulate what occurs in human cancer, where age specific differences have been reported [59] , [60] , and where tumor formation substantially lags behind the oncogenic stimulus [61] , [62] 
+Score: 4.821458896403283 Sentence: Both irradiated and control mice were sacrificed and lung tissues were harvested 2 hours after the Brdu injection
+Score: 5.207666924356907 Sentence: Seventy-five to eighty-five percent of lung cancers are categorized as non-small cell cancers (NSCLC); and adenocarcinoma has become the most prevalent NSCLC subtype [1] , [3] 
+Score: 5.259993900116098 Sentence: The majority of p53 mutations are missense and found within the sequence-specific DNA-binding domain
+Score: 5.775838854414644 Sentence: Human mutant p53(273H) mRNA and protein were demonstrated specifically in lung tissue [23] , [24] 
+Score: 6.1190951206897495 Sentence: Mutations in the P53 gene are among the most common genetic abnormalities in human lung cancer
+Score: 6.889405356427294 Sentence: The long latency period for tumor development in the transgenic mice suggests collaboration with other oncogenic events for lung cancer development
+Score: 6.889405356427294 Sentence: In summary, expression of mutant p53 (273H) in mice lungs resulted in an age-related demographic shift in lung tumor formation in the transgenic mice
+Score: 7.02792887729692 Sentence: Immunohistochemical analysis was performed using antibodies against the surfactant protein C (SP-C) and the Clara cell 10 protein (CC10), which are commonly used markers to distinguish alveolar type II cells from Clara cells
+Score: 7.02792887729692 Sentence: The averaged percentage of BrdU positive cell was obtained according to thirty random images taken from each treatment and tissue type group (E)
+Score: 7.047901384773831 Sentence: Codon 273 in the sequence-specific DNA binding domain is one of the most frequently mutated sites
+Score: 7.1110370578137 Sentence: Given that even one copy of intact p53 could cause a complete cell cycle arrest in mice lungs post irradiation, it follows that the Brdu positive cells observed in the lung tumors have lost p53 function completely
+Score: 7.275613384380919 Sentence: Previously we reported that the level of the mouse wild-type p53 protein was reduced in 10 of 10 tumor samples as compared to matched normal lung tissue of the transgenic mouse [57] 
+Score: 7.318858167812834 Sentence: The majority of the lung tumor cells were SP-C positive suggesting that these lesions arose from the alveolar type II cells (C)
+Score: 7.39603294689226 Sentence: At 24 h (hours) after irradiation, mice were sacrificed and lung tumors and normal lung tissues were harvested
+Score: 7.734682706044688 Sentence: Lung cancer onset data of up to 24 months has now been collected and summarized in this report
+Score: 7.887030097870571 Sentence: In comparison, there were no Brdu positive cells observed in the normal lung tissues collected from the same mouse post irradiation
+Score: 8.148120483097546 Sentence: In all cases, each tumor contained a single site mutation at the second position of the codon
+Score: 8.470395895684499 Sentence: Mutations of p53, the vast majority within the sequence-specific DNA-binding domain of the protein, produce mutant proteins unable to bind to and transactivate the target genes that mediate tumor suppression [48] ? [50] 
+Score: 8.527703407263195 Sentence: Well-differentiated BAC/adenocarcinoma from a transgenic (E) contrasts with a BAC/adenocarcinoma showing evidence of dedifferentiation into a solid undifferentiated carcinoma (F)
+Score: 8.9989550257754 Sentence: of thirty random images from three mice per treatment
+Score: 8.9989550257754 Sentence: The average percentage of BrdU positive cells was obtained from thirty random images (three mice per group)
+Score: 9.001288302233842 Sentence: These included four in exon 2 (codons 12 or 13) and six in exon 3 (codon 61)
+Score: 9.292217592749758 Sentence: To study the role of p53 mutation in lung tumorigenesis, animal models in which the endogenous p53 gene is disrupted or mutated in a lung-specific manner, or in which mutant p53 transgenes are expressed in a lung-specific manner, would be of considerable value
+Score: 9.46397940691627 Sentence: The above results suggest that the lung tumors in the p53(273H) transgenic mice are composed of a mixed population of cells
+Score: 9.690131450284495 Sentence: Codon 273 is one of the most frequently mutated sites [6] ? [8] 
+Score: 9.808878061479781 Sentence: Since human and murine p53 proteins are fully capable of forming hetero-oligomeric complexes [52] , it is therefore possible that human p53(273H) affected murine wild type p53 function in the transgenic mice studied through a ?dominant-negative? effect leading to increased cell proliferation [53] , [54] 
+Score: 9.887390770928276 Sentence: Among 21 transgenic tumors, ten tumor samples (47.6%) contained K-ras mutations
+Score: 10.145385411886053 Sentence: Lung tumor and normal tissue were harvested 2 h after the injection, and then the tissues were fixed in 10% neutral buffered formalin for 12 h
+Score: 10.876034137688997 Sentence: The primers used for the MS-PCR were (U3?=? GTGATTGGGTGGGTATTGAATTTT TGTG , U4?=? CACACATCATACACACAA CCCTAAACCA ) for unmethylated, (M3?=? CGATTGGGCGGGTATTGAATTTTCGC , M4?=? CACGTCATACACACGACCCTA AACCG ) for methylated, and (W1?=? ACTGAATC TCCGCGAGGAAAGCG , W2?=? GCACACGGCCCTGGGCCGCCG ) for unmodified sequences flanking the p16 translation start site [63] 
+Score: 11.093140266109437 Sentence: Rates of lung cancer formation in the transgenic animals and their littermates were evaluated by necropsy studies performed in progressive age cohorts ranging from 4 to 24 months
+Score: 11.11271143520493 Sentence: Histopathologically, the tumors in both transgenic and non-transgenic groups were well differentiated adenocarcinoma with a predominantly bronchioloalveolar (BAC) pattern ( Figure 2 )
+Score: 11.199549983052089 Sentence: Six of the transgenic mice were 4?12 months, and fifteen 13?24 months
+Score: 11.358522478665948 Sentence: P53 point mutation in one allele accompanied with complete loss of the second allele of p53 is a commonly reported phenomenon in human cancers [26] ? [28] 
+Score: 11.371799237291198 Sentence: Slides were blocked with 10% normal goat serum for 1 h before application of primary antibody
+Score: 11.866791643238734 Sentence: This type of Kras mutation is extremely rare in human tumors, especially lung cancer
+Score: 12.50642846198294 Sentence: Overall lung tumor rate was 23.1% (65/281) and 11.6% (22/189) in the transgenic and non-transgenic mice, respectively (Fisher's exact test p?=?0.01)
+Score: 12.507675184106773 Sentence: All non-transgenic tumors were collected at the age of 13?24 months, given their rare occurrence at an earlier age
+Score: 12.71995946237503 Sentence: Lung tissue and lung tumors were harvested 2 hours after the injection, and then fixed in 10% neutral buffered formalin for 12 hours
+Score: 12.71995946237503 Sentence: Immediately following tissue harvesting, lung tumors and normal lung tissues were placed in 10% neutral buffered formalin for 12 h, rinsed with water, and preserved in 1? Phosphate-buffered Saline (PBS)
+Score: 12.757238985883422 Sentence: It has been reported that 50?60% of non-small cell lung cancers and 90% of small cell lung tumors contain p53 mutations; thus p53 alterations are among the most common genetic events in this malignancy [4] , [5] 
+Score: 12.79313898648523 Sentence: Additional sections for immunohistochemistry (IHC) were placed in a 60?C oven for 1 h, cooled, deparaffinized and rehydrated through xylene and graded ethanol solutions to water in standard fashion
+Score: 13.06416641458792 Sentence: To evaluate whether the murine wild type p53 is intact in the lung cancers collected from the SPC-p53 (273H) transgenic mice, we treated the transgenic mice using a 137Cesium ?-source at a dose of 5Gy/mouse
+Score: 13.367493237035568 Sentence: p53270H/+ mice (Murine p53 codon 270 correspond to human p53 codon 273) develop an increased incidence of carcinomas and B cell lymphomas compared to p53+/? mice [22] 
+Score: 13.707383231914399 Sentence: 5A ) with a peak at 16?18 months (3/6 in transgenics and 5/9 in transgenic and non-transgenic tumors)
+Score: 13.75432278097247 Sentence: Non-irradiated controls were also injected with Brdu
+Score: 14.178634850426604 Sentence: Peak differences in tumor rate between the transgenics and non-transgenic mice occurred during the age of 13?21 months (OR: 3.64 p<0.01)
+Score: 14.281499809434624 Sentence: To this end, we have developed a line of transgenic mice expressing the human p53(273H) gene under the transcriptional control of the human surfactant protein C (SP-C) promoter [23] 
+Score: 14.55012608774203 Sentence: Combination with other genetic and epigenetic alterations occurring after the age of 13 months is intimately linked to its oncogenic potential
+Score: 15.07056853501916 Sentence: Lung tumors collected from the transgenic mice were all SP-C positive, suggesting that these lesions expressed alveolar type II pneumocyte differentiation ( Fig 3A, 3C )
+Score: 15.26905319919414 Sentence: We previously reported the development of lung adenocarcinomas in SPCp53(273H) transgenic mice at a higher rate compared with their littermates at the age range of 13?15 months [23] 
+Score: 16.112580336322242 Sentence: Using this model, differences between types of mice for each age cohort group were tested and odds ratios (OR) estimated through the interaction of mouse type and age cohort group
+Score: 16.531577199529174 Sentence: At the age of 13?21 months, when additional genetic and epigenetic alterations are able to combine with the mutant p53, a significant difference in tumor formation between the transgenic and the non-transgenic mice would then be appreciated
+Score: 16.745108199921265 Sentence: At the age extremes of 4?12 and 22?24 months no differences were observed, with very low prevalence of tumors in animals younger than 12 months, and a relatively high prevalence at age 22 months or older
+Score: 16.82250649004509 Sentence: However, the transgenic mice had a significant higher lung tumor rate than their non-transgenic counterparts during the age of 13?21 months, suggesting an age-related shift in lung tumor formation induced by the lung-specific expression of the human mutant p53
+Score: 17.147638091705844 Sentence: Lung tumor rate and age of onset are summarized in Figure 1 
+Score: 17.267769656226655 Sentence: K-ras mutations were identified by utilizing the polymerase chain reaction (PCR) technique to amplify the second and third exons (GenBank accession NC_00072, the start codon of K-ras is located in the second exon) followed by sequence analysis of the amplified product
+Score: 17.336665906974748 Sentence: A similar rate of K-ras mutations were observed between transgenic and non-transgenic animals ( Fig
+Score: 17.426054392055587 Sentence: Given the limited number of lung tumors in certain age cohorts, age cohorts were combined into three groups, 4?12, 13?21 and 22?24 months for comparisons between transgenic and non-transgenic mice
+Score: 17.629096855411525 Sentence: P16 gene promoter hypermethylation is a common event in lung cancers [36] ; up to 80% in lung adenocarcinomas [58] 
+Score: 17.700762537807645 Sentence: However 13 of 24 (54%) tumors examined in transgenic mice exhibited areas of variant histology, including areas of clear secretory change, areas of high nuclear grade, areas of oncocytic change and areas of solid proliferation
+Score: 17.804245274040536 Sentence: 6 )
+Score: 17.804245274040536 Sentence: Total body irradiation was performed using a 137Cesium ?-source at a dose of 5Gy/mouse
+Score: 18.041165871171394 Sentence: These results would suggest that the mutant p53(273H) contributes to an acceleration in the development of spontaneous lung tumors in these mice
+Score: 18.041165871171394 Sentence: ?-irradiation of tumors was performed to evaluate the functional activity of murine p53 in these spontaneous lung cancers
+Score: 18.29140450804032 Sentence: In order to investigate how the proportion of lung tumors vary between transgenic and non-transgenic mice over age cohorts logistic regression models were used [64] 
+Score: 18.462584803781557 Sentence: Age differences in the type of K-ras mutations were observed, with a preference for codons 12?13 mutations to occur in the 13?24 month group ( Fig
+Score: 19.278400504257263 Sentence: In contrast only 1 of 11 (9%) tumors examined in the non-transgenic group showed evidence of dedifferentiation (Fisher's exact test p?=?0.14)
+Score: 19.31398137416138 Sentence: Interestingly, the tumor rate differences observed between the transgenics and the non-transgenic counterparts beginning at 13 months equalizes after 22 months, suggesting that the genome instability associated with senescence [55] , [56] is diluting any difference that the transgene effect could produce
+Score: 19.648284278121345 Sentence: Bisulphite-treated tumor DNA was amplified with primers specific for either a methylated (M) or an unmethylated (U) p16INK4a promoter region (A)
+Score: 19.887843837929736 Sentence: Among four mutations in codon 12, three were G to A transitions, GGT to GAT; and one was G to T transversion, GGT to GTT ( Fig
+Score: 19.982439887160922 Sentence: Two mutations were found in codon 13; both were G to A transitions, GGC to GAC ( Fig
+Score: 20.07555620734203 Sentence: The transgenic mice (T) have a statistically significant (Fisher's exact test p<0.01) higher lung tumor rate than wildtype controls (C) during the age of 13?21 months
+Score: 22.70799654661351 Sentence: Older mice (>13 months) had a significantly higher rate of p16 promoter methylation (17% v 82%)
+Score: 22.796933401403795 Sentence: Among eight mutations in codon 61, six mutations were A to G transitions (CAA to CGA) and two were A to T transversions, CAA to CTA ( Fig
+Score: 23.846791118433792 Sentence: The SPC-p53(273H) transgenic mice were generated by microinjection of a 6.7-kb fragment of the SPC-p53(273H) construct into the pro-nuclei of FVB/N mouse zygotes as previously reported [23] 
+Score: 25.602304941575653 Sentence: Lung tumor from the SPC-p53(273H) mice (A)
+Score: 25.602304941575653 Sentence: We analyzed 60 pathological images collected from six lung tumor bearing mice three of which had been irradiated
+Score: 25.699225253121185 Sentence: Immunohistochemical detection of human mutant p53(273H) with human specific p53 antibody (DO-7) in a lung adenocarcinoma from an SPC-p53(273H) transgenic mouse (C)
+Score: 26.26075124295541 Sentence: No difference was found in lung tumor rate between the transgenic mice and non-transgenic controls at the age range of 4?12 and 22?24 months
+Score: 27.382831825362693 Sentence: Age cohorts for K-ras mutation or p16 methylation were grouped and compared via Fisher's exact test due to the limited number of tumors
+Score: 30.329631423294988 Sentence: Altogether (including non-transgenics) the 16?18 month cohort had a higher rate of mutations at codons 12?13 of K-ras compared to the younger age cohort (5/9 vs
+Score: 31.641656382531124 Sentence: The rate of tumors with codon 12?13 mutations was higher in the 16?18 month cohort compared to the younger age cohort in the transgenic mice (3/6 vs
+Score: 32.16247740867721 Sentence: Our study demonstrated aberrant methylation of the p16 gene more frequently in the 13?24 months cohort than in the 4?12 months cohort (82% vs
+Score: 33.375430630673755 Sentence: Point mutations in (C) K-ras codon 12, (D) K-ras codon 13, and (E) K-ras codon 61
+Score: 33.80238353484678 Sentence: Altogether, 18 of 22 (82%) tumors from 13?24 months (including non-transgenics) had p16 promoter methylation, which is statistically higher (Fisher's exact test, p<0.1) than for the 4?12 month group
+Score: 37.00583558137382 Sentence: Murine lung tumors have been shown to contain a high frequency of K-ras mutation in codon 61 [37] 
+Score: 37.074338670176935 Sentence: Comparison of p16INK4a promoter methylational rate between 4?12 months and the 13?24 months transgenic lung tumors (B), the transgenic tumors and the non-transgenic tumors in age of 13?24 months (C)
+Score: 40.3436523115688 Sentence: While p53 and K-ras codons 12/13 mutations and p16 promoter methylation status are well described in human lung cancers, the influence of age in the likelihood of these abnormalities to combine with early genetic events has not been previously explored
+Score: 41.840619241439214 Sentence: Only one of six (17%) tumors tested at the age cohorts of 4?12 months contained p16 promoter methylation
+Score: 41.84342684153508 Sentence: These results would suggest that inactivation of p16 by methylation of its promoter region is, similar to K-ras codons 12?13 mutations, a late age dependent event contributing to lung tumor formation in the p53(273H) transgenic mice
+Score: 43.684308342539076 Sentence: Thus the onset of K-ras mutations in codons 12 and 13 in murine lung tumor appear to be an age related phenomenon, appearing at a similar rate in tumor-developing transgenic and non-transgenic littermates
+Score: 44.26026989263531 Sentence: In mice younger than 15 months no mutations at codons 12?13 of K-ras were found (0/10 tumors)
+Score: 46.33774690118949 Sentence: Given their association with P53 mutations in human lung cancer, we evaluated the rates of K-ras gene mutation and p16INK4a (p16) promoter methylation of the lung tumors
+Score: 49.63112287402001 Sentence: It has been reported that K-ras mutations occur mainly in codons 12, 13 and 61 in murine lung tumors [37] , thus we investigated the DNA sequences of exons 2 and 3 that contain codons 12, 13 and 61 using PCR amplification followed by DNA sequencing
+Score: 51.539013349458614 Sentence: In addition, an age related effect was observed for K-Ras codons 12 or 13 mutations, but not for codon 61 mutations
+Score: 52.6870603066559 Sentence: Given the high prevalence of K-ras and p16 gene deficiencies in human lung cancers [33] ? [36] , we evaluated for K-ras gene mutations and p16 promoter methylation in the spontaneous lung cancers in both transgenic and non-transgenic animals
+Score: 55.46235730906937 Sentence: Comparison of K-ras mutation in codons 12?13 and codon 61, (A) between 4?12 months and the 13?24 months transgenic lung tumors, and (B) between the transgenic tumors and the non-transgenic tumors in age of 13?24 months
+Score: 59.31534197378876 Sentence: P16 promoter methylation (methylation specific PCR) was detected in 19 of 28 (68%) lung tumors ( Fig
+Score: 64.761474634421 Sentence: A similar promoter methylation rate in the tumors of the transgenics and non-transgenic controls was found ( Table 1 )
+Score: 65.32816315859104 Sentence: The latency period for tumors to develop in these transgenic mice would also suggest that mutant p53(273H) combine with other age-related genetic or epigenetic alterations, such as mutation at codon 12 or 13 of K-ras gene and inactivation of p16 by methylation of its promoter region, to promote lung tumor formation and progression in the p53(273H) transgenics
+Score: 65.36042003384337 Sentence: We analyzed 28 murine lung tumors, 21 from the transgenic mice and 7 tumors from non-transgenic mice
+Score: 69.67615769738693 Sentence: In order to establish the influence of other common genetic abnormalities in lung tumor formation in the animals, K-Ras gene mutation and p16INK4a (p16) promoter methylation were evaluated in a total of 281 transgenic mice and 189 non-transgenic littermates
+Score: 74.77066005579191 Sentence: Among 7 non-transgenic tumors, two mutations were found in exon 2 (codon 12) and two in codon 61 ( Table 1 )
+Score: 78.18334462133254 Sentence: We analyzed 28 spontaneous lung tumors and found that 27% of lung tumors had K-ras mutations (all somatic) at codons 12?13 at the age of 13?24 months, whereas, no mutation was detected at these codons at an earlier age
+Score: 78.32881931750762 Sentence: In contrast, among the 15 transgenic tumors collected from the 13?24 month cohorts, 12 (80%) were found to have p16 promoter methylation (Fisher's exact test, p<0.1)
+Score: 87.57664646014709 Sentence: Overall 13 of 21 (62%) transgenic lung tumors and 6 of 7 (86%) non-transgenic lung tumors contained p16 promoter methylation
+Score: 136.938277583622 Sentence: Among 28 lung tumors, eight tumors (29%) contained K-ras mutation in codon 61, and its frequency was similar between transgenics (27%) and non-transgenics (29%) and between the 4?12 months transgenic cohort (33%) and the 13?24 months transgenic cohort (27%), suggesting its lack of association with age or collaboration with P53 mutations (4?15 months vs

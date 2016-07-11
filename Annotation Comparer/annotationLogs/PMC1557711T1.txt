@@ -1,0 +1,241 @@
+Score: 0.0 Sentence: A consultant breast pathologist subsequently reviewed all tissue samples
+Score: 0.0 Sentence: Treatment was continued until untreated cells reached confluence
+Score: 0.0 Sentence: Statistical analysis was performed using STATA software (STATA Corporation, College Station, TX, USA)
+Score: 0.0 Sentence: Values are expressed as median values (interquartile range)
+Score: 0.0 Sentence: * P < 0.05, ** P < 0.01, *** P < 0.001, **** P < 0.0001
+Score: 0.0 Sentence: Data are expressed as geometric means with 95% confidence intervals
+Score: 0.0 Sentence: * P < 0.05, ** P < 0.01, *** P = 0.001
+Score: 0.14209125560753177 Sentence: Data are presented as the geometric means with their 95% confidence intervals
+Score: 0.14209125560753177 Sentence: The median age among the remaining 10 women with implanted DCIS was 53 years (range 39?72 years)
+Score: 0.22246116457832588 Sentence: Written consent was obtained, and only those women undergoing mastectomy were included
+Score: 0.22246116457832588 Sentence: Xenografts were removed on day 14, day 21, and day 28
+Score: 0.29179209426636377 Sentence: In DCIS treatment resulted in a reduced CTI
+Score: 0.29179209426636377 Sentence: Overall, CTI decreased in treated xenografts
+Score: 0.29179209426636377 Sentence: In human DCIS xenografts treatment also resulted in a reduced CTI
+Score: 0.36455242018585765 Sentence: Nine lesions were nuclear grade III and the remaining lesions were nuclear grade II
+Score: 0.36455242018585765 Sentence: All authors read and approved the final manuscript
+Score: 0.43388334987389554 Sentence: Eight xenografts (in pairs) were implanted subcutaneously in four sites symmetrically in the flanks
+Score: 0.43388334987389554 Sentence: The grading was done on the in situ part only in lesions with invasive cancer
+Score: 0.43388334987389554 Sentence: The harvested xenograft pairs contained DCIS in 44.8% (493/1100)
+Score: 0.43388334987389554 Sentence: There was decreased proliferation in the xenografts treated with R115777
+Score: 0.43388334987389554 Sentence: Apoptosis increased in the treated DCIS xenografts
+Score: 0.4804530139182014 Sentence: All counting was performed without knowledge of treatment group
+Score: 0.4804530139182014 Sentence: Fifty-four out of 80 (67.5%) day 0 xenografts contained ducts with DCIS
+Score: 0.4804530139182014 Sentence: A series of new signal transduction inhibitors (STIs) are under development [ 40 ]
+Score: 0.5142532588446896 Sentence: In treated DCIS xenografts proliferation decreased and apoptosis increased
+Score: 0.6563445144522214 Sentence: However, the effect was not as clear as in the in vitro setting and varied among the treated tumours
+Score: 0.7029141784965273 Sentence: After 2 weeks one pair of xenografts was removed and treatment was started (day 14)
+Score: 0.7029141784965273 Sentence: Proliferation and apoptotic indices were both expressed as a percentage of apoptotic or stained cells
+Score: 0.845005434104059 Sentence: Detection of an unfarnesylated and a farnesylated band of the HDJ2 protein represents conclusive evidence of farnesyl transferase inhibition
+Score: 1.1367975283704228 Sentence: All care of the animals and surgical procedures were performed in accordance with Home Office Regulations and the UK Scientific Procedures Act (1986)
+Score: 1.1367975283704228 Sentence: There was no statistically significant difference in body weight loss/gain or number of deaths between treated and control animals in the DCIS xenograft experiments
+Score: 1.1367975283704228 Sentence: EA participated in the design and coordination of the study
+Score: 1.1367975283704228 Sentence: RBC participated in the design and coordination of the study
+Score: 1.1367975283704228 Sentence: JM participated in the design of parts of the study and performed the statistical analysis
+Score: 2.0905876503593306 Sentence: CTI, cell turnover index.
+Score: 2.2326789059668624 Sentence: The mechanism might be a threshold effect or due to saturable drug pharmacokinetics [ 12 ]
+Score: 2.3823797446256942 Sentence: In human DCIS xenografts treatment resulted in a reduced cell turnover index (CTI)
+Score: 2.4551400705451885 Sentence: The Western blots were transferred to polyvinyledene difluoride membrane and probed with a mouse monoclonal antibody against HDJ2 (KH2A5.6; NeoMarkers, Fremont, CA, USA) [ 29 ]
+Score: 2.4551400705451885 Sentence: The effect on the CTI was due to both an antiproliferative and a pro-apoptotic effect
+Score: 2.524471000233226 Sentence: There was a significant decrease in the cell turnover index (CTI; proliferation/apoptosis)
+Score: 2.571040664277532 Sentence: All treated cell pellets exhibit a high proportion of unfarnesylated protein
+Score: 2.9355930844633895 Sentence: We were unable to detect a clear relationship between any of the factors and the effect of the FTI
+Score: 3.0501854921696507 Sentence: The ratios between day 14 and day 28 were 1.22 for controls ( n = 75) and 0.78 for treated ( n = 66) xenografts, respectively ( P = 0.06)
+Score: 3.0501854921696507 Sentence: The ratios between day 14 and day 28 were 0.83 for controls ( n = 95) and 1.06 for treated ( n = 104) xenografts, respectively ( P = 0.005)
+Score: 3.0501854921696507 Sentence: The ratios between day 14 and day 28 were 1.50 for controls ( n = 67) and 0.75 for treated ( n = 62) xenografts, respectively ( P = 0.08)
+Score: 3.0501854921696507 Sentence: Statistical significance was tested for the change between day 14 and day 21 and between day 14 and day 28
+Score: 3.0809425859655297 Sentence: We have shown that the FTI was effective in some tumours and not in others
+Score: 3.1968431796978733 Sentence: In four out of five treated tumours an unfarnesylated protein was detected
+Score: 3.2273851787297536 Sentence: To assess apoptosis in the xenografts, we sought morphological evidence of apoptosis using haematoxylin and eosin stained sections
+Score: 3.2273851787297536 Sentence: NJB participated in the design and coordination of the study and helped to draft the manuscript
+Score: 3.341977586436015 Sentence: The cells were lysed in ice-cold radioimmunoprecipitation assay buffer (50 mmol/l Tris-HCl [pH 7.5], 150 mmol/l NaCl, 0.1% Triton X-100, 0.5% deoxycholate, 0.1 mmol/l ethyleneglycoltetracetic acid, and 0.1 mmol/l EDTA) with protease inhibitors for 5 minutes on ice
+Score: 3.5306385060878522 Sentence: Seven of the cases were clinically regarded as positive for HER2 (2+ or 3+) and three were regarded as negative (0 or 1+)
+Score: 3.5306385060878522 Sentence: The ratios of proliferation indices between day 14 and day 21 were 1.38 for controls ( n = 65) and 0.75 for treated ( n = 61) xenografts, respectively ( P = 0.04)
+Score: 3.5306385060878522 Sentence: The ratios of CTIs between day 14 and day 21 were 1.99 for controls ( n = 44) and 0.85 for treated ( n = 49) xenografts, respectively ( P = 0.005)
+Score: 3.5314084436560598 Sentence: Clinical studies of R115777 in phase I trials have shown that a reversible myelosuppression is the dose-limiting toxicity of the drug [ 35 , 36 ]
+Score: 3.630620756522334 Sentence: Ras is synthesized as a pro-peptide (pro-ras)
+Score: 3.9224128507886977 Sentence: Point mutations in ras genes result in over-activated ras proteins
+Score: 4.286965270974556 Sentence: The ras proteins play an important role in signal transduction and cellular transformation [ 14 ]
+Score: 4.358659746030142 Sentence: Tissue from 14 women with widespread DCIS was implanted
+Score: 4.581120910608468 Sentence: Proliferation was measured by immunohistochemistry (Ki67) and apoptosis by morphology on haematoxylin and eosin stained slides
+Score: 4.723212166215999 Sentence: The research was partly sponsored by Johnson and Johnson Pharmaceutical Research and Development, New Jersey, USA
+Score: 4.949069071746534 Sentence: In the cell tumours immunohistochemistry (TdT-mediated dUTP-fluorescence nick end labelling) was used
+Score: 4.99868188692145 Sentence: A CTI (proliferation index/apoptotic index) [ 28 ] was calculated for each individual xenograft and cell tumour
+Score: 5.106575489537865 Sentence: Effects on tumour xenografts and human ductal carcinoma in situ (DCIS) of the breast in a xenograft mouse model were also tested
+Score: 5.106575489537865 Sentence: FK participated in the design of the study, classified the human DCIS tissue and helped with the counting of proliferation and apoptosis in tumour cells
+Score: 5.203665180134201 Sentence: Each mouse received tissue from one patient only and implantation was completed within 90 min of removal of the tissue from the patient
+Score: 5.317972829089085 Sentence: Activation of the RAF-MAPK (mitogen-activated protein kinase) pathway stimulates proliferation in the cell, and activation of the PI3K-PKB (protein kinase B)/Akt pathway is related to increased cell survival [ 15 ]
+Score: 5.4105357565543875 Sentence: Treatment was given over 14 days in the experiments with human DCIS
+Score: 5.4447964074552875 Sentence: The FTI R115777 is a promising new treatment for breast cancer
+Score: 5.4954572744005645 Sentence: Women were included in the study if they had mammograms showing widespread microcalcifications indicative of DCIS, with or without an invasive component, and histopathological confirmation of the diagnosis by core biopsy before surgery ( n = 14)
+Score: 5.4954572744005645 Sentence: In four of the cases no DCIS was found in the day 0 xenografts or in the implanted xenografts, and these women were excluded from further analyses
+Score: 5.624484402341791 Sentence: Tumours were divided and processed for immunohistochemistry or were stored in liquid nitrogen
+Score: 6.152233908776413 Sentence: Cells (2?4 ? 106) in a 200 ?l solution of growth medium containing 10% FCS were injected subcutaneously into each flank of each mouse and allowed to form tumours
+Score: 6.25452074370028 Sentence: Other ras-independent mechanisms of action might play a role in the antitumour effect, including inhibition of enzymes other than the farnesyl transferases [ 44 , 45 ]
+Score: 6.254520743700281 Sentence: We have clearly demonstrated inhibition of farnesylation in vitro in the present study
+Score: 6.352157705793136 Sentence: Median tumour volume in treated relative to control animals is given in cubic millimetres
+Score: 6.635544770673762 Sentence: This unfarnesylated ras band was not detected in any of the untreated cell samples (Figure 2a )
+Score: 6.6355447706737625 Sentence: One way to target ras activity is to inhibit the enzyme farnesyl transferase, which catalyzes a major step in the modification of pro-ras
+Score: 6.758928452866607 Sentence: Tumours were measured with a calliper twice weekly and tumour volume was calculated using the following formula: tumour volume = (width)2 ? (length/2)
+Score: 6.8137998165753295 Sentence: Bound antibody was detected using a horseradish peroxidase conjugated secondary antibody and visualized by treating the membrane with enhanced chemiluminescence reagents (Amersham Pharmacia Biotech Inc., Piscataway, NJ, USA) and exposing it to film
+Score: 6.838617698413544 Sentence: The exact mechanism of action FTIs on cancer cells remains unknown
+Score: 6.858005935252088 Sentence: To function in signal transduction and activation of downstream pathways ras must attach to the plasma membrane where it can interact with membrane receptors and downstream effectors such as RAF and phosphatidylinositol 3-kinase (PI3K)
+Score: 6.858005935252088 Sentence: We could not assess activation of the ras signalling pathway, but chose to study the downstream effects of the FTI, measured as change in apoptosis and proliferation
+Score: 6.963500655234162 Sentence: Proliferation and apoptosis were determined by immunohistochemistry in xenografts and cell tumours
+Score: 6.988318537072376 Sentence: We found no areas of invasive breast cancer in our day 0 xenografts
+Score: 7.036717946821634 Sentence: Tumour growth inhibition
+Score: 7.071791665915205 Sentence: Estimation of cell number was done by means of the sulphorhodamine B colorimetric assay
+Score: 7.194963249290456 Sentence: The remaining xenografts were implanted into 5?30 mice, depending on tissue volume
+Score: 7.2107797016507025 Sentence: In a phase II study of continuous and intermittent dosing of R15777 in women with advanced breast cancer [ 37 ], partial response or stable disease was demonstrated in about 20% of treated women
+Score: 7.352870957258234 Sentence: However, if some mixture of invasive cancer cells had occurred in the xenografts, then this should have been evenly distributed between controls and treated animals, therefore causing no bias
+Score: 7.378551911080363 Sentence: Several different farnesyl transferase inhibitors (FTIs) have been developed
+Score: 7.875426682611142 Sentence: Accordingly, the overall take rate was calculated at 66.4%
+Score: 7.903732972352959 Sentence: Sections of DCIS xenografts and cell tumours were scored for proliferation after Ki67 immunohistochemical staining (MIB-1; Coulter-Immunotech, Luton, UK)
+Score: 8.213788440921812 Sentence: At least 1,000 cells were counted at a magnification of ?40
+Score: 8.578340861107668 Sentence: Another pair of xenografts was removed after 7 days of treatment (day 21), and the remaining xenografts were removed after 14 days of treatment (day 28) at the end of the experiment
+Score: 8.730522014914877 Sentence: Comparisons between the R115777 treated and control samples in the DCIS xenograft experiments were made 'within-patient' using a repeated analysis of variance model with patient and group (R155777 versus control) as factors
+Score: 8.730522014914877 Sentence: In the xenograft experiments no difference in body weight was seen between R115777 and controls; neither was there any difference in the number of deaths seen between treated and control animals
+Score: 8.771393899051317 Sentence: Farnesylation makes the ras protein more hydrophobic, and therefore it becomes possible for the protein to attach to the plasma membrane [ 10 ]
+Score: 9.220997443039238 Sentence: Nine out of the 10 women had foci of invasive cancer in their mastectomy specimen according to the final histopathological report
+Score: 9.238397888088638 Sentence: Protein extracts were prepared from cell pellets or tumours after thawing the cryopreserved samples and washing them with phosphate-buffered saline
+Score: 9.307728817776677 Sentence: In the future, it might be possible to identify those tumours that will benefit from treatment with a FTI
+Score: 9.321177842657555 Sentence: The take rate of DCIS xenografts has been shown to be high; furthermore, DCIS express HER2 in 70% of high-grade DCIS lesions [ 22 , 23 ], which makes DCIS suitable for studies targeting the ras pathway
+Score: 9.514637546362296 Sentence: We also demonstrated an effect on farnesylation in cell tumours, with good response to R115777 treatment
+Score: 9.699864572896491 Sentence: Accordingly, the data presented on proliferation, apoptosis and CTI are from the 10 experiments with implanted DCIS
+Score: 10.044665223289979 Sentence: Widespread DCIS was previously used for implantation in experiments similar to this study [ 20 , 21 ]
+Score: 10.280257172412677 Sentence: The mice were housed under conventional conditions with a 12-hour cycle of light and dark in filter top cages ( n = 5?6/cage) and given free access to normal feed, water and bedding during the experiments
+Score: 10.29248834307262 Sentence: The mice were gavaged twice daily with either R115777 or control vehicle starting on day 14 after removal of the first pair of xenografts
+Score: 10.314144995543753 Sentence: We are planning further investigations into the mechanisms of action of the FTIs and how they affect the different pathways that regulate cell survival and proliferation
+Score: 10.477914371306557 Sentence: The type of tumours that respond to farnesyl transferase inhibition must be established before the treatment can become clinically useful
+Score: 10.924873587015865 Sentence: The ras pathway is activated by a variety of extracellullar factors, and aberrant function of ras signal transduction is not only due to ras mutations
+Score: 11.072269862309016 Sentence: Only tumours that were measurable at the start of treatment were included in the analyses
+Score: 11.075313013439624 Sentence: After retrieval, the xenografts were immediately fixed in buffered formalin for 24 hours at 4?C and then stored in 70% ethanol before paraffin embedding
+Score: 11.241790492293509 Sentence: Approval to remove tissue from pathological samples in this study was granted by the South Manchester Research Ethics Committee
+Score: 11.776084159898923 Sentence: This statistical model matched the R11577 and control readings from mice transplanted from the same women
+Score: 11.838333884705508 Sentence: The ras pathway is essential for cell growth and proliferation
+Score: 12.080346486352372 Sentence: The CTI ratio between the start and 1 and 2 weeks of treatment were 1.99 and 1.50, respectively, for controls and 0.85 ( P = 0.005) and 0.75 ( P = 0.08) for treated xenografts
+Score: 12.080346486352372 Sentence: The specimen was dissected into 2 ? 2 ? 1 mm pieces and a random collection of 5?10 pieces was withdrawn as day 0 samples and processed for histology
+Score: 12.173815546577687 Sentence: DW participated in the design of the study, carried out the cell and tumour experiments, and carried out the immunoassays and Western blots
+Score: 12.376902326729816 Sentence: Tumour growth inhibition is given as a percentage
+Score: 12.668694420996182 Sentence: This indicates that mechanisms other than farnesyl transferase inhibition are involved in tumour growth inhibition
+Score: 12.77550557667915 Sentence: Furthermore, data suggest that combining STIs and endocrine therapy may be more effective than an STI alone [ 41 - 43 ]
+Score: 12.917596832286682 Sentence: The immunohistochemistry methodology and apoptotic scoring was described previously [ 21 , 25 - 27 ]
+Score: 12.93700060713781 Sentence: A 1?2 cm3 specimen of breast tissue from the area with microcalcifications was taken at the time of surgery and handled as described previously [ 20 , 21 ]
+Score: 13.175588681626557 Sentence: Eight out of the 10 cases of DCIS were ER positive (for instance, >5% stained cells)
+Score: 13.209388926553046 Sentence: No correlation between response and ER and/or HER2 expression was seen in the study
+Score: 13.385318677246671 Sentence: At least 300 cells in the xenografts and 1,000 cells in the cell tumours were counted at a magnification of ?40
+Score: 13.467380775892922 Sentence: We did not study the effect of the FTI in subgroups of DCIS (for example, ER positive/negative or HER2 positive/negative)
+Score: 13.592569023153182 Sentence: Tumours were selected from those tumours treated with R115777 exhibiting a good response and control tumours with no response on tumour growth
+Score: 14.062760632847308 Sentence: There is a need to identify the targets of the FTIs in the preclinical setting if we are to understand the clinical results and be able to select patients in future studies
+Score: 14.20601584730057 Sentence: In four out of five treated MCF-7/HER2-18 tumours an unfarnesylated ras band was detected, whereas in six out of six control tumours no unfarnesylated ras was detected (Figure 2b )
+Score: 14.319625976275185 Sentence: Data only include mice for which data were available from day 14 and day 21 or day 28
+Score: 14.98024946948458 Sentence: No clinical studies involving FTIs in patients with DCIS have been performed, and knowledge on ras status in DCIS lesions is sparse
+Score: 15.09691918718518 Sentence: Participants in this study were women who attended the Nightingale Breast Screening Assessment Centre or the Symptomatic Breast Clinic at the University Hospital of South Manchester, UK during the period from April 2002 to April 2003
+Score: 15.167154227269187 Sentence: The cell tumours chosen in this analysis were MCF-7/HER2-18 tumours showing good response on R115777 treatment and MCF-7/HER2-18 control tumours with uninhibited growth
+Score: 15.765878632027588 Sentence: This was less than the inhibition of approximately 80% we found on the MCF-7/HER2-18 tumours, using the same dose of R115777
+Score: 15.896949378644225 Sentence: There is a lack of correlation between preclinical results with FTIs and results from clinical studies
+Score: 16.300553688814308 Sentence: Data shown represent the overall effect of R115777 and for both doses separately
+Score: 16.341652634514688 Sentence: Data were restricted to those mice with tissue from women with readings available from both R115777 and control mice
+Score: 16.426786440004975 Sentence: Treatment with the FTI reduced cell growth in vitro 
+Score: 17.034179304209985 Sentence: The percentage with interquartile range is based on the median growth inhibition among treated tumours relative to the median control tumour growth
+Score: 17.098001532415253 Sentence: The drug investigated in this study (R115777) is an imidazole-based FTI that acts as a competitive inhibitor of the carboxyl-terminal tetrapeptide CAAX of ras [ 16 - 19 ]
+Score: 17.432739110170044 Sentence: The ras pathway is activated by a variety of extracellullar factors [ 10 ] and aberrant function of the ras signal transduction pathway is thought to be common in breast cancer [ 2 ]
+Score: 17.65200825694613 Sentence: Furthermore, by showing an unfarnesylated protein in treated cell pellets and cell line tumours, we demonstrated the effect on farnesylation by the FTI R115777
+Score: 18.007187568003918 Sentence: In the experiments with implanted cell tumours the duration of treatment varied between 8 and 29 days in different experiments, depending on how fast the tumours grew
+Score: 18.18502088627537 Sentence: In MDA-MB 231 with activated k-ras no inhibition was observed
+Score: 18.191266836290175 Sentence: Also, cell tumour growth in vivo was reduced, and we showed increased apoptosis and decreased proliferation, resulting in reduced CTI
+Score: 18.206087135587442 Sentence: Forty-one of the primary tumours in the study conducted by Johnston and coworkers [ 37 ] were analyzed for ras mutations and only one tumour had an h-ras mutation
+Score: 18.388868528507334 Sentence: Inhibition of farnesylation has not been clearly correlated to tumour inhibition in cancer patients [ 44 ]
+Score: 19.714474892951166 Sentence: (b) Detection of an unfarnesylated and a farnesylated band of the HDJ2 protein by Western blot technique on MCF-7/HER2-18 cell tumours treated with R115777 or control vehicle
+Score: 19.872523719639815 Sentence: The protein concentration of each lysate was quantified using a colorimetric assay (BCA Protein Assay; Pierce, Rockford, IL, USA) and 50 ?g total protein was loaded on an 8% SDS polyacrylamide gel
+Score: 20.047202555243825 Sentence: Expression of these receptors is increased in 30?40% of all breast cancers [ 4 ]; furthermore, over-expression is indicative of a more aggressive phenotype [ 5 , 6 ]
+Score: 20.281664695087102 Sentence: Throughout the analysis, 'mouse' was taken as the unit of analysis and only data from mice with data from both day 14 and day 21 or day 28 were included, because we looked at change over time in terms of proliferation, apoptosis and CTIs
+Score: 20.29695767264369 Sentence: Statistical significance of tumour growth inhibition was tested by comparing individual tumour growth in cubic millimetres between treated and control tumours using the Mann-Whitney U test
+Score: 20.816117844542212 Sentence: By gaining a better understanding of how different interactions in normal or upregulated or downregulated signal pathways work, we hopefully will be able to tailor breast cancer treatment to individual patients
+Score: 21.767014910695302 Sentence: The significance level was set at 5% and all tests were two sided
+Score: 21.90267975559228 Sentence: RAS pathway activity is critical for tumour growth [ 1 ]
+Score: 21.909554434615302 Sentence: This might be an indication that HER2 expression plays a role in the response to farnesyl transferase in vivo 
+Score: 21.97916141252019 Sentence: The MDA-MB231 cell line also had the highest IC50
+Score: 22.0129172206478 Sentence: Human DCIS was implanted in nude mice or, in separate experiments, cultured cells were injected (MDA-MB231, MCF-7/HER2-18, SKOV3) and allowed to form tumours
+Score: 22.036357965552135 Sentence: However, all results of proliferation and apoptotic change in the different groups pointed in the same direction, except for an unchanged apoptotic index after seven days of treatment in the lower dose group
+Score: 22.257399161121317 Sentence: Treatment with R115777 (50 mg/kg or 100 mg/kg; Johnson and Johnson Pharmaceutical Research and Development, Raritan, NJ, USA) or control vehicle (20% ?-cyclodextrin) was given as a gavage twice daily from Monday to Friday and once daily during weekends
+Score: 22.655114684858543 Sentence: Breast cancer is potentially a suitable tumour type for study because it is possible to perform experiments similar to ours in which human tumours can be tested in a xenograft model
+Score: 22.841961440732256 Sentence: Each experiment was terminated and all tumours were removed when any of the mice developed a tumour burden of more than 1 cm3
+Score: 23.63009329375088 Sentence: Xenografts were implanted into athymic mice on day 0 and left untreated for 14 days
+Score: 23.924557215062574 Sentence: Results from experiments conducted in human DCIS xenografts The overall effect of the farnesyl transferase inhibitor R115777 on proliferation and apoptosis of ducatal carcinoma in situ (DCIS) of the breast
+Score: 24.874154123265484 Sentence: The IC50s are presented as the mean value of three separate experiments with the corresponding standard errors of the mean
+Score: 25.239521073134952 Sentence: Farnesyl transferase inhibition in vitro and in vivo 
+Score: 25.257007653286323 Sentence: Treatment with R115777 50 mg/kg or 100 mg/kg or control vehicle (20% ?-cyclodextrin) was begun when measurable tumours were formed in about 75% of injection sites
+Score: 26.762049507961954 Sentence: The tissue was collected well away from any areas showing signs of invasive cancer on the mammogram, and in our day 0 xenografts we found no signs of invasive cancer
+Score: 27.224334351251265 Sentence: FW participated in the design of the study, carried out the cell and tumour experiments, obtained patient consent and collected human DCIS tissue, performed part of the statistical analysis and drafted the manuscript
+Score: 27.25593503093217 Sentence: The incidence of ras mutations in human tumours overall is about 30%, whereas the incidence of activating ras mutations in breast cancers is low, at only a few percent [ 7 - 9 ]
+Score: 27.4013693004548 Sentence: Four experiments were conducted with the dose R115777 50 mg/kg and six with 100 mg/kg
+Score: 27.44271992430035 Sentence: (a) Detection of an unfarnesylated and a farnesylated band of the HDJ2 protein by Western blot technique on cell pellets treated with different doses of R115777 and controls
+Score: 27.826740131537772 Sentence: The apoptotic index was higher in the treated tumours; for R115777 50 mg/kg it was 1.5% (1.2?1.6%; P = 0.04) and for R115777 100 mg/kg it was 1.6% (1.4?1.9%; P = 0.003) as compared with 1.2% in the control tumours (0.9?1.5%)
+Score: 27.826740131537772 Sentence: The proliferation index was lower in treated tumours; for R115777 50 mg/kg it was 34.1% (26.5?44.4%; P = 0.009) and for R115777 100 mg/kg it was 40.1% (33.1?44.0%; P = 0.08) as compared with 46.6% in the control tumours (37.6?55.0%)
+Score: 27.826740131537772 Sentence: The apoptotic index did not differ between treated tumours; for R115777 50 mg/kg it was 0.49% (0.4?0.7%; P = 0.11), for R115777 100 mg/kg it was 0.48% (0.4?0.8%; P = 0.18) and it was 0.35% in the control tumours (0.3?0.5%)
+Score: 27.826740131537772 Sentence: The proliferation index was higher, although not statistically significantly higher, in the treated tumours; for R115777 50 mg/kg it was 68.2% (63.3?71.5%; P = 0.24) and for R115777 100 mg/kg it was 72.4% (66.4?78.4%; P = 0.06) as compared with 57.9% in the control tumours (54.1?71.4%)
+Score: 27.826740131537772 Sentence: The apoptotic index was similar in treated and control tumours; for R115777 50 mg/kg it was 0.4% (0.3?0.6%; P = 0.98), for R115777 100 mg/kg it was 0.4% (0.3?0.7%; P = 0.75) and for controls it was 0.4% (0.3?0.6%)
+Score: 27.858394665667603 Sentence: As in the work by Kelland and colleagues, we found no dose respond effect with the chosen doses, namely 50 and 100 mg/kg
+Score: 27.985155089892412 Sentence: Strikingly, we found an effect on proliferation and apoptosis that was consistent in the in vivo studies of cell tumours expressing wild-type ras (MCF-7/HER2-18 and SKOV3) and in human DCIS
+Score: 28.251924511459237 Sentence: For example, the IC50s in the MCF-7 and in the MCF-7/HER2-18 were not significantly different in the in vitro experiments
+Score: 29.16873354601526 Sentence: Treatment with the farnesyl transferase inhibitor reduced cell growth in vitro and cell tumour growth in vivo 
+Score: 29.492731988546275 Sentence: Other studies [ 11 , 13 ] also were unable to show a clear relation between markers such as growth factor receptors and ras status, and the effect of FTIs
+Score: 30.012698644347466 Sentence: This selection of tumours was made in an attempt to establish proof of farnesyl tranferase inhibition in vivo 
+Score: 30.38157556974381 Sentence: The proliferation and apoptotic indices and CTI from the DCIS experiments are presented in Table 3 
+Score: 30.6973333507907 Sentence: Athymic female nude mice (BALB/c nu/nu, aged 6?8 weeks) were purchased and allowed to acclimatize for 1?2 weeks before experiments were started
+Score: 30.701381396737112 Sentence: Instead, the growth in the treated tumours was increased by 68.8% (13.8?284.1%; P = 0.08) and 91.2% (2.8?328.8%; P = 0.09), respectively, relative to control tumours ( n = 16; Figure 1c and Table 1 )
+Score: 31.269090478852487 Sentence: (b) Tumour growth inhibition by R115777 in SKOV3 tumours
+Score: 31.269090478852487 Sentence: (c) Tumour growth inhibition by R115777 in MDA-MB231 tumours
+Score: 31.785805625879224 Sentence: In this study we have shown that treatment with the FTI R115777 reduced cell growth in vitro and cell tumour growth in vivo 
+Score: 32.51691599814281 Sentence: In MCF-7/HER2-18 and SKOV3 cells the levels of tumour growth inhibition were approximately 85% and 40%, respectively
+Score: 32.822876898912625 Sentence: Although we were unable to establish the ras status of the DCIS lesions in our human DCIS xenograft experiments, the majority (70%) were HER2 positive and would be expected to have activated wild-type ras
+Score: 33.65512099444532 Sentence: The plated number of cells and the concentration of FCS were established for each cell line in separate experiments to find suboptimal growing conditions for use in the following experiments with R115777
+Score: 33.817053003764094 Sentence: Three separate experiments were conducted for each cell line, in which each concentration of R115777 was tested in quadruplicate
+Score: 35.07085584574068 Sentence: The effect on the HER2 transfected MCF-7 cell line tumours was also considerably more pronounced than the effect on the SKOV3 cell tumours, and this was also reflected in a 10-fold lower IC50
+Score: 35.90411241203799 Sentence: The effects of R115777, a farnesyl transferase inhibitor, were investigated in cancer cell lines expressing varying levels of growth factor receptors and with differing ras status
+Score: 35.969536533272525 Sentence: However, in an experiment similar to ours, in which cell line tumour growth inhibition was studied and the same FTI was used, Kelland and coworkers [ 12 ] identified inhibition of about 60?70% in treated MCF-7 cell line tumours
+Score: 37.089491485734804 Sentence: The CTIs for tumours treated with R115777 50 mg/kg and 100 mg/kg were 180.1 (115.9?205.4; P = 0.32) and 180.8 (90.5?227.7; P = 0.37), respectively, and the CTI for controls was 106.0 (85.8?191.0; Table 2 )
+Score: 37.38128358000117 Sentence: The proliferation index was lower in the treated tumours; for R115777 50 mg/kg it was 69.6% (63.4?74.8%; P = 0.003) and for R115777 100 mg/kg it was 65.5% (62.0?70.1%; P < 0.0001) as compared with 77.7% for the control tumours (74.4?81.1%; Table 2 )
+Score: 37.861736593919375 Sentence: The CTIs for tumours treated with R115777 50 mg/kg and 100 mg/kg were 48.7 (41.6?57.4; P = 0.0009) and 38.0 (30.1?43.3; P < 0.0001), respectively, and these values were statistically significantly reduced as compared with the CTI of 61.6 in controls (55.5?79.5; Table 2 )
+Score: 37.861736593919375 Sentence: The CTIs for tumours treated with R115777 50 mg/kg and 100 mg/kg were 67.5 (45.6?96.1; P = 0.004) and 81.0 (38.6?110.2; P = 0.05), respectively; these values were statistically significantly reduced as compared with the CTI of 125.4 in controls (87.1?188.9; Table 2 )
+Score: 38.41827358372136 Sentence: Cells were plated in 96-well plates in growth medium containing 2?5% foetal calf serum (FCS), and after 24 hours the medium was discarded and replaced with medium containing varying concentrations of R115777 (0, 1 nmol/l, 10 nmol/l, 100 nmol/l, 500 nmol/l, 1 ?mol/l, 5 ?mol/l and 10 ?mol/l)
+Score: 39.047275437009674 Sentence: We also tried to relate the effect of the FTI to growth factor receptor status and ras status
+Score: 39.78292555495908 Sentence: The results of proliferation and apoptosis in the experiments with the different doses of R115777 pointed in the same direction, except for an unchanged apoptotic index after 7 days of treatment in the lower dose group (data not shown)
+Score: 41.00034160775438 Sentence: In one study [ 38 ] two out of 25 DCIS lesions over-expressed wild-type k-ras, and in another study [ 39 ] four out of five DCIS patients expressed detectable plasma levels of wild-type ras, but no ras mutations were found in these studies
+Score: 41.912872149347436 Sentence: We chose the doses 50 mg/kg and 100 mg/kg, based on data from previous experiments with R115777 [ 12 ]
+Score: 43.22054633830032 Sentence: For each of the cell lines two separate experiments were conducted and the median growth inhibition among all R115777-treated tumours was calculated
+Score: 44.39577678739424 Sentence: In all MCF-7 and MCF-7/HER2-18 cell samples treated with different doses of R115777 in vitro , an unfarnesylated ras band was detected with Western blot technique
+Score: 45.65081015663051 Sentence: The growth inhibitory effect of R115777 was calculated using the following formula: 1 - ([D - C]/[Bmedian - Amedian]) ? 100%, where D is the final tumour volume after R115777 treatment, C is the tumour volume before R115777 treatment, B is the median final tumour volume among control tumours after treatment, and A is the median tumour volume among control tumours before treatment
+Score: 46.125025282376505 Sentence: We have shown that the effect on growth is related to a reduced CTI in the cancer cell lines tumours in vivo and that the CTI was statistically significantly reduced in human DCIS treated by the FTI after 1 week
+Score: 47.44068156334747 Sentence: The cell lines considered in our in vitro experiments were selected to represent different expressions of growth factor receptor and ERs
+Score: 50.08560100382704 Sentence: R115777 is a promising treatment for breast cancer but the relation between effect and growth factor receptor and ras status has to be established
+Score: 51.724761277345415 Sentence: We stratified by treatment dose of R115777, but it was not possible to compare the results between the two different doses because the number of xenografts was too small after stratification
+Score: 52.53346684395023 Sentence: Apoptosis and proliferation in cell tumour experiments Effect of R115777 on proliferation (Ki67), apoptosis (TdT-mediated dUTP-fluorescence nick end labelling [TUNEL]) and cell turnover index (CTI) in cell line tumours grown in athymic nude mice
+Score: 52.82288216914597 Sentence: Other FTIs have been shown to inhibit both mutated and wild-type ras [ 30 , 31 ], but a relative resistance to FTIs in k-ras mutated cell lines has also been reported [ 32 , 33 ]
+Score: 53.31867283186352 Sentence: In the experiments involving the oestrogen-dependent MCF-7/HER2-18 cell line, oestrogen pellets (2 mg) were implanted subcutaneously at the base of the tail of the mice at the time of cell injection [ 24 ]
+Score: 54.14962543392808 Sentence: Western blots were performed on MCF-7 and MCF-7/HER2-18 cells treated with different doses of R115777 and on MCF-7/HER2-18 tumours from the in vivo experiments
+Score: 55.95936937646849 Sentence: In this study we demonstrated reduced tumour growth in vivo and reduced cell growth in vitro in human cancer cell lines with wild-type ras and varying levels of growth factor receptors, when treated with the FTI R115777
+Score: 57.93924685452803 Sentence: The results of growth inhibition in vitro were in accordance with the in vivo results (for instance, the largest effect on tumour growth in vivo was seen in the cell line with the lowest IC50 in vitro )
+Score: 59.37255849035579 Sentence: To study the effect of an FTI, we conducted a series of experiments: first, the in vitro studies on different human cancer cell lines; second, in vivo studies of tumour growth inhibition in selected cell lines; and, finally, studies of human DCIS implanted directly from the operating theatre into nude mice in a model earlier used in our department
+Score: 59.75392801665368 Sentence: No antiproliferative effect and no pro-apoptotic effect were seen in the k-ras mutated MDA-MB231 tumours treated with the FTI, and no tumour growth inhibition resulting from treatment was observed in this cell line
+Score: 59.84687750673157 Sentence: In breast cancers, activity of the ras signalling pathway appears to be increased chiefly via activation of wild-type ras proteins by upstream growth factor receptors such as the epidermal growth factor receptor and c-erbB-2 (HER2) [ 2 , 3 ]
+Score: 61.554505849971854 Sentence: The MCF-7/HER2-18 is a MCF-7 cell line with 45-fold over-expression of the HER2 receptor caused by transfection with full-length HER2 cDNA [ 34 ]
+Score: 61.825834210605606 Sentence: aData collected from the literature [4,12,46]
+Score: 70.46011216285149 Sentence: Growth of k-ras mutated MDA-MB231 tumours was not inhibited by R115777 50 mg/kg ( n = 25) and 100 mg/kg ( n = 15)
+Score: 70.76408311631121 Sentence: Preclinical data have suggested that ras inhibition has an inhibitory effect on growth in cell lines that express both mutated and wild-type ras [ 11 - 13 ]
+Score: 73.12571389529938 Sentence: In the present study we tested the effects of the FTI R115777 on growth of breast and ovarian cancer cell lines expressing varying levels of HER2 and epidermal growth factor receptor and with differing ras status, and on ductal carcinoma in situ (DCIS) of the breast in a human xenograft model
+Score: 78.92313499787289 Sentence: (a) Tumour growth inhibition in MCF-7/HER2-18 tumours grown in athymic mice treated with R115777 50 mg/kg or 100 mg/kg
+Score: 92.43784092210592 Sentence: CTI = cell turnover index; DCIS = ductal carcinoma in situ ; ER = oestrogen receptor; FCS = foetal calf serum; FTI = farnesyl transferase inhibitor; IC50 = 50% inhibitory concentration; PI3K = phosphatidylinositol 3-kinase; STI = signal transduction inhibitor
+Score: 93.18226134804635 Sentence: The cell line with the mutated k-ras, namely MDA-MB231, had the highest IC50, whereas in the cell lines with wild-type ras the drug was effective at lower doses
+Score: 93.67701000442362 Sentence: The 50% inhibitory concentrations varied a hundred-fold, from 39 nmol/l (? 26 nmol/l) for SKBR3 to 5.9 ?mol/l(? 0.8 ?mol/l) for MDA-MB231
+Score: 97.5638210835246 Sentence: The breast cancer cell lines were chosen based on their different expression of growth factor receptors, and the SKOV3 ovarian cell line was used as a model for oestrogen receptor (ER) negative and wild-type ras cancer
+Score: 102.64563056705823 Sentence: The human breast cancer cell lines MDA-MB231, MCF-7, MCF-7/HER2-18, BT-474 and SK-BR3 and the human ovarian cancer cell line SKOV3 were obtained from the American Type Culture Collection (Rockville, MA, USA) and grown and subcultured according to their instructions
+Score: 107.39029071124436 Sentence: Data concerning growth factor expression, ER expression and ras protein status were collected from the literature and are given in Table 1 
+Score: 110.72378577506859 Sentence: Growth of SKOV3 tumours was inhibited by R115777 50 mg/kg ( n = 30) and 100 mg/kg ( n = 14) by 60.1% (32.3?83.9%; P = 0.04) and 20.4% (-65.7 to +38.3%; P = 0.4), respectively, as compared with that in control tumours ( n = 14; Figure 1b and Table 1 )
+Score: 111.43995779751037 Sentence: In mice, growth of MCF-7/HER2-18 tumours was inhibited by R115777 50 mg/kg ( n = 19) and 100 mg/kg ( n = 11) by 80.8% (interquartile range 56.4?99.0%; P = 0.001) and 95.9% (68.2?110.1%; P = 0.02), respectively, compared with control tumours ( n = 22; Figure 1a and Table 1 )
+Score: 120.0199574120833 Sentence: The effect of R115777 on cell growth was used to establish the concentrations required to reduce cell numbers by 50% (50% inhibitory concentration [IC50])
+Score: 136.1797787740141 Sentence: In vitro , the concentrations required to reduce cell numbers by 50% (50% inhibitory concentration) were established (MDA-MB231, MCF-7, MCF-7/HER2-18, BT-474, SK-BR3 and SKOV3)
+Score: 154.9772545276515 Sentence: EGFR, epidermal growth factor receptor; ER, oestrogen receptor; SEM, standard error of the mean
+Score: 169.08806671291845 Sentence: IC50 for R115777 varied a hundred-fold, from 39 nmol/l and 46 nmol/l for SK-BR3 and MCF-7 to 2.7 ?mol/l and 5.9 ?mol/l for SKOV3 and MDA-MB231 cell lines, respectively, when grown in vitro (Table 1 )
+Score: 311.17350585274636 Sentence: Results from cell and cell tumour experiments The table shows the concentration of R115777 required to reduce cell numbers by 50% (50% inhibitory concentration [IC50]), inhibition by R115777 at two different doses in tumours grown in athymic mice, and receptor and ras status for the different cancer cell lines

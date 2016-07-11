@@ -19,7 +19,8 @@ import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
 public class TfIdfAnalysis {
-	
+static boolean unform;
+
 	public static void main(String[] args) {
 		File pdirectory = new File("formattedPapers");
 		File tdirectory = new File("rasTables");
@@ -36,6 +37,7 @@ public class TfIdfAnalysis {
 	}
 
 	public static HashMap<String, Double> annotatePaper(String PMCID, String paperPath, String tablePath) {
+		unform=false;
 		HashMap<String, Integer> documentFreq = new HashMap<String, Integer>();
 		HashMap<String, Double> inverseDocFreq = new HashMap<String, Double>();
 		ArrayList<HashMap<String, Double>> tfidfVecs = new ArrayList<HashMap<String, Double>>();
@@ -183,6 +185,7 @@ public class TfIdfAnalysis {
 						section.html(html.substring(0,html.indexOf(htmlSnippet[index])) + "<span style=\"background-color:"  + hex + "\">" + query + "</span>" + html.substring(html.indexOf(htmlSnippet[index]) + htmlSnippet[index].length()));
 						} catch (ArrayIndexOutOfBoundsException a){
 							System.out.println("unusual formatting");
+							unform=true;
 						}
 					}
 				}

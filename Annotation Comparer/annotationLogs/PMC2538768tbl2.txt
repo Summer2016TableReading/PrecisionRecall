@@ -1,0 +1,152 @@
+Score: 0.0 Sentence: Smoking history was obtained during the patient's first evaluation
+Score: 0.0 Sentence: All tumour samples were formalin-fixed paraffin-embedded tissues
+Score: 0.0 Sentence: DNA was extracted using the MasterPure Complete DNA/RNA Purification kit (Epicentre Biotechnologies, Madison, WI, USA) according to the manufacturer's instructions
+Score: 0.0 Sentence: For the detection of antigen-antibody reaction, the UltraVision detection system AP Polymer kit (Cat no
+Score: 0.0 Sentence: TL-125-AL, Lab Vision, Fremont, CA, USA) was used according to the manufacturer's instructions
+Score: 0.0 Sentence: 8102, Cell Signalling) was used to validate the antibody for p-EGFR
+Score: 0.0 Sentence: Differences were considered statistically significant when the P -value was <0.05
+Score: 0.0 Sentence: All statistical tests were two-sided
+Score: 0.0 Sentence: The corresponding metastases of the Del746-750 (case no
+Score: 0.0 Sentence: Two patients (nos
+Score: 0.0 Sentence: One of them (case no
+Score: 0.0 Sentence: This was confirmed by three independent PCRs from three genomic DNAs extracted from serial sections of the paraffin blocks
+Score: 0.0 Sentence: 16)
+Score: 0.0 Sentence: Patient nos
+Score: 0.0 Sentence: 20)
+Score: 0.0 Sentence: Patient no
+Score: 0.0 Sentence: Our study failed to demonstrate such a correlation probably due to limited number of cases analysed
+Score: 0.20768704647500183 Sentence: All patients gave their informed consent for using their tumour sample for molecular and pathologic analysis
+Score: 0.20768704647500183 Sentence: The study has been approved by the Ethics and Scientific Committees of our institution
+Score: 0.20768704647500183 Sentence: Sections of a paraffin block corresponding to one representative area of the tumour were stained with haematoxylin/eosin, and the presence of tumour tissue was verified by an experienced pathologist
+Score: 0.20768704647500183 Sentence: The initial denaturing step was at 94?C for 15?min, followed by 35 cycles of denaturing step at 94?C for 20?s, annealing step at 60?C for 30?s and extension step at 72?C for 1?min, ending with a final extension step at 72?C for 7?min
+Score: 0.20768704647500183 Sentence: The PCR products are directly sequenced by dye terminator sequencing (ABI BigDye Terminator kit, v3.1, Applied Biosystems, Foster City, CA, USA), purified by ethanol precipitation and separated by capillary electrophoresis on an ABI 3100 Avant genetic analyzer (Applied Biosystems)
+Score: 0.20768704647500183 Sentence: Sequence analysis was carried out by Seqscape software (Applied Biosystems) and manually by two reviewers (AK and AV)
+Score: 0.20768704647500183 Sentence: The paraffin-embedded tissues were cut at 4? ? m thickness and were deposited on SuperFrost/Plus Slides (O.Kindler GmbH, Freiburg, Germany)
+Score: 0.20768704647500183 Sentence: 4407, Cell Signalling, Danvers, MA, USA) was used at a dilution of 1?:?200 (v/v) and incubated overnight at 4?C
+Score: 0.20768704647500183 Sentence: The stained sections were independently evaluated by two pathologists (AK and ES)
+Score: 0.20768704647500183 Sentence: A paraffin block from the HCC827 lung epithelial adenocarcinoma cell line and commercially available positive controls (SignalSlide Phospho-EGF Receptor (Tyr1173) IHC Controls, code no
+Score: 0.6114343537782292 Sentence: The first PCR was carried out in a total volume of 10? ? l contained 1/10 of the extracted genomic DNA using 1?U of Platinum Taq DNA polymerase (Invitrogen Corporation, Carlsbad, CA, USA)
+Score: 0.6114343537782292 Sentence: Discordance was observed in two (10.5%) patients (nos
+Score: 0.6114343537782292 Sentence: Epidermal growth factor receptor gene copy number was also investigated by fluorescence in situ hybridisation in eight patients (nos
+Score: 0.6114343537782292 Sentence: Diverse sites of metastases in NSCLC probably represent different clonal outgrowths
+Score: 0.6114343537782292 Sentence: A similar phenomenon was also reported in patients with colorectal cancer ( Tortola et al , 2001 )
+Score: 0.819121400253231 Sentence: Subsequently, tissue samples from at least three serial sections were microdissected (piezo power Eppendorf Microdissector; Eppendorf, Germany) to ensure that specimens contained at least 80% tumour cells; sections of 5? ? m thickness were also collected from adjacent normal tissue when available, extracted with xylene and ethanol to remove paraffin and placed in 1% SDS/proteinase K (10?mg?ml?1) at 56?C overnight
+Score: 0.819121400253231 Sentence: Nested PCR was carried out in a total volume of 20? ? l and the conditions were identical to the first PCR
+Score: 0.819121400253231 Sentence: All sequence variations were confirmed by sequencing in both directions and by an independent PCR amplification when sufficient material was available
+Score: 0.819121400253231 Sentence: Fast red was used as chromogen for 20?min; the sections were counterstained with Mayer's haematoxylin for 3?min, subsequently rinsed in ammonium and finally mounted with glycergel
+Score: 0.819121400253231 Sentence: In order to confirm our findings, we repeated the immunohistochemistry from serial sections in all tumour specimens that exhibited EGFR-negative and p-EGFR-positive staining and the obtained results were identical
+Score: 1.2508519242514085 Sentence: Alternatively, we cannot exclude that the different ethnicity of patients and/or the different types of EGFR mutations could be the reason for this discrepancy ( Tsao et al , 2006 ; Pallis et al , 2007 )
+Score: 1.2508519242514085 Sentence: The administration of TKIs could be an additional explanation of the observed discordance of EGFR mutations
+Score: 1.2508519242514085 Sentence: However, a final explanation of the observed discordance, which cannot be excluded, concerns the low-frequency intratumoral heterogeneity for the occurrence of EGFR mutations ( Sakurada et al , 2008 )
+Score: 1.4585389707264103 Sentence: The PCR primers for EGFR amplification were as follows: 155273L23: 5?-TCCCAAACACTCAGTGAAACAAA-3?; 155348L22: 5?-TGGTCTCACAGGACCACTGATT-3?; 154838U22: 5?-TCAGAGCCTGTGTTTCTACCAA-3?; 154899U20: 5?-TCCAAATGAGCTGGCAAGTG-3?; 55634U24: 5?-AAATAATCAGTGTGATTCGTGGAG-3?; 156027L20: 5?-TGTGGAGATGAGCAGGGTCT-3?; 156107L22: 5?-GAGGCCAGTGCTGTCTCTAAGG-3?; 155750U20: 5?-GTGCATCGCTGGTAACATCC-3?; 173160L22: 5?-CAGCTCTGGCTCACACTACCAG-3?; 173076L19: 5?-CATCCTCCCCTGCATGTGT-3?; 172656U22: 5?-GCAGCGGGTTACATCTTCTTTC-3?; and 172747U19: 5?-GCT CAGAGCCTGGCATGAA-3?
+Score: 1.4585389707264103 Sentence: Clinical investigations suggested a correlation between a high EGFR gene copy number and EGFR mutations ( Cappuzzo et al , 2005 ; Takano et al , 2005 )
+Score: 1.6109646074152904 Sentence: The primary anti-phospho-EGFR antibody (rabbit monoclonal, pY1173-EGFR, code no
+Score: 1.8186516538902922 Sentence: Histological type was determined according to the World Health Organization criteria, and the stage of the disease corresponds to that of the time of primary diagnosis
+Score: 1.8186516538902922 Sentence: The primary anti-EGFR antibody (mouse monoclonal, clone H11, code M3563, DakoCytomation) was used at a dilution of 1?:?50 (v/v) and incubated for 1?h at room temperature
+Score: 1.8186516538902922 Sentence: A positive (an NSCLC tumour specimen with known positivity) and a negative (omission of primary antibody) control were used
+Score: 2.0699733245046392 Sentence: However, biochemical studies have shown that variable phosphorylation rates were associated with different tyrosine phosphorylation sites in the receptor; G719S mutant receptor had less EGF-induced phosphorylation at Y845, Y992, Y1068 and Y1173 than did wild-type EGFR, whereas L858R mutant receptor preferentially phosphorylated at the Y1068 but not at Y1173 ( Sordella et al , 2004 ; Chen et al , 2006 ; Liu et al , 2007 )
+Score: 2.0699733245046397 Sentence: It is well known that overexpression of EGFR is associated with Tyr phosphorylation of the receptor proteins and that mutations in the kinase domain may cause constitutive phosphorylation of EGFR ( Chen et al , 2006 )
+Score: 2.430086007668521 Sentence: Patients, aged >18 years old, with histologically confirmed NSCLC who underwent biopsy or surgical excision of the primary tumour and the corresponding metastases were included in this retrospective analysis
+Score: 2.8839967189745144 Sentence: On the basis of these findings, at the present time, we consider that only the genetic differences unequivocally distinguish EGFR-dependent tumours, which are likely to be sensitive to TKIs from the tumours that could be resistant to these agents ( Papadopoulos et al , 2006 )
+Score: 3.1411939792092656 Sentence: The PCR primers for K-RAS amplification were as follows: RASU1: 5?-AGGCCTGCTGAAAATGACTGAATA-3?; RASL1: 5?-CTGTATCAAAGAATGGTCCTGCAC-3?; RASU2: 5?-AAAATGACTGAATATAAACTTGTGG-3?; RASL2: 5?-CTCTATTGTTGGATCATATTCGTC-3?
+Score: 3.3488810256842676 Sentence: Although K-RAS mutations seem to be associated with the early development of NSCLC, it cannot be excluded that K-RAS mutations are lost later during tumour progression ( Burmer and Loeb, 1989 ; Li et al , 1994 )
+Score: 4.140027073345664 Sentence: Therefore, acquisition of new mutations may be developed during the evolution of the metastatic process
+Score: 4.202246000653157 Sentence: We have confirmed that the non-classical mutations detected in our series are not single nucleotide polymorphisms by mutation analysis of matched normal tissue or blood (data not shown)
+Score: 4.599732949935676 Sentence: This was accomplished by performing mixing experiments using cell lines with and without EGFR (H2073-wt- EGFR and HCC827-Del19- EGFR ) or K-RAS (H2073-wt- K-RAS and A549-G12D- K-RAS ) mutations
+Score: 4.599732949935676 Sentence: Previous studies have shown that EGFR and K-RAS mutations are mutually exclusive, suggesting the presence of different pathways of lung carcinogenesis
+Score: 5.211167303713905 Sentence: The sensitivity of our methodology was evaluated by determining the minimum frequency of EGFR and K-RAS mutations required for detection in our system
+Score: 5.958678727235956 Sentence: The primary tumour tissue was the lung ( n =25 patients); and the origin of the metastatic sample was lung ( n =9 patients), thoracic wall ( n =5 patients), adrenal gland ( n =4 patients), brain ( n =3 patients), bone ( n =2 patients), liver ( n =1 patient) and skin ( n =1 patient)
+Score: 6.479729454716094 Sentence: Nine patients received gefitinib as first (nos
+Score: 6.479729454716094 Sentence: Three patients received gefitinib before the biopsy of metachronous metastases (nos
+Score: 6.479729454716094 Sentence: 22) or metastasis (no
+Score: 6.570113081014185 Sentence: Metastases were metachronous in all cases; the median time elapsed between resection of the primary tumour and the corresponding metastatic site was 30 months (range, 4?143)
+Score: 7.0640625323198565 Sentence: 23) carried the Del746-750 EGFR mutation in the primary tumour but not in metastasis
+Score: 7.635458146098407 Sentence: This discrepancy could be related to the different sites of the metastatic tumours analysed in this study (five different distant metastases), whereas in the Matsumoto's et al study, only tumour samples from brain metastases were included
+Score: 7.982857550335602 Sentence: However, as previously reported, our data show that K-RAS mutation may coexist with EGFR mutation ( Fujimoto et al , 2005 ; Han et al , 2006 )
+Score: 8.052615407179324 Sentence: Of these, three patients carried the well-characterised activating mutations in exon 19 (nos
+Score: 8.247589659377299 Sentence: K-RAS mutations were detected in the primary tumours of five (20%) patients (nos
+Score: 8.909815462384614 Sentence: The time elapsed between diagnoses of the primary tumour and corresponding metastasis in patients (nos
+Score: 9.336624897516142 Sentence: 19) mutant primary tumours were wild type with respect to EGFR mutation status
+Score: 9.70612863010371 Sentence: This study demonstrated the existence of a significant discordance of EGFR and K-RAS mutations occurring in primary tumours and their corresponding metastases in patients with NSCLC
+Score: 10.696725162988868 Sentence: Eighteen (72%) patients had adenocarcinomas (ADC) and 21 (84%) patients had stage III or IV disease
+Score: 10.696725162988868 Sentence: 17 and 19), respectively
+Score: 10.696725162988868 Sentence: 17 and 19)
+Score: 10.827443574536758 Sentence: This patient received gefitinib after the biopsy of metastatic lesion and had stable disease lasting for 3.5 months
+Score: 11.100472470292095 Sentence: Evaluable paired tissue specimens for fluorescence in situ hybridisation analysis were available for eight patients
+Score: 11.910928107767932 Sentence: Twenty-two (88%) patients were men and 22 (88%) were active or former smokers and their median age was 55 years (range, 41?70)
+Score: 11.910928107767932 Sentence: 14 and 15) (McNemar test, P =1)
+Score: 11.910928107767932 Sentence: 23 and 18), third (nos
+Score: 11.910928107767932 Sentence: 14 and 17) line treatment
+Score: 12.668695012539365 Sentence: These experiments demonstrated that the Del19 and K-RAS mutations could be detected when present in 10 and 20% of the cells in the sample, respectively (data not shown)
+Score: 12.711437077707386 Sentence: 13) in exon 21, which could not be detected in the patients' primary tumour samples
+Score: 12.836977059135538 Sentence: All the five patients with stable disease on gefitinib carried EGFR mutations in their primary tumours (nos
+Score: 13.049842535730278 Sentence: Thus, although tumour clone selection through the various treatments could be an explanation for the different molecular pattern in the primary tumour and metastatic site, our findings suggest that the metastasis genotype could be different from that of the corresponding primary tumour irrespectively of administered chemotherapy
+Score: 13.089253230503637 Sentence: Among the five patients with EGFR mutations in primary tumours, one patient concomitantly had K-RAS mutation (G12C with deletion in exon 19)
+Score: 13.38186213473048 Sentence: The discordance in EGFR mutation status was 28% and that in K-RAS was 24%
+Score: 13.38186213473048 Sentence: Another possibility for the observed discordance in the EGFR and K-RAS mutation status could be related to the administered chemotherapy
+Score: 13.48746933435086 Sentence: 17) and G857E (no
+Score: 13.823169434578517 Sentence: In the metachronous metastasis, only the K-RAS mutation was retained
+Score: 13.846155703449373 Sentence: In conclusion, our findings indicate a substantial discordance of EGFR and K-RAS mutations between the primary tumours and the corresponding metastases in NSCLC and underline the need to consider the genotype of both primary and metastatic tumours for selecting patients who will respond to therapy with TKIs.
+Score: 14.169976048433796 Sentence: Concordance between the primary tumour and the corresponding metastases was observed in 17 (89.5) patients (Cohen's Kappa=0.729, P =0.001) and among them EGFR was overexpressed in four (21.1%)
+Score: 14.579148896542751 Sentence: Five patients (56%) achieved stable disease and four (44%) progressive disease ( Table 2 )
+Score: 14.592032503832652 Sentence: In this study, the expression of pY1173-EGFR was different between primary tumours and corresponding metastases in eight (50%) patients, whereas EGFR expression was discordant in two (10%) patients
+Score: 14.676954361584492 Sentence: However, in clinical studies, a significant percentage of patients presented clinical benefit when treated with TKIs irrespective of the expression and mutational status of EGFR ( Sharma et al , 2007 )
+Score: 14.714514354129303 Sentence: Epidermal growth factor receptor gene amplification and protein expression have also been considered as predictors of clinical benefit with gefitinib ( Hirsch et al , 2006 )
+Score: 14.73832125860227 Sentence: Concerning the non-classical mutations, it is unlikely to represent PCR artifacts, as L692F, T847I and G857E EGFR mutations have been previously reported ( Fujimoto et al , 2005 ; Tsao et al , 2005 ; Hsieh et al , 2006 )
+Score: 14.740550570777671 Sentence: Consequently, the EGFR gene status could be classified as: (i) EGFR wild type in both primary tumour and metastasis ( n =18 patients; 72%), and (ii) EGFR mutations detected only in the primary tumour ( n =4 patients; 16%) or the metastases ( n =2 patients; 8%) or both ( n =1 patient; 4%)
+Score: 15.459252806148044 Sentence: 23), E746V (no
+Score: 15.459252806148044 Sentence: 18), L692P (no
+Score: 15.666939852623045 Sentence: 12) and the T847A (no
+Score: 16.278374206401274 Sentence: In this study including only Caucasian patients, three classical activating (Del19 and E746V) and four non-classical mutations (T847A, L692P-V717A, L692P and G857E) were detected, whereas in Matsumoto's et al study, only classical activating Del19 and L858R mutations were reported
+Score: 16.420976267085123 Sentence: The limited duration of response is compatible with the knowledge that the presence of K-RAS mutations is associated with resistance to TKIs
+Score: 16.625971536868875 Sentence: This may, in part, explain the discordance in the K-RAS mutation status between primary tumours and metachronous metastases
+Score: 17.81460453381279 Sentence: McNemar test was used to compare the EGFR and K-RAS status between primary tumours and related metastatic sites
+Score: 18.121445859002197 Sentence: 18) or had acquired resistance because of the T790M EGFR mutation (no
+Score: 18.194016456741487 Sentence: 18, 20 and 23) and two carried EGFR mutations of unknown function (nos
+Score: 19.524206066558524 Sentence: The incidence of EGFR overexpression (grade 2+, 3+) was 26.5% in both primary and metastatic tumours
+Score: 19.607838948780888 Sentence: Three out of 16 (18.8%) primary and seven out of 16 (43.8%) metastatic tumours expressed phosphorylated EGFR (pY1173-EGFR-positive)
+Score: 19.844716938770304 Sentence: It is known that NSCLC patients with EGFR-dependent primary tumours when treated with TKIs can develop metastases, in which either the EGFR signalling is negated or resistance is acquired due to secondary EGFR mutations like T790M or MET amplification ( Daneshmand et al , 2003 ; Gazdar and Minna, 2005 ; Engelman et al , 2007 ; Lutterbach et al , 2007 )
+Score: 20.014017226135454 Sentence: Our findings concerning the K-RAS mutation status are in agreement with a previous study demonstrating that the K-RAS mutational status of the primary tumour does not always predict the status of bone metastasis in NSCLC ( Badalian et al , 2007 )
+Score: 21.15735086128163 Sentence: It is interesting to note that in patients who had not been exposed to TKIs before biopsy of metastatic lesions, a 18% (4 out of 22 patients) discordance was observed between primary tumours and related metastases
+Score: 21.215358936627116 Sentence: All patients who experienced progressive disease on gefitinib were wild type regarding the EGFR mutation status in both primary tumours and metastases (nos
+Score: 21.46262565856207 Sentence: Nine (36%) patients were treated with gefitinib in the context of an Expanded Access Program ( Table 2 )
+Score: 22.006919996166157 Sentence: Epidermal growth factor receptor mutations were detected in the metastatic tumours of three (12%) patients ( Table 2 )
+Score: 22.19584896742773 Sentence: 13 and 12) carrying the abovementioned mutations was 74.5 and 10 months, respectively
+Score: 22.765419111540474 Sentence: The apparent lack of correlation between EGFR and p-EGFR expression has been previously reported and could be due to the different scoring systems and different sensitivities of antibodies used to evaluate the EGFR and p-EGFR expressions ( Han et al , 2005 )
+Score: 23.613702991009596 Sentence: Similarly, two other studies in paired NSCLC tumours showed a discordance of 32 and 27% regarding the EGFR gene copy number ( Italiano et al , 2006 ; Bozzetti et al , 2008 ), whereas another study including six NSCLC patients of Asian ethnicity reported a 100% concordance in regard to EGFR mutation status ( Matsumoto et al , 2006 )
+Score: 24.944889629812657 Sentence: There was no correlation between the expression of EGFR and pY1173-EGFR
+Score: 25.203552470643167 Sentence: 17, 18 and 20) and six received gefitinib after the biopsy of metastases (nos
+Score: 26.355331275487487 Sentence: Primary and metastatic tumours were also assessed for K-RAS mutations ( Table 2 )
+Score: 26.850675551086276 Sentence: Three out of 25 patients received gefitinib before the development of a metachronous metastasis, whereas none of the patients reported in the Matsumoto's et al study had exposed to TKIs
+Score: 27.658310223702685 Sentence: 20); conversely, the other two patients carried two novel mutations in exon 18 (L692P and V717A; no
+Score: 29.084916703158324 Sentence: Furthermore, the expression of phosphorylated EGFR (pY1173-EGFR-positive) on tumour cells from metastatic lesions carrying the T847A and L692P-V717A mutations strongly suggests that the former might be activating EGFR mutation
+Score: 30.809008418528542 Sentence: After deparaffinisation, the slides for EGFR were treated with proteinase K (Code S3020, DakoCytomation, Glostrup, Denmark) for 5?min at room temperature, and those for p-EGFR were treated with EDTA at pH 8 in a microwave oven three times for 5?min at 500?W for antigen retrieval
+Score: 31.800153883676643 Sentence: ?n 19 patients sufficient tumour tissue was available for immunohistochemical analysis of EGFR ( Tables 2 and 4 )
+Score: 32.35454365953784 Sentence: Discordance between the primary and metastatic tumours was observed in eight (50%) patients (McNemar test, P =1) ( Tables 2 and 4 )
+Score: 33.15851290375058 Sentence: As, in most studies, EGFR expression and mutations were determined on the primary tumour, the observed clinical benefit of patients with wild-type EGFR or the absence of response to TKIs of patients with EGFR mutations could be due to discordance in the EGFR mutation status or expression between the primary tumour and the corresponding metastasis
+Score: 33.89456633648697 Sentence: Evaluable paired tissue specimens for p-EGFR analysis by IHC were available in 16 patients
+Score: 34.873383702405036 Sentence: 17, 18, 19, 20 and 23)
+Score: 35.07564352872924 Sentence: 23, who received gefitinib after metastasis, carried both EGFR and K-RAS mutations in the primary tumour and the same K-RAS mutation in metastasis
+Score: 35.53195390798868 Sentence: The metastasis of one of these patients showed the same EGFR mutation (Del19) as the primary tumour as well as an additional one, the T790M in exon 20 (no
+Score: 35.67514526234258 Sentence: 10 and 23) carried the same K-RAS mutations in both primary and metastatic tumours ( Table 2 )
+Score: 36.28075024446879 Sentence: The patients' clinicopathologic characteristics are presented in Table 1 
+Score: 36.79452163125192 Sentence: Among the 50 samples analysed (25 primary tumours and 25 metastases), 26 (52%) samples were surgical and 24 (48%) biopsies
+Score: 38.50444988630075 Sentence: Among them, two (nos 13 and 19) patients presented different EGFR mutation status in the primary tumours and corresponding metastases; however, these two patients harbour non-classical EGFR mutations (T847A and G857E) and did not show different EGFR amplification patterns between paired samples
+Score: 39.01550513968358 Sentence: Discordance in K-RAS mutation status between the primary tumours and the corresponding metastases was observed in six (24%) patients (McNemar test, P =1) ( Table 3 )
+Score: 39.151341599147834 Sentence: 15, 16, 19 20 and 22) or fourth (nos
+Score: 40.06861491436558 Sentence: 14, 15, 16, and 22), of these, two patients carried K-RAS mutations in the primary tumour (no
+Score: 43.67376939234022 Sentence: Epidermal growth factor receptor mutations were detected in the primary tumours of five (20%) patients; of these, three of them were the well-characterised ?hotspot' mutations in exon 19 (Del746-750 and E746V; case nos
+Score: 44.44826661444293 Sentence: Several studies have shown that activating EGFR mutations in exons 18, 19 and 21 have been associated with a 75?95% objective response rate with EGFR TKIs, whereas the K-RAS mutations were associated with a lack of sensitivity to these agents ( Pao et al , 2005 ; Sharma et al , 2007 )
+Score: 44.566344138126816 Sentence: The EGFR mutation status of the primary tumours and the corresponding metastases is presented in Table 2 
+Score: 46.95962834328866 Sentence: 18 and 20 who received gefitinib before metachronous metastasis developed metastatic tumours, which were either wild type in respect to EGFR mutation status (no
+Score: 51.75027497139551 Sentence: pY1173-EGFR immunostaining was mainly membranous and was graded as 0 (<5% positive cells), 1+ (5?19% positive cells), 2+ (20?50% positive cells) and 3+ (>50% positive cells) ( Cortas et al , 2007 )
+Score: 52.545211893741566 Sentence: Exons 18, 19, 20 and 21 of the EGFR and exon 1 of K-RAS were sequentially amplified by two rounds of polymerase chain reaction (PCR) and subjected to direct sequencing
+Score: 52.70172203453017 Sentence: 9, 10, 11, 16 and 23), respectively
+Score: 53.38924375456493 Sentence: Therefore, EGFR mutation status showed a discordance of 28% (7 of 25 patients) (McNemar test, P =0.688) between the primary tumour and corresponding metastasis ( Table 3 )
+Score: 53.849444088656824 Sentence: 14, 15, 16, 19, 22 and 23)
+Score: 55.41725975438418 Sentence: 8, 10, 22, 23 and 25) and in the metastatic tumours of five (20%) patients (nos
+Score: 58.91081638932319 Sentence: However, as shown in Table 1 , among the 10 patients who had not received any treatment before the mutation analysis of the metastatic lesions, 5 developed metastases with different mutation status from that of the corresponding primary tumours
+Score: 66.219542286505 Sentence: In this study, we arbitrarily classified EGFR expression status in two subsets; the 2+ or 3+ signals were considered as EGFR overexpression and the 0 or 1+ signals as non-expression ( Koutsopoulos et al , 2007 )
+Score: 68.485913158099 Sentence: 20, 23 and 18) and the remaining two were novel point mutations in exons 18 and 21 (L692P and G857E; case nos
+Score: 69.0718140555732 Sentence: Immunoreactions of EGFR were graded as 3+ when strong complete membrane staining was observed in more than 10% of the tumour cells, as 2+ when more than 10% of the tumour cells showed weak-to-moderate complete membrane staining, as 1+ when partially, faint membrane stain was detected in more than 10% of the tumour cells and as 0 when no staining at all or membrane staining in less than 10% of the tumour cells was observed
+Score: 99.16013205158076 Sentence: 2, 5, 7, 9, 10, 13, 19 and 24) for whom paired tissue specimens were available; amplification of EGFR gene was not detected in any of these tumour specimens

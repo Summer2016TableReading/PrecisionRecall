@@ -9,7 +9,7 @@ import java.util.Arrays;
  *
  * @author leorf_000
  */
-public class TfidfTestingMaximization {
+public class TfidfTestingMaximization extends TfIdfAnalysis {
     public static double[] maximize(TfidfTestingMaximization t, double tstart, double tend, double increment){
         double[] maxpair={tstart, f1(t.precision, t.recall)};
         for(double i=tstart; i<=tend; i+=increment){

@@ -1,0 +1,169 @@
+Score: 0.0 Sentence: Serum levels of IGF-I in patients affected with multiple myeloma (MM) have been scarcely studied
+Score: 0.0 Sentence: Concerning IGF-I, two representative monitoring examples have also been added
+Score: 0.0 Sentence: In particular, c-myc deregulation by PDGF-BB has been demonstrated either in normal [ 21 ] or in tumour cells [ 22 ]
+Score: 0.0 Sentence: Fifty-five healthy blood donors were used as controls
+Score: 0.0 Sentence: Either patients or healthy blood donors were admitted after giving informed consent
+Score: 0.0 Sentence: The course was repeated at every 6th week until tumour progression)
+Score: 0.0 Sentence: s-M Protein concentration is expressed as mean ? SD
+Score: 0.0 Sentence: Serum MP concentrations were derived from medical records
+Score: 0.0 Sentence: When necessary, samples with levels higher than the maximum standard of the calibration curve were repeated after dilution
+Score: 0.0 Sentence: The quality of isolated DNA was analyzed through a 1% agarose gel electrophoresis
+Score: 0.0 Sentence: [ 27 ], as previously described [ 28 ]
+Score: 0.0 Sentence: This model applies the stepwise logistic regression ("SPSS backward LR method")
+Score: 0.0 Sentence: Cytokine levels are given as median (range)
+Score: 0.0 Sentence: Also bFGF presented significantly different serum values among the three groups
+Score: 0.0 Sentence: Several patients were followed up during therapy
+Score: 0.0 Sentence: Figure 1 shows two of them presenting at least six/seven observation times in which consecutive serum samples from the time of diagnosis until death were analyzed
+Score: 0.0 Sentence: The first patient (panel A) had a high serum IGF-I (165 ng/ml) level at diagnosis
+Score: 0.0 Sentence: New treatment was then initiated, but the patient died after about 5 months
+Score: 0.0 Sentence: Sometimes, they were also stage related, although not all the reports were consistent in this field
+Score: 0.0 Sentence: Angiogenic factors also show different behaviours under treatment
+Score: 0.0 Sentence: This is not so surprising in that the IGF-I determinations were obtained from sera of subjects already affected with MM
+Score: 0.0 Sentence: Data from literature showed that IGF-I molecules may be modulated by SOCS genes, after their activation by proinflammatory cytokines [ 37 ]
+Score: 0.0 Sentence: A similar analysis, obtained separately in male or female patients, confirmed our findings (data not shown), indicating that gender was not the cause of the differences previously described
+Score: 0.0 Sentence: Such divergence may depend on some patient characteristics
+Score: 0.39054866689624446 Sentence: In the same subjects, basic FGF and VEGF, have been detected
+Score: 0.39054866689624446 Sentence: VEGF is a major regulator of tumour-associated angiogenesis exhibiting various biological activities, including regulation of embryonic stem cell development and local generation of inflammatory cytokines [ 11 ]
+Score: 0.39054866689624446 Sentence: VEGF expression is regulated by several factors including interleukins (IL-1?, IL-6, IL-10), fibroblast growth factor (FGF-4) and insulin-like growth factor1(IGF-1) [ 12 ]
+Score: 0.39054866689624446 Sentence: IGF-I is a mitogen and anti-apoptotic cytokine/growth factor/hormone produced by several types of cells (fibroblasts, hepatocytes, chondroblasts ..) [ 15 ]
+Score: 0.39054866689624446 Sentence: Moreover, it has been suggested that circulating levels of IGF-I and its inhibitory binding proteins (IGF-BP 1?6) may be associated with an increasing risk of common cancers [ 17 ]
+Score: 0.39054866689624446 Sentence: Despite this bulk of information, clear indications have not been completely gained and some different contrasting results have been published [ 4 , 8 , 9 , 32 - 34 ]
+Score: 0.39054866689624446 Sentence: Some of the divergences observed may be explained by the fact that various eveniences may influence the serum IGF-I levels: age and gender [ 47 ], inflammatory processes [ 48 ], other concomitant diseases [ 49 , 50 ], endocrine diseases [ 47 ], nutrition [ 47 ], drug administration and liver toxicity
+Score: 0.39054866689624446 Sentence: CG and FA conceived of the study, discussed the results and wrote the manuscript
+Score: 0.39054866689624446 Sentence: GV participated in the design and results discussion of the ELISA experiments
+Score: 0.39054866689624446 Sentence: FP collected the biological samples and patient's clinical data
+Score: 0.39054866689624446 Sentence: MCP participated in the study design and in the discussion of clinical data
+Score: 0.9853812424587571 Sentence: DNA was extracted from bone marrow aspirates using the MICRO-GENO DNA kit (AB Analitica, Padoa, Italy) according to the manufacturer's instructions
+Score: 0.9853812424587571 Sentence: These findings open the possibility that IGF-I molecule might be further studied as a monitoring marker to follow the patients over time by specific trials
+Score: 0.9853812424587571 Sentence: As previously mentioned, chronic B cell leukaemia showed data similar to those reported in our paper [ 42 ]
+Score: 0.9853812424587571 Sentence: Considering the results of the present study, we tried to evaluate the possibility that IGF-I might be used as monitoring marker
+Score: 0.9853812424587571 Sentence: These results show that, generally, serum IGF-I concentrations behave similarly to the monoclonal component
+Score: 1.3759299093550017 Sentence: However, data concerning their potential prognostic power as well as their reciprocal interactions are still conflicting [ 8 - 10 ] and remain to be better elucidated
+Score: 1.3759299093550017 Sentence: They are mitogenic to vascular endothelial cells and induce vascular permeabilization [ 11 ]
+Score: 1.3759299093550017 Sentence: bFGF is an 18 to 24 kD polypeptide, mainly produced by cells of mesenchymal origin, which shares a key role of mediator of angiogenesis with VEGF in vitro [ 13 ] and in vivo [ 14 ]
+Score: 1.3759299093550017 Sentence: This molecule is normally bound to heparin and heparan sulphate proteoglycans in the extracellular matrix, particularly in the basement membranes, around vessels and stromal cells
+Score: 1.3759299093550017 Sentence: It binds to a family of four distinct, high affinity tyrosine kinase receptors (FGFR-1?4) and stimulates endothelial cell proliferation in vitro [ 13 ]
+Score: 1.3759299093550017 Sentence: Free IGF-I (molecules unbound to IGF-BPs) acts through a specific high-affinity IGF-I receptor, but also insulin receptor and IGF-II receptor may be used although with lower affinities [ 20 ]
+Score: 1.3759299093550017 Sentence: Although the mechanisms governing the expression of angiogenic cytokines in tumour cell by dominantly acting oncogenes is largely unknown, the regulatory effect of oncogenes on angiogenic mediators has some potentially important therapeutic consequences and needs to be better investigated, especially on hematologic malignancies
+Score: 1.3759299093550017 Sentence: Aim of the present study was to evaluate the serum levels of a panel of three cytokines, such as IGF-I plus two angiogenic factors such as VEGF and bFGF in 148 patients with plasma cell dyscrasias
+Score: 1.3759299093550017 Sentence: One hundred and forty-eight patients affected with plasmacell dyscrasia were consecutively admitted to the Regina Elena Cancer Institute of Rome and entered this study
+Score: 1.3759299093550017 Sentence: The angiogenic factors (VEGF and bFGF) were measured with a quantitative ELISA (Quantikine? and Quantikine?; R&D Systems, Minneapolis, MN, USA), according to the manufacturer's instructions and expressed as pg/ml
+Score: 1.3759299093550017 Sentence: IGF-I concentration was determined as serum immunoreactivity using a quantitative sandwich enzyme immunoassay (ELISA) technique (Quantikine? R&D Systems, Minneapolis, MN, USA) according to the manufacturer's instructions and expressed as ng/mL
+Score: 1.3759299093550017 Sentence: EC discussed the results and helped to draft the manuscript.
+Score: 2.0935745431814903 Sentence: Coefficients of variation (CV) for the different cytokines obtained repeating 5 times the same samples did not exceed 15%
+Score: 2.0935745431814903 Sentence: The multivariate logistic regression analysis has been applied by using the SPSS version 6.0 for Microsoft Windows 95/98
+Score: 2.0935745431814903 Sentence: In conclusion, as previously reported for other neoplastic diseases [ 42 , 51 ], serum IGF-I concentrations are clearly reduced in case of open disease
+Score: 2.0935745431814903 Sentence: Therefore, a clinical use of serum determinations of this molecule should be made very carefully since this substance does not show a clear specificity for MM
+Score: 2.2446400279239946 Sentence: In addition, MM subjects showed significantly decreased serum IGF-I levels than MGUS
+Score: 2.2446400279239946 Sentence: MM demonstrate a progressive, usually fatal, course with traditional treatments, generally producing only temporary remissions
+Score: 2.2446400279239946 Sentence: A trend in lower serum bFGF levels was observed when responders MM patients were compared with the non responder ones
+Score: 2.4841232100777346 Sentence: Conversely, increasing levels were observed for bFGF and VEGF, molecules significantly correlated
+Score: 2.4841232100777346 Sentence: IGF-I reduction in the transition: Controls?MGUS?MM and changes observed over time suggest that IGF-I should be furtherly studied in future clinical trials as a possible monitoring marker for MM
+Score: 2.4841232100777346 Sentence: This report primarily employed univariate analysis of the data by means of non parametric tests (Mann and Whitman or Kruskall Wallis variance analysis for quantitative and corrected X square or Fisher's exact test for categorical data)
+Score: 2.4841232100777346 Sentence: Besides univariate analysis, a multivariate logistic regression analysis was also performed and the significances were adjusted for age and gender
+Score: 2.4841232100777346 Sentence: In addition, these significances were more pronounced than those observed for bFGF and VEGF
+Score: 2.4841232100777346 Sentence: The IGF-I behaviour has been also confirmed by logistic regression analysis after data correction for age and gender, as described in the text
+Score: 2.4841232100777346 Sentence: For example, Standal selected only patients with 69% of advanced tumour stages (III), while our patients were prevalently of tumour stages I and II
+Score: 2.635188694820239 Sentence: These modulators include vascular endothelial growth factor (VEGF), hepatocyte growth factor (HGF) and basic fibroblast growth factor (bFGF), that have been extensively investigated in biological samples derived from MM patients
+Score: 2.635188694820239 Sentence: It is known that all cancers, including MM, possess a more or less strong inflammatory component (in particular the proinflammatory cytokines IL-6 and TNF-alpha are produced by myeloma cells) and that inflammation is associated with reduced IGF-I synthesis [ 43 ]
+Score: 2.635188694820239 Sentence: This result was also independent of age (significantly lower in controls) and sex, as confirmed by multivariate regression analysis, both in all subjects and when only IgG MM patients were considered (data not shown)
+Score: 3.4695044525364915 Sentence: The inter-assay CV reported by the manufacturer varies from 6.2% to 8.8% for VEGF and 7.4% to 9.1% for bFGF
+Score: 3.4695044525364915 Sentence: The intra-assay CV varies from 5.1% to 6.7% for VEGF and 3% to 9.7% for bFGF
+Score: 3.4695044525364915 Sentence: Test sensitivity of IGF-I was 0.026 ng/ml while the inter-assay CV reported by the manufacturer for IGF-I vary from 7.5% to 8.1% and the intra-assay CV from 3.5% to 4.3%
+Score: 3.6205699372789963 Sentence: In general, angiogenic mediators (VEGF, basic FGF, TGF-beta1, TNF-alpha) have been found to be increased in MM patients and often significantly correlated each to the others [ 8 ]
+Score: 3.6205699372789963 Sentence: A previous study by Standal and coworkers [ 39 ], failed to observe significant differences between MM and controls
+Score: 4.223312611968251 Sentence: Moreover, the existence of a relationship between activation of ras oncogenes and regulation of the VEGF/VPF expression has been demonstrated in experimental [ 23 ] and clinical [ 24 ] studies
+Score: 4.338214571105485 Sentence: A 5-year survival for MM patients is about 25% with less than 5% alive subjects after 10 years [ 1 ]
+Score: 4.579883184141647 Sentence: [symbols: cube = IGF-I; diamond = s-M protein]
+Score: 4.579883184141647 Sentence: P1 = univariate analysis, Kruskall-Wallis test on the three groups
+Score: 4.970431851037892 Sentence: VEGF, finally, did not show significant variations in the four comparisons (p at least > 0.14) and the multivariate analysis, performed as above, was also not significant (p = 0.08)
+Score: 4.970431851037892 Sentence: VEGF and b-FGF serum concentrations were highly correlated (P = 0.002), confirming the results previously published by other authors [ 8 ]
+Score: 5.301898110478399 Sentence: Then new cycles of therapy were administered because of tumour progression
+Score: 5.301898110478399 Sentence: Interestingly, while conventional therapy (melphalan plus prednisolone) reduced the serum concentrations of these factors [ 35 ], an anti-angiogenic therapy based on thalidomide plus dexamethasone was accompanied by increase of the same factors in the responder subjects [ 4 , 34 ]
+Score: 5.714144480460487 Sentence: Its potential role as a growth factor for myeloma cells has been deeply analyzed and data of Ge NL et al [ 16 ] suggest that IGF-I significantly contributes to the expansion of MM cells in vivo by activation of two distinct pathways: Akt/Bad and MAPK kinase
+Score: 5.714144480460487 Sentence: Another molecule involved in MM biology is IGF-I, a mediator with cytokine (locally)/hormone (in the general circulation) activity [ 36 ], known to be a growth promoter for several tumours, including MM, acting through its anti-apoptotic/proliferative [ 16 , 19 , 37 ] effects and interaction with angiogenic factors, such as the anti-proliferative TGF-beta1 [ 38 ]
+Score: 5.7493652147154695 Sentence: To analyze the basal characteristics of the subjects studied in this report (Table 1 ), we have tabulated the data concerning the main clinical features subdivided into three groups, namely: 55 healthy blood donors, 71 MGUS and 77 MM
+Score: 6.287279352937157 Sentence: Among innovative treatments, antiangiogenic therapy seems to represent a promising approach, whose rationale is based on tumour growth inhibition by starving cancer cells of vital nutrients [ 2 ]
+Score: 6.673457727323138 Sentence: A statistically not significant trend (p = 0.07) was also observed for the serum bFGF concentrations when comparing responders (mean = 1.9 pg/ml; range = 1.2?20.8 pg/ml) with non responders (mean = 3.8 pg/ml; range = 1.3?19.6 pg/ml)
+Score: 6.6778280198334015 Sentence: Recent data from the literature seem to support the idea of a functional link existing between the induction of angiogenesis-mediated growth factor expression and gene alterations in tumour development
+Score: 6.6778280198334015 Sentence: The second patient (panel B), which had a normal serum IGF-I (51 ng/ml) concentration at diagnosis, did not respond to treatment and with the exception of an IGF-I reduction observed 10 months after starting therapy, he showed only slight modifications of both serum variables during the course of disease
+Score: 6.6778280198334015 Sentence: Furthermore, melphalan therapy, which is hepatotoxic and therefore should reduce IGF-I synthesis, has been reported to increase IGF-I molecules after the 4th course [ 40 ], possibly when it was effective in restoring the peripheral blood IGF-I amounts
+Score: 6.6778280198334015 Sentence: It is also possible to speculate that the cytotoxic effect of therapy should release a great amount of endocellular molecules from necrotic cells with induction of inflammatory processes and IGF-I drop
+Score: 6.911719730712254 Sentence: In fact, activated ras is capable of triggering several crucial signalling cascades, so altering the expression of some members of ras -responsive genes, many of which could be relevant for triggering or contributing to tumour angiogenesis [ 25 ]
+Score: 7.008624000180706 Sentence: The detection of serum cytokines was performed on peripheral blood samples processed within 1 h after venipuncture by centrifugation (1500 gfor 10 min) Serum samples were collected from MGUS and MM patients as well as from 55 healthy blood donors and were stored at -70?C until testing
+Score: 7.008624000180707 Sentence: Significant reductions of IGF-I levels were observed in MGUS and MM as compared with healthy controls
+Score: 7.008624000180707 Sentence: Seventy-one out of the total were patients affected by MGUS and 77 were patients with MM, these latter receiving treatment with conventional chemotherapy (Melphalan/Prednisone)
+Score: 7.027227267774506 Sentence: These two groups of patients were compared with 55 controls represented by healthy human blood donors
+Score: 7.064006394219382 Sentence: A multivariate analysis corrected for age and gender confirmed the significant difference only for IGF-I values (P = 0.01)
+Score: 7.658838969781895 Sentence: The patient responded to treatment for about 10 months (s-M protein = 6 g/l; serum IGF-I level = 101 ng/ml), then relapsed again
+Score: 7.9940052426394645 Sentence: Surprisingly, serum data regarding IGF-I and MM are very scarce and partially contrasting [ 39 , 40 ] although IGF-I is suspected to be able to transform MGUS in MM [ 41 ]
+Score: 7.9940052426394645 Sentence: The present study clearly shows that the serum IGF-I concentrations significantly decreased from healthy blood donors to MGUS and to MM patients, a finding not previously described
+Score: 8.012608510233262 Sentence: Previous data on B-cell chronic lymphocytic leukaemia have found a clear reduction of IGF-I in sera as compared with controls [ 42 ], even though the studies were initially expected to exibit increased concentrations, due to the tumourigenic activity of IGF-I
+Score: 8.380853896118646 Sentence: VEGF gene encodes for at least five isoforms which are anchored to the extracellular matrix through the heparin-binding domains
+Score: 8.635216328994685 Sentence: The main circulating component of IGF-I is released by the liver under GH control, while locally, different regulatory mechanisms have been reported [ 18 , 19 ]
+Score: 8.635216328994685 Sentence: All contributing authors declare that no actual or potential conflicts of interest do exist
+Score: 8.922468047757395 Sentence: MM evolution has been shown to be strongly conditioned by angiogenic mechanisms in terms of growth and therapy sensitivity
+Score: 9.02576499589093 Sentence: None of them showed any abnormalities concerning basic laboratory tests and no detectable infection was observed
+Score: 9.134662055550406 Sentence: Mutations at K- ras codon 12 were analyzed on genomic DNA isolated from bone marrow cell specimens of the two groups of patients
+Score: 9.403027762293208 Sentence: A possible role of IGF-I as putative monitoring marker of malignant disease seems to emerge by our study, even though specific clinical trials need to be planned and the possible interference of other factors in serum determinations should be considered
+Score: 9.52521072244665 Sentence: All three mediators were analyzed in function of K- ras mutation and melphalan response
+Score: 10.087579785820953 Sentence: Due to the presence of low-molecular weight fragments of isolated DNA, 66 out of a total of 71 MGUS samples and 73 out of a total of 77 MM samples were considered suitable for genetic analyses
+Score: 10.120043298009163 Sentence: Mutations at K- ras codon 12 (G G T?G C T) were detected from all samples by an "enriched" restriction fragment length polymorphism-polymerase chain reaction (RFLP-PCR) assay according to Kahn SM et al
+Score: 10.175387289887345 Sentence: The significances between these three groups were always < 0.0001
+Score: 10.511221063015942 Sentence: Some of the myeloma patients, selected for having at least 6 subsequent determinations and from whom venous samples had been drawn at regular intervals starting from diagnosis, were included for a detailed analysis of the IGF-I changes during the clinical course of the disease (about 2.5 years)
+Score: 10.87985635691868 Sentence: Neoangiogenesis is under the control of various cytokines, that are expressed by neoplastic plasma cells, so that their involvement in MM pathophysiology has been strongly supported by different reports [ 8 ]
+Score: 11.61878526562814 Sentence: In this regard, there are several reasons supporting the fact that ras gene represents an interesting case for studying the impact of cancer-associated genetic mutations and tumour angiogenesis
+Score: 11.714172114634934 Sentence: In order to avoid potential platelet interference with the VEGF concentration, for each patient or control subject the serum values were corrected for their relative platelet counts
+Score: 12.255786266273681 Sentence: Opposite to IGF-I was the behaviour of VEGF and bFGF, whose concentrations were increased in MM sera as compared with control samples
+Score: 12.65951049996508 Sentence: A multivariate logistic regression analysis showed that the significances observed for IGF-I concentrations in the three groups were independent of age and gender and the relative p was 0.01
+Score: 12.755861090939934 Sentence: MM patients were classified as stage I or II when analysed at the onset of the disease and were treated with conventional therapeutic regimens including melphalan (0.25 mg/Kg body weight/day) and prednisone (2 mg/Kg body weight) for 4 consecutive days
+Score: 12.776592482489974 Sentence: The serum levels of IGF-I were significantly and sequentially reduced from controls to MGUS and from MGUS to MM
+Score: 12.810575984707583 Sentence: Recent evidences indicate that angiogenic processes are increased and are fundamental not only in solid tumours but also in hematologic diseases, including MM, as well [ 3 , 4 ]
+Score: 13.79595722716634 Sentence: The present study is aimed to explore this point comparing 55 healthy subjects, 71 monoclonal gammopaties of uncertain significance (MGUS) and 77 overt MM patients
+Score: 14.035851267955213 Sentence: Main characteristics of MGUS, MM patients and healthy controls Age is given as mean ? SD
+Score: 14.314377205875363 Sentence: The first arrow indicates when MP treatment started, according to the protocol described in "Methods; the others two arrows indicate the repetition of new cycles of therapy due to disease progression
+Score: 14.436560166028805 Sentence: K- ras gene alteration has previously been associated with the modulation of different biological agents, including IGF-I [ 23 , 24 , 44 , 45 ]
+Score: 14.827108832925049 Sentence: Therefore, therapy effect was only dependent on K- ras mutation and not on cytokine levels
+Score: 15.421941408487562 Sentence: In addition, we tried to determine whether the serum levels of these cytokines combined with the K- ras gene alterations might allow to select groups of patients with different responsiveness to chemotherapy
+Score: 15.422570506598095 Sentence: In spite of the progresses recently registered in the therapy of multiple myeloma (MM), the prognosis for patients affected by this disease remains still poor [ 1 ]
+Score: 16.267982494643178 Sentence: Cytokine determinations were performed by commercially available ELISA kits, while K12- ras mutation was investigated on genomic DNA isolated from bone marrow cell specimens by RFLP-PCR assay
+Score: 16.298871996688717 Sentence: This logistic regression analysis employed as end point the four variables subdivided into two groups of subjects exceeding or not the cut off value (i.e
+Score: 16.298871996688717 Sentence: the median value of the relative controls)
+Score: 16.371094424172863 Sentence: In particular, there was a statistically significant difference (p = 0.001) between the controls and the MGUS patients, in which higher values were observed
+Score: 16.9495659006956 Sentence: Several authors tried to explain how angiogenic cytokines [ 4 , 31 ] may work influencing the MM cells; consequently, in the recent years, the presence and quantity of several angiogenic factors, their inducers and their signalling mediators have been documented in an effort to explore the possibility to use them as diagnostic, monitoring or prognostic markers of disease evolution and therapy sensitivity
+Score: 16.9495659006956 Sentence: Therefore, we show two representative examples of MM patients followed during subsequent courses of therapy and whose disease behaviour was related to the monoclonal component concentrate on and serum IGF-I levels over time
+Score: 18.127665326945813 Sentence: RV carried out PCR experiments on K-ras gene mutation and ELISA assays., GV participated in the revision of the manuscript, DG and IS performed statistical analysis
+Score: 18.294635961380465 Sentence: P3 = univariate analysis, Mann Whitney test on MGUS vs MM
+Score: 18.61573445209686 Sentence: A similar difference was registered between the controls and the MM patients (p = 0.02), while, in contrast, MGUS and MM showed similar results (p = 0.27)
+Score: 18.774774737134287 Sentence: As reported for solid tumours [ 47 ], we found significant increases of serum bFGF concentrations in MM patients eliciting K- ras gene activation
+Score: 19.578415052180553 Sentence: Scarce angiogenic activities have been found in monoclonal gammopathy of undetermined significance (MGUS) as compared to the overt malignant forms, where marrow neoangiogenesis parallels tumour progression and correlates with poor prognosis, suggesting an angiogenesis-dependent regulation of disease activity [ 5 - 7 ]
+Score: 20.9484279237945 Sentence: P2 = univariate analysis, Mann Whitney test on Controls vs MGUS
+Score: 20.9484279237945 Sentence: P4 = univariate analysis, Mann Whitney test on Controls vs MM
+Score: 21.445184166209508 Sentence: The K- ras gene mutations were present in only one (1,5%) MGUS subject and in twenty (27,4%) MM ones
+Score: 22.834897789852427 Sentence: All determinations were performed in duplicate in only one analytical set; the ELISA test sensitivity, expressed as mean minimal detectable dose (MDD), was < 5 pg/ml for VEGF and 3 pg/ml for bFGF
+Score: 23.73744250653133 Sentence: No significant variations were registered for the gender in the three comparisons, while age significantly differed when control subjects were compared with MGUS or MM
+Score: 24.11250172936043 Sentence: As expected, none of the control specimens analyzed manifested gene alterations (Table 3 )
+Score: 24.934088325683405 Sentence: Intermediate situations were categorized as a no change disease
+Score: 25.610098014660814 Sentence: The patient groups, whose main clinical features are reported in Table 1 , included 71 monoclonal gammapathies of undetermined significance (MGUS) and 77 multiple myeloma (MM) diagnosed and staged according to Durie & Salmon criteria [ 26 ]
+Score: 26.163501596949644 Sentence: He showed a minor response to treatment for a least 15 months, with a 26% fall in serum M-protein concentration and a concomitant slight reduction of IGF-I amounts
+Score: 28.079058878746558 Sentence: Serum levels of IGF-I, betaFGF and VEGF in Control, MGUS and MM A statistical analysis has been performed both on the three groups together and on the different couple of groups
+Score: 28.39537230858773 Sentence: Seventy-three MM patients showing or not K- ras gene mutations were analyzed for their response to therapy
+Score: 29.674612233677895 Sentence: The multivariate analysis, corrected for age and gender, did not reach a statistical significance (p = 0.9)
+Score: 30.489552429694243 Sentence: Another variable considered in this study was the K- ras gene whose mutation was significantly associated with the malignancy [ 29 , 30 ], while no significant difference was observed between controls and MGUS
+Score: 31.581026843471264 Sentence: K12- ras mutation was significantly associated with malignancy, response to therapy and with significantly increased serum bFGF levels
+Score: 32.61973641284352 Sentence: A p < 0.05 cut off has been employed for the significance evaluation
+Score: 32.73064913746768 Sentence: Moreover, the same K12- ras mutation was significantly associated with increased resistance to the therapy (Table 3 )
+Score: 32.80823782237329 Sentence: A correlation matrix using the values of the four variables in MGUS or MM groups only resulted significant for VEGF vs b FGF (r = 0.37, p = 0.002) in MGUS patients
+Score: 33.85476567675926 Sentence: The response was defined as minor response when the serum M-protein had decreased by > 25% but < 50% or the urinary BJ had decreased by >50% but not to < 0.2 g in 24 h
+Score: 35.46913478042145 Sentence: When K12- ras mutation and the levels of the 3 cytokines under or above cut offs were combined, no significant differences were found in the different subgroups (data not shown)
+Score: 35.53533756550768 Sentence: The median serum levels and ranges of three cytokine: IGF-I, bFGF and VEGF, compared with those of healthy controls were reported in Table 2 
+Score: 37.41650093949245 Sentence: Two representative examples are shown in Figure 1 Serial measurements of IGF-1 and serum M-Protein (s-MP) from diagnosis (0) to last follow-up before death in two MM patients 
+Score: 39.533135048135776 Sentence: The non response group was defined by serum M-protein levels that had decreased to < 25% or by urine BJ protein levels that had decreased to < 50% of initial levels
+Score: 39.61468052051969 Sentence: No statistically significant differences between K- ras gene status and serum factor concentrations were found for IGF-I or VEGF
+Score: 42.16771559546325 Sentence: Since it is known that gene alterations may be linked with cytokine modulation, we analyzed the incidence (%) of K- ras mutations in MGUS and MM subjects, due to the emerging role of this gene in plasma cell dyscrasia pathogenesis [ 29 , 30 ]
+Score: 43.514185309145034 Sentence: MGUS vs MM: p = 0.0001 (*) according to the Durie & Salmon criteria [ 26 ]
+Score: 44.77344409461027 Sentence: MGUS vs MM: p = 0.11; MGUS vs CTR: p = 0.005; MM vs CTR: p = 0.0001; Gender: MGUS vs MM: p = 0.30; MGUS vs CTR: p = 0.91; MM vs CTR: p = 0.21
+Score: 46.05302535819935 Sentence: In an attempt to find a link between the response to therapy (yes/not), K- ras gene status (mutant/wild type) and the cytokine level (greater or lower than cut-off), we could only confirm the strong influence of K- ras gene status rather than the level of the four different cytokines in determining the therapy response of MM patients (data not shown)
+Score: 51.61418734354789 Sentence: Interestingly, significant increases (P = 0.02) of serum bFGF levels were observed in patients showing K- ras gene mutation (median = 4.6 pg/ml; range = 1.2?19.6 pg/ml) as compared with those in which the gene was in the wild type form (median = 2.2 pg/ml; range = 1.0?20.8 pg/ml)
+Score: 80.16705490982874 Sentence: As shown in Table 3 , the presence of K- ras mutations was significantly associated with a lower response to Melphalan as compared with the wild type K- ras subjects (p = 0.015)
+Score: 338.3626398112055 Sentence: In fact, it was observed a highly significant (p < 0.0001) difference between the controls and MM or between MGUS and MM, while no significance was found between controls and MGUS groups (p = 0.95) by means of a two by two comparison of the three groups (controls, MGUS and MM) concerning the distribution of K- ras gene mutation, K- ras gene status and response to therapy Statistical significance for K12-ras gene mutation: Control vs MGUS p = 0.95, Control vs MM p = 0.0001, MGUS vs MM p < 0.0001, Positive therapy response: minor response and no change disease (see Methods) 

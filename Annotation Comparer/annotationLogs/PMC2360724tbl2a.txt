@@ -1,0 +1,129 @@
+Score: 0.0 Sentence: Paraffin blocks were cut into several 2? ? m sections
+Score: 0.0 Sentence: One section from each tissue was stained with hematoxylin?eosin to distinguish neoplastic tissue from the nonmalignant counterpart
+Score: 0.0 Sentence: After manual dissection, DNA was extracted from the unstained section of the malignant tissue as described previously ( Roncalli et al , 2002 )
+Score: 0.0 Sentence: Briefly, tissue sections were deparaffinised using 100% xylene (Sigma, Saint Louis, MO, USA) followed by 100% ethanol
+Score: 0.0 Sentence: Finally, precipitated DNA was resuspended in 100? ? l of water
+Score: 0.0 Sentence: An elongation of 10?min at 72?C followed the last cycle; at the end, samples were kept at 4?C
+Score: 0.0 Sentence: Digested products were visualised by electrophoresis on a 3% agarose gels (containing 0.5? ? g?ml?1 ethidium bromide)
+Score: 0.0 Sentence: After incubation with the enzyme at 65?C overnight, the products were analysed on 3% agarose gels
+Score: 0.0 Sentence: DNA containing the wild-type (Human Placental DNA) or the mutated T1976 sequence (HT29 cell line) was always included as controls
+Score: 0.0 Sentence: Briefly, PCR fragments were generated from 200?ng of genomic DNA in a 50? ? l PCR reaction buffer
+Score: 0.0 Sentence: The gels were silver stained with DNA Silver Staining Kit (Amersham Bioscience Corporation, Buckinghamshire, UK) according to the manufacturer's recommendations
+Score: 0.0 Sentence: Immunoperoxidase staining, using diaminobenzidine as chromogen, was carried out (DAB+chromogen X-50, ChemMate, DAKOCytomation, Carpinteria, CA, USA)
+Score: 0.0 Sentence: The slides were counterstained with hematoxylin (Harris Hematoxylin, DiaPath, Microstain Division, Martinengo, BG, Italy)
+Score: 0.0 Sentence: Data analysis was performed using STATA9
+Score: 0.0 Sentence: These data are in agreement with previous studies examining different sets of genes
+Score: 0.0 Sentence: Whether alterations in both these genes may be able to confer a more aggressive phenotype remains to be established in larger series
+Score: 0.0 Sentence: This means that the genes under study can confer a more aggressive phenotype when molecular changes deregulate at least three of them
+Score: 0.0 Sentence: This hypothesis is in keeping with a stepwise model of progression of CRC
+Score: 0.3330155663668949 Sentence: Accordingly, these two groups will be referred to throughout the paper as metastatic (M+) and nonmetastatic (M?) tumours
+Score: 0.3330155663668949 Sentence: Samples were fixed in formalin and embedded in paraffin
+Score: 0.3330155663668949 Sentence: The pellet was then resuspended in a buffer containing proteinase K (Finnzyme, Espoo, Finland), and DNA was extracted with phenol?chloroform (Sigma, Saint Louis, MO, USA) followed by ethanol precipitation
+Score: 0.3330155663668949 Sentence: Cycling conditions of the first PCR were as follows: initial denaturation (4?min at 94?C), followed by 40 cycles of denaturation (30?s at 94?C), annealing (15?s at 53?C), and elongation (30?s at 72?C)
+Score: 0.3330155663668949 Sentence: Special care was taken to directly load the samples at high temperature (70?C) and in the presence of formamide (0.2%) to avoid reannealing of the restricted products ( Tsp RI leaves a nine-base 3? overhang)
+Score: 0.3330155663668949 Sentence: We used both SSCP and immunohistochemistry
+Score: 0.3330155663668949 Sentence: Indeed, an altered SSCP pattern may be merely related to gene polymorphism and as such being not indicative of an abnormally mutated gene
+Score: 0.3330155663668949 Sentence: Modified DNA was purified using the Wizard DNA purification resin according to the manufacturer's instruction (Promega, Milano, Italy) and eluted into 50? ? l of water
+Score: 0.3330155663668949 Sentence: DNA was resuspended in water and used immediately or stored at ?20?C
+Score: 0.3330155663668949 Sentence: Polymerase chain reaction products were analysed on 2% agarose gels, stained with ethidium bromide (0.5? ? g?ml?1), and visualised under UV illumination
+Score: 0.3330155663668949 Sentence: A sample was classified as methylated whenever a band, corresponding to the molecular weight of the methylated PCR product, had a thickness and staining intensity equal or greater than that of the unmethylated PCR product
+Score: 0.3330155663668949 Sentence: Data were described as number and percentage or means and s.d., whether appropriate
+Score: 0.3330155663668949 Sentence: A strong correlation between staging and p16INK4A methylation was found also by Yi et al (2001) ; loss of p16INK4A expression has been previously associated with lymph-node metastases ( Kim et al , 2005a ) and more advanced stage ( Jeong et al , 2005 )
+Score: 0.3330155663668949 Sentence: Altogether, these results suggest that p16INK4A methylation might link to a more malignant phenotype in CRC; interestingly Liang et al (1999) recently reported an association between p16INK4A methylation and shorter survival of CRC
+Score: 2.4702332969699046 Sentence: Notably, Toyota et al (2000) found K-Ras mutations significantly prevalent in CRCs with the so called methylator phenotype (CIMP) compared with CIMP negative cases
+Score: 2.854344765719285 Sentence: For amplification, a DNA thermocycler (MBS 0.2S, Hybaid, Ashford, UK) was used
+Score: 2.854344765719285 Sentence: Twenty microlitres of the PCR reaction were then digested with Bst NI for 4?h at 60?C in a total volume of 50? ? l
+Score: 2.854344765719285 Sentence: Endogenous peroxidase was blocked with 3% hydrogen peroxide for 20?min at room temperature
+Score: 2.854344765719285 Sentence: Primary mouse monoclonal antibody was applied for 1?h at room temperature
+Score: 2.854344765719285 Sentence: Reactive sites were identified with secondary antibody (HRP rabbit/mouse, ChemMate DAKO Envision, Carpinteria, CA, USA) for 30?min at room temperature
+Score: 2.854344765719285 Sentence: Modification was completed by NaOH treatment (final concentration 0.3? M ) for 5?min at room temperature, followed by ethanol precipitation
+Score: 2.854344765719285 Sentence: A P -value of 0.05 was considered statistically significant
+Score: 2.854344765719285 Sentence: E-Cadherin methylation was also associated with RASSF1A methylation ( P =0.047)
+Score: 3.18736033208618 Sentence: DNA was quantified spectrophotometrically, and 200?ng were used as a template for each PCR amplification
+Score: 3.18736033208618 Sentence: Briefly, 200?ng of DNA were used as template for the first PCR, which consisted of a 50? ? l volume containing Taq DNA polymerase (1?U; Finnzyme, Espoo, Finland), deoxynucleotide triphosphates (0.2?m M ; Finnzyme, Espoo, Finland), reaction buffer (5? ? l; Finnzyme, Espoo, Finland), the primers forward (0.2?pmol? ? l?1; Proligo, Boulder, CO, USA): 5?-ACTGAATATAAACTTGTGGTAGTTGGACCT-3? and reverse (0.2?pmol? ? l?1; Proligo, Boulder, CO, USA): 5?-TCAAAAGAATGGTCCTGCACCAG-3?
+Score: 3.18736033208618 Sentence: For SSCP analysis, PCR product was mixed with an equal volume of loading buffer containing 100% formamide (Sigma, Saint Louis, MO, USA), 0.05% xylene cyanol (Sigma, Saint Louis, MO, USA), and 0.05% bromphenol blue (Amersham Bioscience Corporation, Buckinghamshire, UK); heated at 96?C for 10?min and put on ice before being loaded on 37.5% TBE polyacrylamide gels and electrophoresed for 1?h at 100?V and 4?5?h at 300?V
+Score: 3.18736033208618 Sentence: Unmethylated (Human Placental DNA) and methylated DNA (LoVo, COLO320 and HepG2 cell lines for RASSF1A, E-Cadherin and p16INK4A , respectively) were used as MSP controls
+Score: 3.9091723128488063 Sentence: DNA containing the wild-type p53 (Human Placental DNA) was always included as controls
+Score: 3.9091723128488063 Sentence: Different results were reported by Goh et al (1999) that used only SSCP to detect p53 mutations
+Score: 3.9091723128488063 Sentence: Given that a fraction of M? CRCs (13%) already harbours three or more molecular changes, we are currently analysing this cohort to ascertain whether these cases will develop metachronous liver metastasis at an increase rate as compared to M? CRCs with <3 molecular changes
+Score: 4.2421878792157015 Sentence: We elected to study and to compare two homogeneous groups of CRC cases, namely those invading through muscolaris mucosa into subsierosa (or into nonperitonealised pericolic or perirectal tissues) with and without lymph nodes and/or liver metastases
+Score: 4.2421878792157015 Sentence: Therefore, the less expensive, quick and efficient way to detect p53 mutations is to associate an abnormal SSCP pattern with the nuclear immunocytochemical detection of the gene product
+Score: 4.2421878792157015 Sentence: Recently, some authors proposed that epithelial cells with activated Ras signalling require the cooperation of other signalling pathway to became metastogenic ( Grunert et al , 2003 ) and the oncogenic Ras is thought to cooperates with several other proto-oncogenes such as p53 and p16INK4A ( Serrano et al , 1996 ; Aguirre et al , 2003 )
+Score: 4.721813170536528 Sentence: It is unclear why advanced and M+ CRCs showed a high degree of methylation: perhaps advanced tumours inherited a major biological aggressiveness or were simply more likely to become methylated
+Score: 5.32457806268919 Sentence: The forward primer creates the restriction site for Bst NI, which is lost when K-Ras is mutated at codon 12
+Score: 6.099117667819391 Sentence: After 40 cycles of amplification (annealing temperature 55?C), amplified DNA was subjected to Tsp RI (New England Biolabs, Beverly, MA, USA) restriction digestion because this mutation abrogates a restriction site present in the wild-type sequence
+Score: 6.712421176185606 Sentence: Chiang et al (2004) also demonstrated that the three key mutations (APC, K-Ras and p53 ) are rarely coincidental in 122 sporadic CRCs
+Score: 7.096532644934986 Sentence: To analyse p53 expression, formalin-fixed paraffin-embedded tissue sections (2? ? m) were used, deparaffinised and exposed to an antigen retrieval system (1?m M EDTA, pH 8, and 98?C for 30?min) before being incubated with the specific p53 antibody (1:1000, Ab-2, Calbiochem; Oncogene Research Products, Cambridge, MA, USA)
+Score: 7.192046467506432 Sentence: Gonzalez-Aguilera et al (2004) found increased K-Ras mutations in tumours with advanced Duke's stage (A 22%, B 27%, C 38% and D 33%), particularly when grouping M+ (46%) vs M? tumours (26%)
+Score: 7.192046467506433 Sentence: This cooperation between Ras and other genes is likely to occur in CRC progression because, in our study, only 6% of tumours showed the exclusive presence of K-Ras mutation
+Score: 7.243142369888918 Sentence: p16INK4A methylation was significantly associated with M+ tumours ( P <0.001)
+Score: 7.243142369888918 Sentence: Conversely, the frequency of CRCs in the group showing three or more alterations was higher in M+ than in M? tumours (34/130=26% vs 9/72=12%; P =0.023)
+Score: 7.243142369888918 Sentence: Regardless the type of molecular abnormalities, tumours with three or more but not those with less than three, were significantly more prevalent in the group of M+ tumours ( P =0.023)
+Score: 7.463570384845644 Sentence: This study includes 202 consecutive primary advanced metastatic and nonmetastatic CRCs surgically removed from 1997 to 2002
+Score: 7.463570384845644 Sentence: B-Raf V599E mutations were analysed first by amplification using primers forward (0.2?pmol? ? l?1; Proligo, Boulder, CO, USA): 5?-CTGTTTTCCTTTACTTACTACACCTCAGATA-3? and reverse (0.2?pmol? ? l?1; Proligo, Boulder, CO, USA): 5?-CTCAATTCTTACCATCCACAAAATG-3?
+Score: 7.463570384845644 Sentence: Aim of this study was to characterise genetic and epigenetic molecular alterations occurring in primary advanced M+ and M? CRCs
+Score: 7.463570384845644 Sentence: Another focus of this study was to examine the interactions between genetic and epigenetic alterations in the induction of a metastogenic phenotype
+Score: 7.463570384845644 Sentence: In conclusion, analysis of a panel of genes provided to detect some genetic and epigenetic molecular differences between M+ and M? primary CRCs
+Score: 7.576157936255813 Sentence: Multivariate analysis showed that gene methylation was statistically associated with M+ tumours (OR 3.48, 95% CI, 1.66?7.26, P =0.001) and with RASSF1A methylation (OR 2.29, 95% CI, 1.07?4.89, P =0.032)
+Score: 7.576157936255813 Sentence: Our study showed that coincidental methylation of the three genes ( RASSF1A , E-Cadherin and p16INK4A ) was restricted to M+ tumours ( P =0.042)
+Score: 7.818344625697613 Sentence: An abnormal SSCP pattern coincidental with p53 nuclear immunoreactivity was taken as indicative of cases with p53 mutation
+Score: 8.106477634332498 Sentence: Lee et al (2004) examined promoter methylation of 12 different genes in 149 CRCs and found that 9% were unmethylated
+Score: 8.297969917018438 Sentence: In our study, p53 abnormalities were not prevalent in M+ tumours suggesting a limited role of p53 in CRC metastatisation
+Score: 9.28647799990557 Sentence: Positive (SW480 cell line) and negative controls (Human Placental DNA) for the mutation and controls for carryover DNA contamination were included in every experiment
+Score: 9.460391735145198 Sentence: Among tumour suppressor genes showing DNA methylation, p16INK4A seems to play a major role in the metastogenic phenotype of primary CRCs
+Score: 9.793407301512092 Sentence: No other association was found between RASSF1A methylation and the clinico-pathological parameters under study
+Score: 9.793407301512092 Sentence: No statistical association was seen between M+ and M? CRCs showing one or two gene alterations
+Score: 9.933803681815549 Sentence: In the latter (?3 abnormalities) group, the most frequent combination of genes was one genetic and two epigenetic alterations, particularly K-Ras mutations (18/34=53%), with gene methylation equally affecting the three genes under study ( RASSF1A , E-Cadherin and p16INK4A )
+Score: 9.933803681815549 Sentence: As previously noted ( Rajagopalan et al , 2002 ; Yuen et al , 2002 ), K-Ras and B-Raf mutations appear to be mutually exclusive, confirming previous suggestions that they have similar biological targets in the RAS-RAF-MEK-ERK-MAP kinase signalling pathway ( Yuen et al , 2002 )
+Score: 10.008289980668197 Sentence: By SSCP we identified samples with altered p53 migratory pattern, by gene mutation or polymorphism
+Score: 10.008289980668197 Sentence: On the other hand, the mere immunocytochemical detection of p53 gene product may also be due to an increased protein stabilisation uncoupled from mutation ( Cripps et al , 1994 )
+Score: 10.046391233225716 Sentence: Multivariate analysis confirmed the association between K-Ras mutations and M+ tumours (OR 2.37, 95% CI, 1.15?4.88, P =0.019)
+Score: 10.243695364935508 Sentence: K-Ras codon 12 mutations were detected using the Bst NI restriction enzymes (New England Biolabs Inc., Beverly, MA, USA)
+Score: 10.317915150564929 Sentence: p16INK4A methylation was associated with B-Raf mutations ( P <0.001), RASSF1A ( P =0.004) and E-Cadherin ( P =0.040) methylation
+Score: 10.615193051067568 Sentence: A stepwise increase in the number of methylated genes was observed with lesion progression through the stages of multistep colorectal carcinogenesis by Lee et al (2004) 
+Score: 10.615193051067568 Sentence: Interestingly, in the present study, younger age was statistically associated to M+ tumours
+Score: 10.621593489034412 Sentence: Smith et al (2002) investigated K-Ras , p53 and APC in 106 cases and 10% CRC were reported free of molecular abnormalities
+Score: 10.672689391416897 Sentence: p16INK4A methylation was more frequently detectable in p53 mutated cases ( P =0.075)
+Score: 10.948208617434462 Sentence: Figure 1 of Supplementary Appendix available on the BJC website illustrates an example of methylated and unmethylated PCR products
+Score: 10.960822400051782 Sentence: When codon 12 is wild-type, the PCR product contains a restriction site for Bst NI, and digestion yields bands of 128 and 29?bp
+Score: 11.039727131327556 Sentence: An altered SSCP pattern was identified in 91 (45%) out of 202 samples, whereas p53 nuclear immunoreactivity was detected in 115 (57%) out of 202 cases
+Score: 11.039727131327556 Sentence: Out of 202 cases, E-Cadherin methylation was detected in 88 (44%) cases
+Score: 11.33913742186941 Sentence: Aberrant activation of K-Ras has been implicated in facilitating all aspects of a malignant phenotype, including proliferation, invasion and metastases by Ras effectors such as PIK3, Raf/MEK/ERK cascade and Rho GTPases
+Score: 11.390233324251895 Sentence: All these variables retained a statistical significance in multivariate analysis (right side: OR 0.59, 95% CI, 0.40?0.87, P =0.007; older age: OR 1.039, 95% CI, 1.01?1.07, P =0.004; RASSF1A methylation: OR 2.11, 95% CI, 1.01?4.41, P =0.047)
+Score: 11.756711296875475 Sentence: Methylation was seen in 33% of the whole series and it was, like K-Ras mutation, significantly associated with a M+ phenotype (univariate analysis P =0.011; multivariate analysis P =0.001)
+Score: 12.900735998945002 Sentence: Coincidental alterations of K-Ras and p16INK4A were mainly found in M+ tumours (2/67 M? tumours vs 17/139 M+ tumours; P =0.034), suggesting that abnormalities in these pathways could cooperate for a more aggressive phenotype, as previously supported by Serrano et al (1997 )
+Score: 13.469537816786852 Sentence: This is likely due to internal selection for surgical treatment, being the older age a limiting factor for radical surgical resection ( Leporrier et al , 2006 )
+Score: 14.205595302151888 Sentence: If there is a mutation in either of the first two bases of codon 12, the mutant PCR fragment will not be cut and will remain at its original size of 157?bp
+Score: 14.24457808997118 Sentence: All variables found to have a P -value ?0.1 in the univariate evaluation were considered to be candidates for a subsequent stepwise multivariate logistic regression analysis
+Score: 14.373697188367668 Sentence: Out of 202 tumours, RASSF1A was methylated in 40 (20%) tumours, the majority occurring in M+ tumours ( P =0.021)
+Score: 14.537789827979651 Sentence: In such a way, the only significant morphological and biological variable between the two groups was the presence of metastatic deposits
+Score: 17.392134593698938 Sentence: E-Cadherin methylation was more frequently detectable in the right colon ( P =0.011) and in older patients ( P =0.002)
+Score: 17.70726574978115 Sentence: Mutations at codon 12 of the K-Ras gene and at codon 599 of the B-Raf gene were detected by PCR?RFLP that identifies codon 12 and 599 mutations but not the specifically altered nucleotide
+Score: 18.1026545004375 Sentence: A small proportion of cases (10/202=5%) showed both K-Ras mutations and RASSF1A methylation; interestingly all these cases were M+ ( P =0.016)
+Score: 19.778306885710126 Sentence: A set of genetic and epigenetic molecular abnormalities is a feature of primary M+ CRCs likely conferring the ability for tumour extracolic spread and determining markers for aggressive behaviour and potential therapeutic targets.
+Score: 20.075584786212765 Sentence: Table 1 reports the main clinico-pathological features of the series
+Score: 20.40860035257966 Sentence: The epigenetic profile of RASSF1A , E-Cadherin and p16INK4A in CRC is shown in Table 2b 
+Score: 20.421718953804575 Sentence: The group of M+ tumours showing three or more abnormal genes was characterised by a single genetic mutation (usually K-Ras ; 53%) and by two epigenetic alterations (equally affecting p16INK4A , RASSF1A and E-Cadherin )
+Score: 20.61286941115293 Sentence: As previously reported ( Roncalli et al , 2002 ), 1? ? g of genomic DNA in a volume of 50? ? l was denatured by NaOH for 10?min at 37?C; 30? ? l of 10?m M hydroquinone (Sigma, Saint Louis, MO, USA) and 520? ? l of 3? M sodium bisulphite (Sigma, Saint Louis, MO, USA) at pH 5, both freshly prepared, were added and mixed, and samples were incubated at 50?C for 16?h
+Score: 20.850625059397093 Sentence: All these findings suggest that alterations in the genes mostly involved in colorectal carcinogenesis are not always requested for tumour progression
+Score: 21.667696958282452 Sentence: Regardless the type of molecular abnormalities, 68 cases (34%) showed one molecular alteration, 57 cases (28%) two molecular alterations and 43 cases (21%) ?3 molecular alterations
+Score: 23.10714079276895 Sentence: Whether E-Cadherin methylation and K-Ras mutation cooperate in right side colonic carcinogenesis and progression have to be confirmed in larger series
+Score: 23.262945118298944 Sentence: The primers (0.4?pmol? ? l?1; Proligo, Boulder, CO, USA) and the condition for PCR are described in the Table 1 of Supplementary Appendix available on the BJC website
+Score: 23.262945118298944 Sentence: Polymerase chain reaction was performed separately with methylation-specific primers (0.12?pmol? ? l?1; Proligo, Boulder, CO, USA) and unmethylation primers (0.12?pmol? ? l?1; Proligo, Boulder, CO, USA) for each gene ( Supplementary Appendix, Table 1 )
+Score: 24.251165494838475 Sentence: By univariate analysis, K-Ras mutations were significantly associated with M+ tumours ( P =0.016) and more frequent detectable in the right side ( P =0.088)
+Score: 24.458169045731925 Sentence: B-Raf was rarely found mutated in our cases and never in conjunction with K-Ras 
+Score: 24.742306745688456 Sentence: No association was found in cases showing both genetic and phenotypic p53 abnormalities with the clinico-pathological parameters under study
+Score: 24.7597973722459 Sentence: All cases showing PCR products for methylated DNA sequences also exhibited unmethylated DNA sequences, which was related to tumour heterogeneity or to the occurrence of intermingled non-neoplastic cells
+Score: 28.007327644766505 Sentence: Notably, patients showing three methylated genes were also of older age (73.83 vs 65.60 years; P =0.017), in keeping with the suggestion put forwards by Toyota and Issa (1999 ) that age-related methylation might contribute to the sharp increase in cancer risk after the age of 60 years
+Score: 28.465236210394306 Sentence: Out of 202 cases, p16INK4A promoter methylation was found in 67 (33%) cases
+Score: 31.578376756851064 Sentence: Codon 12 K-Ras mutations were found in 54 cases (27%)
+Score: 31.962488225600445 Sentence: Coincidental methylation of these genes was also documented in 12 cases, 11 of whose were M+ CRCs ( P =0.042)
+Score: 34.343094861137104 Sentence: The model of CRC relies upon the sequential accumulation of genetic and epigenetic changes but, in our study, 17% of cases had no abnormalities in the investigated genes ( K-Ras , B-Raf , p53 , RASSF1A , E-Cadherin , p16INK4A )
+Score: 34.34947119905759 Sentence: Out of 202 CRCs, thirty-four (17%) were free from molecular abnormalities and with no association with M+ vs M? tumours
+Score: 35.184033724500395 Sentence: Differences in frequencies of variables were tested using the ? 2 test (Pearson or Fisher, if appropriate), and differences in mean levels of variables were tested using the t -test
+Score: 36.5766786095558 Sentence: Among the variables associated with M+ cancers in univariate analysis ( K-Ras mutation, p16INK4A methylation, RASSF1A methylation, younger age and grading), multivariate analysis showed that only K-Ras mutations (OR 2.98, 95% CI, 1.37?6.46, P =0.006), p16INK4A methylation (OR 4.58, 95% CI, 2.14?9.76, P <0.001) and younger age (OR 0.95, 95% CI, 0.92?0.98, P <0.001) retained a statistically significant value
+Score: 36.93229204743766 Sentence: We found 27% K-Ras mutations in the whole series and a statistical association with M+ tumours (univariate analysis P =0.016; multivariate analysis P =0.019), suggesting K-Ras activation as an important determinant of extracolic tumour spread
+Score: 37.0345871751836 Sentence: Seven cases (3%) showed B-Raf mutation but none of these had a coincidental mutation in the K-Ras gene nor a statistical association with the other clinico-pathological variables
+Score: 40.50861178718958 Sentence: E-Cadherin promoter methylation was prevalent in the right colon (univariate analysis P =0.011; multivariate analysis P =0.007), so that coincidental K-Ras mutations and E-Cadherin methylation frequently occurred in proximal (27%) rather than left colon (5%) and rectum (8%) ( P <0.001)
+Score: 46.22376085582795 Sentence: A coincidental abnormal SSCP migratory pattern and p53 nuclear immunoreactivity was documented in 65 (32%) out of 202 cases
+Score: 62.383796991271424 Sentence: The mutational status of K-Ras , B-Raf and p53 in 202 cases of CRC is shown in Table 2a 

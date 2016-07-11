@@ -1,0 +1,573 @@
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: E
+Score: 0.0 Sentence: Immunohistochemistry was performed on 5 ?M paraffin-embedded samples
+Score: 0.0 Sentence: Scale bar?=?50 micron
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: Proteins were prepared 6h after UV-B treatment or 16h after growth under hypoxia
+Score: 0.0 Sentence: Proteins were immunoblotted using the indicated antibodies
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: E
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: E
+Score: 0.0 Sentence: F
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: E
+Score: 0.0 Sentence: F
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: Hematoxylin was used for counterstaining
+Score: 0.0 Sentence: Media was changed twice a week
+Score: 0.0 Sentence: ATF2-specific shRNA clones were obtained from Open Biosystems (catalog no
+Score: 0.0 Sentence: RHS4533)
+Score: 0.0 Sentence: Four FOXD3 specific siRNA were obtained from Dharmacon (Cat # J-009152-06 -07, -08, -09)
+Score: 0.0 Sentence: Alexey Terskikh, RSV-JunB, RSV-JunD were obtained from Dr
+Score: 0.0 Sentence: Michael Birrer
+Score: 0.0 Sentence: ?-Actin antibody was used for monitoring loading
+Score: 0.0 Sentence: DNA was counterstained with 4,6-diamidino-2-phenylindole (DAPI; Vector Laboratories) containing mounting medium
+Score: 0.0 Sentence: Vincent Hearing)
+Score: 0.0 Sentence: First, expression intensities were calculated for each gene probed on the array for all hybridizations using illumina's BeadStudio 3.0 software
+Score: 0.0 Sentence: All the arrays were then normalized using the cubic spline routine from the BeadStudio 3.0 software
+Score: 0.0 Sentence: Chromatin immunoprecipitation was performed using the Magna-Chip (Upstate) according to the manufacturer's instructions
+Score: 0.0 Sentence: The colonies were stained with P-Iodonitrotetrazolium Violet (1 mg/ml Sigma, St
+Score: 0.0 Sentence: Louis, MO)
+Score: 0.0 Sentence: The AQUA scores for the two markers were obtained from the AQUAmine database ( www.tissuearray.org )
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B, C
+Score: 0.0 Sentence: D
+Score: 0.0 Sentence: Western blotting was carried out with the indicated antibodies
+Score: 0.0 Sentence: E
+Score: 0.0 Sentence: F
+Score: 0.0 Sentence: A
+Score: 0.0 Sentence: B
+Score: 0.0 Sentence: C
+Score: 0.5632661238470783 Sentence: Sections were incubated with S-100 and DCT antibody (Ab) or control secondary antibody (Cont) and counterstained with hematoxylin
+Score: 0.5632661238470783 Sentence: The plot presented reveals Annexin-APC staining on the x-axis and 7-AAD staining on the y-axis
+Score: 0.5632661238470783 Sentence: The epidermis and sheared tissue was removed and discarded with forceps
+Score: 0.5632661238470783 Sentence: The tissue was transferred to 15 ml centrifuge tubes and vortexed vigorously until solution becomes cloudy (1?2 min)
+Score: 0.5632661238470783 Sentence: Geneticin-containing medium was removed and replaced with fresh media after 1 day
+Score: 0.5632661238470783 Sentence: siRNA control (cat # 4611) and three SOX10-specific siRNA oligonucleotides were obtained from Ambion (cat # 4392420)
+Score: 0.5632661238470783 Sentence: Michael Karin and pBabe-Flag-TAM67 from Dr
+Score: 0.5632661238470783 Sentence: Specific bands were detected using fluorescent-labeled secondary antibodies (Invitrogen, Carlsbad, CA) and analyzed using an Odyssey Infrared Scanner (Li-COR Biosciences)
+Score: 0.5632661238470783 Sentence: DAB (DakoCytomation) or SG-Vector (Vector Lab, Inc.; Burlingame, CA) chromogens were applied, yielding brown (DAB) and black (SG) colors, respectively
+Score: 0.5632661238470783 Sentence: Ninety minutes after UVB treatment mice were sacrificed and entire skin was removed and processed
+Score: 0.5632661238470783 Sentence: Streptavidin beads were added to lysates and bound material was analyzed on immunoblots with the indicated antibodies
+Score: 0.6032322778036859 Sentence: ATF2/MITF expression ratios tended to be higher in metastatic than in primary specimens
+Score: 0.6032322778036859 Sentence: In the primary specimen cohort, high ATF2/MITF ratios were associated with decreased 10-year disease specific survival
+Score: 0.6032322778036859 Sentence: These siRNAs were pooled together in equimolar ratio for transient transfection
+Score: 0.6032322778036859 Sentence: This removed genes which were never detected in the arrays
+Score: 0.6032322778036859 Sentence: This procedure accounted for any variation in hybridization intensity between the individual arrays
+Score: 0.6394718072612313 Sentence: To generate loss-of-function mutants, we established mice that would allow CRE-dependent deletion of these domains
+Score: 0.6394718072612313 Sentence: The control sections were treated with normal mouse serum or normal rabbit serum instead of each antibody
+Score: 0.6394718072612313 Sentence: These algorithms make use of a color deconvolution method [62] to separate stains
+Score: 0.6394718072612313 Sentence: The virus was replaced with fresh media after 8 hours of infection
+Score: 1.1221685479850867 Sentence: Important for ATF2 function is its subcellular localization
+Score: 1.1221685479850867 Sentence: Antibody against ATF2 (sc-6233), JunB (sc-8051), JunD (sc-74) were obtained from Santa Cruz
+Score: 1.1664984016507642 Sentence: Skin specimens were fixed in neutral buffered formalin solution and processed for paraffin embedding
+Score: 1.1664984016507642 Sentence: Skin sections (5 ?m in thickness) were prepared and deparaffinized using xylene
+Score: 1.1664984016507642 Sentence: Luciferase activity was measured using the Luciferase assay system (Promega) in a luminometer and normalized to ?-galactosidase activity
+Score: 1.2027379311083095 Sentence: differences between # of non-melanomas between the ATF2?/? and ATF2?/+ p?=?0.92)
+Score: 1.2027379311083095 Sentence: Quantification of immunostaining was performed using the automated Aperio ScanScope CS system (see Materials and Methods for details)
+Score: 1.2027379311083095 Sentence: The number of cases and events (deaths) for high or low ATF2/MITF expression ratios is shown
+Score: 1.2027379311083095 Sentence: The Tyr::Cre ER::Atf2 md mice and their littermate controls (WT) were of FVB/129P2/OlaHsd (TyrCreERT mice were FVB, ATF2fl/fl were 129P2/OlaHsd) and N-Ras/Ink4a?/? mice were C57Bl/6/129SvJ
+Score: 1.2027379311083095 Sentence: Five different shRNA were obtained and tested for their efficiency of KD
+Score: 1.2027379311083095 Sentence: The arrays included a series of 192 sequentially collected primary melanomas and 299 metastatic melanomas
+Score: 1.2427040850649171 Sentence: Induction of mutant NRAS in melanocytes
+Score: 1.2427040850649171 Sentence: Among members of the JUN family implicated in transcriptional silencing is JunB
+Score: 1.5847768288949646 Sentence: Antibodies against MITF (1?100 from Sigma), DCT (1?500, kind gift from Dr
+Score: 1.7254008257887725 Sentence: Therefore, the Cre-loxP system was utilized to disrupt Atf2 in melanocytes
+Score: 1.7254008257887725 Sentence: The resulting Atf2 f/f/Tyr-Cre ER(T2) mice, designated melanocyte-deleted (md) Atf2 md ), indeed expressed the gene encoding the ATF2 transcriptional mutant in melanocytes
+Score: 1.761640355246318 Sentence: Image represents animals of TyrCre + :: Atf2 +/+::Nras Q61K::Ink4a ?/? or TyrCre + :: Atf2 md::Nras Q61K::Ink4a ?/? genotype that were analyzed for tumor formation within 8?32 weeks
+Score: 1.8059702089119956 Sentence: The percentage (%) reflects the amount of positive signal in five selected fields representing longitudinal sections through the skin and containing the entire length of hairs, from the bulb with the subcutis to the epidermis
+Score: 1.8059702089119956 Sentence: Skin samples were collected from the backs of mice and immediately fixed with Z-fix, processed, and embedded in paraffin
+Score: 2.148042952742043 Sentence: An MITF specific shRNA, and MITF promoter luciferase constructs (WT and mutant CRE-Luc constructs) were obtained from Dr
+Score: 2.148042952742043 Sentence: pGL3 vectors containing wild-type and BRN2-site-mutated MITF promoters were obtained from Dr
+Score: 2.148042952742043 Sentence: pGL3 vectors containing wild-type and SOX10-site-mutated MITF promoters were obtained from Dr
+Score: 2.224248636156196 Sentence: Significantly, inhibition of MITF expression decreased the number of BRAF-induced foci (from 1000 to about 100 per well)
+Score: 2.224248636156196 Sentence: This observation implies that effective inhibition or overexpression of MITF attenuates melanocyte transformation, consistent with previous reports (52)
+Score: 2.3249064790933964 Sentence: Targeting strategy shows wild-type allele of Atf2 encompassing exons 8 and 9 (boxes) and flanking loxP sequences (arrowheads)
+Score: 2.3648726330500036 Sentence: Representative staining of non-melanoma tumor developed in the TyrCre + :: Atf2 +/+::Nras Q61K::Ink4a ?/? model
+Score: 2.9281387568970825 Sentence: Deletion of its DNA binding domain and a portion of the leucine zipper motif results in a transcriptionally inactive form of ATF2 ( Figure 1a ; [36] )
+Score: 2.9281387568970825 Sentence: In all cases, mouse skin was treated with Tamoxifen within 3?5 days after birth to inactivate ATF2 ( Figure 1b ) and with doxycycline in their drinking water to induce expression of the NRAS mutant transgene (See Materials and Methods for details; Figure 1c )
+Score: 2.9281387568970825 Sentence: To determine whether the contribution of ATF2 to melanocyte transformation and development is MITF-dependent, we assessed melanocytes' ability to grow and form colonies in soft agar, which is indicative of their transformed potential
+Score: 2.9281387568970825 Sentence: Given that ATF2 affects activity of the oncogenes N-Ras (mouse model) and BRAF (melanocyte growth on soft agar); we expect that ATF2 play significant roles in melanomas that carry either of these mutations
+Score: 2.9281387568970825 Sentence: Genomic DNA was isolated from tail tissue was subjected to PCR resulting in amplification of a 549 bp DNA fragment for Atf2 floxed and a 485 bp DNA fragment for wild type mice
+Score: 2.9362370480257423 Sentence: These findings identify a novel mechanism underlying melanocyte transformation and melanoma development
+Score: 2.9362370480257423 Sentence: No association was found between nuclear ATF2/MITF ratio and disease-specific survival among patients with metastatic melanoma (not shown)
+Score: 2.97620320198235 Sentence: Melanoma development is inhibited in TyrCre +::Atf2 md::Nras Q61K::Ink4a ?/? mice
+Score: 2.97620320198235 Sentence: [39] , mutant N-Ras/Ink4a ?/? mice developed melanoma within 8?12 weeks with metastatic lesions often seen in the lymph nodes
+Score: 2.97620320198235 Sentence: Significantly, a high nuclear ATF2/MITF ratio in primary melanoma specimens was associated with decreased 10-year disease-specific survival (P?=?0.0014; Figure 7b )
+Score: 3.0124427314398954 Sentence: The present study enhances our understanding of early events contributing to melanoma development
+Score: 3.0888398049313217 Sentence: Cells were left untreated, kept under hypoxia (1%), or treated with UV-B (21 mJ/cm2 for 6 h) irradiation
+Score: 3.0888398049313217 Sentence: Cells were treated under hypoxia (1% O2) for indicated time points using a hypoxia chamber (In Vivo 400; Ruskin Technologies Ltd, Bridgend, UK)
+Score: 3.0888398049313217 Sentence: The cells were counter stained with DAPI for nuclear staining
+Score: 3.2702115007271297 Sentence: ATF2 and CREB bind to a MITF CRE site
+Score: 3.2702115007271297 Sentence: Chromatin was prepared and precipitated using an ATF2 antibody and bound DNA was amplified using MITF specific primers that flank the CRE binding site and analyzed on 1.5% agarose gel
+Score: 3.3464171841412824 Sentence: Inhibition of ATF2 abolished mutant BRAF-expressing melanocytes' ability to form foci on soft agar, which was partially rescued when expression of MITF was attenuated
+Score: 3.5394693258294283 Sentence: To evaluate tumor type, we examined melanoma markers including DCT and S100 in all tumors ( Figure 1e , Figure S1 )
+Score: 3.5394693258294283 Sentence: In order to distinguish melanoma from non-melanoma tumors were subjected to staining with S100 and DCT (see Figure 1E , Figure S1 )
+Score: 3.6521059287784 Sentence: Cells were lysed and Western blotting was carried out with the indicated antibodies
+Score: 3.6521059287784 Sentence: Cells were plated (5000 per well) on soft agar and assessed for the ability to form colonies after 21 days using P-Iodonitrotetrazolium Violet staining
+Score: 3.6521059287784 Sentence: Cells were then washed, fixed, and stained with anti-BrdU mAbs and propidium Iodide (BD Biosciences, San Jose, CA) according to the manufacturer's protocol, and analyzed on a BD FACSCanto machine
+Score: 3.6521059287784 Sentence: Cells were lysed and Western blotting was carried out (50 ?g/lane) with the indicated antibodies
+Score: 3.6521059287784 Sentence: Cells were lysed and Western blotting was carried out (40 ?g/lane) with the indicated antibodies
+Score: 3.6920720827350078 Sentence: After one day, these cells were transduced with a lentiviral vector expressing either shATF2 or shMITF separately, or in combination
+Score: 3.7283116121925532 Sentence: Mutant BRAF expression effectively caused formation of about 1000 colonies per 5000 cells ( Figure 6b, 6c )
+Score: 3.7283116121925532 Sentence: Over 90% of the cells transduced were able to resist drug selection, indicating efficient infection of the respective genes
+Score: 3.7283116121925532 Sentence: These cells were treated with 200 nM of estrogen receptor antagonist ICI 182780 (ICI, Tocris Bioscience) to induce expression of BRAFV600E
+Score: 3.7283116121925532 Sentence: Cells were labeled with 10 ?M of 5-bromo-2-deoxyuridine (BrdU; Sigma Chemical Co.), for an hour
+Score: 3.8344698587772035 Sentence: Similar to findings reported by Ackermann et al
+Score: 3.8344698587772035 Sentence: Quantification was performed by AQUA, which provides continuous output scores
+Score: 3.8344698587772035 Sentence: 501Mel) that exhibit positive regulation by ATF2
+Score: 3.8344698587772035 Sentence: Paraffin sections were routinely stained by H&E
+Score: 3.8344698587772035 Sentence: The biotinylated cRNA is labeled by incubation with streptavidin-Cy3 to generate probe for hybridization with the Mouse-6 Expression BeadChip (Illumina MOUSE-6_V1_1_11234304_A) that represents 46.6K mouse gene transcripts
+Score: 3.8344698587772035 Sentence: Antibodies against ATFa were provided generated by Nic Jones
+Score: 3.883275244205599 Sentence: Human melanocytes (H3A; one 10 cm plate each, 50% confluent) were infected with control shRNA (SiSC) or shATF2
+Score: 3.883275244205599 Sentence: Mouse melanocytes analyzed for colony formation were stained with BrdU
+Score: 3.883275244205599 Sentence: SOX10 expression vector obtained from Dr
+Score: 4.058405596010829 Sentence: These studies suggest that ATF2 is required for melanoma development and progression
+Score: 4.098371749967437 Sentence: Overall, using the mutant Nras / Ink4a melanoma model we provide genetic evidence for a central role for ATF2 in melanoma development
+Score: 4.134611279424982 Sentence: Representative staining of melanoma tumors from mice of the TyrCre + :: Atf2 +/+Nras Q61KInk4a ?/? genotype for melanoma markers
+Score: 4.178941133090659 Sentence: Mouse melanoma models and in vitro transformation studies indicate that this newly identified regulatory pathway is required for early phases of melanocyte transformation
+Score: 4.3977359826242814 Sentence: IgG control, and glyceraldehyde-3-phosphate dehydrogenase oligonucleotides were provided by the kit
+Score: 4.4377021365808895 Sentence: Mice were treated with 4-Hydroxytamoxifen (25 mg/ml in DMSO) by swabbing the entire body (excluding the head) on days 1?3 after birth
+Score: 4.446541368052677 Sentence: For human and mouse melanocytes the media was changed to DMEM containing 10% FBS 24 h prior to harvesting cells
+Score: 4.446541368052677 Sentence: Antibodies against Sox10 and CREB (sc-1734 and sc-186 respectively) were from Santa Cruz Biotechnologies
+Score: 4.473941666038435 Sentence: Application of the primary antibody was followed by incubation with goat anti-rabbit polymer-based EnVision-HRP-enzyme conjugate (DakoCytomation)
+Score: 4.512915585792047 Sentence: These findings show that loss of transcriptionally active ATF2 allows higher expression of MITF and strongly suggest that ATF2 negatively regulates MITF expression in melanocytes
+Score: 4.737843557228668 Sentence: To directly assess the importance of ATF2 in melanoma development, we employed a mouse melanoma model in which ATF2 is selectively inactivated in melanocytes
+Score: 4.737843557228668 Sentence: We demonstrate that melanoma development is markedly attenuated in mice expressing a transcriptionally inactive form of ATF2 in melanocytes
+Score: 4.737843557228668 Sentence: Significantly, the appearance of nuclear ATF2 is correlated with poor prognosis in melanoma, whereas melanomas that exhibit cytosolic ATF2 exhibit a better survival
+Score: 4.737843557228668 Sentence: We demonstrate that in the absence of transcriptionally active ATF2, melanoma formation is largely inhibited
+Score: 4.881866696440391 Sentence: ?-actin served as a loading control
+Score: 4.881866696440391 Sentence: Only those stained positive for both markers were considered as melanomas
+Score: 4.881866696440391 Sentence: Cyclophilin A was served as an internal control
+Score: 4.881866696440391 Sentence: Cyclophilin A was served as an internal control for qPCR
+Score: 4.881866696440391 Sentence: GAPDH served as a control
+Score: 4.881866696440391 Sentence: GAPDH served as control
+Score: 4.881866696440391 Sentence: Cyclophilin A was served as an internal control
+Score: 4.881866696440391 Sentence: Cyclophilin A served as an internal control
+Score: 4.881866696440391 Sentence: ?-actin was used as loading control
+Score: 4.881866696440391 Sentence: ??actin was used as a loading control
+Score: 5.037207789885513 Sentence: Retroviral vectors encoding a fusion protein consisting of full length human BRAF and BRAFV600E linked to the T1 form of the human estrogen receptor hormone-binding domain were generously provided by Dr
+Score: 5.037207789885513 Sentence: The amount of the target transcript was related to that of a reference gene (Cyclophilin A for both human and mouse) by the Ct method
+Score: 5.049773645856363 Sentence: Additional assessment was performed in melan - Ink4a-Arf1 melanocytes, a line derived from black Ink4a-Arf null mice [40] , and in primary human melanocytes
+Score: 5.049773645856363 Sentence: Thus we infected melan-Ink4a-Arf1 melanocytes with mutant BRAF ( Figure 6a ) and confirmed their ability to form colonies in soft agar
+Score: 5.049773645856363 Sentence: Primary human melanocytes (NEM-LP; Invitrogen) were grown in medium 254 and HMGS (Cascade Biologics)
+Score: 5.086013175313909 Sentence: Primary melanocytes were treated with 4-OHT and Doxycycline before isolation of total RNA
+Score: 5.200451838138545 Sentence: Yet, the role of MITF in early stages of melanoma development remains largely unexplored
+Score: 5.301109681075746 Sentence: To address the role of ATF2 in de novo melanoma formation Tyr::Cre ER::Nras Q61K::Ink4a ?/? (KO of exon 2?3 of Cdkn2a locus, which encodes for both p16Ink4a and p19Arf; [38] ) mice, which develop spontaneous melanoma (Lynda Chin, unpublished observations), were crossed with Atf2 md mice
+Score: 5.445132820287469 Sentence: Rabbit IgG served as a negative control and CREB and ATF1 served as positive controls
+Score: 5.4618107291099856 Sentence: Melanoma cells (WM1361, one 10 cm plate each, 50% confluent) were transduced with either empty or shATF2 lentiviral particles
+Score: 5.485098974244077 Sentence: Staining with corresponding antibodies was performed as indicated in Experimental Procedures
+Score: 5.5598706845659756 Sentence: In both, ATF2 expression was inhibited by viral infection with the corresponding mouse or human shRNA (shATF2)
+Score: 5.586819339419816 Sentence: David Fisher [58] 
+Score: 5.586819339419816 Sentence: Colin Goding [34] 
+Score: 5.586819339419816 Sentence: Michel Goossens [59] 
+Score: 5.586819339419816 Sentence: Martin McMahon [60] 
+Score: 5.586819339419816 Sentence: [63] 
+Score: 5.586819339419816 Sentence: Primers used for PCR reactions were forward: caatccactgccatggcctt , reverse: tcagataaagccaagtcgaatctgg 
+Score: 5.640440067689199 Sentence: In the absence of underlying cut-point justification, nuclear ATF2/MITF ratios were randomly binarized by the median ratio for all specimens (primary and metastatic)
+Score: 5.644915599451918 Sentence: We next set to identify ATF2 heterodimeric partner, which could mediate negative regulation of SOX10 transcription
+Score: 5.683148578862401 Sentence: ATF2 negatively regulates MITF in several melanoma lines
+Score: 5.683148578862401 Sentence: ATF2 positively regulates MITF in 501-MEL melanoma cells
+Score: 5.689245453117595 Sentence: Primary melanocytes were isolated and inactivation of ATF2+ induction of N-Ras expression was performed in culture (see Materials and Methods for details)
+Score: 5.689245453117595 Sentence: Primary mouse melanocytes were grown in F-12 media (Invitrogen) containing 20% L-15 media (Invitrogen), 4% of FBS and Horse serum (Invitrogen), Penicillin (100 units) and streptomycin (50 ?g) antibiotics, db-cAMP (40 ?M, Sigma-Aldrich), 12-O-tetradecanoyl-phorbol-13-acetate (TPA, 50 ng/ml, Sigma-Aldrich), alpha-Melanocyte stimulating hormone (?-MSH, 80 nM, Sigma-Aldrich), Fungizone (2.5 ?g/ml, Sigma-Aldrich) and melanocyte growth supplement (Invitrogen)
+Score: 5.9565595552600445 Sentence: The cell cycle phase was analyzed using the Mod Fit LT v.2 program
+Score: 5.9565595552600445 Sentence: The cell suspension was transferred to tissue culture flasks
+Score: 5.9565595552600445 Sentence: For subsequent experiments we used the respective shATF2 clone depending on human or mouse cell lines
+Score: 5.9565595552600445 Sentence: Cell cycle phase was analyzed using the Mod Fit LT v.2 program (Verity Software, Topsham, ME)
+Score: 5.982512811519246 Sentence: Dewaxed tissue sections (4.0?5.0 ?m) were immunostained using rabbit polyclonal antibodies to MITF (Sigma-Aldrich), S100 (S100B; DAKOCytomation; Carpinteria, CA), and DCT (?PEP8, kindly provided by Dr
+Score: 6.031318196947642 Sentence: The MITF promoter sequence spanning ?300 to ?120 (180bp containing SOX10 binding sites and a CRE site) was amplified using MITF-specific primers
+Score: 6.2081817232989955 Sentence: Expression of TAM67 indeed reduced the degree of ATF2 and JunB binding to the AP1 site on SOX10 promoter
+Score: 6.24641470270948 Sentence: These observations suggest that active (nuclear) ATF2 in melanoma can suppress MITF expression, and that this phenomenon is associated with poor prognosis
+Score: 6.248147877255604 Sentence: Collectively, these findings suggest that ATF2, in concert with JunB, is responsible for inhibition of Sox10 expression
+Score: 6.5198256791071225 Sentence: Louis, MO), Cholera toxin (200 pM, Sigma), human stem cell factor (10 ng/ml, R&D systems, Minneapolis, MA), and endothelin 1 (10 nM, Bachem Bioscience Inc., Torrance, CA)
+Score: 6.585745089322932 Sentence: For MITF, DCT and S100 immunostaining, tissue sections were incubated in DAKO antigen retrieval solution, for 20 min in a boiling bath, followed by treatment with 3% hydrogen peroxide for 20 min
+Score: 6.590220621085651 Sentence: Mouse melanocytes stably expressing mutant B-RAF were infected with lentiviral vectors carrying shRNA for ATF2 or MITF or both
+Score: 6.6707900042088735 Sentence: Infection of either primary human ( Figure 3a ) or melan - Ink4a-Arf1 melanocytes ( Figure 3b ) with shATF2 markedly increased MITF transcription and protein expression ( Figure 3a, 3b )
+Score: 6.6707900042088735 Sentence: Effect of DN Jun and JunB on SOX10 protein and MITF transcript levels
+Score: 6.829523424484734 Sentence: In addition, constitutively active MAPK/ERK causes rewiring of other signaling pathways [4] 
+Score: 6.885886509970711 Sentence: The availability of a melanoma TMA, consisting of over 500 melanoma samples and in which expression of both ATF2 and MITF in the same tumors had been measured enabled us to assess possible associations between ATF2 and MITF and their correlation with survival and other clinical and pathological factors
+Score: 6.885886509970711 Sentence: The latter finding attests for the important role ATF2 plays to control MITF expression in the early phase of melanocyte transformation and melanoma development
+Score: 6.923309663708525 Sentence: Melan-Ink4a-Arf1 cells were stably transduced with wild type BRAF or BRAFV600E, followed by treatment with ICI 182780 (ICI, 200 nM) to induce BRAF expression
+Score: 6.972115049136921 Sentence: H3a human melanocytes cells were infected with Scrambled Control siRNA (siSC), shATF2, siFOXD3 or their combination
+Score: 7.159297486368354 Sentence: Algorithm parameters were set to achieve concordance with manual scoring on a number of high-power fields, including intensity thresholds for positivity and parameters that control cell segmentation using the nuclear algorithm
+Score: 7.180887042918487 Sentence: These results suggest that ATF2 regulation of MITF transcription is mediated by SOX10
+Score: 7.180887042918487 Sentence: We next assessed whether inhibition of melanocyte growth on soft agar by altered ATF2 and/or MITF expression can be attributed to decreased proliferation or increased apoptosis
+Score: 7.180887042918487 Sentence: It is therefore plausible that timely control of MITF expression by ATF2 determines melanocyte susceptibility to transformation
+Score: 7.1872115548987585 Sentence: Neither BRN2 nor PAX3 transcription was elevated in melanoma cells in which ATF2 expression was inhibited ( Figure S3a )
+Score: 7.225216896584164 Sentence: To confirm a possible role for JunB in regulating MITF transcription we asked whether expression of TAM67, a negative regulator of Jun family members, could attenuate the binding and transcriptional activities elicited by JunB
+Score: 7.246739329490395 Sentence: Only one of the three tumors observed in the Atf2 md group was identified as a melanoma
+Score: 7.246739329490396 Sentence: Nuclear ATF2 alone in primary specimens was associated with poor survival, but to a lesser degree than the ratio of nuclear ATF2/MITF (P?=?0.0118 for ATF2 as a single discriminator versus P?=?0.0014 for the ratio of nuclear ATF2/MITF)
+Score: 7.2740222820125595 Sentence: To assess the possible role of FOXD3 in regulation of MITF we inhibited FOXD3 expression in melanocytes expressing control shRNA and shATF2
+Score: 7.278771840332887 Sentence: Western analysis was carried out to assess ERK activation using pERK and ERK antibodies
+Score: 7.278771840332887 Sentence: The acquired digital images representing whole tissue sections were analyzed applying the Spectrum Analysis algorithm package and ImageScope analysis software (version 9; Aperio Technologies, Inc.) to quantify IHC and histochemical stainings
+Score: 7.312220165208588 Sentence: Global Atf2 knockout in mice leads to early post-natal death [36] 
+Score: 7.312220165208588 Sentence: Notably, cytosolic ATF2 is primarily seen in non-malignant skin tumors [55] 
+Score: 7.35497752374704 Sentence: IHC analysis of mouse skin prepared from 4-day-old mice
+Score: 7.392789548331812 Sentence: Those include mutations in BRAF , NRAS, KIT and GNAQ, all of which result in a constitutively active MAPK pathway [3] ? [5] 
+Score: 7.486575787555603 Sentence: Human embryonic kidney 293T cells were transfected with corresponding retro- or lentiviral shRNA constructs (10 ?g), Gag-pol (5 ?g) and ENV expression vectors (10 ?g) by calcium phosphate transfection into 10 cm plates and supernatant was collected after 48 hours to obtain viral particles
+Score: 7.744153166765565 Sentence: Here we quantitated immunofluorescent staining of TMAs for MITF and ATF2 by employing our automated, quantitative (AQUA) method
+Score: 7.7504776787458365 Sentence: Immunostaining was carried out in indicated melanoma and human melanocyte cells with ATF2 (green) antibody and Phalloidin (red)
+Score: 7.756719022736415 Sentence: Surprisingly, ATF2 negatively regulated MITF expression in mouse and human melanocytes, suggesting that ATF2 transcriptional activities limit MITF expression
+Score: 7.784119320722172 Sentence: However, another 8 (44%) exhibited positive regulation of MITF by ATF2, pointing to a transcriptional switch that occurred in the course of melanocyte transformation
+Score: 7.79295855219396 Sentence: Of importance, ATF2 and MITF affect the ability of BRAF600E-expressing melanocytes to grow on soft agar via distinct mechanisms
+Score: 7.82668336215999 Sentence: Nuclear localization of ATF2 in melanoma tumor cells is associated with poor prognosis [21] , likely due to transcriptional activity of constitutively active ATF2
+Score: 7.82668336215999 Sentence: A possible link between the presence of ATF2 in repair foci in most melanoma cells points to the possible presence of activated DNA damage response which may be associated with genomic instability [19] , [20] ?aspects that will be explored in future studies
+Score: 7.8329247061505685 Sentence: To confirm that ATF2 negatively regulates Mitf expression, we assessed MITF transcription in primary mouse melanocytes harboring WT ( Tyr::Cre ?::Atf2 +/+ ) or mutant ( Tyr::Cre +::Atf2 md ) forms of ATF2
+Score: 7.8329247061505685 Sentence: These findings suggest that inhibition of MITF expression in melanocytes lacking ATF2 expression can promote transformation
+Score: 7.875486289055667 Sentence: Our earlier studies revealed that ATF2 subcellular localization in tumors is significantly correlated with prognosis: nuclear localization, reflecting constitutively active ATF2, was associated with metastasizing tumors and poor outcome [7] 
+Score: 7.918243647594118 Sentence: After 72 h, Western analysis was carried out using 50 ?g of proteins and the indicated antibodies
+Score: 7.95979026359848 Sentence: While our present studies focused on the ATF2-MITF axis, it is expected that additional ATF2-regulated genes contribute to melanoma development [12] 
+Score: 8.289291643069868 Sentence: These results establish that ATF2-dependent activation of MITF transcription in these melanoma cells is mediated through the CRE site, likely in cooperation with CREB
+Score: 8.338094569965545 Sentence: In addition, MITF is subject to several post translational modifications which affect its availability and activity, including acetylation, sumoylation and ubiquitination [27] , [28] 
+Score: 8.357216910244034 Sentence: ChIP was performed using the indicated antibodies followed by amplification of the SOX10 promoter sequence containing AP-1 binding sites (?4797 to ?4791)
+Score: 8.396190829997646 Sentence: Effect of ATF2 and FoxD3 on Sox10 and MITF expression in human melanocytes
+Score: 8.414300253379698 Sentence: Among response elements potentially required to upregulate MITF transcription is the CRE element, which is implicated in CREB-mediated upregulation of MITF transcription [45] 
+Score: 8.457575551727365 Sentence: Identifying mechanisms underlying early phases of melanocyte transformation and melanoma development is central to understanding the etiology of this devastating tumor, as well as for developing novel treatment approaches
+Score: 8.497541705683972 Sentence: However, the incidence of melanoma was lower in Tyr::Cre ER::Nras Q61K::Ink4a ?/? mice used in the present study (50% penetrance, of which 50% of the tumors were confirmed to be melanoma), probably because expression of mutant NRAS was induced only after birth, as opposed to activation of NRAS during embryogenesis, as reported in [39] )
+Score: 8.544913118020114 Sentence: ATF2 effect on Brn2 and Pax3 in human melanocytes and melanoma cells
+Score: 8.621118801434267 Sentence: We demonstrate that loss of a transcriptionally active form of ATF2 in melanocytes inhibits melanoma development in an Nras/Ink4a model
+Score: 8.710950937144704 Sentence: Finally, these normalized data were analyzed for differentially expressed genes
+Score: 8.710950937144704 Sentence: (7.25 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (1.36 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (0.93 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (1.16 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (1.70 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (2.59 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (1.06 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (1.34 MB TIF) Click here for additional data file
+Score: 8.710950937144704 Sentence: (6.98 MB TIF) Click here for additional data file.
+Score: 8.716336555217595 Sentence: Colony formation was carried out as described by Franken et al
+Score: 9.045399360191366 Sentence: Cell lysates were prepared from cells after 48 h
+Score: 9.274217060991782 Sentence: We analyzed the BeadChips using the manufacturers BeadArray Reader and collected primary data using the supplied Scanner software
+Score: 9.279602679064674 Sentence: Second, intensity values were quality controlled and normalized: quality control was carried out by using the BeadStudio detection P-value set to <0.01 as a cutoff
+Score: 9.336987682186924 Sentence: To further reveal the role of ATF2 in this inhibition, we assessed the effect of JunB on Sox10 expression in cells expressing control shRNA or shATF2
+Score: 9.686232616687265 Sentence: Vincent Hearing) and S100 (1?100, DAKOCytomation; Carpinteria, CA) were allowed to react with tissue sections at 4?C overnight
+Score: 9.686232616687265 Sentence: Biotinylated anti-rabbit IgG was allowed to react for 30 min at room temperature and diaminobenzidineor Nova Red were used for the color reaction
+Score: 9.686232616687265 Sentence: Dorsal-lateral skin was removed from one day-old pups, disinfected with 70% ethanol for 1 min and then washed at least twice with sterile PBS
+Score: 9.691708918468159 Sentence: The same analysis was performed in human melanoma cells
+Score: 9.762438300101417 Sentence: Briefly, all slides were scanned at an absolute magnification of 400? [resolution of 0.25 ?m/pixel (100,000 pix/in.)] using the Aperio ScanScope CS system (Aperio Technologies; Vista, CA)
+Score: 9.765760472510475 Sentence: Among examples of rewired signaling is upregulation of C-JUN expression and activity [8] , which potentiates other pathways, including PDK1, AKT and PKC, and plays a critical role in melanoma development [12] 
+Score: 9.80434552141713 Sentence: Western analysis was performed on lysates obtained from cells used for colony formation with the indicated antibodies ( right panel )
+Score: 9.82041144658419 Sentence: Means +SD are shown
+Score: 9.82041144658419 Sentence: Total RNA was isolated using an RNeasy mini kit (Sigma, St
+Score: 9.866242863248406 Sentence: Of interest, MITF overexpression promoted a similar degree of cell death (11.4%) without altering cell cycle distribution, similar to combined inhibition of ATF2 and MITF ( Figure 6e, 6f )
+Score: 9.887310488631076 Sentence: Thus, further assessment was performed to determine if JunB functions as an ATF2 heterodimerization partner to regulate SOX10 transcription through the AP1 site
+Score: 9.947212851194717 Sentence: Kaplan Meier curve did not reveal significant differences in survival among the different genotypes, probably since this study was primarily designed to follow tumor incidence
+Score: 9.947212851194717 Sentence: In all cases, shRNA specificity was confirmed using three independent sequences (data not shown)
+Score: 9.974726314902032 Sentence: Transcriptional activity of MITF is dependent on ATF2 and a CRE element in specific melanoma cells that express high MITF levels
+Score: 10.042651582076198 Sentence: Primary melanocytes were treated with 4-OHT (10 ?M) for 8h followed by addition of doxycycline (2 ?g/ml) for 24h to inactivate ATF2 and induce expression of N-Ras
+Score: 10.082617736032807 Sentence: We demonstrate that such negative regulation is elicited through downregulation of SOX10 by ATF2, in cooperation with JunB
+Score: 10.157090244900838 Sentence: The significance of these findings is underscored by our observation of human melanoma tumors, in which high ratio of nuclear ATF2 to MITF expression was associated with poor prognosis
+Score: 10.289464894490951 Sentence: The skin was submerged in 1? Trypsin/EDTA overnight at 4?C and next day, the skin was placed in a Petri dish with mouse melanocyte culture medium (described below)
+Score: 10.324662896648483 Sentence: To elucidate the role of ATF2 in melanoma, Atf2 f/f mice were crossed with mice harboring a 4-hydroxytamoxifen (OHT)-inducible Cre recombinase-estrogen receptor fusion transgene under the control of the melanocyte-specific tyrosinase promoter, designated Tyr::Cre ER(T2) 
+Score: 10.450576612478155 Sentence: Primary melanocytes cultures were prepared from mice carrying the Atf2 WT or mutant genotypes and N-Ras/Ink4a ?/? as follows
+Score: 10.45988325384542 Sentence: 500 ng of total RNA was used for synthesis of biotin-labeled cRNA using an RNA amplification kit (Ambion)
+Score: 10.468686035860207 Sentence: Quantitative PCR was performed as described earlier [8] 
+Score: 10.468686035860207 Sentence: Tissue microarrays were constructed as previously described [21] 
+Score: 10.54671850449934 Sentence: Differences among the other groups were not significant (differences between # of melanomas between the ATF2?/+ and ATF2+/+ p?=?0.36; differences between # of non-melanomas between the ATF2?/? and ATF2+/+ groups p?=?0.37
+Score: 10.587790058380502 Sentence: Correspondingly, JunB, which is required for ATF2-dependent inhibition of Sox10 transcription, is no longer found on the promoter of SOX10 in melanoma cells (i.e
+Score: 10.645883859879884 Sentence: Overexpression of JunB efficiently suppressed SOX10 expression in an ATF2-dependent manner and inhibition of Jun transcriptional activities phenocopied the effect of shATF2, suggesting that negative regulation of SOX10 by ATF2 is direct, and is mediated in cooperation with JunB
+Score: 10.645883859879886 Sentence: Expression of ATF2 assessed by immunoblot in melanocytes derived from TyrCre + :: Atf2 +/+::Nras Q61K::Ink4a ?/? and TyrCre + :: Atf2 md::Nras Q61K::Ink4a ?/? mice and treated with 4-OHT, enabling expression of a mutant lacking the DNA binding and leucine zipper domains
+Score: 10.694403112488711 Sentence: Subcellular localization of ATF2 in melanoma cell lines
+Score: 10.712798668690333 Sentence: Expression of mutant BRAFV600E in immortal melanocytes is reportedly sufficient for growth on soft agar [47] 
+Score: 10.76916175417631 Sentence: Surprisingly, ATF2 control of melanoma development was mediated, in part, through its negative regulation of SOX10 and consequently of MITF transcription
+Score: 10.76916175417631 Sentence: These observations suggest a role for ATF2 in FOXD3- and SOX10-mediated regulation of MITF transcription in melanocytes and melanoma cells
+Score: 10.808401164672352 Sentence: Mice homozygous for the loxP-flanked (floxed) Atf2 gene ( Atf2 f/f ) were born at the expected Mendelian ratios and presented no apparent abnormalities
+Score: 10.887929020495562 Sentence: Indeed, expression of transcriptionally inactive ATF2 or peptides that attenuate endogenous ATF2 activity inhibits melanoma development and progression in xenograft models [22] ? [26] 
+Score: 10.986909848234955 Sentence: Protein or RNA were prepared 72h later and assessed in western and qPCR
+Score: 11.201215510342395 Sentence: Reactions were performed using the SYBR Green qPCR reagent (Invitrogen) and run on an MX3000P qPCR machine (Stratagene, La Jolla, CA)
+Score: 11.202013238495095 Sentence: ChIP analysis confirmed that JunB binds to the AP1 site found in SOX10 promoter sequences ( Figure 5c )
+Score: 11.41027199324137 Sentence: Inhibition of ATF2 expression caused notable accumulation of cells in G2 (60%), with significant cell death induction (22%) compared to controls (4%), ( Figure 6e, 6f )
+Score: 11.510175827201142 Sentence: Indicated melanoma cells were transfected with TAM67 (DN Jun) and JUNB either alone or in combination as indicated
+Score: 11.529746347205903 Sentence: ChIP analysis was carried out using ATF2 or JunB antibodies in cells that express either shcontrol, shATF2 or Jun DN construct TAM67
+Score: 11.546803927315912 Sentence: Shown is the tumor incidence in the different genotypes
+Score: 11.569332150939063 Sentence: MITF transcription is regulated by complex positive and negative cues [27] 
+Score: 11.583043456773456 Sentence: Number of positive stained out of total melanomas is shown (percent positive) for each of the genotypes
+Score: 11.635184437510972 Sentence: Luciferase assays were performed as detailed in Materials and Methods 
+Score: 11.667394564927772 Sentence: Notably, ATF2 control of MITF expression affected the ability of BRAF600E-expressing melanocytes to exhibit transformed phenotype in culture, monitored by their ability to grow on soft agar
+Score: 11.711390120925124 Sentence: Previous studies indicate the presence of mutant BRAF in melanocytic lesions, as well as its effect on pigment gene expression [6] , [50] , [51] 
+Score: 11.752713506371322 Sentence: The specificity of the products was verified by melting curve analysis and agarose gels
+Score: 11.83496721667542 Sentence: To study the function of ATF2 in melanocytes, we utilized the Cre-loxP system for disruption of the ATF2 gene in melanocytes [37] 
+Score: 11.945491621501859 Sentence: Expression of TAM67 caused increased expression of SOX10 in both human melanoma (?2 folds; Figure 5d ) and melanocytes (?3 folds; Figure 5e ), indicating some relief of JunB inhibition
+Score: 11.968454399326234 Sentence: These observations are consistent with a report from Wellbrock and Marais [52] , who showed that altered MITF expression inhibits melanocyte proliferation
+Score: 11.981162437871834 Sentence: These data provide the initial indication that ATF2 negatively regulates Mitf and several other important pigmentation genes
+Score: 12.172566887275467 Sentence: In agreement, chromatin immunoprecipitation (ChIP) assays confirmed increased binding of SOX10 to the MITF promoter in melanoma cells expressing shATF2 ( Figure 5a )
+Score: 12.433731929636913 Sentence: The early (4 day) time point is within the time frame that allows induction of melanoma development by UV-irradiation of c-Met or H-Ras mutant mice [53] 
+Score: 12.472705849390527 Sentence: Our quest to understand mechanisms underlying ATF2 activity in this process led us to identify an important role for ATF2 regulation of MITF, an important regulator of melanocyte biogenesis and a factor implicated in melanoma progression [49] 
+Score: 12.52834847840719 Sentence: We propose that excessively low or high MITF levels block melanocyte transformation, whereas intermediate levels allow transformation to occur
+Score: 12.627349559468918 Sentence: These observations suggest that MITF inhibition is sufficient to reduce the rate of cell cycle progression through G2/M phase and that inhibited growth of BRAF600E-expressing melanocytes on soft agar may be attributed to abrogation of distinct cell cycle-regulatory mechanisms
+Score: 12.660600399089672 Sentence: Furthermore, our data point to an unexpected role of ATF2 in fine-tuning of MITF transcription through regulation of its positive regulator SOX10
+Score: 12.67482524863435 Sentence: The possibility that altered expression of JunB may account for ATF2 positive or negative regulation of Sox10 and MITF were excluded, as no clear correlation between JunB expression and the ability of ATF2 to elicit negative regulation of Sox10/MITF were seen ( Figure S7f )
+Score: 12.782260321225165 Sentence: S100 staining reveals changes in the hair matrix (low magnification) and migrating melanoblasts (higher magnification) Scale bar?=?100 micron
+Score: 12.80932268711214 Sentence: These data suggest that transcriptionally active ATF2 is required for melanoma development in the Nras Q61K::Ink4a ?/? mouse melanoma model
+Score: 12.862198022651512 Sentence: Lower panel , qPCR of the above samples was carried out using MITF primers
+Score: 12.909251251515512 Sentence: RNA prepared from the cells was used for array analysis
+Score: 12.923687439784803 Sentence: Immunoblot analysis of ATF2 protein confirmed that melanocytes prepared from wild-type TyrCre+ ::Atf2 +/+ ::Nras + ::Ink4a ?/? (WT) mice express a 70 kDa band corresponding to full length ATF2, whereas melanocytes of TyrCre+ ::Atf2 md ::Nras + ::Ink4a ?/? mice express only a 55 kDa band, corresponding to the size of ATF2 lacking the DNA binding and leucine zipper domains ( Figure 1b )
+Score: 13.072615954785155 Sentence: At a later time point (2 weeks) representing an advanced stage of melanocyte development, S100 staining was similar in both genotypes, while MITF expression remained upregulated in Atf2 md mice (not shown)
+Score: 13.110046300192774 Sentence: Antibodies against SOX10 and CREB (sc-1734 and sc-186 respectively) were from Santa Cruz Biotechnologies; antibodies against ATF2, pERK and ERK (catalogue # 9226, 4337 and 4695 respectively) were obtained from Cell Signaling; antibodies against MITF (C5) were purchased from Cell Lab vision
+Score: 13.229252141009642 Sentence: Likewise, we found that genes transcriptionally regulated by MITF, such as Dct , Silver and Tyrp1 , were upregulated in the skin of mutant ATF2 mice ( Figure 2a )
+Score: 13.233697988611533 Sentence: These data suggest that JunB mediates inhibition of Sox10 expression
+Score: 13.39682479275729 Sentence: Mice bearing a conditional allele for mutant ATF2 in which the DNA binding domain and part of the leucine zipper domain were deleted, were generated as previously described [36] , [55] 
+Score: 13.456163035326874 Sentence: All experiments were performed a minimum of 3 times
+Score: 13.47251737536259 Sentence: The cells were lysed and proteins and RNA were prepared
+Score: 13.520702475464468 Sentence: Slides were scanned by scanscope at 20? (IHC) and 40? (H&E)
+Score: 13.520702475464468 Sentence: Research involving human participants has been approved by the institutional review board at Yale University (where the TMA was prepared and analyzed)
+Score: 13.52691971758849 Sentence: A putative AP1 response element has been identified in SOX10 promoter sequences and ChIP analysis of this domain showed ATF2 and JunB binding
+Score: 13.700712722025608 Sentence: Together, these observations suggest that simultaneous inhibition of ATF2 and MITF averts cell cycle abrogation induced when expression of either of these factors is perturbed individually, further substantiating regulation of MITF by ATF2
+Score: 13.819027639354019 Sentence: Melanoma cells were subjected to ChIP using the indicated antibodies followed by PCR of SOX10 promoter sequences harboring the AP1 response element
+Score: 13.858001559107633 Sentence: Conversely, TAM67 or JunB had no effect on melanoma cells in which ATF2 inhibits MITF independently of SOX10, suggesting that in these cases, ATF2 likely cooperates with transcription factors other than JunB to elicit negative regulation of SOX10 and MITF ( Figure S7d )
+Score: 14.160174282725698 Sentence: The reaction mixture was denatured at 95?C for 10 min, followed by 40 cycles of 95?C for 15s, annealing at 60?C for 30s and extension at 72?C for 30s
+Score: 14.174489815978381 Sentence: To assess the mechanism underlying ATF2's contribution to melanoma development, we conducted gene profiling array analysis of primary melanocytes prepared from Tyr::Cre +::Atf2 +/+::Nras Q61K::Ink4a ?/? and Tyr::Cre +::Atf2 md::Nras Q61K::Ink4a ?/? mice
+Score: 14.352750385257691 Sentence: Combined inhibition of ATF2 and MITF restored cell cycle distribution to that seen in control melanocytes, and reduced cell death from 22.4% to 12.9%
+Score: 14.36703715012013 Sentence: Therefore, changes in TYRP1, DCT and SILVER expression could be attributed to altered MITF expression
+Score: 14.499625037207979 Sentence: In agreement, ChIP analysis confirmed occupancy of the CRE site on MITF promoter by ATF2 ( Figure S8c )
+Score: 14.518288849856251 Sentence: Hence, further studies are required to address mechanisms underlying ATF2 regulation of these pigmentation genes and the significance of such regulation to melanocyte transformation and melanoma development
+Score: 14.763406560529386 Sentence: All animal work has been conducted according to relevant national and international guidelines in accordance with recommendations of the Weatherall report and approved by the IACUC committee at SBMRI
+Score: 14.9191326604437 Sentence: These data confirm the presence of ATF2-JunB complex on Sox10 promoter and suggest that ATF2 recruits JunB for binding to the AP1 site on SOX10 promoter
+Score: 15.130323909674722 Sentence: While findings presented here position ATF2 as an oncogene functioning in melanocyte transformation and melanoma development, earlier studies from our laboratory and others suggest that in keratinocytes and mammary glands, ATF2 elicits a tumor suppressor function [55] , [56] 
+Score: 15.231436928817981 Sentence: Significant advances in understanding melanoma biology have been made over the past few years, thanks to identification of genetic changes along the MAPK signaling pathway
+Score: 15.284967619753115 Sentence: Mouse melanocytes ( melan-Ink4a-Arf1 ) were grown as for immortalized human melanocytes excluding human stem cell factor and endothelin
+Score: 15.446779834652212 Sentence: Hence we used melanocytes and representative melanoma lines to assess mechanisms underlying positive or negative regulation of MITF
+Score: 15.474464125719217 Sentence: Altered MITF expression by ATF2 +/? SOX10 in human melanocytes and melanomas
+Score: 15.52254536788476 Sentence: Louis, MO) and reverse transcribed using a high cDNA capacity reverse transcription kit (Applied Biosystems, Foster City, CA) following the manufacturer's instructions
+Score: 15.562511521841367 Sentence: In the control group ( Tyr::Cre ER::Atf2 +/+::Nras Q61K::Ink4a ?/? ), 11/21 mice (52%) developed tumors within 8?16 weeks ( Table 1 )
+Score: 15.833722651005667 Sentence: To determine the importance of MITF at this early stage of melanocyte transformation we inhibited MITF expression (using shRNA) in melanocytes expressing mutant BRAF alone or mutant BRAF+shATF2
+Score: 15.838381663355543 Sentence: The percentage of cells in G1, S and G2 is shown in the graph
+Score: 15.905531032996965 Sentence: After two days, puromycin (1.5 ?g/ml) was used to select cells for 3 days
+Score: 16.00703674605267 Sentence: Chromatin IP reveals loss of JunB binding to SOX10 promoter in melanoma cells in which MITF is positively regulated by ATF2
+Score: 16.113935932980446 Sentence: These findings confirm that while in melanocytes, expression of SOX10 and MITF is negatively regulated by ATF2, this mechanism is conserved in approximately half of melanomas surveyed
+Score: 16.156499974418267 Sentence: Similarly, inhibition of ATF2 transcription in human melanoma 1361 cells increased SOX10 and FOXD3 transcription, albeit, to a lesser degree (3- and 1.5-fold, respectively) compared with human melanocytes ( Figure S3b )
+Score: 16.203188111590038 Sentence: On day 4 the pups were placed under UVB light source (FL-15E; 320 nm) and exposed to 20 ?W/cm2 for 22 seconds
+Score: 16.353605476803068 Sentence: Thus, Atf2 md::N-Ras Q61K::Ink4a ?/? mice were used to assess changes in melanoma incidence in the absence of functional ATF2 over a period of up to 8 months
+Score: 16.468797156844044 Sentence: Melan-Ink4a-Arf1 cells were transduced with a retroviral vector expressing BRAFV600E:ERT1 and selected with puromycin for 3 days
+Score: 16.545711062875213 Sentence: Human melanoma and melanocytes were grown in coverslips, fixed (4% paraformaldehyde and 2% sucrose in 1?PBS), and then permeabilized and blocked (0.4% Triton X-100 and 2% BSA in 1?PBS) at room temperature
+Score: 16.69895809713807 Sentence: On Cox multivariable analysis, this association with survival was independent of patient age, Breslow thickness or the presence or absence of ulceration (data not shown)
+Score: 16.71683391311581 Sentence: A putative response element for AP1 (which can serve as an ATF2 response element through ATF2 heterodimerization with JUN family members; [9] ) has been identified in upstream regions of the Sox10 promoter [44] 
+Score: 16.725721309436352 Sentence: We next assessed the effect of ATF2 on SOX10 and MITF expression in 12 additional human melanoma cell lines
+Score: 16.85989236840343 Sentence: Notably, this latter group showed high levels of basal MITF expression [41] , [42] , suggesting that regulation of MITF expression in these cells differs mechanistically from that of the first group
+Score: 17.058906656945858 Sentence: Specific primers (Valuegene, San Diego, CA) used for PCR were as follows: Human ATF2, forward: tgtggccagcgttttaccaa , reverse: tgatgtgggctgtgcagttt ., human MITF, forward: aaaccccaccaagtaccaca , reverse: acatggcaagctcaggac ., human SOX10, forward: caa gtaccagcccaggcggc , reverse: gggtgccggtggtccaagtg ., human FOXD3, forward: gcgacgggctggaagag , reverse: gctgtccgtgatggggtgcc ., human PAX3, forward: ggaactggagcgtgcttttg , reverse: ggcggttgctaaaccagac ., human BRN2, forward: gaaagagcgagcgaggaga , reverse: caggctgtagtggttagacg ., mouse MITF, forward: agatttgagatgctcatcccc , reverse: gatgcgtgatgtcatactgga , mouse TYRP1, forward: ccctagcctatatctccctttt , reverse: taccatcgtggggataatggc ., mouse DCT, forward: gtcctccactcttttacagacg , reverse: attcggttgtgaccaatgggt , mouse Silver, forward: tgacggtggaccctgcccat , reverse: agctttgcgtggcccgtagc 
+Score: 17.101804996052 Sentence: We therefore assessed whether SOX10, which positively regulates MITF and whose transcription markedly increases in melanocytes and melanoma cells in which ATF2 expression is inhibited ( Figure 4a , S3b ), may mediate ATF2 effect on MITF transcription
+Score: 17.15175337281122 Sentence: Inhibition of FOXD3 expression increased SOX10 transcription and protein expression, albeit to lower levels compared with inhibition of ATF2 expression ( Figure S4 )
+Score: 17.184191752346017 Sentence: Quantitative analysis was performed as described previously [61] 
+Score: 17.324151877087687 Sentence: Interestingly, in most cases the nuclear staining revealed a punctate staining, resembling the localization of ATF2 to DNA repair foci following DNA damage ( Figure S9 )
+Score: 17.372291981953445 Sentence: Human melanoma (MeWo) cells were treated with 20mJ/cm2 of UVB, and proteins prepared after 1h were incubated with dI/dT (20 ?g/ml for 30 min at 4C) and then with a biotinylated annealed oligo (4 ?g, overnight at 4?C) containing the CRE site and flanking sequences from the MITF promoter
+Score: 17.483824616249112 Sentence: Melanoma cell lines were grown in DMEM medium supplemented with 10% FBS and penicillin/streptomycin (P/S; Cellgro)
+Score: 17.518929106799057 Sentence: MeWo cells were left untreated or treated with 20 mJ/cm2 of UV-B for 1 h
+Score: 17.56687528558917 Sentence: In a separate experiment the cells were stained with Annexin V-APC and 7-AAD (BD Pharmingen, San Diego, CA) according to manufacturer's protocol, to enable analysis of early apoptosis and cell death
+Score: 17.711501241908962 Sentence: Briefly, 5,000 cells were plated into each well of a 6-well plate, and cells were grown in mouse melanocyte media containing ICI and puromycin (1.5 ?g/ml) for 3 weeks until colonies became visible
+Score: 17.73865509417831 Sentence: Statistical analysis using Chi-square assay revealed that the differences between # of melanomas between the ATF2?/? and ATF2+/+ genotypes are significant (p?=?0.018)
+Score: 17.74127680331323 Sentence: To further assess whether ATF2 regulation of MITF is SOX10-dependent in melanocytes and melanoma cells, we coexpressed SOX10 in shATF2-expressing cells
+Score: 17.747457876193096 Sentence: Protein extract (40?60 ?g) preparation and western blot analysis were done as described previously [8] 
+Score: 18.004794620792964 Sentence: Of note, the level of S100 staining in the hair matrix was markedly reduced in the skin of Atf2 md mice
+Score: 18.13387600085584 Sentence: Cell lysates from indicated melanoma cells were subjected to Western blot analysis using JUNB antibody
+Score: 18.216602276581835 Sentence: Rather, CREB and ATF2 are found on SOX10 and MITF promoters, pointing to a switch in ATF2 heterodimeric partners to enable positive regulation of these genes
+Score: 18.26455916064494 Sentence: GFP was also used to monitor efficiency of infection, confirming >90% GFP expression by fluorescence microscopy
+Score: 18.303533080398548 Sentence: WT and mutant (CRE) forms of MITF-Luc constructs were used to assess the contribution of ATF2 to MITF transcription in MeWo cells
+Score: 18.305696428178962 Sentence: Similarly, MITF transcriptional activities were altered to a similar degree following inactivation of the CRE element ( Figure 4b , right panel), suggesting that ATF2 down-regulation of the MITF promoter is indirect
+Score: 18.335369542901088 Sentence: To activate transcription, ATF2 heterodimerizes with bZIP proteins, including C-JUN and CREB [17] , [18] , both of which are constitutively upregulated in melanomas [8] 
+Score: 18.531362383728894 Sentence: Microarray data are available under accession number GSE23860
+Score: 18.604762572163803 Sentence: Consistent with this observation, ChIP assay confirmed ATF2 and CREB, but not JunB, binding to the Sox10 promoter in these cells ( Figure S7e )
+Score: 18.68219884764835 Sentence: Of interest, assessing the localization of ATF2 in the melanoma cell lines studied here revealed that all express nuclear ATF2
+Score: 18.875724755655202 Sentence: In agreement, our earlier studies using both human and mouse melanoma lines demonstrate that inhibition of ATF2 effectively inhibits tumorigenesis and blocks metastasis [22] ? [26] 
+Score: 18.888726965350664 Sentence: Malignant melanoma is one of the most highly invasive and metastatic tumors [1] , and its incidence has been increasing at a higher rate than other cancers in recent years [2] 
+Score: 18.908928705982646 Sentence: Quantification of MITF staining revealed an approximate 2-fold increase in nuclear MITF expression in Atf2 md compared to WT mice ( Figure 2c )
+Score: 18.908928705982646 Sentence: Inhibition of ATF2 expression revealed that 4/12 exhibited increase in MITF expression, while 6/12 decreased MITF expression
+Score: 18.90892870598265 Sentence: Significantly, Mitf expression was inversely correlated to the presence of functional ATF2; samples obtained from ATF2 mutant skin exhibited a greater than 2-fold increase in MITF expression compared with those obtained from WT ATF2 mice ( Figure 2a )
+Score: 18.93823193187609 Sentence: QPCR analysis for MITF transcripts was performed (lower panel)
+Score: 19.094628507575973 Sentence: RNA was prepared from cultures and two biological and technical replicates were used for data analysis
+Score: 19.14881951107726 Sentence: RNA from untreated melanocytes served as a control (right lane), and Cyclophilin A served as an internal control
+Score: 19.25559699698654 Sentence: Endogenous level of JUNB in various melanoma cells
+Score: 19.28067456453482 Sentence: These findings are consistent with the fact that ATF2 heterodimerizes with CREB [9] and with a report that p38/MAPK14 (which phosphorylates ATF2) plays an important role in MITF transcription dependent on the CRE site [46] 
+Score: 19.485828579784066 Sentence: Remarkably, inhibition of MITF expression in melanocytes expressing both mutant BRAF and shATF2 rescued, at least partially, melanocytes' ability to form foci on soft agar (400 compared with 20 seen in shATF2 cells; Figure 6b, 6c, 6d )
+Score: 19.579019407099235 Sentence: Analysis was limited to melanocytes, since, as reported above, only one melanoma formed in the ATF2 mutant group
+Score: 19.76762429777891 Sentence: Here we demonstrate that high nuclear ATF2/MITF ratios are associated with poor prognosis in primary melanomas, but not with metastatic melanomas
+Score: 19.974336061943546 Sentence: To evaluate the cell cycle index of Melan-Ink4a-Arf1 cells stably overexpressing BRAFV600E:ERT1 alone or in combination with shRNA to the genes indicated in Results , cells were plated in media containing ICI and puromycin (1.5 ?g/ml) at 2?106 cells per 10 cm plate O/N
+Score: 19.9987992179055 Sentence: Further, KD of ATF2 expression abolished binding of both ATF2 and JunB to the AP1 site on the SOX10 promoter ( Figure 5c )
+Score: 20.228587421477535 Sentence: This delay was seen at the 4- but not the 14-day time point, suggesting that an ATF2 effect might be limited to a specific subpopulation or phase of melanocyte development
+Score: 20.308323350070904 Sentence: Data analysis was done as follows
+Score: 20.375932733098317 Sentence: Common to all genotypes, most tumors that were not identified as melanomas were fibrosarcomas and lymphomas, consistent with previous reports [38] 
+Score: 20.427331317138243 Sentence: The following primers corresponding to the MITF promoter, spanning the SOX10 binding site were used, forward: gcagtcggaagtggcag , reverse: caactcactgtcagatcaa
+Score: 20.454403253073146 Sentence: Slides were stained for automated, quantitative analysis (AQUA) for ATF2 and MITF as previously published [49] , [64] 
+Score: 20.585672925859992 Sentence: Colonies were counted in triplicate wells per experiment, and experiments were reproduced twice
+Score: 20.82910676148279 Sentence: Although transcriptional activity from a CRE mutant MITF promoter was lower compared to the WT promoter (30%), it was no longer responsive to inhibition of ATF2 expression in the MeWo cells ( Figure S8a )
+Score: 20.830241800390393 Sentence: In all, in about 50% of the melanoma cell lines ATF2 elicits negative regulation of MITF, similar to what was seen in human and mouse melanocytes
+Score: 20.984070393495838 Sentence: Importantly, inhibiting MITF expression in ATF2 KD melanocytes was sufficient to partially rescue melanocyte growth on soft agar
+Score: 21.00334100002753 Sentence: Knock-in mice expressing a form of ATF2 that cannot be phosphorylated by ATM are more susceptible to tumor development [20] 
+Score: 21.06463977661906 Sentence: Interestingly, both the over expression or the KD of MITF resulted in inhibition of melanocytes ability to grow on soft agar, substantiating the notion that a fine balance of MITF expression must be maintained in order to ensure its contribution to cellular proliferation and transformation
+Score: 21.097832640340737 Sentence: RNA prepared from whole skin of these mice (3 mice per group) was subjected qPCR analysis
+Score: 21.192028862746557 Sentence: Overall, our observations demonstrate that ATF2 plays an important role in fine-tuning those levels and support the rheostat model proposed for MITF's role in melanoma development and progression [48] 
+Score: 21.217099489619596 Sentence: Left panel , ATF2 was knocked down in 501- Mel cells (one 10 cm plate each, 50% confluent)
+Score: 21.327249219943496 Sentence: Magnifications shown are 20 and 40?
+Score: 21.350663853284434 Sentence: Cells were selected for 3 days with puromycin treatment (1.5 ?g/ml) and then transfected with either a WT MITF-luciferase reporter or one with a mutant BRN2 site (0.5 ?g) along with ?-gal (0.1 ?g) as an internal control
+Score: 21.364228915761664 Sentence: As the pigmentation genes identified in this array are known to be regulated by MITF [27] , we focused on regulation of MITF by ATF2
+Score: 21.367215373900102 Sentence: Shown are representative images for quantification depicted in panel B
+Score: 21.386638726781555 Sentence: Experiment similar to shown in panel D was performed in the melanocytes H3A cell line
+Score: 21.456642639570138 Sentence: To this end we first analyzed MITF promoter sequences for ATF2/CRE elements (Cyclic AMP response element), which can be targeted by ATF2, as well as sequences recognized by BRN2 and SOX10 using a luciferase reporter construct (MITF-Luc) [43] 
+Score: 21.654637143656434 Sentence: The transcription factor MITF has been shown to play a central role in melanocyte biology and in melanoma progression [27] , [28] 
+Score: 22.03691524540743 Sentence: Nuclear MITF as a single discriminator was not a significant predictor of survival (P?=?0.185), as was reported previously using immunohistochemistry [49] 
+Score: 22.561709185879682 Sentence: For instance, while CREB and SOX10 positively regulate MITF, BRN2 and FOXD3 have been shown to downregulate MITF expression [29] , [30] , [34] , [35] 
+Score: 22.574801052740952 Sentence: Upper panel , ATF2 was knocked down in melan-Ink4a-Arf1 mouse melanocytes and Western blotting was performed using the indicated antibodies
+Score: 22.57621917253911 Sentence: In addition, in several tissues analyzed, ATF2 expression levels were comparable between WT and Atf2 f/f mice (data not shown)
+Score: 22.60640378582155 Sentence: Lower panel , RNA was extracted from the above samples and qPCR was carried out using MITF primers
+Score: 22.63710267464983 Sentence: After 3 days, melanocyte growth medium containing 0.8 ?g/ml geneticin (Sigma-Aldrich) was added to eliminate contaminating fibroblasts (melanocytes are resistant to such treatment)
+Score: 22.783267312172903 Sentence: qPCR performed on RNA prepared from skin of 4-day-old ATF2 WT or Atf2 md mice (3 mice per sample; see Materials and Methods for details)
+Score: 22.90229551937444 Sentence: In contrast, inhibition of MITF expression did not significantly induce cell death (6.5%) but resulted in fewer cells in G2/M-phase and more cells in G1, compared with inhibition of ATF2 alone
+Score: 22.98823173225261 Sentence: Thus, complete abrogation of MITF expression attenuates melanocyte transformation, whereas low to moderate levels of MITF expression are sufficient to promote growth on soft agar
+Score: 23.026752676500866 Sentence: Collectively, out of 18 melanoma lines we found that 8 (44%) retained similar negative regulation of MITF by ATF2 as observed in the melanocytes
+Score: 23.142395652014137 Sentence: PCR conditions included one cycle at 95?C for 3 min; and 30 cycles of 94?C/30 sec, 55?C/30 sec and 72?C/1 min and one cycle at 72?C for 5 min
+Score: 23.355470074035324 Sentence: Notably, inhibition of both ATF2 and FOXD3 resulted in additive increase of SOX10 and MITF ( Figure S4 )
+Score: 23.44122702592216 Sentence: Analysis of ATF2 effect on SOX10 and MITF transcription in 12 melanoma cell lines
+Score: 23.496415391134633 Sentence: A qPCR was performed to quantify changes in the expression of the indicated genes
+Score: 23.786017714742982 Sentence: While supportive of our finding in the Nras::Ink4a mouse melanoma model, where expression of transcriptionally inactive ATF2 inhibits melanoma formation, these observations provide the foundation for a model in which ATF2 inhibition causes increased MITF levels and concomitant inhibition of melanocyte growth, possible induction of cell death and delayed development
+Score: 23.89351639595196 Sentence: Analysis of a MITF-Luc construct harboring a mutant SOX10 binding site revealed that ATF2 inhibition no longer elicited increased MITF transcription in human melanocytes or in melanoma cells ( Figure 4c )
+Score: 24.09498559804583 Sentence: However, initial analysis points to a more complex mechanism since (i) the degree of changes in expression of these genes was often greater than that seen for MITF and (ii) expression of some pigmentation genes was found to be independent of MITF in some melanoma and melanocyte cultures
+Score: 24.37831199982421 Sentence: Over-expression of JunB, but not Jun D, effectively inhibited Sox10 expression in both the melanoma and melanocytes cells ( Figure 5d, 5e )
+Score: 24.429373827663095 Sentence: For Sox10 promoter, the following primers spanning AP-1 binding site were used; forward: cccagtgctggcctaatagc , reverse: cacccttgatatccccaagtga 
+Score: 24.663481067097198 Sentence: In these cells, whereas TAM67 effectively attenuated Sox10 and MITF expression, JunB did not alter expression of these genes, suggesting that positive regulation of MITF and SOX10 by ATF2 depends on other members of the Jun family of transcription factors ( Figure S7d )
+Score: 24.737527197960567 Sentence: The experiment was carried out in MeWo melanoma cells as described in panel C
+Score: 24.812203355119667 Sentence: We examined potential ATF2 binding to this element by ChIP and found that endogenous ATF2, but not ATFa, binds to that AP1 sequence (?4797?4791) in both human melanocytes and melanoma cells ( Figure 5b )
+Score: 24.82430691302431 Sentence: In contrast, melanocytes infected with BRAF600E and with shATF2 formed on average about 20 colonies, indicative of loss of tumorigenicity ( Figure 6b, 6c, 6d ) and consistent with our initial observation that the number of melanoma tumors significantly decreases in the absence of transcriptionally functional ATF2 ( Tables 1 ? 2 )
+Score: 24.9373075185923 Sentence: ATF2 is also implicated in the DNA damage response through phosphorylation by ATM/ATR [19] 
+Score: 25.373565398217167 Sentence: Melanocytes were enriched, and immunostaining with appropriate markers confirmed that samples were free of keratinocytes and fibroblasts (data not shown; see Materials and Methods for details)
+Score: 25.547069302418183 Sentence: The effect of JunB on SOX10 expression was assessed in melanoma WM1361 cells expressing control or shATF2
+Score: 25.663640857672274 Sentence: Upper panel , ATF2 was knocked down in primary human melanocytes (one 10 cm plate each, 50% confluent) and cells were either untreated or kept under hypoxia (1%) for 16h
+Score: 25.69524359075287 Sentence: Right panel , RNA was extracted from cells maintained under the same conditions, and qPCR was performed using MITF primers
+Score: 26.189271789954713 Sentence: ChIP analysis shows ATF2 binding to the MITF CRE site in specific melanoma MeWo cells
+Score: 26.19398723615743 Sentence: Human melanocytes (2 million) were transfected with 2 ?g of reporter plasmid containing WT or SOX10 mutant MITF promoter and 0.3 ?g of pSV-?-Galactosidase using Amaxa reagent (NHEM-Neo nucleofector kit, Lonza) according to the manufacturer's protocol
+Score: 26.263345220957714 Sentence: Left panel , Lu1205 melanoma cells (one 10 cm plate each, 50% confluent) were transduced with either empty or shATF2 lentiviral vectors
+Score: 26.5157512976008 Sentence: Whereas specific inhibition of ATF2 causes both accumulation of cells in G2 and induction of cell death, specific alteration of MITF protein levels?particularly depletion?significantly affects cell proliferation and inhibit growth on soft agar by non-lethally slowing cell cycle progression at G2/M
+Score: 26.527701058082037 Sentence: These findings are in line with the proposed rheostat model in which medium levels of MITF are optimal for growth and melanoma development [48] and in agreement with our observations in a mouse melanoma model
+Score: 26.79097816997054 Sentence: 2 million melanocytes and melanoma cells in 10 cm plates were infected with 5 ml of viral supernatant along with 5 ml of medium in the presence of 8 ?g/ml polybrene
+Score: 26.81234819418757 Sentence: Results are shown for the primary cohort only, as no association was found between survival and ATF2/MITF ratios in the metastatic cases
+Score: 27.420644416541645 Sentence: qPCR was performed for MITF ( left panel ) and ATF2 ( middle panel ) transcripts using RNA from cells used in panels B/C
+Score: 27.474623740816504 Sentence: Importantly, ATF2-dependent negative regulation of Sox10 and consequently of MITF seen in melanocytes, but only in about 50% of the 18 melanoma cell lines studied here
+Score: 27.488270482261942 Sentence: Right panel , RNA was extracted from the above samples and qPCR was carried out using MITF primers; Cyclophilin A served as an internal control
+Score: 27.5376719388799 Sentence: In two out of the 12 melanoma lines ATF2 affected SOX10 but not MITF transcription ( Figure S5 )
+Score: 27.57700886099311 Sentence: Analysis was performed as in panel B using human melanocytes H3A ( left panel ) or 1361 melanoma cells ( right panel ) and the WT MITF promoter or a construct in which the SOX10 site was mutated
+Score: 27.80235684952731 Sentence: In order to determine whether JunB lost its ability to elicit negative regulation of SOX10 and MITF in melanoma cells where ATF2 no longer inhibited SOX10 or MITF expression, we transfected those cell lines with TAM67 and JunB alone and in combination
+Score: 28.007738698687696 Sentence: Pull-down assays using biotin-tagged MITF promoter sequences harboring the CRE identified ATF2 and CREB as CRE-bound proteins in MeWo melanoma cells ( Figure S8b )
+Score: 28.547986903373197 Sentence: Effect of ATF2 on SOX10 and MITF in human melanoma cell lines exhibiting positive regulation by ATF2
+Score: 28.556941648290376 Sentence: Inhibition of ATF2 expression reduced SOX10 and MITF RNA and protein levels ( Figure S7a?c )
+Score: 29.212324589916687 Sentence: These data suggest that FOXD3 may also contribute to negative regulation of MITF in melanocytes, independent of ATF2
+Score: 29.23958597079342 Sentence: Mean +/? SD are calculated based on triplicate analyses
+Score: 29.324604796332125 Sentence: Right Panel- Analysis was performed in WM1361 melanoma cells using a WT or CRE-mutated MITF promoter
+Score: 29.68444221622072 Sentence: Initially, we assessed changes in MITF expression in six human melanoma lines harboring oncogenic mutations in BRAF or NRAS , and in which ATF2 expression was effectively inhibited by corresponding shRNA (shATF2)
+Score: 29.70863941870018 Sentence: Each sample was assayed at least in triplicate and was reproduced at least three times
+Score: 29.783962789975092 Sentence: Melanocytes shown in Panels A?E were also stained with Annexin V (early apoptosis) and 7-AAD (apoptosis and necrosis)
+Score: 29.83236419615623 Sentence: These findings suggest that changes in ATF2 heterodimeric partner (from JunB to CREB) are likely to cause the switch from negative to positive regulation of SOX10, and in turn, MITF (see below)
+Score: 29.845353100575178 Sentence: Shown is RT-PCR analysis (20 cycles) of NRASQ61K transcript levels in melanocyte cultures treated with doxycycline (2mg/ml)
+Score: 30.289686519833737 Sentence: For melanoma studies we have used Tyr::Cre ER::Nras Q61K::Ink4a ?/? mice (developed at HMS by LC) following their cross with the Tyr::Cre ER::Atf2 md mice
+Score: 30.704109229000405 Sentence: In ATF2 heterozygotes ( Tyr::Cre ER::Atf2 ?/+::Nras Q61K::Ink4a ?/? ), 18/44 mice (41%) developed tumors within 8?16 weeks, and in the Tyr::Cre ER::Atf2 md::Nras Q61K::Ink4a ?/? group only 3 of 21 animals (15%) developed tumors within 24?36 weeks ( Figure 1d and Table 1 )
+Score: 30.91163273958243 Sentence: Chromatin immuno-precipitation were performed using antibodies to SOX10 or CREB (or rabbit IgG as control) in WM1361 melanoma cells expressing either control shRNA or ATF2 shRNA
+Score: 31.115240401324908 Sentence: Shown is representative analysis of 3 independent samples
+Score: 31.13320660373379 Sentence: MITF expression levels in ATF2 KD cells increased 7.5-fold compared with control BRAF-expressing melanocytes
+Score: 31.242475323321425 Sentence: The cells were lysed using lysis buffer containing 1% Triton-100 and incubated with 4 ?g of biotin-labeled MITF promoter spanning the CRE site oligo ( 5?-gaaaaaaaagcatgacgtcaagccaggggg-3? ) in the presence of poly-(dI-dC) (20 ?g/ml) for 2h at 4?c
+Score: 31.24936266311168 Sentence: Indicated cell lines were infected with shControl or shATF2, in the presence or absence of SOX10 overexpression, and proteins were prepared to determine changes in expression of SOX10
+Score: 31.79337838103702 Sentence: Melanoma cell lines indicated were infected with shATF2 and subjected to selection to enrich for ATF2 KD cells
+Score: 32.00243175011846 Sentence: The oligo-bound proteins were captured using streptavidin-agarose (Invitrogen) for 1 h incubation, followed by extensive washes with washing buffer (20 mm HEPES, 150 mm NaCl, 20% glycerol, 0.5 mm EDTA, and 1% Triton-100) and analyzed using SDS-PAGE and western blots
+Score: 32.07261497510796 Sentence: Clone TRCN0000013714 was more efficient in inhibiting ATF2 in human cell lines while clone TRCN0000013713 was more efficient for knocking down mouse ATF2
+Score: 32.56546553843913 Sentence: By ANOVA analysis, the ratio was higher in metastatic than in primary specimens ( t value?=?2.823, P?=?0.0051), as shown in Figure 7a 
+Score: 32.625039038509236 Sentence: Upon administration of OHT, we predicted that CRE-mediated recombination would be induced in a spatially and temporally controlled manner in embryonic melanoblasts, melanocytes, and in putative melanocyte stem cells [37] 
+Score: 32.65446941335055 Sentence: Immortalized human melanocytes Hermes 3A which has hTERT (puro) and CDK4 (neo) expression [57] were grown in RPMI 1640 medium containing Fetal Bovine Serum (FBS, 10%), 12-O-tetradecanoyl-phorbol-13-acetate (TPA, 200 nM, Sigma, St
+Score: 32.78824662758173 Sentence: In all cases, ATF2 was inactivated and NRAS was induced in culture within 48h of plating cells, as monitored by western blots ( Figure 1b, 1c and data not shown)
+Score: 32.82374095011202 Sentence: Activating transcription factor 2 (ATF2), a member of the bZIP family, is activated by stress kinases including JNK and p38 and is implicated in transcriptional regulation of immediate early genes regulating stress and DNA damage responses [13] ? [15] and expression of cell cycle control proteins [16] 
+Score: 33.01478659886031 Sentence: The data were normalized to ?-galactosidase and represent the mean and SD of assays performed in triplicate
+Score: 33.05022111449991 Sentence: Right panel , RNA was extracted from cells and used for qPCR analysis of MITF transcripts
+Score: 33.21275043923627 Sentence: ATF2 was knocked down in human melanocytes (Hermes 3A) and qPCR was carried out using primers for the indicated mRNAs
+Score: 33.97486509392753 Sentence: The cells were then washed (0.2% Triton X-100 and 0.2% BSA in 1?PBS) and incubated overnight at 4?C with monoclonal anti-rabbit antibody against ATF2 (20F1, 1?100), followed by five washes and then subsequent incubation at room temperature for 2 h with anti-rabbit IgG (Invitrogen, 1?300) and Phalloidin (Molecular Probes, 1?1000)
+Score: 34.19352635165465 Sentence: Consequently, corresponding transcription factor targets such as microphthalmia-associated transcription factor (MITF) [6] , AP2 [7] , and C-JUN [8] and its heterodimeric partner ATF2 [9] are activated and induce changes in cellular growth, motility and resistance to external stress [10] , [11] 
+Score: 34.46417421368213 Sentence: Increased SOX10 mRNA expression in melanoma cells
+Score: 34.61068567935568 Sentence: Interestingly, such altered cell cycle distribution and cell death rate were associated with a significant increase in MITF protein levels ( Figure 6d )
+Score: 34.84959123429595 Sentence: In agreement, inhibition of SOX10 expression by corresponding siRNA attenuated the increase in MITF transcription seen in shATF2-expressing human melanocytes ( Figure 4d ) or melanoma cells ( Figure 4e )
+Score: 34.930879081824436 Sentence: To normalize ATF2 and MITF levels, expression of each of the two proteins in individual patients was divided by the median expression level of the respective protein in all patients, and the nuclear ATF2/MITF ratio was calculated and log-transformed
+Score: 35.397654319688144 Sentence: Infection of the human melanocyte line Hermes 3A with shATF2 effectively inhibited ATF2 expression, upregulated Mitf transcription and increased transcription of SOX10 and FOXD3 (from 7- to 10-fold) and to a lesser extent of Pax3 and Brn2 (from 1.5- to 2-fold) ( Figure 4a , S3a )
+Score: 35.46065289680967 Sentence: Over-expression of MITF in BRAF-expressing melanocytes also inhibited focus formation, to a degree similar to that seen following inhibition of MITF expression ( Figure 6b, 6c, 6d )
+Score: 35.778812564915974 Sentence: Along these lines, the two melanoma lines (MeWo and 501 Mel) that exhibit positive regulation of MITF by ATF2 also exhibited positive regulation of SOX10 by ATF2 ( Figure S7 )
+Score: 35.819514901696024 Sentence: While ectopic expression of JunB reduced the expression of Sox10 in control shRNA-expressing cells, such decrease was no longer seen in cells expressing shATF2 ( Figure 5f )
+Score: 35.93422624693289 Sentence: Additional analyses were performed, employing 12 more melanoma cell lines
+Score: 36.225594913602954 Sentence: This experiment was performed in triplicate and reproduced 2 times
+Score: 36.24838531211637 Sentence: To assess the role of JunB on SOX10 transcription we have monitored changes in Sox10 expression at the protein and RNA levels
+Score: 36.550759076241235 Sentence: Lower panel , RNA was extracted from the corresponding cell lines, and qPCR was carried out using MITF primers
+Score: 36.65454510743541 Sentence: Higher MITF expression levels, as seen in ATF2 KD cells, result in a total loss of melanocytes' ability to form foci on soft agar
+Score: 36.66838693213045 Sentence: In all, these data confirm our initial observations in primary mouse melanocytes that MITF levels are elevated in ATF2 mutant-expressing cells
+Score: 36.73964485750435 Sentence: Control shRNA and ATF2 knocked down WM1361 cells (one 10 cm plate for each, 80% confluent) were fixed in 37% formaldehyde and sheared chromatin was immunoprecipitated and subjected to PCR for 32 cycles
+Score: 37.635776800791064 Sentence: That MITF inhibition in melanocytes expressing ATF2 WT can attenuate their ability to form foci on soft agar is attributable to the relative expression of MITF RNA and protein in each condition ( Figure 6d )
+Score: 37.69566753509892 Sentence: Inhibition of ATF2 abolished soft agar growth of BRAF600E-expressing melanocytes, which was partially rescued upon KD of MITF
+Score: 37.7603371154399 Sentence: Our analysis of genes whose expression is altered by ATF2 KD in melanocytes identified a cluster of pigmentation genes, many reportedly regulated by MITF [6] , [54] 
+Score: 38.504134539202504 Sentence: Given that ATF2 negatively regulates MITF in melanocytes of mouse and human tissues and in related melanocyte cell lines, we asked whether ATF2 also regulates MITF in human melanoma cells
+Score: 38.69275662751854 Sentence: The latter is suggested by IHC analysis of mouse skin from ATF2 md mice, which shows notably reduced S100 staining indicative of delayed melanocyte development: ATF2 KO melanocytes appear to represent anagen stage IV, whereas WT represent anagen stage VI
+Score: 38.85850935663388 Sentence: The degree of altered expression of pigmentation genes was less pronounced in whole skin samples than in cultured melanocytes ( Table 3 ), probably due to confounding effects of in vitro cell culture
+Score: 39.64541974501217 Sentence: Since inhibition of FOXD3 elicited a less pronounced effect compared with ATF2, and since the effect appeared ATF2-independent and furthermore did not appear to mediate similar changes in human melanoma cells ( Figure S3b and data not shown), we focused on assessment of direct mechanisms underlying ATF2 effect on MITF transcription
+Score: 41.0427167249663 Sentence: Inhibition of MITF expression in ATF2 KD melanocytes reduced MITF expression 2.5-fold relative to controls, whereas MITF KD alone resulted in lower MITF expression (5-fold; Figure 6d )
+Score: 41.373719523890465 Sentence: ND: not determined
+Score: 44.272347451378806 Sentence: Notably, the melanocytes and 2/4 melanoma cell lines revealed ATF2 effect on MITF expression is SOX10-dependent (WM1361, WM793; Figure S6 )
+Score: 44.55558406654976 Sentence: Corresponding changes in level of MITF transcripts were assessed by qPCR (Lower panel)
+Score: 45.12471240160392 Sentence: This analysis identified 55?63% of tumors as melanomas in both the Atf2 +/+ (7/11) and Atf2 +/? (10/18) groups ( Table 2 )
+Score: 45.93054371515731 Sentence: Factors controlling MITF transcription have been well documented and include transcriptional activators, such as SOX10, CREB, PAX3, lymphoid enhancer-binding factor 1 (LEF1, also known as TCF), onecut domain 2 (ONECUT-2) and MITF itself [29] ? [33] , as well as factors that repress MITF transcription, including BRN2 and FOXD3 [34] , [35] 
+Score: 46.0655199327597 Sentence: Co-expression of TAM67 with Jun B attenuated this increase, reducing the level of Sox10 expression to basal levels ( Figure 5d, 5e )
+Score: 46.36312416452813 Sentence: The right panel shows the level of MITF transcripts quantified by qPCR
+Score: 46.741512487101424 Sentence: In all cases cells were infected with shATF2 and changes in SOX10 and MITF were monitored at the level of RNA
+Score: 47.94148176609903 Sentence: ATF2 expression was inhibited in WM1361 cells and total mRNA was extracted
+Score: 48.140854934037435 Sentence: Surprisingly, the six melanoma lines fell into two classes based on distinct patterns of regulation of MITF by ATF2 ( Table 4 )
+Score: 48.817963263402156 Sentence: The effect of SOX10 expression on MITF (B) and on SOX10 (C) transcripts in MeWO (left graph) cells expressing control or shATF2 was determined using qPCR
+Score: 49.967275282241005 Sentence: RNA was prepared 4 days later and QPCR analysis was performed for ATF2 (upper panel), MITF (middle panel) and SOX10 (lower panel) transcripts
+Score: 50.77481910811702 Sentence: Expression of JunB or JunD (3 ?g) alone or in combination with TAM67 (2 ?g) was performed in WM1361 melanoma cells and expression of SOX10 protein was monitored in westerns and quantified using the LICOR imaging system
+Score: 51.503547145916 Sentence: We also tested 3 different clones for KD of ATF2 to rule out any off target effect (Data not shown)
+Score: 53.06167193600657 Sentence: As shown in Table 3 , among transcripts differentially expressed in ATF2 WT and mutant cultures were several factors that play an important role in melanocyte pigmentation, including Mitf, Silver, Tyrp1 and Dct 
+Score: 55.76648550625457 Sentence: Cells were infected with shRNA control or shATF2 and RNA prepared was used for qPCR analysis of Pax3 and Brn2 expression, relative t o cyclophilin used as control
+Score: 57.88933193329614 Sentence: 50 nM duplexes of scrambled and SOX10- or FOXD3- specific siRNA were transfected into human melanocytes and WM1361 melanoma cells (2 million cells per transfection) by Nucleofection using Amaxa reagents (NHEM-Neo Nucleofector and Solution R respectively) for SOX10 or FOXD3 knock down
+Score: 58.65830824558039 Sentence: After puromycin selection for 3 days, control shRNA cells and ATF2 knock down cells (2?106) were transfected with either scrambled siRNA (SiSC) or siRNA against SOX10
+Score: 60.594752621120556 Sentence: qPCR analysis, performed on independently prepared RNA samples from melanocytes expressing WT ( Tyr::Cre +::Atf2 +/+::Nras Q61K::Ink4a ?/? ) or mutant ATF2 ( Tyr::Cre +::Atf2 md::Nras Q61K::Ink4a ?/? ), confirmed altered expression of pigmentation genes ( Table 3 )
+Score: 60.90683468689662 Sentence: The first class comprised four of the six melanoma cultures (1205Lu, WM35, WM793 and WM1361), in which MITF expression was elevated 3?6-fold following inhibition of ATF2 expression ( Figure 3c , S2a )
+Score: 61.032184609052294 Sentence: MITF was not affected by altered ATF2 expression in 2/18 cell lines ( Table 4 , Figure S5 )
+Score: 61.57156256366977 Sentence: Data shown represent triplicate analyses
+Score: 62.4246555764411 Sentence: Analysis of MITF and SOX10 transcript levels was carried out in the indicated cell lines using qPCR on RNA prepared from the cells that were infected with indicated vectors (C, C+SOX10, shATF2, shATF2+SOX10)
+Score: 62.80418766558985 Sentence: To confirm the qPCR data, we performed immunostaining of skin tissue samples obtained from 4 days old WT or ATF2 mutant mice and observed increased MITF expression in melanocytes from Atf2 md mice relative to their WT counterparts ( Figure 2b )
+Score: 64.02905483159422 Sentence: Overall, our cohort of 18 melanoma lines revealed that about 50% of the melanomas retained negative regulation of MITF by ATF2, as seen in the melanocytes (primary and cell lines) ( Table 4 )
+Score: 64.2415842702416 Sentence: The relative increase in luciferase activity following ATF2 inhibition was equivalent in both constructs, suggesting that an ATF2 effect is not mediated by BRN2 ( Figure 4b , left panel)
+Score: 67.11446607488789 Sentence: Further, in response to stress (UV or hypoxia) the MeWo and 501Mel lines further reduced MITF expression ( Figure 3d and data not shown), providing further evidence for differential regulation of MITF in these cells both prior to and in response to stress stimuli
+Score: 68.78121321127193 Sentence: Notably, melanoma cell lines that exhibit positive regulation of SOX10 and MITF by ATF2, also show high basal levels of MITF expression [41] , [42] , suggesting that additional genetic or epigenetic changes distinguish these lines from melanocytes and the other melanoma lines in which ATF2 elicits negative regulation of MITF
+Score: 68.92654008741681 Sentence: Data shown represent analysis of triplicate samples
+Score: 69.36605978582408 Sentence: The groups of 2 biological and 2 technical replicates were described to the BeadStudio 3.0 software and significantly differentially expressed genes were determined on the basis of the difference changes in expression level (Illumina DiffScor>60 or DiffScore<?60) and expression difference p-value<0.01
+Score: 69.41126809841725 Sentence: Two of the four melanoma cell lines did not reveal increased SOX10 expression, although they retained increased MITF expression, upon inhibition of ATF2 (Lu1205, WM35; Figure S6 )
+Score: 69.97367385296377 Sentence: In contrast, 6/12 melanoma lines revealed decrease in MITF expression, of which 5 also shown decrease in SOX10 expression, pointing to positive regulation of SOX10 and MITF in these melanoma cells
+Score: 71.63541336410945 Sentence: Melanoma cell lines MeWo and 501Mel were infected with shControl or shATF2 and level of SOX10 protein was assessed
+Score: 71.68369758376946 Sentence: Concomitant increase of MITF RNA and protein levels was also lower, compared with that seen upon inhibition of ATF2 expression
+Score: 73.0298407256453 Sentence: Conversely, a second class of cells, including MeWo and 501Mel cells, exhibited decreased MITF expression after ATF2 knockdown (KD), suggesting positive regulation of MITF by ATF2 ( Figure 3d , S2b )
+Score: 75.42772616560075 Sentence: Notably, MeWo and 501Mel lines are known to express high MITF levels compared to other melanoma lines [41] , [42] , suggesting these cells harbor distinct mechanisms that preclude negative regulation of MITF by ATF2
+Score: 75.80131379039257 Sentence: ATF2 was knocked down in WM793 cells ( left panel ), in WM35 cells ( middle panel ) and in WM1361 cells ( right panel ) (one 10 cm plate each, 50% confluent)
+Score: 75.94369218013726 Sentence: ?-gal activity was normalized for every sample and the relative fold change in reporter activity for control and shATF2 cells is shown
+Score: 86.9170470803021 Sentence: Data shown represents 2 biological and 2 technical replicates for the array studies and 3 replicates for the qPCR analyses (see Materials and Methods for details)
+Score: 91.59602417680209 Sentence: Using either a wild-type (WT) construct or one in which the BRN2 site was mutated, we observed increased luciferase activity following inhibition of ATF2 transcription in WM1361 melanoma ( Figure 4b ), as well as in LU1205 and WM35 melanoma cells (data not shown)
+Score: 96.36618990080126 Sentence: Notably, about 4/12 melanoma lines revealed increase in both SOX10 and MITF expression upon KD of ATF2 ( Figure S5 , Table 4 )
+Score: 105.29500742277222 Sentence: Two of the 12 lines did not exhibit change in MITF expression following ATF2 KD ( Table 4 , S5)
+Score: 105.77912352597048 Sentence: MeWo, WM35, WM1361, Lu1205 cells in six-well plates were transiently transfected with 0.5 ?g of reporter plasmid containing WT or CRE mutant, BRN2 mutant or SOX10 mutant MITF promoter and 0.1 ?g of pSV-?-Galactosidase (Promega, San Luis Obispo, CA) using Lipofectamine 2000 reagent (Invitrogen)
+Score: 126.77329411403882 Sentence: As seen in earlier analysis, inhibition of ATF2 expression caused increase in MITF transcription in the human melanocytes and 4 melanoma cell lines, (WM1361, WM793, LU1205, WM35; Figure S6 )
+Score: 158.92819822197637 Sentence: Melanoma cell lines used in this study LU1205, WM793, 501MEL, WM35, WM1361, MeWO (kind gift from Meenhard Herlyn), UACC903 were maintained in DMEM medium supplemented with 10% FBS and Penicillin/Streptomycin
+Score: 198.93428155766912 Sentence: **Relative changes in SOX10 upon ATF2 knock down (KD) are also quantified by qPCR analysis
+Score: 220.00371317008367 Sentence: *Relative changes in MITF upon ATF2 KD are shown as fold change at RNA level, determined by qPCR
+Score: 273.7217362202446 Sentence: Melanoma cell lines SbCl2, WM9, WM4, WM1650, A2068, WM1366, WM3629, WM1552, SKMEL2, SKMEL5, and SKMEL8 were maintained in RPMI medium supplemented with 10% FBS and Penicillin/Streptomycin
