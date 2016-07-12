@@ -58,15 +58,42 @@ public class WordComparer extends TfidfTestingMaximization {
 		maxfn = 0;
 		maxfp = 0;
 		// setting up the excel sheet headers
-		
+		ArrayList<Double> thresholdaveragesp = new ArrayList<Double>();
+		ArrayList<Double> thresholdaveragesr = new ArrayList<Double>();
 		XSSFWorkbook workbook = new XSSFWorkbook();
+		workbook.createSheet();
 		workbook.createSheet();
 		workbook.createSheet();
 		XSSFSheet sheet2 = workbook.getSheetAt(1);
 		XSSFSheet sheet = workbook.getSheetAt(0);
+		XSSFSheet sheet3 = workbook.getSheetAt(2);
 		sheet.createRow(0);
-       
-        
+       sheet3.createRow(0);
+       sheet3.createRow(2);
+       sheet3.createRow(1);
+       XSSFCell cells31 = sheet3.getRow(0).createCell(1);
+       XSSFCell cells32 = sheet3.getRow(0).createCell(2);
+       XSSFCell cells33 = sheet3.getRow(0).createCell(3);
+       XSSFCell cells34 = sheet3.getRow(0).createCell(4);
+       XSSFCell cells35 = sheet3.getRow(0).createCell(5);
+       XSSFCell cells36 = sheet3.getRow(0).createCell(6);
+       XSSFCell cells37 = sheet3.getRow(0).createCell(7);
+       XSSFCell cells38 = sheet3.getRow(0).createCell(8);
+       XSSFCell cells39 = sheet3.getRow(0).createCell(9);
+       XSSFCell cells310 = sheet3.getRow(0).createCell(10);
+       XSSFCell cells30 = sheet3.getRow(0).createCell(0);
+      
+     cells31.setCellValue(1);
+       cells32.setCellValue(2);
+        cells33.setCellValue(3);
+        cells34.setCellValue(4);
+        cells35.setCellValue(5);
+        cells36.setCellValue(6);
+        cells37.setCellValue(7);
+        cells38.setCellValue(8);
+        cells39.setCellValue(9);
+        cells310.setCellValue(10);
+        cells30.setCellValue(0);
 		
 		XSSFCell cell = sheet.getRow(0).createCell(0);
 		cell.setCellValue("PMC Table");
@@ -166,6 +193,8 @@ public class WordComparer extends TfidfTestingMaximization {
 						tablefound = true;
 					}
 				}
+				//tablefound = true;
+				//rasTable=1;
 				if (!tablefound) {
 					PMCCell.setCellValue("Error: Table not found");
 					continue;
@@ -206,10 +235,19 @@ public class WordComparer extends TfidfTestingMaximization {
 				int maxmacgu = 0;
 				int macgu = 0;
 				int maxcellnum=1;
+				
 				// threshold ranges from 0 to 1 1 is100% .7 = 70% of max etc
 				double[] maxpair = { tstart, 0 };
+				int nice= (int) ((tend/increment)+1);
+				for(int o=0;o<=nice;o++){
+					thresholdaveragesr.add(0.0);	
+					thresholdaveragesp.add(0.0);
+					
+				}
+				int j=0;
 				//for loop goes through every increment of threshold for a specific tfidf annotated table
 				for (double i = tstart; i <= tend; i += increment) {
+					
 					fp = 0;
 					fn = 0;
 					trupos = 0;
@@ -247,7 +285,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 					// find true positives
 					// the double of the threshold, threshold1 is as the percentage of the maximum score
-					threshstart = threshold1 * entries.get(entries.size() - 1).getValue();
+					threshstart = threshold1 * entries.get(entries.size() - 2).getValue();
 					// System.out.println(threshstart);
 					//find where the threshold begins
 					for (int i1 = 0; i1 < entries.size(); i1++) {
@@ -283,6 +321,8 @@ public class WordComparer extends TfidfTestingMaximization {
 							fn++;
 						}
 					}
+					j++;
+					System.out.println(j);
 					//finds broken encoding sentences and removes them from false negative calculation
 					if (threshin == 0) {
 						noise = fn;
@@ -298,8 +338,15 @@ public class WordComparer extends TfidfTestingMaximization {
 					 * System.out.println(sentences.size() - trupos - noise);
 					 */
 					//calculates precision and recall using factors
+					
 					precision = (double) trupos / (double) (trupos + fp);
 					recall = ((double) trupos) / (double) (trupos + fn);
+					double pop= thresholdaveragesp.get( j);
+					thresholdaveragesp.set(j, pop+precision);
+					thresholdaveragesr.set(j,thresholdaveragesr.get( j)+recall);
+					
+					System.out.println("Precision at threshold " + (thresholdaveragesp.get( j)) + " :" + precision );
+					
 					macgu = entries.size() - threshin;
 					//finds precision/recall/threshold/f1/tp/fp/fn for the maximum f1 score
 					if (f1(precision, recall) > maxpair[1]) {
@@ -336,7 +383,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				 * fos.close(); } catch (IOException e) { e.printStackTrace(); }
 				 */
 
-
+                // output data into excel and console
 				System.out.println("Max cell number: " + maxcellnum);
 				System.out.println("Precision:" + maxprecision);
 				System.out.println("Recall:" + maxrecall);
@@ -376,7 +423,13 @@ public class WordComparer extends TfidfTestingMaximization {
 				}
 				
 				// System.out.print(trupos);
-
+             
+				for(int hi =0;hi<thresholdaveragesp.size();hi++){
+					XSSFCell kk = sheet3.getRow(1).createCell(hi);
+					XSSFCell cool = sheet3.getRow(2).createCell(hi);
+					kk.setCellValue(thresholdaveragesp.get(hi)/goldstandard.length);
+				    cool.setCellValue(thresholdaveragesr.get(hi)/goldstandard.length);
+				}
 			} catch (IOException e) {
 
 				// TODO Auto-generated catch block
@@ -385,7 +438,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 		}
 
-		File precisionFile = new File("precisionResults2.xlsx");
+		File precisionFile = new File("precisionResults3.xlsx");
 
 		try {
 			FileOutputStream fos = new FileOutputStream(precisionFile);
