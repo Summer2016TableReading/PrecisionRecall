@@ -207,7 +207,19 @@ static boolean unform;
 				sum += a.get(s)*b.get(s);
 			}
 		}
+		if(calcMag(a) > 0 && calcMag(b) > 0)
+		sum = sum/(calcMag(a)*calcMag(b));
 		return sum;
+	}
+	
+	private static double calcMag(HashMap<String, Double> a){
+		double sum = 0;
+		Iterator<String> iter = a.keySet().iterator();
+		while(iter.hasNext()){
+			String s = iter.next();
+			sum += a.get(s)*a.get(s);
+		}
+		return Math.sqrt(sum);
 	}
 	
 	private static HashMap<String, Double> calculateVec(String s, HashMap<String, Double> inverseDocFreq) {
