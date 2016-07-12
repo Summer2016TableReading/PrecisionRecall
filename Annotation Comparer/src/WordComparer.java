@@ -25,10 +25,11 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class WordComparer extends TfidfTestingMaximization  {
+public class WordComparer extends TfidfTestingMaximization {
 	static double threshstart, precision, recall;
 	static XSSFCell cell8;
 	static XSSFCell cell70;
+    
 	public WordComparer(double precision, double recall) {
 		super(precision, recall);
 
@@ -51,6 +52,7 @@ public class WordComparer extends TfidfTestingMaximization  {
 		maxtrupos = 0;
 		maxfn = 0;
 		maxfp = 0;
+		
 		XSSFWorkbook workbook = new XSSFWorkbook();
 		workbook.createSheet();
 		XSSFSheet sheet = workbook.getSheetAt(0);
@@ -71,11 +73,14 @@ public class WordComparer extends TfidfTestingMaximization  {
 		cell6.setCellValue("Threshold");
 		XSSFCell cell7 = sheet.getRow(0).createCell(7);
 		cell7.setCellValue("F1 Score");
-		 cell8 = sheet.getRow(0).createCell(8);
+		cell8 = sheet.getRow(0).createCell(8);
+		
 		cell8.setCellValue("Formatting info");
+		XSSFCell cell9 = sheet.getRow(0).createCell(9);
+		cell9.setCellValue("TP + FP");
 		// upload directories
 		File pdirectory = new File("formattedPapers");
-		File tdirectory = new File("files");
+		File tdirectory = new File("allRasTables");
 		File gdirectory = new File("goldStandard");
 		File[] papers = pdirectory.listFiles();
 		File[] tables = tdirectory.listFiles();
@@ -88,18 +93,17 @@ public class WordComparer extends TfidfTestingMaximization  {
 
 			WordComparer t = new WordComparer(0, 0);
 			File wordDoc = new File(goldstandard[p].toString());
-			String pmcnum= goldstandard[p].toString();
-		    pmcnum=pmcnum.substring(16, 23);
-		    System.out.println(pmcnum);
-		    System.out.println(papers.length);
-		    System.out.println(tables.length);
-		    String[] papers2=new String[papers.length];
-		    for(int i=0; i<papers.length; i++){
-		    	papers2[i]=papers[i].getName();
-		    }
-		    
-		   
-		    System.out.println(Arrays.toString(papers2));
+			String pmcnum = goldstandard[p].toString();
+			pmcnum = pmcnum.substring(16, 23);
+			System.out.println(pmcnum);
+			System.out.println(papers.length);
+			System.out.println(tables.length);
+			String[] papers2 = new String[papers.length];
+			for (int i = 0; i < papers.length; i++) {
+				papers2[i] = papers[i].getName();
+			}
+
+			System.out.println(Arrays.toString(papers2));
 			try {
 
 				Document doc = Jsoup.parse(wordDoc, null);
@@ -111,16 +115,27 @@ public class WordComparer extends TfidfTestingMaximization  {
 						sentences.add(s);
 					}
 				}
-                String wow = "PMC"+pmcnum;
-                String wow2=wow+ ".html";
-                String wow3=wow2;
-                System.out.println(wow);
-                System.out.println(wow2);
-                System.out.println(wow3);
-                int rasTable=Arrays.asList(papers2).indexOf(wow3);
-                System.out.println(rasTable);
-				HashMap<String, Double> weights = TfIdfAnalysis.annotatePaper(wow,wow2,
-						tables[rasTable].getName());
+				
+				String wow = "PMC" + pmcnum;
+				String wow2 = wow + ".html";
+				String wow3 = wow2;
+				System.out.println(wow);
+				System.out.println(wow2);
+				System.out.println(wow3);
+				int rasTable = 0;
+				for (int l = 0; l < goldstandard.length; l++) {
+					String icecream = tables[l].getName();
+					String candycane = goldstandard[p].getName();
+					if (icecream.contains(wow)
+							&& (icecream.charAt(icecream.length() - 6) == candycane.charAt(candycane.length() - 5)
+									|| icecream.substring(icecream.length() - 7, icecream.length() - 5).equals(
+											candycane.substring(candycane.length() - 6, candycane.length() - 4)))) {
+
+						rasTable = l;
+					}
+				}
+				System.out.println(rasTable);
+				HashMap<String, Double> weights = TfIdfAnalysis.annotatePaper(wow, wow2, tables[rasTable].getName());
 				for (String s : sentences) {
 					double weight = findMatch(weights, s);
 					// System.out.println(weight + " " + s);
@@ -131,12 +146,13 @@ public class WordComparer extends TfidfTestingMaximization  {
 				double maxVal = 0;
 				double tstart = 0;
 				double tend = 1.0;
-				double increment = 0.001;
+				double increment = 0.1;
 				double maxprecision = 0;
 				double maxrecall = 0;
-				int trupos, macgu, sen, threshin, fp, fn = 0;
+				int trupos, sen, threshin, fp, fn = 0;
 				int noise = 0;
-
+                int maxmacgu=0;
+                int macgu=0;
 				// threshold ranges from 0 to 1 1 is100% .7 = 70% of max etc
 				double[] maxpair = { tstart, 0 };
 				for (double i = tstart; i <= tend; i += increment) {
@@ -192,6 +208,7 @@ public class WordComparer extends TfidfTestingMaximization  {
 						String s = findMatch(entries.get(i1).getKey(), sentences);
 						if (s != null) {
 							trupos++;
+							
 							// System.out.println("HELLO" +
 							// entries.get(i1).getKey());
 							caughtSentences.put(s, true);
@@ -199,9 +216,9 @@ public class WordComparer extends TfidfTestingMaximization  {
 							fp++;
 
 						}
-
+                    
 					}
-					//System.out.println(trupos);
+					// System.out.println(trupos);
 					for (Entry<String, Boolean> e : caughtSentences.entrySet()) {
 						if (!e.getValue()) {
 							fn++;
@@ -213,15 +230,16 @@ public class WordComparer extends TfidfTestingMaximization  {
 					}
 					fn -= noise;
 
-					/*macgu = entries.size() - threshin;
-					System.out.println("Macgu: " + macgu);
-					System.out.println("True Positives: " + trupos);
-					System.out.println("False Positives: " + fp);
-					System.out.println(sentences.size() - trupos - noise);*/
+					/*
+					 * macgu = entries.size() - threshin;
+					 * System.out.println("Macgu: " + macgu);
+					 * System.out.println("True Positives: " + trupos);
+					 * System.out.println("False Positives: " + fp);
+					 * System.out.println(sentences.size() - trupos - noise);
+					 */
 					precision = (double) trupos / (double) (trupos + fp);
-					recall = ((double) trupos)
-							/ (double) ( trupos+fn );
-
+					recall = ((double) trupos) / (double) (trupos + fn);
+                    macgu=entries.size()-threshin;
 					if (f1(precision, recall) > maxpair[1]) {
 						maxpair[0] = i;
 						maxpair[1] = f1(precision, recall);
@@ -230,15 +248,16 @@ public class WordComparer extends TfidfTestingMaximization  {
 						maxtrupos = trupos;
 						maxfn = fn;
 						maxfp = fp;
-						/*System.out.println("Sentences missed by TFIDF:");
-						for (Entry<String, Boolean> e : caughtSentences.entrySet()) {
-							if (!e.getValue()) {
-
-								System.out.println(e.getKey());
-							}
-						}*/
+						maxmacgu =macgu;
+						/*
+						 * System.out.println("Sentences missed by TFIDF:"); for
+						 * (Entry<String, Boolean> e :
+						 * caughtSentences.entrySet()) { if (!e.getValue()) {
+						 * 
+						 * System.out.println(e.getKey()); } }
+						 */
 					}
-					
+
 				}
 				// output into txt file
 				/*
@@ -248,7 +267,7 @@ public class WordComparer extends TfidfTestingMaximization  {
 				 * pw = new PrintWriter(fos); pw.write("hi"); pw.close();
 				 * fos.close(); } catch (IOException e) { e.printStackTrace(); }
 				 */
-				
+
 				System.out.println(maxfn);
 				System.out.println(maxtrupos);
 				System.out.println("Precision:" + maxprecision);
@@ -270,12 +289,13 @@ public class WordComparer extends TfidfTestingMaximization  {
 				cell50.setCellValue(maxpair[0]);
 				XSSFCell cell60 = row.createCell(7);
 				cell60.setCellValue(maxpair[1]);
-				 if(unform==true){
-					 cell70 = row.createCell(8);
-					 cell70.setCellValue("unusual formatting"); 
-				 }
-				 
-				
+				XSSFCell cell600 = row.createCell(9);
+				cell600.setCellValue(maxmacgu);
+				if (unform == true) {
+					cell70 = row.createCell(8);
+					cell70.setCellValue("unusual formatting");
+				}
+
 				/*
 				 * for(int i =0;i<entries.size();i++){
 				 * 

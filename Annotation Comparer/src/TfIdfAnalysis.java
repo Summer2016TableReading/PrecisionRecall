@@ -23,7 +23,7 @@ static boolean unform;
 
 	public static void main(String[] args) {
 		File pdirectory = new File("formattedPapers");
-		File tdirectory = new File("rasTables");
+		File tdirectory = new File("allRasTables");
 		File[] papers = pdirectory.listFiles();
 		File[] tables = tdirectory.listFiles();
 		for(File p: papers){
@@ -43,7 +43,7 @@ static boolean unform;
 		ArrayList<HashMap<String, Double>> tfidfVecs = new ArrayList<HashMap<String, Double>>();
 		
 		File pFile = new File("formattedPapers/" + paperPath);
-		File tFile = new File("files/" + tablePath);
+		File tFile = new File("allRasTables/" + tablePath);
 		
 		FileInputStream fis;
 		
