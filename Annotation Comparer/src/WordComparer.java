@@ -227,7 +227,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				// macgu is the tp +fp
 				double tstart = 0;
 				double tend = 1.0;
-				double increment = 0.001;
+				double increment = 0.01;
 				double maxprecision = 0;
 				double maxrecall = 0;
 				int trupos, threshin, fp, fn = 0;
