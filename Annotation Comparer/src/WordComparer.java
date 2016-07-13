@@ -205,6 +205,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				// prints sentences with their scores
 				for (String s : sentences) {
 					double weight = findMatch(weights, s);
+					weight=Math.log(weight+1);
 					// System.out.println(weight + " " + s);
 				}
 				// convert hashmap to two arraylists- one with sentences, one
@@ -438,7 +439,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 		}
 
-		File precisionFile = new File("precisionResults3.xlsx");
+		File precisionFile = new File("precisionResults4.xlsx");
 
 		try {
 			FileOutputStream fos = new FileOutputStream(precisionFile);
