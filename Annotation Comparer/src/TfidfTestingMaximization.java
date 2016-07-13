@@ -10,6 +10,14 @@ import java.util.Arrays;
  * @author leorf_000
  */
 public class TfidfTestingMaximization extends TfIdfAnalysis {
+	public static double average(double [] source){
+		double avg=0;
+		for(double i:source){
+			avg+=i;
+		}
+		avg=avg/(source.length);
+		return avg;
+	}
     public static double[] maximize(TfidfTestingMaximization t, double tstart, double tend, double increment){
         double[] maxpair={tstart, f1(t.precision, t.recall)};
         for(double i=tstart; i<=tend; i+=increment){
@@ -48,7 +56,12 @@ public class TfidfTestingMaximization extends TfIdfAnalysis {
     }
     //Calculate f1 for equal weighting
     public static double f1(double precision, double recall){
+    	if(precision==0.0 && recall==0.0){
+    		return 0;
+    	}
+    	else{
         return harmonicmean(precision, recall);
+    	}
     }
     public static void main(String[] args) {
         TfidfTestingMaximization test= new TfidfTestingMaximization(1, .05);
