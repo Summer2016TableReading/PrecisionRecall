@@ -194,8 +194,23 @@ static boolean unform;
 	}
 	
 	private static String getText(Document paper){
-		Elements body = paper.select("sec").select("p");
+		Elements body = paper.select("p");
+		Iterator<Element> iter = body.iterator();
+		while(iter.hasNext()){
+			Element b = iter.next();
+			if(checkParent(b)){
+				iter.remove();
+			}
+		}
 		return body.text();
+	}
+	private static boolean checkParent(Element b){
+		for(Element e: b.parents()){
+			if (e.tagName().equals("table-wrap")){
+				return true;
+			}
+		}
+		return false;
 	}
 
 	private static double calcDotProduct( HashMap<String, Double> a,  HashMap<String, Double> b){
@@ -207,8 +222,8 @@ static boolean unform;
 				sum += a.get(s)*b.get(s);
 			}
 		}
-		if(calcMag(a) > 0 && calcMag(b) > 0)
-		sum = sum/(calcMag(a)*calcMag(b));
+		//if(calcMag(a) > 0 && calcMag(b) > 0)
+		//sum = sum/(calcMag(a)*calcMag(b));
 		return sum;
 	}
 	

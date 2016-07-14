@@ -31,7 +31,7 @@ public class WordComparer extends TfidfTestingMaximization {
 	static double threshstart, precision, recall;
 	static XSSFCell cell8;
 	static XSSFCell cell70;
-
+	static int doggo;
 	public WordComparer(double precision, double recall) {
 		super(precision, recall);
 
@@ -109,7 +109,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		File[] papers = pdirectory.listFiles();
 		File[] tables = tdirectory.listFiles();
 		File[] goldstandard = gdirectory.listFiles();
-		System.out.println(Arrays.toString(goldstandard));
+		//System.out.println(Arrays.toString(goldstandard));
 		// an array of strings to hold the name of the papers without annotation
 		String[] papers2 = new String[papers.length];
 		for (int i = 0; i < papers.length; i++) {
@@ -151,7 +151,7 @@ public class WordComparer extends TfidfTestingMaximization {
 			// is the name of the p'th goldstandard file
 			File wordDoc = new File(goldstandard[p].toString());
 			String pmcnum = goldstandard[p].toString();
-			System.out.println(pmcnum);
+			//System.out.println(pmcnum);
 			// gets the PMC number of the file
 			pmcnum = pmcnum.substring(16, 23);
 			try {
@@ -167,7 +167,7 @@ public class WordComparer extends TfidfTestingMaximization {
 						sentences.add(s);
 					}
 				}
-				System.out.println(sentences);
+				//System.out.println(sentences);
 				// TODO excel printouts
 				XSSFRow row2 = sheet2.createRow(0);
 				XSSFCell cellmissed = row2.createCell(0);
@@ -205,6 +205,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 				if (!tablefound) {
 					PMCCell.setCellValue("Error: Table not found");
+					doggo++;
 					continue;
 				}
 
@@ -261,7 +262,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				int j = 0;
 				// for loop goes through every increment of threshold for a
 				// specific tfidf annotated table
-				for (double i = tstart; i <= tend; i += increment) {
+				for (double i = 1; i <= tend; i += increment) {
 					//int hello;
 					fp = 0;
 					fn = 0;
@@ -326,16 +327,18 @@ public class WordComparer extends TfidfTestingMaximization {
 						if (s != null) {
 							trupos++;
 
-						 System.out.println("HELLO");
+						 //System.out.println("HELLO");
 							// entries.get(i1).getKey());
 							caughtSentences.put(s, true);
 						} else {
 							fp++;
+							System.out.println(goldstandard[p].toString());
+							System.out.println(entries.get(i1).getKey());
 
 						}
 
 					}
-					 System.out.println(trupos);
+					// System.out.println(trupos);
 					// calculates false negatives
 					for (Entry<String, Boolean> e : caughtSentences.entrySet()) {
 						if (!e.getValue()) {
@@ -343,7 +346,7 @@ public class WordComparer extends TfidfTestingMaximization {
 						}
 					}
 
-					System.out.println(j);
+					//System.out.println(j);
 					// finds broken encoding sentences and removes them from
 					// false negative calculation
 					if (threshin == 0) {
@@ -353,9 +356,9 @@ public class WordComparer extends TfidfTestingMaximization {
 					fn -= noise;
 
 					macgu = entries.size() - threshin;
-					System.out.println("Macgu: " + macgu);
-					System.out.println("True Positives: " + trupos);
-					System.out.println("False Positives: " + fp);
+					//System.out.println("Macgu: " + macgu);
+					//System.out.println("True Positives: " + trupos);
+					//System.out.println("False Positives: " + fp);
 					//System.out.println(sentences.size() - trupos - noise);
 
 					// calculates precision and recall using factors
@@ -389,7 +392,7 @@ public class WordComparer extends TfidfTestingMaximization {
 					XSSFCell cellly = f12.getRow(p).createCell(0);
 					cellly.setCellValue(pmcnum);
 					j++;
-					System.out.println(j);
+					//System.out.println(j);
 
 					// finds precision/recall/threshold/f1/tp/fp/fn for the
 					// maximum f1 score
@@ -423,14 +426,14 @@ public class WordComparer extends TfidfTestingMaximization {
 					
 
 					// output into txt file
-
+/*
 					// output data into excel and console
 					System.out.println("Max cell number: " + maxcellnum);
 					System.out.println("Precision:" + maxprecision);
 					System.out.println("Recall:" + maxrecall);
 					System.out.println("Maximum at: " + Arrays.toString(maxpair));
 					// TODO excel printout
-
+     */
 					PMCCell.setCellValue(tables[rasTable].getName());
 					XSSFCell precisionCell = row.createCell(1);
 					precisionCell.setCellValue(maxprecision);
@@ -453,8 +456,9 @@ public class WordComparer extends TfidfTestingMaximization {
 						cell70.setCellValue("unusual formatting");
 					}
 
-				
+				 
 				}
+				
 			} catch (IOException e) {
 
 				// TODO Auto-generated catch block
@@ -467,6 +471,23 @@ public class WordComparer extends TfidfTestingMaximization {
 		File precisionFile = new File("precisionResults5.xlsx");
 
 		try {
+
+			XSSFRow yikes = recall2.createRow(goldstandard.length);
+			XSSFRow yikes2 = precision2.createRow(goldstandard.length);
+			yikes.createCell(0);
+			yikes2.createCell(0);
+			yikes.getCell(0).setCellValue("Average Recall");
+			yikes2.getCell(0).setCellValue("Average Precision");
+			//System.out.println("Doggo :" +doggo);
+			for(int puppers=0;puppers<goldstandard.length;puppers++){
+				thresholdaveragesp.set(puppers,(thresholdaveragesp.get(puppers)/(goldstandard.length-doggo)));
+		        thresholdaveragesr.set(puppers,(thresholdaveragesr.get(puppers)/(goldstandard.length-doggo)));	
+	        yikes.createCell(puppers+1);
+			yikes2.createCell(puppers+1);
+	        yikes.getCell(puppers+1).setCellValue(thresholdaveragesr.get(puppers));
+			yikes2.getCell(puppers+1).setCellValue(thresholdaveragesp.get(puppers));
+
+			}
 			FileOutputStream fos = new FileOutputStream(precisionFile);
 			workbook.write(fos);
 			workbook.close();
