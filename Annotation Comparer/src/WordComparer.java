@@ -14,6 +14,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 import java.util.Map.Entry;
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
@@ -57,6 +58,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		double maxfn, maxfp;
 		double maxtn=0;
 		maxtrupos = 0;
+		HashMap<String,ArrayList<String>> unhighlighted = new HashMap<String,ArrayList<String>>();
 		maxfn = 0;
 		maxfp = 0;
 		double tstart = 0;
@@ -172,8 +174,11 @@ public class WordComparer extends TfidfTestingMaximization {
 					String[] sentenceArray = span.text().split("\\. ");
 					for (String s : sentenceArray) {
 						sentences.add(s);
+						
 					}
 				}
+				
+				
 				//System.out.println(sentences);
 				// TODO excel printouts
 				XSSFRow row2 = sheet2.createRow(0);
@@ -228,7 +233,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				// convert hashmap to two arraylists- one with sentences,
 				// one
 				// with tfidf scores for the sentences
-				ArrayList<String> keys = new ArrayList<String>();
+				
 				ArrayList<Double> values = new ArrayList<Double>();
 				// tstart is the value which the maximization program sets
 				// as
@@ -269,6 +274,35 @@ public class WordComparer extends TfidfTestingMaximization {
 
 				}
 				int j = 0;
+				ArrayList<Entry<String, Double>> entries = new ArrayList<Entry<String, Double>>();
+				ArrayList<String> entries2backinaction = new ArrayList<String>();
+				entries.addAll(weights.entrySet());
+				
+				for (Entry e : entries) {
+					//e.setValue(Math.log(1.0 + (double) e.getValue()));
+                 entries2backinaction.add(e.getKey().toString());
+				}
+				if(!unhighlighted.containsKey(pmcnum)){
+				
+					  
+					unhighlighted.put(pmcnum,entries2backinaction);
+					
+				}
+				for(int s=0;s<sentences.size();s++){
+					String k= findMatch(unhighlighted.get(pmcnum).get(s), sentences);
+					if(k!=null){
+						if(pmcnum.equals("1557711")){
+						System.out.println("Removed highlight for" + " " + pmcnum + "file name:" + tables[rasTable] + unhighlighted.get(pmcnum).get(s));
+						unhighlighted.get(pmcnum).remove(s);
+						}
+					}
+				}
+				if(pmcnum.equals("1557711")){
+					System.out.println("Highlighted:");
+				System.out.println(sentences);
+				System.out.println("Total:");
+				System.out.println( entries2backinaction);
+				}
 				// for loop goes through every increment of threshold for a
 				// specific tfidf annotated table
 				for (double i = tstart; i <= tend; i += increment) {
@@ -285,14 +319,6 @@ public class WordComparer extends TfidfTestingMaximization {
 					 * ones are placeholder values.
 					 */
 					// array list of the sentences and their scores
-					ArrayList<Entry<String, Double>> entries = new ArrayList<Entry<String, Double>>();
-					ArrayList<String> entries2backinaction = new ArrayList<String>();
-					entries.addAll(weights.entrySet());
-					
-					for (Entry e : entries) {
-						//e.setValue(Math.log(1.0 + (double) e.getValue()));
-                     entries2backinaction.add(e.getKey().toString());
-					}
 					
 					// sort the arraylist
 					Collections.sort(entries, new Comparator<Entry<String, Double>>() {
@@ -520,6 +546,7 @@ public class WordComparer extends TfidfTestingMaximization {
 			//yikes2.getCell(puppers+1).setCellValue(thresholdaveragesp.get(puppers));
 
 			}
+			
 			FileOutputStream fos = new FileOutputStream(precisionFile);
 			workbook.write(fos);
 			workbook.close();
