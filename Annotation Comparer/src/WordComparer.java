@@ -52,8 +52,10 @@ public class WordComparer extends TfidfTestingMaximization {
 	}
 
 	public static void main(String[] args) {
+		double maxtrupos;
 		// variables below store the tp, fn,fp for the best f1 score
-		int maxtrupos, maxfn, maxfp;
+		double maxfn, maxfp;
+		double maxtn=0;
 		maxtrupos = 0;
 		maxfn = 0;
 		maxfp = 0;
@@ -77,9 +79,10 @@ public class WordComparer extends TfidfTestingMaximization {
 		XSSFSheet f12 = workbook.getSheetAt(2);
 		XSSFSheet precision2 = workbook.getSheetAt(3);
 		XSSFSheet recall2 = workbook.getSheetAt(4);
-
+		workbook.createSheet("false positive rate per threshold");
+		XSSFSheet fpr = workbook.getSheetAt(5);
 		sheet.createRow(0); // recall2.
-
+        fpr.createRow(0);
 		XSSFCell cell = sheet.getRow(0).createCell(0);
 		cell.setCellValue("PMC Table");
 		XSSFCell cell1 = sheet.getRow(0).createCell(1);
@@ -101,6 +104,8 @@ public class WordComparer extends TfidfTestingMaximization {
 		cell8.setCellValue("Formatting info");
 		XSSFCell cell9 = sheet.getRow(0).createCell(9);
 		cell9.setCellValue("TP + FP");
+		XSSFCell cell10 = sheet.getRow(0).createCell(10);
+		cell10.setCellValue("TN");
 
 		// upload directories
 		File pdirectory = new File("formattedPapers");// formattedPapers
@@ -121,6 +126,7 @@ public class WordComparer extends TfidfTestingMaximization {
 			precision2.createRow(g);
 			recall2.createRow(g);
 			f12.createRow(g);
+			fpr.createRow(g);
 		}
 
 		XSSFCell wowza = precision2.getRow(0).createCell(0);
@@ -145,6 +151,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		for (int p = specifics; p < specifice; p++) {
 			// TODO excel printout
 			sheet.createRow(p + 1);
+			//fpr.createRow(p+1);
 			XSSFRow row = sheet.getRow(p + 1);
 			XSSFCell PMCCell = row.createCell(0);
 			//WordComparer t = new WordComparer(0, 0);
@@ -244,12 +251,14 @@ public class WordComparer extends TfidfTestingMaximization {
 
 				double maxprecision = 0;
 				double maxrecall = 0;
-				int trupos, threshin, fp, fn = 0;
+				maxtn=0;
+				int threshin=0;
+				double trupos,  fp, fn = 0;
 				int noise = 0;
 				int maxmacgu = 0;
 				int macgu = 0;
 				int maxcellnum = 1;
-
+                int tn=0;
 				// threshold ranges from 0 to 1 1 is100% .7 = 70% of max etc
 				double[] maxpair = { tstart, 0 };
 				int nice = (int) ((tend / increment) + 2);
@@ -262,11 +271,12 @@ public class WordComparer extends TfidfTestingMaximization {
 				int j = 0;
 				// for loop goes through every increment of threshold for a
 				// specific tfidf annotated table
-				for (double i = 1; i <= tend; i += increment) {
+				for (double i = tstart; i <= tend; i += increment) {
 					//int hello;
 					fp = 0;
 					fn = 0;
 					trupos = 0;
+					tn=0;
 
 					double threshold1 = i;
 					/*
@@ -276,11 +286,14 @@ public class WordComparer extends TfidfTestingMaximization {
 					 */
 					// array list of the sentences and their scores
 					ArrayList<Entry<String, Double>> entries = new ArrayList<Entry<String, Double>>();
+					ArrayList<String> entries2backinaction = new ArrayList<String>();
 					entries.addAll(weights.entrySet());
+					
 					for (Entry e : entries) {
-						e.setValue(Math.log(1.0 + (double) e.getValue()));
-
+						//e.setValue(Math.log(1.0 + (double) e.getValue()));
+                     entries2backinaction.add(e.getKey().toString());
 					}
+					
 					// sort the arraylist
 					Collections.sort(entries, new Comparator<Entry<String, Double>>() {
 						public int compare(Entry<String, Double> a, Entry<String, Double> b) {
@@ -320,8 +333,15 @@ public class WordComparer extends TfidfTestingMaximization {
 					for (String s : sentences) {
 						caughtSentences.put(s, false);
 					}
+					
 					// calculates number of trupositives anf falsepositives for
 					// a certain threshold
+					for(int yi=0;yi<threshin;yi++){
+						String tom = findMatch(entries.get(yi).getKey(), sentences);
+						if(tom==null){
+							tn++;
+						}
+					}
 					for (int i1 = threshin; i1 < entries.size(); i1++) {
 						String s = findMatch(entries.get(i1).getKey(), sentences);
 						if (s != null) {
@@ -332,8 +352,8 @@ public class WordComparer extends TfidfTestingMaximization {
 							caughtSentences.put(s, true);
 						} else {
 							fp++;
-							System.out.println(goldstandard[p].toString());
-							System.out.println(entries.get(i1).getKey());
+							//System.out.println(goldstandard[p].toString());
+							///System.out.println(entries.get(i1).getKey());
 
 						}
 
@@ -350,7 +370,7 @@ public class WordComparer extends TfidfTestingMaximization {
 					// finds broken encoding sentences and removes them from
 					// false negative calculation
 					if (threshin == 0) {
-						noise = fn;
+						noise = (int) fn;
 
 					}
 					fn -= noise;
@@ -362,7 +382,7 @@ public class WordComparer extends TfidfTestingMaximization {
 					//System.out.println(sentences.size() - trupos - noise);
 
 					// calculates precision and recall using factors
-
+                    
 					precision = (double) trupos / (double) (trupos + fp);
 					recall = ((double) trupos) / (double) (trupos + fn);
 					double pop = thresholdaveragesp.get(j);
@@ -373,7 +393,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					XSSFCell cellay = recall2.getRow(0).createCell(j + 1);
 					XSSFCell cellayay = precision2.getRow(0).createCell(j + 1);
 					XSSFCell cellayayay = f12.getRow(0).createCell(j + 1);
-
+                    XSSFCell fprincrem = fpr.getRow(0).createCell(j+1);
+                    fprincrem.setCellValue((j) * increment);
 					cellay.setCellValue((j) * increment);
 					cellayay.setCellValue((j) * increment);
 					cellayayay.setCellValue((j) * increment);
@@ -382,11 +403,19 @@ public class WordComparer extends TfidfTestingMaximization {
 					cellk.setCellValue(precision);
 					XSSFCell celll = precision2.getRow(p).createCell(j + 1);
 					celll.setCellValue(recall);
-
+					XSSFCell cellko = fpr.getRow(p).createCell(j + 1);
+					cellko.setCellValue(fp/(fp+tn));
 					XSSFCell cellll = f12.getRow(p).createCell(j + 1);
-					cellll.setCellValue(maxpair[1]);
+					if(precision+recall==0){
+						cellll.setCellValue(0);	
+					}
+					else{
+					cellll.setCellValue(2*precision*recall/(precision+recall));
+					}
 					XSSFCell cello = recall2.getRow(p).createCell(0);
 					cello.setCellValue(pmcnum);
+					XSSFCell celloh = fpr.getRow(p).createCell(0);
+					celloh.setCellValue(pmcnum);
 					XSSFCell celly = precision2.getRow(p).createCell(0);
 					celly.setCellValue(pmcnum);
 					XSSFCell cellly = f12.getRow(p).createCell(0);
@@ -405,6 +434,7 @@ public class WordComparer extends TfidfTestingMaximization {
 						maxfn = fn;
 						maxfp = fp;
 						maxmacgu = macgu;
+						maxtn =tn;
 					}
 						int cellnum = 1;
 					
@@ -451,6 +481,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					cell60.setCellValue(maxpair[1]);
 					XSSFCell cell600 = row.createCell(9);
 					cell600.setCellValue(maxmacgu);
+					XSSFCell cell610 = row.createCell(10);
+					cell610.setCellValue(maxtn);
 					if (unform == true) {
 						cell70 = row.createCell(8);
 						cell70.setCellValue("unusual formatting");
@@ -468,7 +500,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		}
 
 		// TODO excel printout
-		File precisionFile = new File("precisionResults5.xlsx");
+		File precisionFile = new File("precisionResults8.xlsx");
 
 		try {
 
@@ -484,8 +516,8 @@ public class WordComparer extends TfidfTestingMaximization {
 		        thresholdaveragesr.set(puppers,(thresholdaveragesr.get(puppers)/(goldstandard.length-doggo)));	
 	        yikes.createCell(puppers+1);
 			yikes2.createCell(puppers+1);
-	        yikes.getCell(puppers+1).setCellValue(thresholdaveragesr.get(puppers));
-			yikes2.getCell(puppers+1).setCellValue(thresholdaveragesp.get(puppers));
+	       // yikes.getCell(puppers+1).setCellValue(thresholdaveragesr.get(puppers));
+			//yikes2.getCell(puppers+1).setCellValue(thresholdaveragesp.get(puppers));
 
 			}
 			FileOutputStream fos = new FileOutputStream(precisionFile);
@@ -503,6 +535,19 @@ public class WordComparer extends TfidfTestingMaximization {
 	}
 
 	private static String findMatch(String s, ArrayList<String> p) {
+		Iterator<String> iter = p.iterator();
+		while (iter.hasNext()) {
+			String sentence = iter.next();
+			if (s.toLowerCase().replaceAll("\\W", "").replace(".", "")
+					.equals(sentence.toLowerCase().replaceAll("\\W", "").replace(".", ""))) {
+				return sentence;
+			}
+		}
+		return null;
+	}
+	
+	
+	private static String findMatch( ArrayList<String> p,String s) {
 		Iterator<String> iter = p.iterator();
 		while (iter.hasNext()) {
 			String sentence = iter.next();

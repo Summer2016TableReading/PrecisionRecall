@@ -18,7 +18,11 @@ import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
-public class TfIdfAnalysis {
+public class TfIdfAnalysis  {
+
+
+
+
 static boolean unform;
 
 	public static void main(String[] args) {
