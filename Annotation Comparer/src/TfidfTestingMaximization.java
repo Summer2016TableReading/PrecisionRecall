@@ -9,7 +9,9 @@ import java.util.Arrays;
  *
  * @author leorf_000
  */
+ //this whole class is just functions useful for wordcomparer, the main is just for testing the functions
 public class TfidfTestingMaximization extends TfIdfAnalysis {
+	//averaging an array of doubles
 	public static double average(double [] source){
 		double avg=0;
 		for(double i:source){
@@ -18,6 +20,7 @@ public class TfidfTestingMaximization extends TfIdfAnalysis {
 		avg=avg/(source.length);
 		return avg;
 	}
+    //finding the threshold that gives the best f1 value in an interval	
     public static double[] maximize(TfidfTestingMaximization t, double tstart, double tend, double increment){
         double[] maxpair={tstart, f1(t.precision, t.recall)};
         for(double i=tstart; i<=tend; i+=increment){
