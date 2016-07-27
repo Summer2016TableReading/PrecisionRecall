@@ -53,8 +53,8 @@ public class WordComparer extends TfidfTestingMaximization {
 	}
 
 	public static void main(String[] args) {
+		//Initializing variables--first for f1 score, then the hashmap of unhighlighted sentences, then setting the params for threshold-based maximization
 		double maxtrupos;
-		// variables below store the tp, fn,fp for the best f1 score
 		double maxfn, maxfp;
 		double maxtn=0;
 		maxtrupos = 0;
@@ -65,11 +65,11 @@ public class WordComparer extends TfidfTestingMaximization {
 		double tend = 1.01;
 		double increment = 0.01;
 		
-		// setting up the excel sheet headers
+		
 		ArrayList<Double> thresholdaveragesp = new ArrayList<Double>();
 		ArrayList<Double> thresholdaveragesr = new ArrayList<Double>();
 		// TODO excel printout
-
+		// setting up the excel sheet headers
 		XSSFWorkbook workbook = new XSSFWorkbook();
 		workbook.createSheet("Optimized F1 Score per PMC");
 		workbook.createSheet("Sentences missed per PMC");
@@ -122,7 +122,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		for (int i = 0; i < papers.length; i++) {
 			papers2[i] = papers[i].getName();
 		}
-		// TODO excel printout
+		// creating rows in the excel sheets
 
 		for (int g = 0; g < goldstandard.length + 1; g++) {
 			precision2.createRow(g);
@@ -156,16 +156,14 @@ public class WordComparer extends TfidfTestingMaximization {
 			//fpr.createRow(p+1);
 			XSSFRow row = sheet.getRow(p + 1);
 			XSSFCell PMCCell = row.createCell(0);
-			//WordComparer t = new WordComparer(0, 0);
-			// is the name of the p'th goldstandard file
+			// wordDoc is the name of the p'th goldstandard file
 			File wordDoc = new File(goldstandard[p].toString());
 			String pmcnum = goldstandard[p].toString();
-			//System.out.println(pmcnum);
-			// gets the PMC number of the file
+			//the below gets the PMC number of the file
 			pmcnum = pmcnum.substring(16, 23);
 			try {
 				/* searches for highlighted sentences in goldstandard and
-				adds them to the arraylist sentences */
+				adds them to the arraylist of highlighted sentences */
 				Document doc = Jsoup.parse(wordDoc, null);
 				Elements spans = doc.getElementsByTag("span").select("*[style*='background:yellow']");
 				ArrayList<String> sentences = new ArrayList<String>();
@@ -179,7 +177,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				
 				
 				//System.out.println(sentences);
-				// TODO excel printouts
+				// Tcreating more excel sheets, this time the sentences missed by the ideal tfidf for each paper
 				XSSFRow row2 = sheet2.createRow(0);
 				XSSFCell cellmissed = row2.createCell(0);
 
@@ -189,6 +187,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 				int rasTable = 0;
 				boolean tablefound = false;
+				//The below matches highlighted sentences with their tables and papers from tfidfanalysis
 				for (int l = 0; l < goldstandard.length; l++) {
 					/* table name is the string of the table file name at l
 					and gsname is the string of the goldstandard file name at p */
@@ -220,7 +219,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				// creates hashmap of sentences with their tfidf score
 				HashMap<String, Double> weights = TfIdfAnalysis.annotatePaper(paperid, papername,
 						tables[rasTable].getName());
-				// prints sentences with their scores
+				// sets sentences to their weights from tfidf
 				for (String s : sentences) {
 					double weight = findMatch(weights, s);
 					//weight=Math.log(weight+1);
@@ -242,7 +241,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				false positive, and false negative at the current threshold */
 				/* noise is the number of sentences which aren't caught when
 				threshold is equal to 0 */
-				// macgu is the tp +fp
+				// macgu is the total number of positive guesses
 				// max macgu is the macgu at the best f1 score
 				double maxprecision = 0;
 				double maxrecall = 0;
@@ -254,7 +253,7 @@ public class WordComparer extends TfidfTestingMaximization {
 				int macgu = 0;
 				int maxcellnum = 1;
                 int tn=0;
-				// threshold ranges from 0 to 1 1 is100% .7 = 70% of max etc
+				// threshold ranges from 0 to 1--1 is100% .7 = 70% of max etc
 				double[] maxpair = { tstart, 0 };
 				int nice = (int) ((tend / increment) + 2);
 
@@ -303,11 +302,7 @@ public class WordComparer extends TfidfTestingMaximization {
 					tn=0;
 
 					double threshold1 = i;
-					/*
-					 * Here's where the new precision and recall evaluations
-					 * need to happen. Set p to precision and r to recall, the
-					 * ones are placeholder values.
-					 */
+					
 					// array list of the sentences and their scores
 					
 					// sort the arraylist
@@ -397,14 +392,14 @@ public class WordComparer extends TfidfTestingMaximization {
 					//System.out.println("False Positives: " + fp);
 					//System.out.println(sentences.size() - trupos - noise);
 
-					// calculates precision and recall using factors
+					// calculates precision and recall using tp, fp, tn, fn
                     
 					precision = (double) trupos / (double) (trupos + fp);
 					recall = ((double) trupos) / (double) (trupos + fn);
 					double pop = thresholdaveragesp.get(j);
 					thresholdaveragesp.set(j, pop + precision);
 					thresholdaveragesr.set(j, thresholdaveragesr.get(j) + recall);
-					// TODO excel printout
+					// prints the results to excel
 
 					XSSFCell cellay = recall2.getRow(0).createCell(j + 1);
 					XSSFCell cellayay = precision2.getRow(0).createCell(j + 1);
@@ -439,8 +434,7 @@ public class WordComparer extends TfidfTestingMaximization {
 					j++;
 					//System.out.println(j);
 
-					/* finds precision/recall/threshold/f1/tp/fp/fn for the
-					maximum f1 score */
+					/* maximization code--if the current f1 is better than prior maximum, reset all relevant variables */
 					if (f1(precision, recall) > maxpair[1]) {
 						maxpair[0] = i;
 						maxpair[1] = f1(precision, recall);
@@ -519,7 +513,7 @@ public class WordComparer extends TfidfTestingMaximization {
 		File precisionFile = new File("precisionResults8.xlsx");
 
 		try {
-
+			//print average f1 for each threshold
 			XSSFRow yikes = recall2.createRow(goldstandard.length);
 			XSSFRow yikes2 = precision2.createRow(goldstandard.length);
 			yikes.createCell(0);
@@ -550,7 +544,7 @@ public class WordComparer extends TfidfTestingMaximization {
 
 		
 	}
-
+	//two different functions that return a sentence if it's in an arraylist, otherwise return null
 	private static String findMatch(String s, ArrayList<String> p) {
 		Iterator<String> iter = p.iterator();
 		while (iter.hasNext()) {
