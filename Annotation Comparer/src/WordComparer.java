@@ -27,8 +27,8 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class WordComparer extends TfidfTestingMaximization {
-	// threshstart is the numerical value where you start considering tfidf
-	// sentences positive, the threshold
+	/* threshstart is the numerical value where you start considering tfidf
+	 sentences positive, the threshold */
 	static double threshstart, precision, recall;
 	static XSSFCell cell8;
 	static XSSFCell cell70;
@@ -38,8 +38,8 @@ public class WordComparer extends TfidfTestingMaximization {
 
 	}
 
-	// sees whether a string is contained within a set of strings, if so returns
-	// the string
+	/* sees whether a string is contained within a set of strings, if so returns
+	 the string */
 	private static double findMatch(HashMap<String, Double> weights, String s) {
 		Iterator<String> iter = weights.keySet().iterator();
 		while (iter.hasNext()) {
@@ -138,8 +138,8 @@ public class WordComparer extends TfidfTestingMaximization {
 		XSSFCell hihihi = f12.getRow(0).createCell(0);
 		hihihi.setCellValue("PMC Number");
 
-		// this for-loop loops through all of the goldstandard annotations and
-		// compares them to tfidf
+		/* this for-loop loops through all of the goldstandard annotations and
+		 compares them to tfidf */
 		int specifics = 0;
 		int specifice = 0;
 		if (specifics == 0) {
@@ -164,9 +164,8 @@ public class WordComparer extends TfidfTestingMaximization {
 			// gets the PMC number of the file
 			pmcnum = pmcnum.substring(16, 23);
 			try {
-				// searches for highlighted sentences in goldstandard and
-				// adds
-				// them to the arraylist sentences
+				/* searches for highlighted sentences in goldstandard and
+				adds them to the arraylist sentences */
 				Document doc = Jsoup.parse(wordDoc, null);
 				Elements spans = doc.getElementsByTag("span").select("*[style*='background:yellow']");
 				ArrayList<String> sentences = new ArrayList<String>();
@@ -191,17 +190,14 @@ public class WordComparer extends TfidfTestingMaximization {
 				int rasTable = 0;
 				boolean tablefound = false;
 				for (int l = 0; l < goldstandard.length; l++) {
-					// table name is the string of the table file name at l
-					// and
-					// gsname is the string of the goldstandard file name at
-					// p
+					/* table name is the string of the table file name at l
+					and gsname is the string of the goldstandard file name at p */
 					String tablename = tables[l].getName();
 					String gsname = goldstandard[p].getName();
 					// finds the corresponding table for a goldstandard file
-					// checks with paper id and with the 6 and 7th from last
-					// characters, these characters give the table number
-					// and
-					// relevant a/b endings
+					/* checks with paper id and with the 6 and 7th from last
+					characters, these characters give the table number and
+					relevant a/b endings */
 					if (tablename.contains(paperid)
 							&& (tablename.charAt(tablename.length() - 6) == gsname.charAt(gsname.length() - 5)
 									|| tablename.substring(tablename.length() - 7, tablename.length() - 5)
@@ -230,30 +226,24 @@ public class WordComparer extends TfidfTestingMaximization {
 					//weight=Math.log(weight+1);
 					// System.out.println(weight + " " + s);
 				}
-				// convert hashmap to two arraylists- one with sentences,
-				// one
-				// with tfidf scores for the sentences
+				/* convert hashmap to two arraylists- one with sentences,
+				one with tfidf scores for the sentences */
 				
 				ArrayList<Double> values = new ArrayList<Double>();
-				// tstart is the value which the maximization program sets
-				// as
-				// the initial threshold, it should always be 0
-				// tend is where the maximization program stops the
-				// incrementing, should always be <1
-				// increment is the amount by which the program increases
-				// the
-				// increment for each run by the f1 maximization program
-				// max precision and max recall are the precision and recall
-				// at
-				// the best f1 score
-				// trupos, fp, and fn are the values for true positive,
-				// false
-				// pos, and false negative at the current threshold
-				// noise is the number of sentences which aren't caught when
-				// threshold is equal to 0
-				// max macgu is the macgu at the best f1 score
+				/* tstart is the value which the maximization program sets
+				as the initial threshold, it should always be 0 */
+				/* tend is where the maximization program stops the
+				incrementing, should always be <1 */
+				/* increment is the amount by which the program increases
+				the increment for each run by the f1 maximization program */
+				/* max precision and max recall are the precision and recall
+				at the best f1 score */
+				/* trupos, fp, and fn are the values for true positive,
+				false positive, and false negative at the current threshold */
+				/* noise is the number of sentences which aren't caught when
+				threshold is equal to 0 */
 				// macgu is the tp +fp
-
+				// max macgu is the macgu at the best f1 score
 				double maxprecision = 0;
 				double maxrecall = 0;
 				maxtn=0;
@@ -303,8 +293,8 @@ public class WordComparer extends TfidfTestingMaximization {
 				System.out.println("Total:");
 				System.out.println( entries2backinaction);
 				}
-				// for loop goes through every increment of threshold for a
-				// specific tfidf annotated table
+				/* for loop goes through every increment of threshold for a
+				specific tfidf annotated table */
 				for (double i = tstart; i <= tend; i += increment) {
 					//int hello;
 					fp = 0;
@@ -343,8 +333,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					threshin = 0;
 
 					// find true positives
-					// the double of the threshold, threshold1 is as the
-					// percentage of the maximum score
+					/* threshold1 is the percentage of the maximum score
+					which is threshstart (as defined above) */
 					threshstart = threshold1 * entries.get(entries.size() - 2).getValue();
 					// System.out.println(threshstart);
 					// find where the threshold begins
@@ -360,8 +350,8 @@ public class WordComparer extends TfidfTestingMaximization {
 						caughtSentences.put(s, false);
 					}
 					
-					// calculates number of trupositives anf falsepositives for
-					// a certain threshold
+					/* calculates number of trupositives and falsepositives for
+					a certain threshold */
 					for(int yi=0;yi<threshin;yi++){
 						String tom = findMatch(entries.get(yi).getKey(), sentences);
 						if(tom==null){
@@ -393,8 +383,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					}
 
 					//System.out.println(j);
-					// finds broken encoding sentences and removes them from
-					// false negative calculation
+					/* finds broken encoding sentences and removes them from
+					false negative calculation */
 					if (threshin == 0) {
 						noise = (int) fn;
 
@@ -449,8 +439,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					j++;
 					//System.out.println(j);
 
-					// finds precision/recall/threshold/f1/tp/fp/fn for the
-					// maximum f1 score
+					/* finds precision/recall/threshold/f1/tp/fp/fn for the
+					maximum f1 score */
 					if (f1(precision, recall) > maxpair[1]) {
 						maxpair[0] = i;
 						maxpair[1] = f1(precision, recall);
@@ -464,8 +454,8 @@ public class WordComparer extends TfidfTestingMaximization {
 					}
 						int cellnum = 1;
 					
-						// creates a second sheet which shows the missed
-						// sentences for each pmc
+						/* creates a second sheet which shows the missed
+						sentences for each pmc */
 						// TODO excel printout
 						XSSFRow rowayy = sheet2.createRow(p + 1);
 						XSSFCell pmcnom = rowayy.createCell(0);
